@@ -7,7 +7,7 @@ The resulting set of exhibition data is made available here.
 ![lllist.eu viewed on an iphone 6](lllist_iphone.png)
 
 ## Exhibition data
-The file _exhibitions.csv_ contains data for 1,024 art exhibitions held in Europe between 2011 and 2020.  It is in [CSV format](https://en.wikipedia.org/wiki/Comma-separated_values), encoded in UTF-8.
+The file _exhibitions.csv_ contains data for 1,022 art exhibitions held in Europe between 2011 and 2020.  It is in [CSV format](https://en.wikipedia.org/wiki/Comma-separated_values), encoded in UTF-8.
 
 Fields are separated by commas and enclosed within double-quotes.
 
@@ -18,7 +18,7 @@ dt-created|Record creation date/time
 dt-modified|Date/time of last modification
 event-dt-begin|Opening date of the exhibition
 event-dt-end|Closing date of the exhibition
-event-location|exhibition venue (museum)
+event-location|Exhibition venue (museum)
 title|Title of the exhibition
 link|URL of exhibition webpage
 
