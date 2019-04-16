@@ -1,0 +1,7 @@
+Mondrian Nicholson In Parallel
+# uid            : 20120216205838
+# dt-created     : 2012-02-16 20:58:38 GMT
+# link           : http://www.courtauld.ac.uk/gallery/exhibitions/2012/mondrian-nicholson/index.shtml
+# event-dt-begin : 2012-02-16
+# event-dt-end   : 2012-05-20
+# event-location : Courtauld Gallery, London

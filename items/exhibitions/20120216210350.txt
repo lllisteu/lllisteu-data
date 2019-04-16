@@ -1,0 +1,7 @@
+Turner Inspired: In the Light of Claude
+# uid            : 20120216210350
+# dt-created     : 2012-02-16 21:03:50 GMT
+# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/turner-inspired
+# event-dt-begin : 2012-03-14
+# event-dt-end   : 2012-06-05
+# event-location : National Gallery, London

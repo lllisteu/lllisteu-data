@@ -1,0 +1,7 @@
+Pierre Bonnard
+# uid            : 20120217211532
+# dt-created     : 2012-02-17 21:15:32 GMT
+# link           : http://www.fondationbeyeler.ch/ausstellungen/pierre-bonnard/einleitung-0
+# event-dt-begin : 2012-01-29
+# event-dt-end   : 2012-05-13
+# event-location : Fondation Beyeler, Basel

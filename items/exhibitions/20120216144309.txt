@@ -1,0 +1,7 @@
+Van Dyck in Sicily
+# uid            : 20120216144309
+# dt-created     : 2012-02-16 14:43:09 GMT
+# link           : http://www.dulwichpicturegallery.org.uk/exhibitions/now_on_show/van_dyck_in_sicily.aspx
+# event-dt-begin : 2012-02-15
+# event-dt-end   : 2012-05-27
+# event-location : Dulwich Picture Gallery, London
