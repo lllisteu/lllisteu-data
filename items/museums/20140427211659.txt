@@ -1,0 +1,8 @@
+Real Academia de Bellas Artes de San Fernando
+# uid        : 20140427211659
+# dt-created : 2014-04-27 21:16:59 GMT
+# tags       : Madrid,museum
+# link       : http://www.realacademiabellasartessanfernando.com/
+# wikipedia  : en:Real Academia de Bellas Artes de San Fernando
+# lat        : 40.418056
+# lon        : -3.700278
