@@ -1,0 +1,7 @@
+The Assembled Human
+# uid            : 20190416201700
+# dt-created     : 2019-04-16 20:17:00 GMT
+# event-dt-begin : 2019-11-08
+# event-dt-end   : 2020-03-15
+# event-location : Museum Folkwang, Essen
+# link           : https://www.museum-folkwang.de/en/news/exhibitions/future-exhibitions/der-montierte-mensch.html
