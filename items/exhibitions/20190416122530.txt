@@ -1,0 +1,9 @@
+Emil Nolde – A German Legend. The Artist during the Nazi Regime
+# uid            : 20190416122530
+# dt-created     : 2019-04-16 12:25:30 GMT
+# event-dt-begin : 2019-04-12
+# event-dt-end   : 2019-09-15
+# event-location : Hamburger Bahnhof, Berlin
+# link           : https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/exhibitions/detail/emil-nolde-eine-deutsche-legende-der-kuenstler-im-nationalsozialismus.html
+# markup         : markdown
+[Der Wendehals: Emil Nolde in Berlin](https://www.sueddeutsche.de/kultur/emil-nolde-ausstellung-berlin-hamburger-bahnhof-rezension-1.4407452)
