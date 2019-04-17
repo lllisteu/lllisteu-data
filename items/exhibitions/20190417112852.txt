@@ -1,0 +1,7 @@
+Hanne Darboven. Wende >80<
+# uid            : 20190417112852
+# dt-created     : 2019-04-17 11:28:52 GMT
+# event-dt-begin : 2019-02-16
+# event-dt-end   : 2019-09-15
+# event-location : Kröller-Müller Museum, Otterlo
+# link           : https://krollermuller.nl/en/hanne-darboven-wende-80-1
