@@ -1,0 +1,7 @@
+L'Art en guerre, France 1938-1947
+# uid            : 20120322080552
+# dt-created     : 2012-03-22 08:05:52 GMT
+# link           : http://www.mam.paris.fr/en/expositions/l-art-en-guerre-art-war-france-1938-1947
+# event-dt-begin : 2012-10-12
+# event-dt-end   : 2013-02-17
+# event-location : Musée d'Art Moderne de la Ville de Paris

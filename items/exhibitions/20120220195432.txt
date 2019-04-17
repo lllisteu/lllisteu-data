@@ -1,0 +1,7 @@
+Lucian Freud – Portraits
+# uid            : 20120220195432
+# dt-created     : 2012-02-20 19:54:32 GMT
+# link           : http://www.npg.org.uk/freudsite/index.htm
+# event-dt-begin : 2012-02-09
+# event-dt-end   : 2012-05-27
+# event-location : National Portrait Gallery, London

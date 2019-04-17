@@ -1,0 +1,7 @@
+Titian and the birth of the modern landscape
+# uid            : 20120227143459
+# dt-created     : 2012-02-27 14:34:59 GMT
+# link           : http://www.mostratiziano.it/info.php
+# event-dt-begin : 2012-02-16
+# event-dt-end   : 2012-05-20
+# event-location : Palazzo Reale, Milano

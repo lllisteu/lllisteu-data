@@ -1,0 +1,7 @@
+Munch – The Modern Eye
+# uid            : 20120220225112
+# dt-created     : 2012-02-20 22:51:12 GMT
+# link           : http://www.munch-in-frankfurt.de/index.php
+# event-dt-begin : 2012-02-09
+# event-dt-end   : 2012-05-28
+# event-location : Schirn Kunsthalle, Frankfurt

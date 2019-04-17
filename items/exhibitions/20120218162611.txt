@@ -1,0 +1,7 @@
+Ragamala Paintings from India
+# uid            : 20120218162611
+# dt-created     : 2012-02-18 16:26:11 GMT
+# link           : http://www.dulwichpicturegallery.org.uk/exhibitions/now_on_show/ragamala_paintings_from_india.aspx
+# event-dt-begin : 2012-01-25
+# event-dt-end   : 2012-05-27
+# event-location : Dulwich Picture Gallery, London

@@ -1,0 +1,7 @@
+Canaletto – Guardi: The two masters of Venice
+# uid            : 20120329205753
+# dt-created     : 2012-03-29 20:57:53 GMT
+# link           : http://www.musee-jacquemart-andre.com/en/events/canaletto-guardi
+# event-dt-begin : 2012-09-14
+# event-dt-end   : 2013-01-21
+# event-location : Musée Jacquemart-André, Paris

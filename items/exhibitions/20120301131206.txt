@@ -1,0 +1,7 @@
+Prokudin-Gorsky: Voyage dans l’ancienne Russie
+# uid            : 20120301131206
+# dt-created     : 2012-03-01 13:12:06 GMT
+# link           : http://parismusees.paris.fr/en/exhibition/voyage-through-traditional-russia
+# event-dt-begin : 2013-10-09
+# event-dt-end   : 2014-05-18
+# event-location : Musée Zadkine, Paris

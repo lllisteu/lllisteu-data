@@ -1,0 +1,7 @@
+Claes Oldenburg: The Sixties
+# uid            : 20120328183013
+# dt-created     : 2012-03-28 18:30:13 GMT
+# link           : http://www.guggenheim-bilbao.es/secciones/programacion_artistica/nombre_exposicion_descripcion.php?idioma=en&id_exposicion=149
+# event-dt-begin : 2012-10-30
+# event-dt-end   : 2013-02-17
+# event-location : Museo Guggenheim, Bilbao

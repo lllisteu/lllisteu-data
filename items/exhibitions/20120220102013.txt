@@ -1,0 +1,7 @@
+Sol LeWitt – Colors
+# uid            : 20120220102013
+# dt-created     : 2012-02-20 10:20:13 GMT
+# link           : http://www.mleuven.be/en/contemporary-art/sol-lewitt/
+# event-dt-begin : 2012-06-21
+# event-dt-end   : 2012-10-14
+# event-location : M Leuven

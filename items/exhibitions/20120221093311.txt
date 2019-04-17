@@ -1,0 +1,7 @@
+A Bigger Splash
+# uid            : 20120221093311
+# dt-created     : 2012-02-21 09:33:11 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/bigger-splash-painting-after-performance-art
+# event-dt-begin : 2012-11-14
+# event-dt-end   : 2013-04-01
+# event-location : Tate Modern, London

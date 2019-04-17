@@ -1,0 +1,8 @@
+Munch 2013 – The Retrospective
+# uid            : 20120322094358
+# dt-created     : 2012-03-22 09:43:58 GMT
+# link           : http://www.munch2013.no/en/Calendar/The-Retrospective-585224
+# event-dt-begin : 2013-06-02
+# event-dt-end   : 2013-10-13
+# event-location : Nasjonalgalleriet & Munch-museet, Oslo
+# twitter-handle : edvardmunch2013

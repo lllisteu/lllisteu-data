@@ -1,0 +1,7 @@
+Gustave Caillebotte: an impressionist and photography
+# uid            : 20120221083525
+# dt-created     : 2012-02-21 08:35:25 GMT
+# link           : http://www.schirn.de/en/exhibitions/2012/gustave-caillebotte.html
+# event-dt-begin : 2012-10-18
+# event-dt-end   : 2013-01-20
+# event-location : Schirn Kunsthalle, Frankfurt

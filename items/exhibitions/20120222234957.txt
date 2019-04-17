@@ -1,0 +1,7 @@
+El Greco and Modernism
+# uid            : 20120222234957
+# dt-created     : 2012-02-22 23:49:57 GMT
+# link           : http://www.smkp.de/en/exhibitions/current/el-greco.html
+# event-dt-begin : 2012-04-28
+# event-dt-end   : 2012-08-12
+# event-location : Museum Kunstpalast, Düsseldorf

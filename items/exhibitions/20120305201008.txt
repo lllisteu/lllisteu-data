@@ -1,0 +1,7 @@
+British Design 1948-2012
+# uid            : 20120305201008
+# dt-created     : 2012-03-05 20:10:08 GMT
+# link           : http://www.vam.ac.uk/content/exhibitions/exhibition-british-design/british-design-about-the-exhibition/
+# event-dt-begin : 2012-03-31
+# event-dt-end   : 2012-08-12
+# event-location : Victoria and Albert Museum, London

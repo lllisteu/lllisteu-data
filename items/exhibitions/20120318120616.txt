@@ -1,0 +1,7 @@
+Pre-Raphaelites: Victorian Avant-Garde
+# uid            : 20120318120616
+# dt-created     : 2012-03-18 12:06:16 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-britain/exhibition/pre-raphaelites-victorian-avant-garde
+# event-dt-begin : 2012-09-12
+# event-dt-end   : 2013-01-13
+# event-location : Tate Britain, London

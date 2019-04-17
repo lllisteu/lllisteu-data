@@ -1,0 +1,7 @@
+Belgian Modernism
+# uid            : 20120322080845
+# dt-created     : 2012-03-22 08:08:45 GMT
+# link           : http://mskgent.be/en/exhibitions/belgian-modernism/belgian-modernism
+# event-dt-begin : 2013-03-02
+# event-dt-end   : 2013-06-30
+# event-location : Museum voor Schone Kunsten, Gent

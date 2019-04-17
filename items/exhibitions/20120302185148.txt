@@ -1,0 +1,7 @@
+Gustav Klimt – The Drawings
+# uid            : 20120302185148
+# dt-created     : 2012-03-02 18:51:48 GMT
+# link           : http://albertina.at/jart/prj3/albertina/main.jart?rel=en&content-id=1202307119260&reserve-mode=active&ausstellungen_id=1287026238568
+# event-dt-begin : 2012-03-14
+# event-dt-end   : 2012-06-10
+# event-location : Albertina, Wien

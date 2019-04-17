@@ -1,0 +1,7 @@
+Edward Hopper
+# uid            : 20120302083004
+# dt-created     : 2012-03-02 08:30:04 GMT
+# link           : http://www.museothyssen.org/microsites/exposiciones/2012/hopper/
+# event-dt-begin : 2012-06-12
+# event-dt-end   : 2012-09-16
+# event-location : Museo Thyssen-Bornemisza, Madrid

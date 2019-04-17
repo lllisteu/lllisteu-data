@@ -1,0 +1,7 @@
+Peter Lely
+# uid            : 20120406201751
+# dt-created     : 2012-04-06 20:17:51 GMT
+# link           : http://www.courtauld.ac.uk/gallery/exhibitions/2012/peter-lely/index.shtml
+# event-dt-begin : 2012-10-11
+# event-dt-end   : 2013-01-13
+# event-location : Courtauld Gallery, London

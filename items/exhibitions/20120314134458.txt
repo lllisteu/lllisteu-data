@@ -1,0 +1,7 @@
+Ford Madox Brown – Pre-Raphaelite Pioneer
+# uid            : 20120314134458
+# dt-created     : 2012-03-14 13:44:58 GMT
+# link           : http://mskgent.be/en/exhibitions/ford-madox-brown/ford-madox-brown-pre-raphaelite-pioneer
+# event-dt-begin : 2012-02-26
+# event-dt-end   : 2012-06-03
+# event-location : Museum voor Schone Kunsten, Gent

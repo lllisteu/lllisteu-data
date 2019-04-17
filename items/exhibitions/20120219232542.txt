@@ -1,0 +1,7 @@
+Les Belles Heures du duc de Berry
+# uid            : 20120219232542
+# dt-created     : 2012-02-19 23:25:42 GMT
+# link           : http://www.louvre.fr/en/expositions/belles-heures-jean-de-france-duc-de-berry
+# event-dt-begin : 2012-04-04
+# event-dt-end   : 2012-06-25
+# event-location : Musée du Louvre, Paris

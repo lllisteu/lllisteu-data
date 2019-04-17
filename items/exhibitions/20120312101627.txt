@@ -1,0 +1,7 @@
+Georgia O'Keeffe
+# uid            : 20120312101627
+# dt-created     : 2012-03-12 10:16:27 GMT
+# link           : http://www.hel.fi/wps/portal/Taidemuseo_en/Artikkeli?WCM_GLOBAL_CONTEXT=/taimu/en/Exhibitions/Upcoming
+# event-dt-begin : 2012-06-08
+# event-dt-end   : 2012-09-09
+# event-location : Helsinki Art Museum, Helsinki

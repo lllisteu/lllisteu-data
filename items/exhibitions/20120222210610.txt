@@ -1,0 +1,7 @@
+Raphael
+# uid            : 20120222210610
+# dt-created     : 2012-02-22 21:06:10 GMT
+# link           : http://www.teylersmuseum.eu/rafael/index.php?lang=en
+# event-dt-begin : 2012-09-28
+# event-dt-end   : 2013-01-06
+# event-location : Teylers Museum, Haarlem

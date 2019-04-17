@@ -1,0 +1,7 @@
+Félix Thiollier (1842-1914), photographer
+# uid            : 20120404074208
+# dt-created     : 2012-04-04 07:42:08 GMT
+# link           : http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/felix-thiollier-33534.html?tx_ttnews%5BbackPid%5D=254&cHash=bcd8bbc07b
+# event-dt-begin : 2012-11-13
+# event-dt-end   : 2013-03-10
+# event-location : Musée d'Orsay, Paris

@@ -1,0 +1,7 @@
+Klimt: Up Close and Personal
+# uid            : 20120302184938
+# dt-created     : 2012-03-02 18:49:38 GMT
+# link           : http://www.leopoldmuseum.org/en/exhibitions/43/klimt-up-close-and-personal
+# event-dt-begin : 2012-02-24
+# event-dt-end   : 2012-08-27
+# event-location : Leopold Museum, Wien

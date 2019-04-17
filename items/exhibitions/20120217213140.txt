@@ -1,0 +1,7 @@
+Rubens
+# uid            : 20120217213140
+# dt-created     : 2012-02-17 21:31:40 GMT
+# link           : http://www.rubens-ausstellung.de/
+# event-dt-begin : 2012-10-16
+# event-dt-end   : 2013-02-28
+# event-location : Von der Heydt Museum, Wuppertal

@@ -1,0 +1,7 @@
+Eva Besnyö
+# uid            : 20120313102957
+# dt-created     : 2012-03-13 10:29:57 GMT
+# link           : http://www.jeudepaume.org/index.php?page=article&idArt=1619&lieu=7
+# event-dt-begin : 2012-05-22
+# event-dt-end   : 2012-09-23
+# event-location : Jeu de Paume, Paris

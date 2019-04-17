@@ -1,0 +1,7 @@
+Claude Lorrain – The Enchanted Landscape
+# uid            : 20120219230709
+# dt-created     : 2012-02-19 23:07:09 GMT
+# link           : http://www.staedelmuseum.de/sm/index.php?StoryID=1354&websiteLang=en
+# event-dt-begin : 2012-02-03
+# event-dt-end   : 2012-05-06
+# event-location : Städel Museum, Frankfurt

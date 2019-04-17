@@ -1,0 +1,7 @@
+Frank Stella
+# uid            : 20120321131719
+# dt-created     : 2012-03-21 13:17:19 GMT
+# link           : http://www.ivam.es/exposiciones/2902-frank-stella
+# event-dt-begin : 2012-07-24
+# event-dt-end   : 2012-10-14
+# event-location : IVAM, Valencia

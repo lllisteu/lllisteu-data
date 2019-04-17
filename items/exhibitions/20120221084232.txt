@@ -1,0 +1,7 @@
+Damien Hirst
+# uid            : 20120221084232
+# dt-created     : 2012-02-21 08:42:32 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/damien-hirst
+# event-dt-begin : 2012-04-04
+# event-dt-end   : 2012-09-09
+# event-location : Tate Modern, London

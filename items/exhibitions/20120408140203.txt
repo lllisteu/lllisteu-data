@@ -1,0 +1,7 @@
+Eugène Atget
+# uid            : 20120408140203
+# dt-created     : 2012-04-08 14:02:03 GMT
+# link           : http://carnavalet.paris.fr/en/exhibitions/eugene-atget-paris
+# event-dt-begin : 2012-04-25
+# event-dt-end   : 2012-07-29
+# event-location : Musée Carnavalet, Paris

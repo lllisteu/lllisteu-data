@@ -1,0 +1,7 @@
+Guggenheim Collection: The American Avant-Garde 1945-1980
+# uid            : 20120322142856
+# dt-created     : 2012-03-22 14:28:56 GMT
+# link           : http://english.palazzoesposizioni.it/categorie/exhibition-014
+# event-dt-begin : 2012-02-07
+# event-dt-end   : 2012-05-06
+# event-location : Palazzo delle Esposizioni, Roma

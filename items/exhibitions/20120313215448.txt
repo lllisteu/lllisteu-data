@@ -1,0 +1,7 @@
+Henri Cartier-Bresson – The Geometry of the Moment
+# uid            : 20120313215448
+# dt-created     : 2012-03-13 21:54:48 GMT
+# link           : http://www.kunstmuseum-wolfsburg.de/exhibition/122/Henri_Cartier-Bresson._The_Geometry_of_the_Moment
+# event-dt-begin : 2011-09-03
+# event-dt-end   : 2012-05-13
+# event-location : Kunstmuseum Wolfsburg

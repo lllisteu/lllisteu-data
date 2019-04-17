@@ -1,0 +1,7 @@
+Edgar Degas
+# uid            : 20120302093422
+# dt-created     : 2012-03-02 09:34:22 GMT
+# link           : http://www.fondationbeyeler.ch/ausstellungen/edgar-degas/einleitung
+# event-dt-begin : 2012-09-30
+# event-dt-end   : 2013-01-27
+# event-location : Fondation Beyeler, Basel

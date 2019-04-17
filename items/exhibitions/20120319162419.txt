@@ -1,0 +1,7 @@
+Art Photography in the GDR 1949-1989
+# uid            : 20120319162419
+# dt-created     : 2012-03-19 16:24:19 GMT
+# link           : http://www.berlinischegalerie.de/en/exhibitions/preview/art-photography-in-the-gdr-1949-1989.html
+# event-dt-begin : 2012-10-05
+# event-dt-end   : 2013-01-28
+# event-location : Berlinische Galerie, Berlin

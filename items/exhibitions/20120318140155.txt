@@ -1,0 +1,7 @@
+Matisse and the Fauves
+# uid            : 20120318140155
+# dt-created     : 2012-03-18 14:01:55 GMT
+# link           : http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1313041137172
+# event-dt-begin : 2013-09-20
+# event-dt-end   : 2014-01-12
+# event-location : Albertina, Wien

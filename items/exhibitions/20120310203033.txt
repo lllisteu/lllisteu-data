@@ -1,0 +1,7 @@
+Georgia O'Keeffe – Life and work
+# uid            : 20120310203033
+# dt-created     : 2012-03-10 20:30:33 GMT
+# link           : http://www.hypo-kunsthalle.de/newweb/eokeeffe.html
+# event-dt-begin : 2012-02-03
+# event-dt-end   : 2012-05-13
+# event-location : Kunsthalle der Hypo-Kulturstiftung, München
