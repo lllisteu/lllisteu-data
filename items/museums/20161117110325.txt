@@ -1,0 +1,8 @@
+Herzog Anton Ulrich Museum
+# uid        : 20161117110325
+# dt-created : 2016-11-17 11:03:25 GMT
+# tags       : museum
+# wikipedia  : en:Herzog Anton Ulrich Museum
+# lat        : 52.263333
+# lon        : 10.533056
+# isa        : museum
