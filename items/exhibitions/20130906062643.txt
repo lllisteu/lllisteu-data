@@ -1,0 +1,7 @@
+Making Colour
+# uid            : 20130906062643
+# dt-created     : 2013-09-06 06:26:43 GMT
+# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/colour-exhibition
+# event-dt-begin : 2014-06-18
+# event-dt-end   : 2014-09-07
+# event-location : National Gallery, London

@@ -1,0 +1,7 @@
+Blow-Up
+# uid            : 20130813083643
+# dt-created     : 2013-08-13 08:36:43 GMT
+# link           : http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1365536704877
+# event-dt-begin : 2014-04-30
+# event-dt-end   : 2014-08-17
+# event-location : Albertina, Wien

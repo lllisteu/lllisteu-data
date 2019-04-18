@@ -1,0 +1,7 @@
+Max Ernst
+# uid            : 20130104092020
+# dt-created     : 2013-01-04 09:20:20 GMT
+# link           : http://www.fondationbeyeler.ch/ausstellungen/max-ernst/einleitung
+# event-dt-begin : 2013-05-26
+# event-dt-end   : 2013-09-08
+# event-location : Fondation Beyeler, Basel

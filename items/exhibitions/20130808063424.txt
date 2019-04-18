@@ -1,0 +1,7 @@
+Georges Braque
+# uid            : 20130808063424
+# dt-created     : 2013-08-08 06:34:24 GMT
+# link           : http://www.grandpalais.fr/fr/evenement/georges-braque
+# event-dt-begin : 2013-09-18
+# event-dt-end   : 2014-01-06
+# event-location : Grand Palais, Paris

@@ -1,0 +1,7 @@
+Rembrandt: The Late Works
+# uid            : 20130806201724
+# dt-created     : 2013-08-06 20:17:24 GMT
+# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/rembrandt-the-final-years
+# event-dt-begin : 2014-10-15
+# event-dt-end   : 2015-01-18
+# event-location : National Gallery, London

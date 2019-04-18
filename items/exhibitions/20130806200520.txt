@@ -1,0 +1,7 @@
+Rembrandt: The Final Years
+# uid            : 20130806200520
+# dt-created     : 2013-08-06 20:05:20 GMT
+# link           : http://www.rijksmuseum.nl/nl/nu-in-het-museum/nieuws/rijksmuseum-toont-overzicht-rembrandt-de-laatste-jaren
+# event-dt-begin : 2015-02-12
+# event-dt-end   : 2015-05-17
+# event-location : Rijksmuseum, Amsterdam

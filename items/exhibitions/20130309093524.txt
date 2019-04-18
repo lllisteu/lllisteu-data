@@ -1,0 +1,7 @@
+Kandinsky & Russia
+# uid            : 20130309093524
+# dt-created     : 2013-03-09 09:35:24 GMT
+# link           : http://www.expo-kandinsky.be/
+# event-dt-begin : 2013-03-08
+# event-dt-end   : 2013-06-30
+# event-location : Koninklijke Musea voor Schone Kunsten, Brussel

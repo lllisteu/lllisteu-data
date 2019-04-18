@@ -1,0 +1,7 @@
+Modigliani, Soutine e gli artisti maledetti
+# uid            : 20130412073428
+# dt-created     : 2013-04-12 07:34:28 GMT
+# link           : http://www.mostramodigliani.it/
+# event-dt-begin : 2013-02-21
+# event-dt-end   : 2013-09-08
+# event-location : Palazzo Reale, Milano

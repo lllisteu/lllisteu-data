@@ -1,0 +1,7 @@
+Mondrian and his Studios: Abstraction into the World
+# uid            : 20130507062024
+# dt-created     : 2013-05-07 06:20:24 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/mondrian-and-his-studios-abstraction-world
+# event-dt-begin : 2014-06-06
+# event-dt-end   : 2014-10-05
+# event-location : Tate Liverpool

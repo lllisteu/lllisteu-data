@@ -1,0 +1,7 @@
+Facing the Modern: The Portrait in Vienna 1900
+# uid            : 20130111140326
+# dt-created     : 2013-01-11 14:03:26 GMT
+# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/vienna
+# event-dt-begin : 2013-10-09
+# event-dt-end   : 2014-01-12
+# event-location : National Gallery, London

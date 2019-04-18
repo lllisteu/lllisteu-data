@@ -1,0 +1,7 @@
+Von Cranach bis Géricault
+# uid            : 20130219135457
+# dt-created     : 2013-02-19 13:54:57 GMT
+# link           : http://www.sammlung-gigoux.de/
+# event-dt-begin : 2013-10-15
+# event-dt-end   : 2014-02-23
+# event-location : Von der Heydt Museum, Wuppertal

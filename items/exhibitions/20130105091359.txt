@@ -1,0 +1,7 @@
+Rubens, Van Dyck, Jordaens et les autres
+# uid            : 20130105091359
+# dt-created     : 2013-01-05 09:13:59 GMT
+# link           : http://www.marmottan.fr/fr/expositions_en_cours-exposition-2504
+# event-dt-begin : 2012-09-20
+# event-dt-end   : 2013-02-03
+# event-location : Musée Marmottan Monet, Paris

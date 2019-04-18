@@ -1,0 +1,7 @@
+Strange Beauty: Masters of the German Renaissance
+# uid            : 20130905162635
+# dt-created     : 2013-09-05 16:26:35 GMT
+# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/strange-beauty
+# event-dt-begin : 2014-02-19
+# event-dt-end   : 2014-05-11
+# event-location : National Gallery, London

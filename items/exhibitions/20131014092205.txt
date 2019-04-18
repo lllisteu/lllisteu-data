@@ -1,0 +1,7 @@
+Rome in your pocket
+# uid            : 20131014092205
+# dt-created     : 2013-10-14 09:22:05 GMT
+# link           : http://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/roma-en-el-bolsillo-cuadernos-de-dibujo-y-aprendizaje-artistico-en-el-siglo-xviii
+# event-dt-begin : 2013-10-15
+# event-dt-end   : 2014-01-19
+# event-location : Museo Nacional del Prado, Madrid

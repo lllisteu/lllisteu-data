@@ -1,0 +1,7 @@
+Robert Doisneau. Paris en liberté
+# uid            : 20130112100340
+# dt-created     : 2013-01-12 10:03:40 GMT
+# link           : http://english.palazzoesposizioni.it/categorie/exhibition-023
+# event-dt-begin : 2012-09-29
+# event-dt-end   : 2013-02-10
+# event-location : Palazzo delle Esposizioni, Roma

@@ -1,0 +1,7 @@
+Cindy Sherman
+# uid            : 20130328090514
+# dt-created     : 2013-03-28 09:05:14 GMT
+# link           : http://www.modernamuseet.se/en/Stockholm/Exhibitions/2013/Cindy-Sherman/
+# event-dt-begin : 2013-10-19
+# event-dt-end   : 2014-01-19
+# event-location : Moderna Museet, Stockholm

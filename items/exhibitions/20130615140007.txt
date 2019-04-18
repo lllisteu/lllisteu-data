@@ -1,0 +1,7 @@
+Hilma af Klint – a pioneer of abstraction
+# uid            : 20130615140007
+# dt-created     : 2013-06-15 14:00:07 GMT
+# link           : http://www.hamburgerbahnhof.de/exhibition.php?id=40476〈=en
+# event-dt-begin : 2013-06-15
+# event-dt-end   : 2013-10-06
+# event-location : Hamburger Bahnhof, Berlin

@@ -1,0 +1,7 @@
+Mike Kelley
+# uid            : 20130504092014
+# dt-created     : 2013-05-04 09:20:14 GMT
+# link           : http://www.centrepompidou.fr/cpv/ressource.action?param.id=FR_R-15be1644d86d5f3bf9a715561475a9&param.idSource=FR_E-15be1644d86d5f3bf9a715561475a9
+# event-dt-begin : 2013-05-02
+# event-dt-end   : 2013-08-05
+# event-location : Centre Pompidou, Paris

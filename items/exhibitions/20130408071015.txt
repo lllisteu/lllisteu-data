@@ -1,0 +1,7 @@
+Surrealism & Duchamp
+# uid            : 20130408071015
+# dt-created     : 2013-04-08 07:10:15 GMT
+# link           : http://www.modernamuseet.se/en/Stockholm/Exhibitions/2013/The-Surrealism--Duchamp/
+# event-dt-begin : 2013-03-27
+# event-dt-end   : 2014-01-05
+# event-location : Moderna Museet, Stockholm

@@ -1,0 +1,7 @@
+Jo Baer - In the Land of the Giants
+# uid            : 20130507060743
+# dt-created     : 2013-05-07 06:07:43 GMT
+# link           : http://www.stedelijk.nl/en/40051/exhibition-jo-baer-in-the-land-of-the-giants
+# event-dt-begin : 2013-05-16
+# event-dt-end   : 2013-09-01
+# event-location : Stedelijk Museum, Amsterdam

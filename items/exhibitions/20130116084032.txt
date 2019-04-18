@@ -1,0 +1,7 @@
+Honoré Daumier
+# uid            : 20130116084032
+# dt-created     : 2013-01-16 08:40:32 GMT
+# link           : http://www.royalacademy.org.uk/exhibitions/daumier/
+# event-dt-begin : 2013-10-26
+# event-dt-end   : 2014-01-26
+# event-location : Royal Academy of Arts, London

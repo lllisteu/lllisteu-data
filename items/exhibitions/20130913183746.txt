@@ -1,0 +1,7 @@
+Man Ray
+# uid            : 20130913183746
+# dt-created     : 2013-09-13 18:37:46 GMT
+# link           : http://www.maxernstmuseum.de/fachthema/deutsch/Ausstellungen/man+ray.htm
+# event-dt-begin : 2013-09-15
+# event-dt-end   : 2013-12-08
+# event-location : Max Ernst Museum, Brühl

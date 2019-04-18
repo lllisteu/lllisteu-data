@@ -1,0 +1,7 @@
+Ludwig Goes Pop
+# uid            : 20131212195712
+# dt-created     : 2013-12-12 19:57:12 GMT
+# link           : http://www.museum-ludwig.de/en/exhibitions/ludwig-goes-pop.html
+# event-dt-begin : 2014-10-02
+# event-dt-end   : 2015-01-11
+# event-location : Museum Ludwig, Köln

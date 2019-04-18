@@ -1,0 +1,7 @@
+George Bellows
+# uid            : 20130116084435
+# dt-created     : 2013-01-16 08:44:35 GMT
+# link           : http://www.royalacademy.org.uk/exhibitions/george-bellows/
+# event-dt-begin : 2013-03-16
+# event-dt-end   : 2013-06-09
+# event-location : Royal Academy of Arts, London

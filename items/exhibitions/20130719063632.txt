@@ -1,0 +1,7 @@
+Pollock e gli Irascibili
+# uid            : 20130719063632
+# dt-created     : 2013-07-19 06:36:32 GMT
+# link           : http://www.mostrapollock.it/
+# event-dt-begin : 2013-09-24
+# event-dt-end   : 2014-02-16
+# event-location : Palazzo Reale, Milano

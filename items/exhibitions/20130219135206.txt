@@ -1,0 +1,7 @@
+Pissarro
+# uid            : 20130219135206
+# dt-created     : 2013-02-19 13:52:06 GMT
+# link           : http://www.pissarro-ausstellung.de/
+# event-dt-begin : 2014-10-14
+# event-dt-end   : 2015-02-22
+# event-location : Von der Heydt Museum, Wuppertal

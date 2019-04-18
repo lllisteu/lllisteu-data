@@ -1,0 +1,7 @@
+Castiglione: Lost Genius
+# uid            : 20130314160120
+# dt-created     : 2013-03-14 16:01:20 GMT
+# link           : http://www.royalcollection.org.uk/exhibitions/castiglione-lost-geniusQGBP
+# event-dt-begin : 2013-11-01
+# event-dt-end   : 2014-03-16
+# event-location : The Queen's Gallery, London
