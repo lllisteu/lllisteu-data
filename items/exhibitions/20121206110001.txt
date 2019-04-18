@@ -1,0 +1,7 @@
+Pop Art Design
+# uid            : 20121206110001
+# dt-created     : 2012-12-06 11:00:01 GMT
+# link           : http://www.modernamuseet.se/en/Stockholm/Exhibitions/2013/Pop-Art-Design/
+# event-dt-begin : 2013-06-29
+# event-dt-end   : 2013-09-22
+# event-location : Moderna Museet, Stockholm

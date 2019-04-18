@@ -1,0 +1,7 @@
+Magnificent Manuscripts
+# uid            : 20120426104244
+# dt-created     : 2012-04-26 10:42:44 GMT
+# link           : http://www.hypo-kunsthalle.de/newweb/ebuchmalerei.html
+# event-dt-begin : 2012-10-19
+# event-dt-end   : 2013-01-13
+# event-location : Kunsthalle der Hypo-Kulturstiftung, München

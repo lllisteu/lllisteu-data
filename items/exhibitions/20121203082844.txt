@@ -1,0 +1,7 @@
+Murillo & Justino de Neve: The Art of Friendship
+# uid            : 20121203082844
+# dt-created     : 2012-12-03 08:28:44 GMT
+# link           : http://www.dulwichpicturegallery.org.uk/exhibitions/coming_soon/murillo__justino_de_neve.aspx
+# event-dt-begin : 2013-02-06
+# event-dt-end   : 2013-05-19
+# event-location : Dulwich Picture Gallery, London

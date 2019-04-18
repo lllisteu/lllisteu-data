@@ -1,0 +1,7 @@
+Manuel Álvarez Bravo. A Photographer on the Watch (1902-2002)
+# uid            : 20120921090507
+# dt-created     : 2012-09-21 09:05:07 GMT
+# link           : http://www.jeudepaume.org/index.php?page=article&idArt=1631&lieu=7&idImg=1761
+# event-dt-begin : 2012-10-16
+# event-dt-end   : 2013-01-20
+# event-location : Jeu de Paume, Paris

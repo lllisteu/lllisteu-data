@@ -1,0 +1,7 @@
+In Astratto – Abstraction in Italy 1930-1980
+# uid            : 20120711071108
+# dt-created     : 2012-07-11 07:11:08 GMT
+# link           : http://www.estorickcollection.com/exhibitions/
+# event-dt-begin : 2012-06-27
+# event-dt-end   : 2012-09-09
+# event-location : Estorick Collection, London

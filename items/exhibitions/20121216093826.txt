@@ -1,0 +1,7 @@
+Walker Evans - Decade by Decade
+# uid            : 20121216093826
+# dt-created     : 2012-12-16 09:38:26 GMT
+# link           : http://www.landesmuseum.at/landesgalerie/ueber/ausstellungen/event-detail/walker-evans/
+# event-dt-begin : 2013-02-28
+# event-dt-end   : 2013-05-26
+# event-location : Landesgalerie Linz

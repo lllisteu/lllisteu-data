@@ -1,0 +1,7 @@
+Impressionism and Open-air Painting. From Corot to Van Gogh.
+# uid            : 20120416112257
+# dt-created     : 2012-04-16 11:22:57 GMT
+# link           : http://www.museothyssen.org/microsites/exposiciones/2013/airelibre/index_en.html
+# event-dt-begin : 2013-02-05
+# event-dt-end   : 2013-05-12
+# event-location : Museo Thyssen-Bornemisza, Madrid

@@ -1,0 +1,7 @@
+Voici Paris – Photographic Modernities, 1920-1950
+# uid            : 20120919063841
+# dt-created     : 2012-09-19 06:38:41 GMT
+# link           : http://www.centrepompidou.fr/Pompidou/Manifs.nsf/0/6296AC3F4B3E2BD2C1257A1700463AB8?OpenDocument&sessionM=2.1.3&L=2&form=Actualite
+# event-dt-begin : 2012-10-17
+# event-dt-end   : 2013-01-14
+# event-location : Centre Pompidou, Paris

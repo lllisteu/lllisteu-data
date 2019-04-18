@@ -1,0 +1,7 @@
+Yoko Ono
+# uid            : 20121212213605
+# dt-created     : 2012-12-12 21:36:05 GMT
+# link           : http://www.louisiana.dk/uk/Menu/Exhibitions/Yoko+Ono
+# event-dt-begin : 2013-06-07
+# event-dt-end   : 2013-09-29
+# event-location : Louisiana Museum of Modern Art, Humlebæk

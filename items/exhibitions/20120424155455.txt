@@ -1,0 +1,7 @@
+Niki de Saint Phalle
+# uid            : 20120424155455
+# dt-created     : 2012-04-24 15:54:55 GMT
+# link           : http://www.modernamuseet.se/en/Malmo/Exhibitions/2012/Niki-de-Saint-Phalle/
+# event-dt-begin : 2012-05-12
+# event-dt-end   : 2012-09-09
+# event-location : Moderna Museet, Malmö

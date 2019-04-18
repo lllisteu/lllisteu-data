@@ -1,0 +1,7 @@
+Late Raphael
+# uid            : 20121003071806
+# dt-created     : 2012-10-03 07:18:06 GMT
+# link           : http://www.louvre.fr/en/expositions/late-raphael
+# event-dt-begin : 2012-10-11
+# event-dt-end   : 2013-01-14
+# event-location : Louvre, Paris

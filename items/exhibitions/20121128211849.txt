@@ -1,0 +1,7 @@
+Steve McCurry – In the Flow of Time
+# uid            : 20121128211849
+# dt-created     : 2012-11-28 21:18:49 GMT
+# link           : http://www.kunstmuseum-wolfsburg.de/exhibition/127/Steve_McCurry_-_Im_Fluss_der_Zeit._Fotografien_aus_Asien_1980_%E2%80%93_2011
+# event-dt-begin : 2013-01-19
+# event-dt-end   : 2013-06-16
+# event-location : Kunstmuseum Wolfsburg

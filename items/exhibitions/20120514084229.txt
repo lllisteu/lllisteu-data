@@ -1,0 +1,7 @@
+Claes Oldenburg
+# uid            : 20120514084229
+# dt-created     : 2012-05-14 08:42:29 GMT
+# link           : http://www.museenkoeln.de/museum-ludwig/default.asp?s=3811
+# event-dt-begin : 2012-06-23
+# event-dt-end   : 2012-09-30
+# event-location : Museum Ludwig, Köln

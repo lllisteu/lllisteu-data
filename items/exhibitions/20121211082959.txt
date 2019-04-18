@@ -1,0 +1,7 @@
+In Progress
+# uid            : 20121211082959
+# dt-created     : 2012-12-11 08:29:59 GMT
+# link           : http://www.mumok.at/programm/ausstellungen/in-progress/
+# event-dt-begin : 2013-05-20
+# event-dt-end   : 2014-01-26
+# event-location : Mumok, Wien

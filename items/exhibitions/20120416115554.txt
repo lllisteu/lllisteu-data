@@ -1,0 +1,7 @@
+Henri Cartier-Bresson Photographe
+# uid            : 20120416115554
+# dt-created     : 2012-04-16 11:55:54 GMT
+# link           : http://www.piemonte.beniculturali.it/index.php?option=com_content&view=article&id=351
+# event-dt-begin : 2012-03-21
+# event-dt-end   : 2012-09-09
+# event-location : Palazzo Reale, Torino

@@ -1,0 +1,7 @@
+Blumenfeld Studio
+# uid            : 20121224114646
+# dt-created     : 2012-12-24 11:46:46 GMT
+# link           : http://www.museum-folkwang.de/en/exhibitions/current-exhibtions/blumenfeld-studio.html
+# event-dt-begin : 2013-03-02
+# event-dt-end   : 2013-05-05
+# event-location : Museum Folkwang, Essen

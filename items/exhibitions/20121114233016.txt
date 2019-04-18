@@ -1,0 +1,7 @@
+Ansel Adams: Photography from the Mountains to the Sea
+# uid            : 20121114233016
+# dt-created     : 2012-11-14 23:30:16 GMT
+# link           : http://www.rmg.co.uk/visit/events/ansel-adams
+# event-dt-begin : 2012-11-09
+# event-dt-end   : 2013-04-28
+# event-location : National Maritime Museum, London

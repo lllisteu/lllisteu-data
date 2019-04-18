@@ -1,0 +1,7 @@
+Russian avant-garde
+# uid            : 20120412152628
+# dt-created     : 2012-04-12 15:26:28 GMT
+# link           : http://en.arapacis.it/mostre_ed_eventi/mostre/avanguardie_russe
+# event-dt-begin : 2012-04-05
+# event-dt-end   : 2012-09-02
+# event-location : Museo dell'Ara Pacis, Roma

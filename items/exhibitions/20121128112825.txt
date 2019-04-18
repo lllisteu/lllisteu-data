@@ -1,0 +1,7 @@
+Itten – Klee. Cosmos of Color
+# uid            : 20121128112825
+# dt-created     : 2012-11-28 11:28:25 GMT
+# link           : http://www.kunstmuseumbern.ch/en/see/today/124-itten-n-klee--120.html
+# event-dt-begin : 2012-11-30
+# event-dt-end   : 2013-04-01
+# event-location : Kunstmuseum Bern

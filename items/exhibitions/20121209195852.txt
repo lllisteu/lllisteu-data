@@ -1,0 +1,7 @@
+Piero Manzoni
+# uid            : 20121209195852
+# dt-created     : 2012-12-09 19:58:52 GMT
+# link           : http://www.staedelmuseum.de/sm/index.php?StoryID=1743
+# event-dt-begin : 2013-06-26
+# event-dt-end   : 2013-09-22
+# event-location : Städel Museum, Frankfurt

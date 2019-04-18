@@ -1,0 +1,7 @@
+Richard Hamilton: The Late Works
+# uid            : 20120510193949
+# dt-created     : 2012-05-10 19:39:49 GMT
+# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/richard-hamilton-the-late-works
+# event-dt-begin : 2012-10-10
+# event-dt-end   : 2013-01-13
+# event-location : National Gallery, London

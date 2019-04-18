@@ -1,0 +1,7 @@
+Picasso and Modern British Art
+# uid            : 20120514070331
+# dt-created     : 2012-05-14 07:03:31 GMT
+# link           : http://www.nationalgalleries.org/whatson/exhibitions/picasso-modern-british-art/
+# event-dt-begin : 2012-08-04
+# event-dt-end   : 2012-11-04
+# event-location : Scottish National Gallery of Modern Art, Edinburgh

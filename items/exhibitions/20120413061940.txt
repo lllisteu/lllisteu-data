@@ -1,0 +1,7 @@
+Japan – The Fragility of Being
+# uid            : 20120413061940
+# dt-created     : 2012-04-13 06:19:40 GMT
+# link           : http://www.leopoldmuseum.org/en/exhibitions/45/japan-the-fragility-of-being
+# event-dt-begin : 2012-09-28
+# event-dt-end   : 2013-02-18
+# event-location : Leopold Museum, Wien

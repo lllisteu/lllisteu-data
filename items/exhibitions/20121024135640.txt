@@ -1,0 +1,7 @@
+Pop Art Design
+# uid            : 20121024135640
+# dt-created     : 2012-10-24 13:56:40 GMT
+# link           : http://www.louisiana.dk/uk/Menu/Exhibitions/Pop+Art+Design
+# event-dt-begin : 2013-02-22
+# event-dt-end   : 2013-06-09
+# event-location : Louisiana Museum of Modern Art, Humlebæk

@@ -1,0 +1,7 @@
+Our Age Has a New Sense of Form
+# uid            : 20120424155054
+# dt-created     : 2012-04-24 15:50:54 GMT
+# link           : http://www.museum-folkwang.de/en/exhibitions/future-exhibitions/our-age-has-a-new-sense-of-form.html
+# event-dt-begin : 2012-04-28
+# event-dt-end   : 2012-08-05
+# event-location : Museum Folkwang, Essen

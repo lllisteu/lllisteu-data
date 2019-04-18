@@ -1,0 +1,7 @@
+Albertina Contemporary – From Gerhard Richter to Maria Lassnig
+# uid            : 20120513063210
+# dt-created     : 2012-05-13 06:32:10 GMT
+# link           : http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1313041138474
+# event-dt-begin : 2012-05-26
+# event-dt-end   : 2012-08-19
+# event-location : Albertina, Wien

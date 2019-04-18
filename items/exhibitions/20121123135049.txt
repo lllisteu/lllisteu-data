@@ -1,0 +1,7 @@
+Natacha Nisic. Echo
+# uid            : 20121123135049
+# dt-created     : 2012-11-23 13:50:49 GMT
+# link           : http://www.jeudepaume.org/index.php?page=article&idArt=1839&lieu=7
+# event-dt-begin : 2013-10-15
+# event-dt-end   : 2014-01-26
+# event-location : Jeu de Paume, Paris

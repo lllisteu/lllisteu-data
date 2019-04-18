@@ -1,0 +1,7 @@
+Matta. Fiktionen
+# uid            : 20120712095352
+# dt-created     : 2012-07-12 09:53:52 GMT
+# link           : http://www.museum-frieder-burda.de/Aktuelle-Ausstellung.97.0.html
+# event-dt-begin : 2013-01-19
+# event-dt-end   : 2013-06-02
+# event-location : Museum Frieder Burda, Baden-Baden

@@ -1,0 +1,7 @@
+Barocci: Brilliance and Grace
+# uid            : 20121128105540
+# dt-created     : 2012-11-28 10:55:40 GMT
+# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/barocci-brilliance-and-grace
+# event-dt-begin : 2013-02-27
+# event-dt-end   : 2013-05-19
+# event-location : National Gallery, London

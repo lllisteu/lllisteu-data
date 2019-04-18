@@ -1,0 +1,7 @@
+NEON. La materia luminosa dell’arte
+# uid            : 20120707144758
+# dt-created     : 2012-07-07 14:47:58 GMT
+# link           : http://museomacro.org/it/neon-la-materia-luminosa-dell’arte
+# event-dt-begin : 2012-06-21
+# event-dt-end   : 2012-11-11
+# event-location : Museo d’Arte Contemporanea di Roma

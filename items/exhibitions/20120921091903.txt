@@ -1,0 +1,7 @@
+Bernard Schultze – Counter-reality
+# uid            : 20120921091903
+# dt-created     : 2012-09-21 09:19:03 GMT
+# link           : http://www.museum-kueppersmuehle.de/index.html
+# event-dt-begin : 2012-10-19
+# event-dt-end   : 2013-01-20
+# event-location : Museum Küppersmühle, Duisburg

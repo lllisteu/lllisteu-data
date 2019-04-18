@@ -1,0 +1,7 @@
+Giovanni Battista Piranesi
+# uid            : 20120920072635
+# dt-created     : 2012-09-20 07:26:35 GMT
+# link           : http://www.museobilbao.com/in/exposiciones/giovanni-battista-piranesi-197
+# event-dt-begin : 2012-11-19
+# event-dt-end   : 2013-02-24
+# event-location : Museo de Bellas Artes de Bilbao

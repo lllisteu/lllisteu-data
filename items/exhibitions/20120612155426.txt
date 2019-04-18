@@ -1,0 +1,7 @@
+Gilbert & George – London Pictures
+# uid            : 20120612155426
+# dt-created     : 2012-06-12 15:54:26 GMT
+# link           : http://www.museum-kueppersmuehle.de/ausstellungen/aktuelle-ausstellung-joseph-beuys-anselm-kiefer-zeichnungen-gouachen-buecher/
+# event-dt-begin : 2013-03-20
+# event-dt-end   : 2013-06-30
+# event-location : Museum Küppersmühle, Duisburg

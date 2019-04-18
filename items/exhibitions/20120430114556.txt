@@ -1,0 +1,7 @@
+Gerrit Rietveld – The Revolution of Space
+# uid            : 20120430114556
+# dt-created     : 2012-04-30 11:45:56 GMT
+# link           : http://www.design-museum.de/en/exhibitions/detailseiten/gerrit-rietveld.html
+# event-dt-begin : 2012-05-17
+# event-dt-end   : 2012-09-16
+# event-location : Vitra Design Museum, Weil am Rhein

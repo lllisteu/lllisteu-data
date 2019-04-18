@@ -1,0 +1,7 @@
+Gerhard Richter
+# uid            : 20120419095303
+# dt-created     : 2012-04-19 09:53:03 GMT
+# link           : http://www.centrepompidou.fr/
+# event-dt-begin : 2012-06-06
+# event-dt-end   : 2012-09-24
+# event-location : Centre Pompidou, Paris

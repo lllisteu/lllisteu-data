@@ -1,0 +1,7 @@
+Les photographes du cercle de Gustave Le Gray
+# uid            : 20120522142635
+# dt-created     : 2012-05-22 14:26:35 GMT
+# link           : http://www.petitpalais.paris.fr/fr/expositions/modernisme-ou-modernite
+# event-dt-begin : 2012-10-03
+# event-dt-end   : 2013-01-06
+# event-location : Petit Palais, Paris
