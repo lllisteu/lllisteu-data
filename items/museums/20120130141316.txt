@@ -1,0 +1,9 @@
+Fondazione Boschi Di Stefano
+# uid        : 20120130141316
+# dt-created : 2012-01-30 14:13:16 GMT
+# tags       : Milano,art
+# language   : en,it
+# link       : http://www.fondazioneboschidistefano.it/
+# lat        : 45.478911
+# lon        : 9.211671
+# isa        : museum
