@@ -1,0 +1,8 @@
+Museum Tinguely
+# uid          : 20120207222457
+# dt-created   : 2012-02-07 22:24:57 GMT
+# tags         : museum,Basel
+# link         : http://www.tinguely.ch/
+# wikipedia    : de:Museum Tinguely
+# lat          : 47.559167
+# lon          : 7.612222

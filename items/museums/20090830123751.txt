@@ -1,0 +1,9 @@
+Kröller-Müller Museum
+# uid            : 20090830123751
+# dt-created     : 2009-08-30 10:37:51 GMT
+# tags           : art,museum
+# language       : nl
+# link           : http://www.kmm.nl/
+# lat            : 52.095479
+# lon            : 5.816671
+# twitter-handle : krollermuller
