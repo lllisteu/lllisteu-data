@@ -1,0 +1,7 @@
+JR
+# uid            : 20140409090140
+# dt-created     : 2014-04-09 09:01:40 GMT
+# link           : http://www.museum-frieder-burda.de/JR.1060.0.html
+# event-dt-begin : 2014-03-01
+# event-dt-end   : 2014-06-29
+# event-location : Museum Frieder Burda, Baden-Baden

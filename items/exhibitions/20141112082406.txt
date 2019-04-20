@@ -1,0 +1,7 @@
+A Victorian Obsession: The Pérez Simón collection
+# uid            : 20141112082406
+# dt-created     : 2014-11-12 08:24:06 GMT
+# link           : http://www.rbkc.gov.uk/subsites/museums/leightonhousemuseum/avictorianobsession.aspx
+# event-dt-begin : 2014-11-14
+# event-dt-end   : 2015-03-29
+# event-location : Leighton House Museum, London

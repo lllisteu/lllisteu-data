@@ -1,0 +1,7 @@
+German Pop
+# uid            : 20140411100442
+# dt-created     : 2014-04-11 10:04:42 GMT
+# link           : http://www.schirn.de/en/GERMAN_POP.html
+# event-dt-begin : 2014-11-06
+# event-dt-end   : 2015-02-08
+# event-location : Schirn Kunsthalle, Frankfurt

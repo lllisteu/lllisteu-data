@@ -1,0 +1,7 @@
+Munch : Van Gogh
+# uid            : 20141024184516
+# dt-created     : 2014-10-24 18:45:16 GMT
+# link           : http://www.vangoghmuseum.nl/en/whats-on/van-gogh-year-2015/exhibition-munch-van-gogh-in-oslo-and-amsterdam
+# event-dt-begin : 2015-09-25
+# event-dt-end   : 2016-01-17
+# event-location : Van Gogh Museum, Amsterdam

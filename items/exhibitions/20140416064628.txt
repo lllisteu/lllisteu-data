@@ -1,0 +1,7 @@
+Ettore Spalletti
+# uid            : 20140416064628
+# dt-created     : 2014-04-16 06:46:28 GMT
+# link           : http://www.fondazionemaxxi.it/2013/12/20/ettore-spalletti/?lang=en
+# event-dt-begin : 2014-03-13
+# event-dt-end   : 2014-09-14
+# event-location : MAXXI, Roma / GAM, Torino / MADRE, Napoli

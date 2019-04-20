@@ -1,0 +1,7 @@
+Gustave Courbet
+# uid            : 20140113111951
+# dt-created     : 2014-01-13 11:19:51 GMT
+# link           : http://www.fondationbeyeler.ch/ausstellungen/gustave-courbet/einleitung
+# event-dt-begin : 2014-09-07
+# event-dt-end   : 2015-01-18
+# event-location : Fondation Beyeler, Basel

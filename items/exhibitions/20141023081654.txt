@@ -1,0 +1,7 @@
+August Macke and Franz Marc
+# uid            : 20141023081654
+# dt-created     : 2014-10-23 08:16:54 GMT
+# link           : http://www.lenbachhaus.de/exhibitions/august-macke-franz-marc/?L=1
+# event-dt-begin : 2015-01-28
+# event-dt-end   : 2015-05-03
+# event-location : Lenbachhaus, München

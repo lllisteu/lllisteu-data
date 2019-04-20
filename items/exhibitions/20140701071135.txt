@@ -1,0 +1,7 @@
+To Egypt! The Travels of Max Slevogt and Paul Klee
+# uid            : 20140701071135
+# dt-created     : 2014-07-01 07:11:35 GMT
+# link           : http://www.kunstsammlung.de/en/discover/exhibitions/nach-aegypten.html
+# event-dt-begin : 2014-09-06
+# event-dt-end   : 2015-01-04
+# event-location : K20 Kunstsammlung NRW, Düsseldorf

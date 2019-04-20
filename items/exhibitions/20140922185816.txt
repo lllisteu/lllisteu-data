@@ -1,0 +1,7 @@
+Marlene Dumas: The Image as Burden
+# uid            : 20140922185816
+# dt-created     : 2014-09-22 18:58:16 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/marlene-dumas-image-burden
+# event-dt-begin : 2015-02-05
+# event-dt-end   : 2015-05-10
+# event-location : Tate Modern, London

@@ -1,0 +1,7 @@
+Miró – A Painter among Poets
+# uid            : 20140701070851
+# dt-created     : 2014-07-01 07:08:51 GMT
+# link           : http://www.kunstsammlung.de/en/discover/exhibition-preview.html
+# event-dt-begin : 2015-06-13
+# event-dt-end   : 2015-09-27
+# event-location : K20 Kunstsammlung NRW, Düsseldorf

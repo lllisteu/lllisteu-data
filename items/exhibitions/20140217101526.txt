@@ -1,0 +1,7 @@
+Kazimir Malevich
+# uid            : 20140217101526
+# dt-created     : 2014-02-17 10:15:26 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/kazimir-malevich
+# event-dt-begin : 2014-07-16
+# event-dt-end   : 2014-10-26
+# event-location : Tate Modern, London

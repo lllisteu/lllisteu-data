@@ -1,0 +1,7 @@
+Zurbarán. A New Perspective
+# uid            : 20140923065014
+# dt-created     : 2014-09-23 06:50:14 GMT
+# link           : http://www.museothyssen.org/en/thyssen/exposiciones_proximas/121
+# event-dt-begin : 2015-06-09
+# event-dt-end   : 2015-09-13
+# event-location : Museo Thyssen-Bornemisza, Madrid

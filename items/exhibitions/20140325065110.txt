@@ -1,0 +1,7 @@
+Alberto Giacometti
+# uid            : 20140325065110
+# dt-created     : 2014-03-25 06:51:10 GMT
+# link           : http://www.leopoldmuseum.org/en/exhibitions/57/alberto-giacometti
+# event-dt-begin : 2014-10-17
+# event-dt-end   : 2015-01-26
+# event-location : Leopold Museum, Wien

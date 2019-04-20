@@ -1,0 +1,7 @@
+Richard Hamilton
+# uid            : 20140426094059
+# dt-created     : 2014-04-26 09:40:59 GMT
+# link           : http://www.museoreinasofia.es/en/exhibitions/richard-hamilton
+# event-dt-begin : 2014-06-27
+# event-dt-end   : 2014-10-13
+# event-location : Museo Nacional Centro de Arte Reina Sofía, Madrid

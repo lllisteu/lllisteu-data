@@ -1,0 +1,7 @@
+Raphael to Titian
+# uid            : 20140922191654
+# dt-created     : 2014-09-22 19:16:54 GMT
+# link           : http://www.staedelmuseum.de/en/exhibitions/raphael-titian
+# event-dt-begin : 2014-10-08
+# event-dt-end   : 2015-01-11
+# event-location : Städel Museum, Frankfurt

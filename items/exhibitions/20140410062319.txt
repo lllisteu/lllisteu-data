@@ -1,0 +1,7 @@
+Paul Klee – Sonderklasse
+# uid            : 20140410062319
+# dt-created     : 2014-04-10 06:23:19 GMT
+# link           : http://www.zpk.org/en/exhibitions/preview/paul-klee-special-class-803.html
+# event-dt-begin : 2014-10-21
+# event-dt-end   : 2015-02-01
+# event-location : Zentrum Paul Klee, Bern

@@ -1,0 +1,7 @@
+De Watteau à Fragonard, les fêtes galantes
+# uid            : 20140113110633
+# dt-created     : 2014-01-13 11:06:33 GMT
+# link           : http://www.musee-jacquemart-andre.com/fr/evenements/watteau-fragonard-fetes-galantes
+# event-dt-begin : 2014-03-14
+# event-dt-end   : 2014-07-21
+# event-location : Musée Jacquemart-André, Paris

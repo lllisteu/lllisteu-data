@@ -1,0 +1,7 @@
+Alibis: Sigmar Polke 1963–2010
+# uid            : 20140922190327
+# dt-created     : 2014-09-22 19:03:27 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/alibis-sigmar-polke-1963-2010
+# event-dt-begin : 2014-10-09
+# event-dt-end   : 2015-02-08
+# event-location : Tate Modern, London

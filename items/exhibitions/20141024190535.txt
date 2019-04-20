@@ -1,0 +1,7 @@
+Joel Meyerowitz – Retrospektive
+# uid            : 20141024190535
+# dt-created     : 2014-10-24 19:05:35 GMT
+# link           : http://www.nrw-forum.de/joel_meyerowitz_retrospektive
+# event-dt-begin : 2014-09-27
+# event-dt-end   : 2015-01-11
+# event-location : NRW-Forum, Düsseldorf

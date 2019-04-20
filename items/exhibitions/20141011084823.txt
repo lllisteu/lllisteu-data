@@ -1,0 +1,7 @@
+Joseph Cornell
+# uid            : 20141011084823
+# dt-created     : 2014-10-11 08:48:23 GMT
+# link           : http://www.royalacademy.org.uk/exhibition/joseph-cornell
+# event-dt-begin : 2015-07-04
+# event-dt-end   : 2015-09-27
+# event-location : Royal Academy of Arts, London

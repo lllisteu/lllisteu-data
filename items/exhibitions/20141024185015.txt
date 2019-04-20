@@ -1,0 +1,7 @@
+Munch : Van Gogh
+# uid            : 20141024185015
+# dt-created     : 2014-10-24 18:50:15 GMT
+# link           : http://www.munchmuseet.no/
+# event-dt-begin : 2015-05-07
+# event-dt-end   : 2015-09-06
+# event-location : Munchmuseet, Oslo

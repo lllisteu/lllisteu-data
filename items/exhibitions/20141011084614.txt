@@ -1,0 +1,7 @@
+Richard Diebenkorn
+# uid            : 20141011084614
+# dt-created     : 2014-10-11 08:46:14 GMT
+# link           : http://www.royalacademy.org.uk/exhibition/richard-diebenkorn
+# event-dt-begin : 2015-03-14
+# event-dt-end   : 2015-06-07
+# event-location : Royal Academy of Arts, London

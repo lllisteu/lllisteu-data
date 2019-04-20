@@ -1,0 +1,7 @@
+August Macke and Franz Marc
+# uid            : 20141023081151
+# dt-created     : 2014-10-23 08:11:51 GMT
+# link           : http://www.kunstmuseum-bonn.de/nocache/en/ausstellungen/vorschau/info/ex/august-macke-und-franz-marc-2053/
+# event-dt-begin : 2014-09-25
+# event-dt-end   : 2015-01-04
+# event-location : Kunstmuseum Bonn

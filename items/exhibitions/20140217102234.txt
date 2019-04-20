@@ -1,0 +1,7 @@
+Marlene Dumas: The Image as Burden
+# uid            : 20140217102234
+# dt-created     : 2014-02-17 10:22:34 GMT
+# link           : http://www.stedelijk.nl/en/exhibitions/marlene-dumas-the-image-as-burden
+# event-dt-begin : 2014-09-06
+# event-dt-end   : 2015-01-04
+# event-location : Stedelijk Museum, Amsterdam

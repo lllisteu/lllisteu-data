@@ -1,0 +1,7 @@
+Escher
+# uid            : 20141112082911
+# dt-created     : 2014-11-12 08:29:11 GMT
+# link           : http://chiostrodelbramante.it/info/escher/
+# event-dt-begin : 2014-09-20
+# event-dt-end   : 2015-02-22
+# event-location : Chiostro del Bramante, Roma

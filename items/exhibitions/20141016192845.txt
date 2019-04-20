@@ -1,0 +1,7 @@
+Joseph Cornell: Wanderlust
+# uid            : 20141016192845
+# dt-created     : 2014-10-16 19:28:45 GMT
+# link           : http://www.khm.at/en/visit/exhibitions/joseph-cornell-wanderlust/
+# event-dt-begin : 2015-10-20
+# event-dt-end   : 2016-01-10
+# event-location : Kunsthistorisches Museum, Wien

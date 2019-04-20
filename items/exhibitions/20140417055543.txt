@@ -1,0 +1,7 @@
+Henri Cartier Bresson
+# uid            : 20140417055543
+# dt-created     : 2014-04-17 05:55:43 GMT
+# link           : http://en.arapacis.it/mostre_ed_eventi/mostre/henri_cartier_bresson
+# event-dt-begin : 2014-09-26
+# event-dt-end   : 2015-01-25
+# event-location : Museo dell'Ara Pacis, Roma

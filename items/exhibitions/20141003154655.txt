@@ -1,0 +1,7 @@
+Marc Chagall. Una retrospettiva 1908–1985
+# uid            : 20141003154655
+# dt-created     : 2014-10-03 15:46:55 GMT
+# link           : http://www.mostrachagall.it/english-informations/
+# event-dt-begin : 2014-09-17
+# event-dt-end   : 2015-02-01
+# event-location : Palazzo Reale, Milano

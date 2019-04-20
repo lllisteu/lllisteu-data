@@ -1,0 +1,7 @@
+Alvar Aalto
+# uid            : 20140113111408
+# dt-created     : 2014-01-13 11:14:08 GMT
+# link           : http://www.design-museum.de/de/ausstellungen/aktuelle-ausstellungen.html
+# event-dt-begin : 2014-09-27
+# event-dt-end   : 2015-03-01
+# event-location : Vitra Design Museum, Weil am Rhein

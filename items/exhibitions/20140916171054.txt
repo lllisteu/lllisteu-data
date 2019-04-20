@@ -1,0 +1,7 @@
+The art of our time. Masterpieces from the Guggenheim Collections
+# uid            : 20140916171054
+# dt-created     : 2014-09-16 17:10:54 GMT
+# link           : http://www.guggenheim-bilbao.es/en/exhibitions/the-art-of-our-time-masterpieces-from-the-guggenheim-collections/
+# event-dt-begin : 2014-09-23
+# event-dt-end   : 2015-05-10
+# event-location : Guggenheim Museum, Bilbao

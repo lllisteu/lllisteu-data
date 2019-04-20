@@ -1,0 +1,7 @@
+William Blake: Apprentice and Master
+# uid            : 20140620071030
+# dt-created     : 2014-06-20 07:10:30 GMT
+# link           : http://www.ashmolean.org/exhibitions/williamblake/
+# event-dt-begin : 2014-12-04
+# event-dt-end   : 2015-03-01
+# event-location : Ashmolean Museum, Oxford

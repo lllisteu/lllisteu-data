@@ -1,0 +1,7 @@
+Sensing the Future – László Moholy-Nagy
+# uid            : 20141124223240
+# dt-created     : 2014-11-24 22:32:40 GMT
+# link           : http://www.bauhaus.de/de/ausstellungen/sonderausstellungen/339_sensing_the_future/
+# event-dt-begin : 2014-10-08
+# event-dt-end   : 2015-02-02
+# event-location : Bauhaus-Archiv, Berlin

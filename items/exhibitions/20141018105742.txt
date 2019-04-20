@@ -1,0 +1,7 @@
+Lee Miller – Retrospective
+# uid            : 20141018105742
+# dt-created     : 2014-10-18 10:57:42 GMT
+# link           : http://albertina.at/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&j-cc-node=item&j-cc-id=1411462061004&j-cc-item=ausstellungen&ausstellungen_id=1411462061004
+# event-dt-begin : 2015-05-08
+# event-dt-end   : 2015-08-16
+# event-location : Albertina, Wien

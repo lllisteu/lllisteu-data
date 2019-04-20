@@ -1,0 +1,7 @@
+RealSurreal – Masterpieces of Avant-Garde Photography
+# uid            : 20141206143459
+# dt-created     : 2014-12-06 14:34:59 GMT
+# link           : http://www.kunstmuseum-wolfsburg.de/1215/RealSurreal/
+# event-dt-begin : 2014-11-15
+# event-dt-end   : 2015-04-06
+# event-location : Kunstmuseum Wolfsburg

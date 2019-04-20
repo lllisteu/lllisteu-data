@@ -1,0 +1,7 @@
+Paula Modersohn-Becker
+# uid            : 20140613050819
+# dt-created     : 2014-06-13 05:08:19 GMT
+# link           : http://en.louisiana.dk/exhibition/paula-modersohn-becker
+# event-dt-begin : 2014-12-05
+# event-dt-end   : 2015-04-06
+# event-location : Louisiana Museum of Modern Art, Humlebæk

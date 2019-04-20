@@ -1,0 +1,7 @@
+Joan Miró – Wall, Frieze, Mural
+# uid            : 20141122084538
+# dt-created     : 2014-11-22 08:45:38 GMT
+# link           : http://www.kunsthaus.ch/miro/en
+# event-dt-begin : 2015-10-02
+# event-dt-end   : 2016-01-24
+# event-location : Kunsthaus Zürich

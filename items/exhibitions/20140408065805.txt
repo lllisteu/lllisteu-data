@@ -1,0 +1,7 @@
+Yoko Ono
+# uid            : 20140408065805
+# dt-created     : 2014-04-08 06:58:05 GMT
+# link           : http://yokoono.guggenheim-bilbao.es/en/
+# event-dt-begin : 2014-03-14
+# event-dt-end   : 2014-09-04
+# event-location : Guggenheim Museum, Bilbao

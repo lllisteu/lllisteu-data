@@ -1,0 +1,7 @@
+Bill Viola
+# uid            : 20140414092702
+# dt-created     : 2014-04-14 09:27:02 GMT
+# link           : http://www.grandpalais.fr/fr/evenement/bill-viola
+# event-dt-begin : 2014-03-05
+# event-dt-end   : 2014-07-21
+# event-location : Grand Palais, Paris

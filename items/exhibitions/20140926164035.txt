@@ -1,0 +1,7 @@
+Panamarenko Universum
+# uid            : 20140926164035
+# dt-created     : 2014-09-26 16:40:35 GMT
+# link           : http://www.muhka.be/nl/toont/event/3195/PANAMARENKO-UNIVERSUM
+# event-dt-begin : 2014-10-03
+# event-dt-end   : 2015-03-29
+# event-location : M HKA, Antwerpen

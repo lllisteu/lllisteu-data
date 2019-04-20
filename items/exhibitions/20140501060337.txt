@@ -1,0 +1,7 @@
+Global exchange: astrazione geometrica dal 1950
+# uid            : 20140501060337
+# dt-created     : 2014-05-01 06:03:37 GMT
+# link           : http://museomacro.org/it/global-exchange-astrazione-geometrica-dal-1950
+# event-dt-begin : 2014-05-07
+# event-dt-end   : 2014-09-14
+# event-location : Museo d’Arte Contemporanea di Roma

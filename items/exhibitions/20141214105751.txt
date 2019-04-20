@@ -1,0 +1,7 @@
+Conflict, Time, Photography
+# uid            : 20141214105751
+# dt-created     : 2014-12-14 10:57:51 GMT
+# link           : http://www.museum-folkwang.de/en/exhibitions/future-exhibitions/conflict-time-photgraphy.html
+# event-dt-begin : 2015-04-10
+# event-dt-end   : 2015-07-05
+# event-location : Museum Folkwang, Essen

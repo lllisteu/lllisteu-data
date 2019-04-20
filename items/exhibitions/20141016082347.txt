@@ -1,0 +1,7 @@
+Canaletto, Rome-London-Venice
+# uid            : 20141016082347
+# dt-created     : 2014-10-16 08:23:47 GMT
+# link           : http://www.hoteldecaumont.com/en/events/canaletto-rome-london-venice
+# event-dt-begin : 2015-05-06
+# event-dt-end   : 2015-09-13
+# event-location : Hôtel de Caumont, Aix-en-Provence

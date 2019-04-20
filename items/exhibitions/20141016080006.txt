@@ -1,0 +1,7 @@
+Paul Durand-Ruel, the gamble of the Impressionists
+# uid            : 20141016080006
+# dt-created     : 2014-10-16 08:00:06 GMT
+# link           : http://en.museeduluxembourg.fr/paul-durand-ruel-gamble-impressionists
+# event-dt-begin : 2014-10-09
+# event-dt-end   : 2015-02-08
+# event-location : Musée du Luxembourg, Paris

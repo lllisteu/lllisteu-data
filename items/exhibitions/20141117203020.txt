@@ -1,0 +1,7 @@
+Lucian Freud
+# uid            : 20141117203020
+# dt-created     : 2014-11-17 20:30:20 GMT
+# link           : http://en.louisiana.dk/exhibition/lucian-freud
+# event-dt-begin : 2015-09-03
+# event-dt-end   : 2015-11-29
+# event-location : Louisiana Museum of Modern Art, Humlebæk

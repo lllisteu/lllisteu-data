@@ -1,0 +1,7 @@
+Richard Mosse
+# uid            : 20141117202745
+# dt-created     : 2014-11-17 20:27:45 GMT
+# link           : http://en.louisiana.dk/exhibition/richard-mosse
+# event-dt-begin : 2015-02-05
+# event-dt-end   : 2015-05-25
+# event-location : Louisiana Museum of Modern Art, Humlebæk

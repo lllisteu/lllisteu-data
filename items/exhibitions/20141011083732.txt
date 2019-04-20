@@ -1,0 +1,7 @@
+Anselm Kiefer
+# uid            : 20141011083732
+# dt-created     : 2014-10-11 08:37:32 GMT
+# link           : http://www.royalacademy.org.uk/exhibition/anselm-kiefer
+# event-dt-begin : 2014-09-27
+# event-dt-end   : 2014-12-14
+# event-location : Royal Academy of Arts, London

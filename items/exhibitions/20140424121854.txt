@@ -1,0 +1,7 @@
+Seurat
+# uid            : 20140424121854
+# dt-created     : 2014-04-24 12:18:54 GMT
+# link           : http://seurat.krollermuller.nl/georges-seurat
+# event-dt-begin : 2014-05-23
+# event-dt-end   : 2014-09-07
+# event-location : Kröller-Müller Museum, Otterlo

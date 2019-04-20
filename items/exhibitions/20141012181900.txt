@@ -1,0 +1,7 @@
+Louise Bourgeois
+# uid            : 20141012181900
+# dt-created     : 2014-10-12 18:19:00 GMT
+# link           : http://www.modernamuseet.se/en/Stockholm/Exhibitions/2015/Louise-Bourgeois/
+# event-dt-begin : 2015-02-14
+# event-dt-end   : 2015-05-17
+# event-location : Moderna Museet, Stockholm

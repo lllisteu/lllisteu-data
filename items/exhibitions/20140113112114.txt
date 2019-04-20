@@ -1,0 +1,7 @@
+Peter Doig
+# uid            : 20140113112114
+# dt-created     : 2014-01-13 11:21:14 GMT
+# link           : http://www.fondationbeyeler.ch/en/exhibitions/peter-doig/introduction
+# event-dt-begin : 2014-11-23
+# event-dt-end   : 2015-03-22
+# event-location : Fondation Beyeler, Basel

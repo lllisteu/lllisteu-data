@@ -1,0 +1,7 @@
+Memling. Rinascimento fiammingo
+# uid            : 20141201144454
+# dt-created     : 2014-12-01 14:44:54 GMT
+# link           : http://english.scuderiequirinale.it/categorie/memling-e-l-italia-exhibition
+# event-dt-begin : 2014-10-11
+# event-dt-end   : 2015-01-18
+# event-location : Scuderie del Quirinale, Roma

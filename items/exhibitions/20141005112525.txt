@@ -1,0 +1,7 @@
+Tracey Emin – The Last Great Adventure is You
+# uid            : 20141005112525
+# dt-created     : 2014-10-05 11:25:25 GMT
+# link           : http://whitecube.com/exhibitions/tracey_emin_the_last_great_adventure_is_you_bermondsey_2014/
+# event-dt-begin : 2014-10-08
+# event-dt-end   : 2014-11-16
+# event-location : White Cube Bermondsey, London

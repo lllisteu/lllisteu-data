@@ -1,0 +1,7 @@
+Ai Weiwei
+# uid            : 20141011084303
+# dt-created     : 2014-10-11 08:43:03 GMT
+# link           : http://www.royalacademy.org.uk/exhibition/ai-weiwei
+# event-dt-begin : 2015-09-19
+# event-dt-end   : 2015-12-13
+# event-location : Royal Academy of Arts, London

@@ -1,0 +1,7 @@
+Rubens and His Legacy
+# uid            : 20141001104247
+# dt-created     : 2014-10-01 10:42:47 GMT
+# link           : http://www.royalacademy.org.uk/exhibition/rubens-and-his-legacy
+# event-dt-begin : 2015-01-24
+# event-dt-end   : 2015-04-10
+# event-location : Royal Academy of Arts, London

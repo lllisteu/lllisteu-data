@@ -1,0 +1,7 @@
+Klein Fontana: Milano Parigi 1957-1962
+# uid            : 20141003155954
+# dt-created     : 2014-10-03 15:59:54 GMT
+# link           : http://www.museodelnovecento.org/en/le-mostre/presente-menu
+# event-dt-begin : 2014-10-22
+# event-dt-end   : 2015-03-15
+# event-location : Museo del Novecento, Milano

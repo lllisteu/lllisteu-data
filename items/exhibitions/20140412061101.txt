@@ -1,0 +1,7 @@
+Sculpture After Sculpture
+# uid            : 20140412061101
+# dt-created     : 2014-04-12 06:11:01 GMT
+# link           : http://www.modernamuseet.se/en/Stockholm/Exhibitions/2014/Sculpture-After-Sculpture/
+# event-dt-begin : 2014-10-11
+# event-dt-end   : 2015-01-18
+# event-location : Moderna Museet, Stockholm

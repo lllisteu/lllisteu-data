@@ -1,0 +1,7 @@
+From the Guggenheim Collection
+# uid            : 20140405053053
+# dt-created     : 2014-04-05 05:30:53 GMT
+# link           : http://www.cobra-museum.nl/nl/tentoon.html
+# event-dt-begin : 2014-04-05
+# event-dt-end   : 2014-08-31
+# event-location : Cobra Museum, Amstelveen

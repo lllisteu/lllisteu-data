@@ -1,0 +1,7 @@
+Van Gogh & Co
+# uid            : 20140309075008
+# dt-created     : 2014-03-09 07:50:08 GMT
+# link           : http://krollermuller.nl/van-gogh-en-co
+# event-dt-begin : 2015-04-25
+# event-dt-end   : 2015-09-27
+# event-location : Kröller-Müller Museum, Otterlo

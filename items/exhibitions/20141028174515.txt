@@ -1,0 +1,7 @@
+Renato Guttuso – Painter of Modern Life
+# uid            : 20141028174515
+# dt-created     : 2014-10-28 17:45:15 GMT
+# link           : http://www.estorickcollection.com/exhibitions/
+# event-dt-begin : 2015-01-14
+# event-dt-end   : 2015-04-04
+# event-location : Estorick Collection, London

@@ -1,0 +1,7 @@
+The Sea - salut d'honneur Jan Hoet
+# uid            : 20141210110455
+# dt-created     : 2014-12-10 11:04:55 GMT
+# link           : http://muzee.be/en/muzee/t204250/the-sea-salut-d-honneur-jan-hoet
+# event-dt-begin : 2014-10-23
+# event-dt-end   : 2015-04-19
+# event-location : Mu.ZEE, Oostende

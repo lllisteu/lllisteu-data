@@ -1,0 +1,7 @@
+Oskar Schlemmer – Visionen einer neuen Welt
+# uid            : 20141014202958
+# dt-created     : 2014-10-14 20:29:58 GMT
+# link           : http://www.oskarschlemmer-stuttgart.de/en/exhibition/oskar-schlemmer---visions-of-a-new-world/
+# event-dt-begin : 2014-11-21
+# event-dt-end   : 2015-04-06
+# event-location : Staatsgalerie Stuttgart

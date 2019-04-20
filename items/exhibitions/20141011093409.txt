@@ -1,0 +1,7 @@
+Barbara Hepworth
+# uid            : 20141011093409
+# dt-created     : 2014-10-11 09:34:09 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-britain/exhibition/barbara-hepworth
+# event-dt-begin : 2015-06-24
+# event-dt-end   : 2015-10-25
+# event-location : Tate Britain, London

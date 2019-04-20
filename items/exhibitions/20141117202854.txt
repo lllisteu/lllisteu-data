@@ -1,0 +1,7 @@
+Jeff Wall
+# uid            : 20141117202854
+# dt-created     : 2014-11-17 20:28:54 GMT
+# link           : http://en.louisiana.dk/exhibition/jeff-wall
+# event-dt-begin : 2015-03-12
+# event-dt-end   : 2015-06-21
+# event-location : Louisiana Museum of Modern Art, Humlebæk

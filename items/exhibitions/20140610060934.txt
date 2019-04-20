@@ -1,0 +1,7 @@
+Conflict, Time, Photography
+# uid            : 20140610060934
+# dt-created     : 2014-06-10 06:09:34 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/conflict-time-photography
+# event-dt-begin : 2014-11-26
+# event-dt-end   : 2015-03-15
+# event-location : Tate Modern, London

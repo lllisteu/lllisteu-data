@@ -1,0 +1,7 @@
+Mathias Goeritz
+# uid            : 20141006065343
+# dt-created     : 2014-10-06 06:53:43 GMT
+# link           : http://www.museoreinasofia.es/en/exhibitions/mathias-goeritz
+# event-dt-begin : 2014-11-12
+# event-dt-end   : 2015-04-13
+# event-location : Museo Nacional Centro de Arte Reina Sofía, Madrid

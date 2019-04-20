@@ -1,0 +1,7 @@
+Brancusi, Rosso, Man Ray – Framing Sculpture
+# uid            : 20140419080018
+# dt-created     : 2014-04-19 08:00:18 GMT
+# link           : http://www.boijmans.nl/en/7/kalender/calendaritem/1363/brancusi-rosso-man-ray
+# event-dt-begin : 2014-02-08
+# event-dt-end   : 2014-05-25
+# event-location : Museum Boijmans Van Beuningen, Rotterdam

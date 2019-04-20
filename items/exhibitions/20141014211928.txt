@@ -1,0 +1,7 @@
+Jackson Pollock: Blind Spots
+# uid            : 20141014211928
+# dt-created     : 2014-10-14 21:19:28 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/jackson-pollock-blind-spots
+# event-dt-begin : 2015-06-30
+# event-dt-end   : 2015-10-18
+# event-location : Tate Liverpool

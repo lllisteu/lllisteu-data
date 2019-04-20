@@ -1,0 +1,7 @@
+Ber­nard Schultze. A Cen­ten­nial Ex­hi­bi­tion
+# uid            : 20141223104018
+# dt-created     : 2014-12-23 10:40:18 GMT
+# link           : http://www.museum-ludwig.de/en/exhibitions/bernard-schultze.html
+# event-dt-begin : 2015-05-30
+# event-dt-end   : 2015-11-22
+# event-location : Museum Ludwig, Köln

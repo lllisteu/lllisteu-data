@@ -1,0 +1,7 @@
+Zero
+# uid            : 20140929090625
+# dt-created     : 2014-09-29 09:06:25 GMT
+# link           : http://www.stedelijk.nl/en/exhibitions/zero-let-us-explore-the-stars
+# event-dt-begin : 2015-07-04
+# event-dt-end   : 2015-11-08
+# event-location : Stedelijk Museum, Amsterdam

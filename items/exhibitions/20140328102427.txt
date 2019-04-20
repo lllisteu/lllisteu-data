@@ -1,0 +1,7 @@
+Monet, Gauguin, van Gogh – Japanese Inspirations
+# uid            : 20140328102427
+# dt-created     : 2014-03-28 10:24:27 GMT
+# link           : http://www.museum-folkwang.de/en/exhibitions/future-exhibitions/japanese-inspirations.html?desktop=ejlljzfk
+# event-dt-begin : 2014-09-27
+# event-dt-end   : 2015-01-18
+# event-location : Museum Folkwang, Essen

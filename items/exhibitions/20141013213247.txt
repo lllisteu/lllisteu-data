@@ -1,0 +1,7 @@
+The Botticelli Renaissance
+# uid            : 20141013213247
+# dt-created     : 2014-10-13 21:32:47 GMT
+# link           : http://www.botticelli-renaissance.de/en/
+# event-dt-begin : 2015-09-24
+# event-dt-end   : 2016-01-24
+# event-location : Gemäldegalerie, Berlin

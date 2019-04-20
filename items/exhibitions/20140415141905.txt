@@ -1,0 +1,7 @@
+To Egypt! The Travels of Max Slevogt and Paul Klee
+# uid            : 20140415141905
+# dt-created     : 2014-04-15 14:19:05 GMT
+# link           : http://www.skd.museum/en/special-exhibitions/to-egypt-the-travels-of-max-slevogt-and-paul-klee/index.html
+# event-dt-begin : 2014-04-30
+# event-dt-end   : 2014-08-03
+# event-location : Galerie Neue Meister, Dresden

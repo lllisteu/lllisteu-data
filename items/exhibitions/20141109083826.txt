@@ -1,0 +1,7 @@
+Constable: The Making of a Master
+# uid            : 20141109083826
+# dt-created     : 2014-11-09 08:38:26 GMT
+# link           : http://www.vam.ac.uk/whatson/event/3388/constable-the-making-of-a-master-4832/
+# event-dt-begin : 2014-09-20
+# event-dt-end   : 2015-01-11
+# event-location : Victoria and Albert Museum, London

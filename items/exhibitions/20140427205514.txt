@@ -1,0 +1,7 @@
+Rubens privé
+# uid            : 20140427205514
+# dt-created     : 2014-04-27 20:55:14 GMT
+# link           : http://www.rubenshuis.be/Museum_Rubenshuis_NL/RubenshuisNL/RubenshuisNL-Activiteiten/Activiteiten-Evenementen-NL/Evenementen-NL-Activiteiten/Activiteiten-Expo/Rubens-prive.html
+# event-dt-begin : 2015-03-28
+# event-dt-end   : 2015-06-28
+# event-location : Rubenshuis, Antwerpen
