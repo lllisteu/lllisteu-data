@@ -1,0 +1,7 @@
+Henry Moore
+# uid            : 20150120091529
+# dt-created     : 2015-01-20 09:15:29 GMT
+# link           : http://www.zpk.org/en/exhibitions/current/henry-moore-967.html
+# event-dt-begin : 2015-01-30
+# event-dt-end   : 2015-05-25
+# event-location : Zentrum Paul Klee, Bern

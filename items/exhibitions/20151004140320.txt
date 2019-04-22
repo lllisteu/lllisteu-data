@@ -1,0 +1,7 @@
+Georges de La Tour
+# uid            : 20151004140320
+# dt-created     : 2015-10-04 14:03:20 GMT
+# link           : https://www.museodelprado.es/en/whats-on/exhibition/georges-de-la-tour/369d61b8-c430-4c43-9f51-8ed8995aa949
+# event-dt-begin : 2016-02-23
+# event-dt-end   : 2016-06-12
+# event-location : Museo Nacional del Prado, Madrid

@@ -1,0 +1,7 @@
+Gilbert & George – The Banners
+# uid            : 20151125154658
+# dt-created     : 2015-11-25 15:46:58 GMT
+# link           : http://whitecube.com/exhibitions/gilbert_george_9x9x9_bermondsey_2015/
+# event-dt-begin : 2015-11-25
+# event-dt-end   : 2016-01-24
+# event-location : White Cube Bermondsey, London

@@ -1,0 +1,7 @@
+White Fire. The Kunstmuseum Basel Modern Collection
+# uid            : 20150211094413
+# dt-created     : 2015-02-11 09:44:13 GMT
+# link           : http://www.museoreinasofia.es/en/exhibitions/kunstmuseum-basel-collection
+# event-dt-begin : 2015-03-18
+# event-dt-end   : 2015-09-14
+# event-location : Museo Nacional Centro de Arte Reina Sofía, Madrid

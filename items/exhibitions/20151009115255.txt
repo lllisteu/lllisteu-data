@@ -1,0 +1,7 @@
+Hanne Darboven
+# uid            : 20151009115255
+# dt-created     : 2015-10-09 11:52:55 GMT
+# link           : http://www.bundeskunsthalle.de/en/exhibitions/hanne-darboven.html
+# event-dt-begin : 2015-09-11
+# event-dt-end   : 2016-01-17
+# event-location : Bundeskunsthalle, Bonn

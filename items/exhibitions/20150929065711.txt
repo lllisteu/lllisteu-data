@@ -1,0 +1,7 @@
+Wifredo Lam
+# uid            : 20150929065711
+# dt-created     : 2015-09-29 06:57:11 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/ey-exhibition-wifredo-lam
+# event-dt-begin : 2016-09-14
+# event-dt-end   : 2017-01-08
+# event-location : Tate Modern, London

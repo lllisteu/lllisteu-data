@@ -1,0 +1,7 @@
+Who's Afraid of Women Photographers? 1839-1919
+# uid            : 20150120090445
+# dt-created     : 2015-01-20 09:04:45 GMT
+# link           : http://www.musee-orangerie.fr/en/event/whos-afraid-women-photographers-1839-1919
+# event-dt-begin : 2015-10-14
+# event-dt-end   : 2016-01-24
+# event-location : Musée de l'Orangerie, Paris

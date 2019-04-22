@@ -1,0 +1,7 @@
+Masterworks in Dialogue
+# uid            : 20150112090834
+# dt-created     : 2015-01-12 09:08:34 GMT
+# link           : http://www.staedelmuseum.de/en/exhibitions/masterworks-dialogue
+# event-dt-begin : 2015-10-07
+# event-dt-end   : 2016-01-24
+# event-location : Städel Museum, Frankfurt

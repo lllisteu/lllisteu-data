@@ -1,0 +1,7 @@
+Philippe Halsman
+# uid            : 20150209193910
+# dt-created     : 2015-02-09 19:39:10 GMT
+# link           : http://www.jeudepaume.org/index.php?page=article&idArt=2279
+# event-dt-begin : 2015-10-20
+# event-dt-end   : 2016-01-24
+# event-location : Jeu de Paume, Paris

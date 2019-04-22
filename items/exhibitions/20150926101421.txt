@@ -1,0 +1,7 @@
+Jean-Etienne Liotard
+# uid            : 20150926101421
+# dt-created     : 2015-09-26 10:14:21 GMT
+# link           : https://www.royalacademy.org.uk/exhibition/jean-etienne-liotard
+# event-dt-begin : 2015-10-24
+# event-dt-end   : 2016-01-31
+# event-location : Royal Academy of Arts, London

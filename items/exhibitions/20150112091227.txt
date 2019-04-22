@@ -1,0 +1,7 @@
+Artists and Prophets. A Secret History of Modern Art 1872-1972
+# uid            : 20150112091227
+# dt-created     : 2015-01-12 09:12:27 GMT
+# link           : http://www.schirn.de/en/ARTISTS_PROPHETS.html
+# event-dt-begin : 2015-03-06
+# event-dt-end   : 2015-06-14
+# event-location : Schirn Kunsthalle, Frankfurt

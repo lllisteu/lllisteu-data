@@ -1,0 +1,7 @@
+Paul Klee – Sonderklasse, Unverkäuflich
+# uid            : 20150112083849
+# dt-created     : 2015-01-12 08:38:49 GMT
+# link           : http://www.mdbk.de/ausstellungen/archiv/2015/paul-klee-sonderklasse-unverkaeuflich/
+# event-dt-begin : 2015-03-01
+# event-dt-end   : 2015-05-25
+# event-location : Museum der bildenden Künste Leipzig

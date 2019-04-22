@@ -1,0 +1,7 @@
+Francis Bacon – Invisible Rooms
+# uid            : 20151115113548
+# dt-created     : 2015-11-15 11:35:48 GMT
+# link           : http://www.staatsgalerie.de/ausstellung_e/vorabinfo.php?id=120
+# event-dt-begin : 2016-10-07
+# event-dt-end   : 2017-01-08
+# event-location : Staatsgalerie Stuttgart

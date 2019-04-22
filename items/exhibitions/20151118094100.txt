@@ -1,0 +1,7 @@
+Alex Katz – This Is Now
+# uid            : 20151118094100
+# dt-created     : 2015-11-18 09:41:00 GMT
+# link           : http://alexkatz.guggenheim-bilbao.es/en/
+# event-dt-begin : 2015-10-23
+# event-dt-end   : 2016-02-07
+# event-location : Museo Guggenheim, Bilbao

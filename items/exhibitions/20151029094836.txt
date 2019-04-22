@@ -1,0 +1,7 @@
+Heinz Mack. Apollo in my studio
+# uid            : 20151029094836
+# dt-created     : 2015-10-29 09:48:36 GMT
+# link           : http://www.museum-kueppersmuehle.de/en/exhibitions/upcoming-exhibitions/mack-apollo-in-my-studio/
+# event-dt-begin : 2015-10-22
+# event-dt-end   : 2016-01-31
+# event-location : Museum Küppersmühle, Duisburg

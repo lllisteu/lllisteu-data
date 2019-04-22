@@ -1,0 +1,7 @@
+0,10 – The Last Futurist Exhibition of Painting
+# uid            : 20150105082534
+# dt-created     : 2015-01-05 08:25:34 GMT
+# link           : http://www.fondationbeyeler.ch/en/exhibitions/search-010
+# event-dt-begin : 2015-10-04
+# event-dt-end   : 2016-01-10
+# event-location : Fondation Beyeler, Basel

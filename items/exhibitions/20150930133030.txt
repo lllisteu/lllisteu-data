@@ -1,0 +1,7 @@
+Wifredo Lam
+# uid            : 20150930133030
+# dt-created     : 2015-09-30 13:30:30 GMT
+# link           : https://www.centrepompidou.fr/cpv/ressource.action?param.id=FR_R-4928938cb2b3cf621fb6696c5f885cb&param.idSource=FR_E-54c521ec366fe8c71d9f99a117747e
+# event-dt-begin : 2015-09-30
+# event-dt-end   : 2016-02-15
+# event-location : Centre Pompidou, Paris

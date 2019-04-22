@@ -1,0 +1,7 @@
+Modigliani
+# uid            : 20150116200710
+# dt-created     : 2015-01-16 20:07:10 GMT
+# link           : http://www.estorickcollection.com/exhibitions/
+# event-dt-begin : 2015-04-15
+# event-dt-end   : 2015-06-28
+# event-location : Estorick Collection, London

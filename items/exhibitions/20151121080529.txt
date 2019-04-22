@@ -1,0 +1,7 @@
+Eye Attack – Op Art 1950-1970
+# uid            : 20151121080529
+# dt-created     : 2015-11-21 08:05:29 GMT
+# link           : http://en.louisiana.dk/exhibition/eye-attack
+# event-dt-begin : 2016-02-04
+# event-dt-end   : 2016-06-05
+# event-location : Louisiana Museum of Modern Art, Humlebæk

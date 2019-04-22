@@ -1,0 +1,7 @@
+Monet and the Birth of Impressionism
+# uid            : 20150112090434
+# dt-created     : 2015-01-12 09:04:34 GMT
+# link           : http://www.staedelmuseum.de/en/exhibitions/monet
+# event-dt-begin : 2015-03-11
+# event-dt-end   : 2015-06-21
+# event-location : Städel Museum, Frankfurt

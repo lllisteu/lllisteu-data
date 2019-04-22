@@ -1,0 +1,7 @@
+Abstract Expressionism
+# uid            : 20151109102200
+# dt-created     : 2015-11-09 10:22:00 GMT
+# link           : https://www.royalacademy.org.uk/exhibition/abstract-expressionism
+# event-dt-begin : 2016-09-24
+# event-dt-end   : 2017-01-02
+# event-location : Royal Academy of Arts, London

@@ -1,0 +1,7 @@
+ZERO
+# uid            : 20150412144210
+# dt-created     : 2015-04-12 14:42:10 GMT
+# link           : http://www.berlinerfestspiele.de/en/aktuell/festivals/gropiusbau/programm_mgb/mgb15_zero/ausstellung_zero/veranstaltungsdetail_mgb15_zero_109717.php
+# event-dt-begin : 2015-03-21
+# event-dt-end   : 2015-06-08
+# event-location : Martin-Gropius-Bau, Berlin

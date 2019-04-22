@@ -1,0 +1,7 @@
+Picasso Mania
+# uid            : 20150219202136
+# dt-created     : 2015-02-19 20:21:36 GMT
+# link           : http://www.grandpalais.fr/fr/evenement/picassomania
+# event-dt-begin : 2015-10-07
+# event-dt-end   : 2016-02-29
+# event-location : Grand Palais, Paris

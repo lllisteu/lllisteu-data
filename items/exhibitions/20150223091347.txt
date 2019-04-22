@@ -1,0 +1,7 @@
+Marc Chagall – Love and Life
+# uid            : 20150223091347
+# dt-created     : 2015-02-23 09:13:47 GMT
+# link           : http://chiostrodelbramante.it/info/marc_chagall_love_and_life/
+# event-dt-begin : 2015-03-16
+# event-dt-end   : 2015-07-26
+# event-location : Chiostro del Bramante, Roma

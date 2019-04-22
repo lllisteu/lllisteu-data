@@ -1,0 +1,7 @@
+A Rush of Color – Masterpieces of German Expressionism
+# uid            : 20151001191148
+# dt-created     : 2015-10-01 19:11:48 GMT
+# link           : http://www.leopoldmuseum.org/en/exhibitions/67/a-rush-of-color
+# event-dt-begin : 2015-10-09
+# event-dt-end   : 2016-01-11
+# event-location : Leopold Museum, Wien

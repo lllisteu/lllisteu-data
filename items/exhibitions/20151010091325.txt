@@ -1,0 +1,7 @@
+Surrealism in Boijmans
+# uid            : 20151010091325
+# dt-created     : 2015-10-10 09:13:25 GMT
+# link           : http://www.boijmans.nl/en/7/calendar-exhibitions/calendaritem/1786/surrealism-in-boijmans
+# event-dt-begin : 2017-02-11
+# event-dt-end   : 2017-05-28
+# event-location : Museum Boijmans Van Beuningen, Rotterdam

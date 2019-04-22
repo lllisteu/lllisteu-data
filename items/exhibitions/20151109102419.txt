@@ -1,0 +1,7 @@
+David Hockney RA: 79 Portraits and 2 Still Lifes
+# uid            : 20151109102419
+# dt-created     : 2015-11-09 10:24:19 GMT
+# link           : https://www.royalacademy.org.uk/exhibition/david-hockney-portraits
+# event-dt-begin : 2016-07-02
+# event-dt-end   : 2016-10-02
+# event-location : Royal Academy of Arts, London

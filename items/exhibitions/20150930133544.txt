@@ -1,0 +1,7 @@
+Karel Appel
+# uid            : 20150930133544
+# dt-created     : 2015-09-30 13:35:44 GMT
+# link           : https://www.centrepompidou.fr/cpv/ressource.action?param.id=FR_R-a7b781492ce8aace2098511dd2c935d&param.idSource=FR_E-a7b781492ce8aace2098511dd2c935d&param.seance=seance
+# event-dt-begin : 2015-10-21
+# event-dt-end   : 2016-01-11
+# event-location : Centre Pompidou, Paris

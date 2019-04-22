@@ -1,0 +1,7 @@
+Fantastic ! Kuniyoshi, demon of prints
+# uid            : 20151114123726
+# dt-created     : 2015-11-14 12:37:26 GMT
+# link           : http://petitpalais.paris.fr/en/expositions/fantastic-kuniyoshi-demon-prints
+# event-dt-begin : 2015-10-01
+# event-dt-end   : 2016-01-17
+# event-location : Petit Palais, Paris
