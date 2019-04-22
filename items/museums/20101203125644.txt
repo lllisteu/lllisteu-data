@@ -1,0 +1,10 @@
+Dulwich Picture Gallery
+# uid            : 20101203125644
+# dt-created     : 2010-12-03 11:56:44 GMT
+# tags           : art,London
+# link           : http://www.dulwichpicturegallery.org.uk/
+# wikipedia      : en:Dulwich Picture Gallery
+# lat            : 51.446111
+# lon            : -0.086389
+# twitter-handle : DulwichGallery
+# isa            : museum

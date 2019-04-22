@@ -1,0 +1,10 @@
+The National Gallery
+# uid            : 20101109095224
+# dt-created     : 2010-11-09 08:52:24 GMT
+# tags           : London,art
+# link           : http://www.nationalgallery.org.uk/
+# wikipedia      : en:National Gallery
+# lat            : 51.5086
+# lon            : -0.1283
+# twitter-handle : NationalGallery
+# isa            : museum

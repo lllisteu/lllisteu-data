@@ -1,0 +1,10 @@
+Tate Modern
+# uid            : 20101109102518
+# dt-created     : 2010-11-09 09:25:18 GMT
+# tags           : London,art
+# link           : http://www.tate.org.uk/modern
+# wikipedia      : en:Tate Modern
+# lat            : 51.507905
+# lon            : -0.099352
+# twitter-handle : Tate
+# isa            : museum
