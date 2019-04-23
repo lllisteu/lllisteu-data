@@ -1,0 +1,7 @@
+Dorothea Lange
+# uid            : 20180205100340
+# dt-created     : 2018-02-05 10:03:40 GMT
+# event-dt-begin : 2018-10-16
+# event-dt-end   : 2019-01-27
+# event-location : Jeu de Paume, Paris
+# link           : http://www.jeudepaume.org/index.php?page=article&idArt=3059

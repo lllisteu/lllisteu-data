@@ -1,0 +1,7 @@
+Mary Cassatt
+# uid            : 20180129110446
+# dt-created     : 2018-01-29 11:04:46 GMT
+# event-dt-begin : 2018-03-09
+# event-dt-end   : 2018-07-23
+# event-location : Musée Jacquemart-André, Paris
+# link           : http://www.musee-jacquemart-andre.com/fr/mary-cassatt

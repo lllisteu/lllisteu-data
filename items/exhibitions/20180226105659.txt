@@ -1,0 +1,7 @@
+Martha Stettler
+# uid            : 20180226105659
+# dt-created     : 2018-02-26 10:56:59 GMT
+# event-dt-begin : 2018-05-04
+# event-dt-end   : 2018-07-29
+# event-location : Kunstmuseum Bern
+# link           : https://www.kunstmuseumbern.ch/en/see/today/739-martha-stettler-120.html

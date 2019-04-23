@@ -1,0 +1,7 @@
+Wilderness
+# uid            : 20180122085259
+# dt-created     : 2018-01-22 08:52:59 GMT
+# event-dt-begin : 2018-11-01
+# event-dt-end   : 2019-01-27
+# event-location : Schirn Kunsthalle, Frankfurt
+# link           : http://www.schirn.de/en/exhibitions/2018/wildnis/

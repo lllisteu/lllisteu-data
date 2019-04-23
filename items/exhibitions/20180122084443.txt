@@ -1,0 +1,7 @@
+Chagall. The Breakthrough Years
+# uid            : 20180122084443
+# dt-created     : 2018-01-22 08:44:43 GMT
+# event-dt-begin : 2018-06-01
+# event-dt-end   : 2018-09-02
+# event-location : Museo Guggenheim, Bilbao
+# link           : https://www.guggenheim-bilbao.eus/en/exhibitions/chagall-breakthrough-years-1911-1919/

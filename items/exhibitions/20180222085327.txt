@@ -1,0 +1,7 @@
+Die Novembergruppe
+# uid            : 20180222085327
+# dt-created     : 2018-02-22 08:53:27 GMT
+# event-dt-begin : 2018-11-09
+# event-dt-end   : 2019-03-11
+# event-location : Berlinische Galerie, Berlin
+# link           : https://www.berlinischegalerie.de/en/exhibitions/preview/novembergruppe/

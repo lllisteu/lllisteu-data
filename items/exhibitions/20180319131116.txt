@@ -1,0 +1,7 @@
+Foujita
+# uid            : 20180319131116
+# dt-created     : 2018-03-19 13:11:16 GMT
+# event-dt-begin : 2018-03-07
+# event-dt-end   : 2018-07-15
+# event-location : Musée Maillol, Paris
+# link           : http://www.museemaillol.com/en/node/1968

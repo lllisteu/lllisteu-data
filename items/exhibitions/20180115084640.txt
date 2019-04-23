@@ -1,0 +1,7 @@
+Murillo: The Self Portraits
+# uid            : 20180115084640
+# dt-created     : 2018-01-15 08:46:40 GMT
+# event-dt-begin : 2018-02-28
+# event-dt-end   : 2018-05-21
+# event-location : National Gallery, London
+# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/murillo-the-self-portraits

@@ -1,0 +1,7 @@
+Renoir father and son. Painting and cinema.
+# uid            : 20180115090630
+# dt-created     : 2018-01-15 09:06:30 GMT
+# event-dt-begin : 2018-11-06
+# event-dt-end   : 2019-01-27
+# event-location : Musée d'Orsay, Paris
+# link           : http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/renoir-pere-et-fils-47534.html?tx_ttnews%5BbackPid%5D=254&cHash=2f66806754

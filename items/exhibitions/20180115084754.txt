@@ -1,0 +1,7 @@
+Ed Ruscha: Course of Empire
+# uid            : 20180115084754
+# dt-created     : 2018-01-15 08:47:54 GMT
+# event-dt-begin : 2018-06-11
+# event-dt-end   : 2018-10-07
+# event-location : National Gallery, London
+# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/ed-ruscha-course-of-empire

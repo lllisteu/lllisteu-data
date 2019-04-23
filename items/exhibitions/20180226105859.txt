@@ -1,0 +1,7 @@
+Hodler: Parallelism
+# uid            : 20180226105859
+# dt-created     : 2018-02-26 10:58:59 GMT
+# event-dt-begin : 2018-09-14
+# event-dt-end   : 2019-01-13
+# event-location : Kunstmuseum Bern
+# link           : https://www.kunstmuseumbern.ch/en/see/today/740-hodlerparallelism-120.html

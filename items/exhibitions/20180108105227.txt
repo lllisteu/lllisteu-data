@@ -1,0 +1,7 @@
+Ed Ruscha
+# uid            : 20180108105227
+# dt-created     : 2018-01-08 10:52:27 GMT
+# event-dt-begin : 2018-05-17
+# event-dt-end   : 2018-08-19
+# event-location : Louisiana Museum of Modern Art, Humlebæk
+# link           : https://en.louisiana.dk/exhibition/ed-ruscha

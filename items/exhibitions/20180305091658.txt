@@ -1,0 +1,7 @@
+Paula Modersohn-Becker
+# uid            : 20180305091658
+# dt-created     : 2018-03-05 09:16:58 GMT
+# event-dt-begin : 2018-04-08
+# event-dt-end   : 2018-08-12
+# event-location : Rijksmuseum Twenthe, Enschede
+# link           : https://www.rijksmuseumtwenthe.nl/content/2123/nl/paula-modersohn-becker-tussen-worpswede-en-parijs

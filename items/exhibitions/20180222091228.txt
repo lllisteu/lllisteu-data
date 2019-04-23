@@ -1,0 +1,7 @@
+Italian Painting of the 1920s
+# uid            : 20180222091228
+# dt-created     : 2018-02-22 09:12:28 GMT
+# event-dt-begin : 2018-09-28
+# event-dt-end   : 2019-01-13
+# event-location : Museum Folkwang, Essen
+# link           : https://www.museum-folkwang.de/en/news/exhibitions/future-exhibitions/unheimlich-real.html

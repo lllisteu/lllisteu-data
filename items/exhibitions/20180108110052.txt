@@ -1,0 +1,7 @@
+Painting on Stone
+# uid            : 20180108110052
+# dt-created     : 2018-01-08 11:00:52 GMT
+# event-dt-begin : 2018-04-17
+# event-dt-end   : 2018-08-05
+# event-location : Museo Nacional del Prado, Madrid
+# link           : https://www.museodelprado.es/en/whats-on/exhibition/painting-on-stone/ef8ddd0c-f7c0-4e75-ba54-22b5af409ec7

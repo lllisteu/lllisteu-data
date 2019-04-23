@@ -1,0 +1,7 @@
+Etel Adnan
+# uid            : 20180312112141
+# dt-created     : 2018-03-12 11:21:41 GMT
+# event-dt-begin : 2018-06-15
+# event-dt-end   : 2018-10-07
+# event-location : Zentrum Paul Klee, Bern
+# link           : https://www.zpk.org/en/exhibitions/preview/etel-adnan-1609.html

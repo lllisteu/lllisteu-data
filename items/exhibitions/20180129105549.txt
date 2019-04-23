@@ -1,0 +1,7 @@
+The Enchanted Room: Modern Works from the Pinacoteca di Brera
+# uid            : 20180129105549
+# dt-created     : 2018-01-29 10:55:49 GMT
+# event-dt-begin : 2018-01-24
+# event-dt-end   : 2018-04-08
+# event-location : Estorick Collection, London
+# link           : http://www.estorickcollection.com/exhibitions/the-enchanted-room-modern-works-from-the-pinacoteca-di-brera

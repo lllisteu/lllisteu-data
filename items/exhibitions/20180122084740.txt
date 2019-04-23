@@ -1,0 +1,7 @@
+Alberto Giacometti: A Retrospective
+# uid            : 20180122084740
+# dt-created     : 2018-01-22 08:47:40 GMT
+# event-dt-begin : 2018-10-19
+# event-dt-end   : 2019-02-24
+# event-location : Museo Guggenheim, Bilbao
+# link           : https://www.guggenheim-bilbao.eus/en/exhibitions/alberto-giacometti-retrospective/

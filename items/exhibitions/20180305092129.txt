@@ -1,0 +1,7 @@
+A Chinese Journey – The Sigg Collection
+# uid            : 20180305092129
+# dt-created     : 2018-03-05 09:21:29 GMT
+# event-dt-begin : 2018-03-17
+# event-dt-end   : 2018-07-08
+# event-location : Noordbrabants Museum, 's Hertogenbosch
+# link           : http://www.hetnoordbrabantsmuseum.nl/bezoek/tentoonstellingen-activiteiten/tentoonstellingen/a-chinese-journey/

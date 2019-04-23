@@ -1,0 +1,7 @@
+Ernst Ludwig Kirchner: The Unknown Collection
+# uid            : 20180212114558
+# dt-created     : 2018-02-12 11:45:58 GMT
+# event-dt-begin : 2018-06-29
+# event-dt-end   : 2018-10-21
+# event-location : Staatsgalerie Stuttgart
+# link           : https://www.staatsgalerie.de/en/exhibitions/ernst-ludwig-kirchner-the-unknown-collection.html

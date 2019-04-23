@@ -1,0 +1,7 @@
+Victor Vasarely
+# uid            : 20180122083830
+# dt-created     : 2018-01-22 08:38:30 GMT
+# event-dt-begin : 2018-09-26
+# event-dt-end   : 2019-01-13
+# event-location : Städel Museum, Frankfurt
+# link           : http://www.staedelmuseum.de/en/exhibitions/victor-vasarely

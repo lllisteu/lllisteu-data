@@ -1,0 +1,7 @@
+The printed Image
+# uid            : 20180306072442
+# dt-created     : 2018-03-06 07:24:42 GMT
+# event-dt-begin : 2018-03-01
+# event-dt-end   : 2018-07-01
+# event-location : Museum für Ostasiatische Kunst, Köln
+# link           : http://www.museum-fuer-ostasiatische-kunst.de/The-printed-Image

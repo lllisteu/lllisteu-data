@@ -1,0 +1,7 @@
+Rubens. Painter of Sketches
+# uid            : 20180108105906
+# dt-created     : 2018-01-08 10:59:06 GMT
+# event-dt-begin : 2018-04-10
+# event-dt-end   : 2018-08-05
+# event-location : Museo Nacional del Prado, Madrid
+# link           : https://www.museodelprado.es/en/whats-on/exhibition/rubens-painter-of-sketches/608ff3ed-0823-40a4-bc5a-9a5cb634d8b0
