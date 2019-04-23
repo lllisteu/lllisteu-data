@@ -1,0 +1,7 @@
+Max Beckmann
+# uid            : 20170413062135
+# dt-created     : 2017-04-13 06:21:35 GMT
+# link           : http://www.kunsthalle-bremen.de/
+# event-dt-begin : 2017-09-30
+# event-dt-end   : 2018-02-04
+# event-location : Kunsthalle Bremen

@@ -1,0 +1,7 @@
+Japonismes / Impressionnismes
+# uid            : 20171120114846
+# dt-created     : 2017-11-20 11:48:46 GMT
+# event-dt-begin : 2018-03-30
+# event-dt-end   : 2018-07-15
+# event-location : Musée des impressionnismes, Giverny
+# link           : http://www.mdig.fr/fr/japonismes-impressionnismes

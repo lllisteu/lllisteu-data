@@ -1,0 +1,7 @@
+Les Hollandais à Paris, 1789-1914
+# uid            : 20171009101007
+# dt-created     : 2017-10-09 10:10:07 GMT
+# event-dt-begin : 2018-02-06
+# event-dt-end   : 2018-05-13
+# event-location : Petit Palais, Paris
+# link           : http://www.petitpalais.paris.fr/expositions/les-hollandais-paris-1789-1914

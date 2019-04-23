@@ -1,0 +1,7 @@
+Germaine Krull. Métal
+# uid            : 20171120112902
+# dt-created     : 2017-11-20 11:29:02 GMT
+# event-dt-begin : 2017-09-28
+# event-dt-end   : 2018-06-10
+# event-location : Pinakothek der Moderne, München
+# link           : https://www.pinakothek.de/ausstellungen/germaine-krull-metal

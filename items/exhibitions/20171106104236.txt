@@ -1,0 +1,7 @@
+Magritte – Dietrich – Vallotton. Visionary objectivity
+# uid            : 20171106104236
+# dt-created     : 2017-11-06 10:42:36 GMT
+# event-dt-begin : 2018-03-09
+# event-dt-end   : 2018-07-08
+# event-location : Kunsthaus Zürich
+# link           : http://www.kunsthaus.ch/en/exhibitions/coming-soon/visionary-objectivity/

@@ -1,0 +1,7 @@
+Du Jourdain au Congo
+# uid            : 20170107095330
+# dt-created     : 2017-01-07 09:53:30 GMT
+# link           : http://quaibranly.fr/en/exhibitions-and-events/at-the-museum/exhibitions/event-details/e/du-jourdain-au-congo-36839/
+# event-dt-begin : 2016-11-23
+# event-dt-end   : 2017-04-02
+# event-location : Musée du quai Branly, Paris

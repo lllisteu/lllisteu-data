@@ -1,0 +1,7 @@
+Max Liebermann and German Impressionism
+# uid            : 20170731055806
+# dt-created     : 2017-07-31 05:58:06 GMT
+# event-dt-begin : 2018-03-24
+# event-dt-end   : 2018-06-24
+# event-location : Gemeentemuseum, Den Haag
+# link           : https://www.gemeentemuseum.nl/en/exhibitions/max-liebermann

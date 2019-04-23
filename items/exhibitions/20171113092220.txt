@@ -1,0 +1,7 @@
+Picasso Ceramics
+# uid            : 20171113092220
+# dt-created     : 2017-11-13 09:22:20 GMT
+# event-dt-begin : 2018-02-01
+# event-dt-end   : 2018-05-27
+# event-location : Louisiana Museum of Modern Art, Humlebæk
+# link           : https://en.louisiana.dk/exhibition/picasso-ceramics

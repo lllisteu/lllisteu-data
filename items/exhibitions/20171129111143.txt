@@ -1,0 +1,7 @@
+Hans Baldung Grien
+# uid            : 20171129111143
+# dt-created     : 2017-11-29 11:11:43 GMT
+# event-dt-begin : 2019-11-30 
+# event-dt-end   : 2020-03-08
+# event-location : Staatliche Kunsthalle Karlsruhe
+# link           : http://www.kunsthalle-karlsruhe.de/de/ausstellungen/

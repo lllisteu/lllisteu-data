@@ -1,0 +1,7 @@
+Jean-François Millet, rétrospective
+# uid            : 20171023101839
+# dt-created     : 2017-10-23 10:18:39 GMT
+# event-dt-begin : 2017-10-13
+# event-dt-end   : 2018-01-22
+# event-location : Palais des Beaux Arts de Lille
+# link           : http://www.pba-lille.fr/Agenda/J.F.Millet-retrospective2

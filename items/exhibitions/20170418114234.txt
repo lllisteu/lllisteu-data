@@ -1,0 +1,7 @@
+René Magritte
+# uid            : 20170418114234
+# dt-created     : 2017-04-18 11:42:34 GMT
+# link           : http://www.schirn.de/ausstellungen/2017/rene_magritte/
+# event-dt-begin : 2017-02-10
+# event-dt-end   : 2017-06-05
+# event-location : Schirn Kunsthalle, Frankfurt

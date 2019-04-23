@@ -1,0 +1,7 @@
+Renaissance Venice
+# uid            : 20170529061034
+# dt-created     : 2017-05-29 06:10:34 GMT
+# link           : https://www.museothyssen.org/en/exposiciones/renaissance-venice
+# event-dt-begin : 2017-06-20
+# event-dt-end   : 2017-09-24
+# event-location : Museo Thyssen-Bornemisza, Madrid

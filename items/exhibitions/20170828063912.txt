@@ -1,0 +1,7 @@
+Jean Glibert. Peintre en bâtiment
+# uid            : 20170828063912
+# dt-created     : 2017-08-28 06:39:12 GMT
+# event-dt-begin : 2017-10-27
+# event-dt-end   : 2018-01-07
+# event-location : Palais des Beaux-Arts, Brussel
+# link           : http://www.bozar.be/en/activities/131526-jean-glibert-peintre-en-batiment

@@ -1,0 +1,7 @@
+True to Life: British Realist Painting in the 1920s and 1930s
+# uid            : 20170606064246
+# dt-created     : 2017-06-06 06:42:46 GMT
+# link           : https://www.nationalgalleries.org/exhibition/true-life-british-realist-painting-1920s-and-1930s
+# event-dt-begin : 2017-07-01
+# event-dt-end   : 2017-10-29
+# event-location : Scottish National Gallery, Edinburgh

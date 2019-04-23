@@ -1,0 +1,7 @@
+Canaletto & the Art of Venice
+# uid            : 20170425070958
+# dt-created     : 2017-04-25 07:09:58 GMT
+# link           : https://www.royalcollection.org.uk/whatson/event/813258/Canaletto-&-the-Art-of-Venice
+# event-dt-begin : 2017-05-19
+# event-dt-end   : 2017-11-12
+# event-location : The Queen's Gallery, Buckingham Palace, London

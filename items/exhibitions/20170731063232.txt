@@ -1,0 +1,7 @@
+Picasso 1932 – Love, Fame, Tragedy
+# uid            : 20170731063232
+# dt-created     : 2017-07-31 06:32:32 GMT
+# event-dt-begin : 2018-03-08
+# event-dt-end   : 2018-09-09
+# event-location : Tate Modern, London
+# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/ey-exhibition-picasso-1932-love-fame-tragedy

@@ -1,0 +1,7 @@
+Theodoor Van Loon
+# uid            : 20170828064312
+# dt-created     : 2017-08-28 06:43:12 GMT
+# event-dt-begin : 2018-10-10
+# event-dt-end   : 2019-01-13
+# event-location : Palais des Beaux-Arts, Brussel
+# link           : http://www.bozar.be/en/activities/126716-theodoor-van-loon

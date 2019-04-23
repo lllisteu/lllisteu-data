@@ -1,0 +1,7 @@
+Tobias Zielony - Haus der Jugend
+# uid            : 20170717061846
+# dt-created     : 2017-07-17 06:18:46 GMT
+# event-dt-begin : 2017-09-10
+# event-dt-end   : 2018-01-14
+# event-location : Von der Heydt-Kunsthalle, Wuppertal-Barmen
+# link           : http://www.von-der-heydt-kunsthalle.de/Vorschau.html

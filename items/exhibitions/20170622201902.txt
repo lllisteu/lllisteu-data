@@ -1,0 +1,7 @@
+Anita Albus - Die Kunst zu sehen
+# uid            : 20170622201902
+# dt-created     : 2017-06-22 20:19:02 GMT
+# link           : http://www.kunsthalle-kiel.de/de/ausstellungen/anita-albus
+# event-dt-begin : 2017-05-20
+# event-dt-end   : 2017-08-27
+# event-location : Kunsthalle zu Kiel, Kiel

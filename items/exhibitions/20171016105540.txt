@@ -1,0 +1,7 @@
+Geta Brătescu: Een atelier voor jezelf
+# uid            : 20171016105540
+# dt-created     : 2017-10-16 10:55:40 GMT
+# event-dt-begin : 2017-09-16
+# event-dt-end   : 2018-01-14
+# event-location : Museum voor Schone Kunsten, Gent
+# link           : https://www.mskgent.be/nl/tentoonstellingen/geta-bratescu-een-atelier-voor-jezelf

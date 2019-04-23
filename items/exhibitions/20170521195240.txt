@@ -1,0 +1,7 @@
+Jean-Michel Basquiat. New York City
+# uid            : 20170521195240
+# dt-created     : 2017-05-21 19:52:40 GMT
+# link           : http://www.chiostrodelbramante.it/post_mostra/jean-michel-basquiat-new-york-city/
+# event-dt-begin : 2017-03-24
+# event-dt-end   : 2017-07-30
+# event-location : Chiostro Del Bramante, Roma

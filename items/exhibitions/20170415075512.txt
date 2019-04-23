@@ -1,0 +1,7 @@
+10 American Artists: After Paul Klee
+# uid            : 20170415075512
+# dt-created     : 2017-04-15 07:55:12 GMT
+# link           : http://www.zpk.org/en/exhibitions/preview/10-american-artists-after-paul-klee-1415.html
+# event-dt-begin : 2017-09-15
+# event-dt-end   : 2018-01-07
+# event-location : Zentrum Paul Klee, Bern

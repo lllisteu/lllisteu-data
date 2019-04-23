@@ -1,0 +1,7 @@
+Erik Kessels & friends
+# uid            : 20170504211800
+# dt-created     : 2017-05-04 21:18:00 GMT
+# link           : http://www.nrw-forum.de/ausstellungen/erik-kessels
+# event-dt-begin : 2017-08-12
+# event-dt-end   : 2017-11-05
+# event-location : NRW-Forum, Düsseldorf

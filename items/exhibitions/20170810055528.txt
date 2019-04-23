@@ -1,0 +1,7 @@
+Lorenzo Lotto – Portraits
+# uid            : 20170810055528
+# dt-created     : 2017-08-10 05:55:28 GMT
+# event-dt-begin : 2018-11-05
+# event-dt-end   : 2019-02-10
+# event-location : National Gallery, London
+# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/lorenzo-lotto-portraits

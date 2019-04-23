@@ -1,0 +1,7 @@
+States of Mind
+# uid            : 20171106110447
+# dt-created     : 2017-11-06 11:04:47 GMT
+# event-dt-begin : 2018-03-03
+# event-dt-end   : 2018-06-10
+# event-location : Palazzo dei Diamanti, Ferrara
+# link           : http://www.palazzodiamanti.it/1615/states-of-mind

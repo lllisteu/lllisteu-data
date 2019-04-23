@@ -1,0 +1,7 @@
+Fernand Léger
+# uid            : 20170925092710
+# dt-created     : 2017-09-25 09:27:10 GMT
+# event-dt-begin : 2018-11-23
+# event-dt-end   : 2019-03-17
+# event-location : Tate Liverpool
+# link           : http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/fernand-leger

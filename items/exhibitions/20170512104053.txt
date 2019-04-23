@@ -1,0 +1,7 @@
+Florence and its Painters: from Giotto to Leonardo da Vinci
+# uid            : 20170512104053
+# dt-created     : 2017-05-12 10:40:53 GMT
+# link           : https://www.pinakothek.de/en/exhibitions/florence-and-its-painters-from-giotto-to-leonardo-da-vinci
+# event-dt-begin : 2018-10-18
+# event-dt-end   : 2019-01-27
+# event-location : Alte Pinakothek, München

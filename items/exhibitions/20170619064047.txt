@@ -1,0 +1,7 @@
+French Master Drawings
+# uid            : 20170619064047
+# dt-created     : 2017-06-19 06:40:47 GMT
+# link           : http://www.smb.museum/en/exhibitions/detail/rendezvous-die-franzoesischen-meisterzeichnungen-des-kupferstichkabinetts.html
+# event-dt-begin : 2018-12-07
+# event-dt-end   : 2019-03-03
+# event-location : Kupferstichkabinett, Berlin

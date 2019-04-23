@@ -1,0 +1,7 @@
+Georgiana Houghton – Hilma af Klint – Emma Kunz
+# uid            : 20171120112542
+# dt-created     : 2017-11-20 11:25:42 GMT
+# event-dt-begin : 2018-11-06
+# event-dt-end   : 2019-03-10
+# event-location : Lenbachhaus, München
+# link           : http://www.lenbachhaus.de/ausstellungen/vorschau-2018/georgiana-houghton-hilma-af-klint-emma-kunz/

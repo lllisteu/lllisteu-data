@@ -1,0 +1,7 @@
+The Water Lilies. The Abstract Art of New York and the last Monet
+# uid            : 20170821070300
+# dt-created     : 2017-08-21 07:03:00 GMT
+# event-dt-begin : 2018-04-13
+# event-dt-end   : 2018-08-20
+# event-location : Musée de l'Orangerie, Paris
+# link           : http://www.musee-orangerie.fr/en/event/water-lilies-abstract-art-new-york-and-last-monet

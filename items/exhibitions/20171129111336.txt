@@ -1,0 +1,7 @@
+Sean Scully
+# uid            : 20171129111336
+# dt-created     : 2017-11-29 11:13:36 GMT
+# event-dt-begin : 2018-03-24
+# event-dt-end   : 2018-08-05
+# event-location : Staatliche Kunsthalle Karlsruhe
+# link           : http://www.kunsthalle-karlsruhe.de/de/ausstellungen/

@@ -1,0 +1,7 @@
+Biennale di Venezia
+# uid            : 20170518095643
+# dt-created     : 2017-05-18 09:56:43 GMT
+# link           : http://www.labiennale.org/en/art/
+# event-dt-begin : 2017-05-13
+# event-dt-end   : 2017-11-26
+# event-location : Venezia

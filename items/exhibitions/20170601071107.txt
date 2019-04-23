@@ -1,0 +1,7 @@
+Albrecht Dürer
+# uid            : 20170601071107
+# dt-created     : 2017-06-01 07:11:07 GMT
+# link           : http://www.albertina.at/en/exhibitions/current?ausstellungen_id=1463659444750&j-cc-item=ausstellungen&j-cc-id=1463659444750&j-cc-node=item
+# event-dt-begin : 2019-09-20
+# event-dt-end   : 2020-01-06
+# event-location : Albertina, Wien

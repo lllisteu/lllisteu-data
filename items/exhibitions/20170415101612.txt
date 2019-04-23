@@ -1,0 +1,7 @@
+David Hockney. Portraits
+# uid            : 20170415101612
+# dt-created     : 2017-04-15 10:16:12 GMT
+# link           : https://www.guggenheim-bilbao.eus/en/exhibitions/david-hockney-portraits/
+# event-dt-begin : 2017-11-10
+# event-dt-end   : 2018-02-25
+# event-location : Museo Guggenheim, Bilbao

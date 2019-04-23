@@ -1,0 +1,7 @@
+Dada Africa, sources et influences extra-occidentales
+# uid            : 20170604095219
+# dt-created     : 2017-06-04 09:52:19 GMT
+# link           : http://www.musee-orangerie.fr/en/event/dada-africa-non-western-sources-and-influences
+# event-dt-begin : 2017-10-18
+# event-dt-end   : 2018-02-19
+# event-location : Musée de l'Orangerie, Paris

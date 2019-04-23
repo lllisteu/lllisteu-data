@@ -1,0 +1,7 @@
+Camille Pissarro
+# uid            : 20170508064817
+# dt-created     : 2017-05-08 06:48:17 GMT
+# link           : http://www.marmottan.fr/uk/Current_exhibition-musee-2576
+# event-dt-begin : 2017-02-23
+# event-dt-end   : 2017-07-16
+# event-location : Musée Marmottan Monet, Paris

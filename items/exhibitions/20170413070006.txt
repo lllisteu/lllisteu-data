@@ -1,0 +1,7 @@
+Bacon, Freud, and the London painters
+# uid            : 20170413070006
+# dt-created     : 2017-04-13 07:00:06 GMT
+# link           : http://en.aros.dk/visit-aros/calender/#exhibition
+# event-dt-begin : 2017-10-14
+# event-dt-end   : 2018-02-04
+# event-location : ARoS, Århus

@@ -1,0 +1,7 @@
+Basquiat: Boom for Real
+# uid            : 20170418112639
+# dt-created     : 2017-04-18 11:26:39 GMT
+# link           : http://www.barbican.org.uk/artgallery/event-detail.asp?ID=20335
+# event-dt-begin : 2017-09-21
+# event-dt-end   : 2018-01-28
+# event-location : Barbican Art Gallery, London

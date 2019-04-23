@@ -1,0 +1,7 @@
+Edward Krasiński
+# uid            : 20170619062142
+# dt-created     : 2017-06-19 06:21:42 GMT
+# link           : http://www.stedelijk.nl/en/exhibitions/edward-krasiski
+# event-dt-begin : 2017-06-24
+# event-dt-end   : 2017-10-15
+# event-location : Stedelijk Museum, Amsterdam

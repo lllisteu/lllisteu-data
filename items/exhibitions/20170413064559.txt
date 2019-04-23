@@ -1,0 +1,7 @@
+Concrete Art – Sammlung Teufel
+# uid            : 20170413064559
+# dt-created     : 2017-04-13 06:45:59 GMT
+# link           : http://www.kunstmuseum-stuttgart.de/index.php?site=Ausstellungen;Aktuell&id=107&bereich=Konkrete_Anliegen._Sammlung_Teufel&1492065589
+# event-dt-begin : 2017-02-04
+# event-dt-end   : 2017-09-10
+# event-location : Kunstmuseum Stuttgart

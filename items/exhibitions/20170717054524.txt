@@ -1,0 +1,7 @@
+Olga Picasso
+# uid            : 20170717054524
+# dt-created     : 2017-07-17 05:45:24 GMT
+# link           : http://www.museepicassoparis.fr/en/olga-picasso-exhibition/
+# event-dt-begin : 2017-03-21
+# event-dt-end   : 2017-09-03
+# event-location : Musée Picasso, Paris

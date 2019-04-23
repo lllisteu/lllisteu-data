@@ -1,0 +1,7 @@
+Jean Fautrier
+# uid            : 20171002094044
+# dt-created     : 2017-10-02 09:40:44 GMT
+# event-dt-begin : 2018-01-26
+# event-dt-end   : 2018-05-20
+# event-location : Musée d'Art Moderne de la Ville de Paris
+# link           : http://www.mam.paris.fr/fr/venir

@@ -1,0 +1,7 @@
+Dossier Gurlitt
+# uid            : 20170415080024
+# dt-created     : 2017-04-15 08:00:24 GMT
+# link           : http://www.kunstmuseumbern.ch/en/see/today/688-dossier-gurlitt-120.html
+# event-dt-begin : 2017-11-02
+# event-dt-end   : 2018-03-04
+# event-location : Kunstmuseum Bern

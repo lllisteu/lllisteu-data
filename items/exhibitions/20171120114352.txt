@@ -1,0 +1,7 @@
+Marino Marini
+# uid            : 20171120114352
+# dt-created     : 2017-11-20 11:43:52 GMT
+# event-dt-begin : 2018-01-27
+# event-dt-end   : 2018-05-01
+# event-location : Peggy Guggenheim Collection, Venezia
+# link           : http://www.guggenheim-venice.it/inglese/exhibitions/mostre.php?tipo=3

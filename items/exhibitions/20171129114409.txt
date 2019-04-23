@@ -1,0 +1,7 @@
+Fernand Khnopff (1858-1921)
+# uid            : 20171129114409
+# dt-created     : 2017-11-29 11:44:09 GMT
+# event-dt-begin : 2018-12-11
+# event-dt-end   : 2019-03-17
+# event-location : Petit Palais, Paris
+# link           : http://www.petitpalais.paris.fr/expositions/fernand-khnopff-1858-1921

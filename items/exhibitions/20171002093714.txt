@@ -1,0 +1,7 @@
+America's Cool Modernism
+# uid            : 20171002093714
+# dt-created     : 2017-10-02 09:37:14 GMT
+# event-dt-begin : 2018-03-23
+# event-dt-end   : 2018-07-22
+# event-location : Ashmolean Museum, Oxford
+# link           : http://www.ashmolean.org/americascoolmodernism

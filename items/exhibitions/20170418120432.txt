@@ -1,0 +1,7 @@
+Ed van der Elsken
+# uid            : 20170418120432
+# dt-created     : 2017-04-18 12:04:32 GMT
+# link           : http://www.jeudepaume.org/index.php?page=article&idArt=2691
+# event-dt-begin : 2017-06-13
+# event-dt-end   : 2017-09-24
+# event-location : Jeu de Paume, Paris

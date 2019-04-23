@@ -1,0 +1,7 @@
+Niki de Saint Phalle
+# uid            : 20170103113912
+# dt-created     : 2017-01-03 11:39:12 GMT
+# link           : https://www.dortmund.de/de/freizeit_und_kultur/museen/museum_ostwall/ausstellungen_mo/vkdetail_ausstellungen.jsp?eid=437487
+# event-dt-begin : 2016-12-10
+# event-dt-end   : 2017-04-23
+# event-location : Museum Ostwall, Dortmund

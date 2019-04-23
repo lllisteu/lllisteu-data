@@ -1,0 +1,7 @@
+The Art of pastel from Degas to Redon
+# uid            : 20170425072606
+# dt-created     : 2017-04-25 07:26:06 GMT
+# link           : http://www.petitpalais.paris.fr/en/expositions/art-pastel-degas-redon
+# event-dt-begin : 2017-09-15
+# event-dt-end   : 2018-04-08
+# event-location : Petit Palais, Paris

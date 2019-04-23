@@ -1,0 +1,7 @@
+Paul Delvaux
+# uid            : 20171030111627
+# dt-created     : 2017-10-30 11:16:27 GMT
+# event-dt-begin : 2017-11-01
+# event-dt-end   : 2018-02-25
+# event-location : Kunsthal, Rotterdam
+# link           : https://www.kunsthal.nl/en/plan-your-visit/exhibitions/paul-delvaux/

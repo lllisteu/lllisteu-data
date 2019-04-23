@@ -1,0 +1,7 @@
+Claude Monet
+# uid            : 20170504100452
+# dt-created     : 2017-05-04 10:04:52 GMT
+# link           : http://www.albertina.at/en/exhibitions/current?ausstellungen_id=1483997716633&j-cc-item=ausstellungen&j-cc-id=1483997716633&j-cc-node=item
+# event-dt-begin : 2018-09-20
+# event-dt-end   : 2019-01-06
+# event-location : Albertina, Wien

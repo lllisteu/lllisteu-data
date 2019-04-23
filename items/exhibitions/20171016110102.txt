@@ -1,0 +1,7 @@
+Wilhelm Lehmbruck
+# uid            : 20171016110102
+# dt-created     : 2017-10-16 11:01:02 GMT
+# event-dt-begin : 2018-09-28
+# event-dt-end   : 2019-02-24
+# event-location : Staatsgalerie, Stuttgart
+# link           : https://www.staatsgalerie.de/ausstellungen/wilhelm-lehmbruck.html

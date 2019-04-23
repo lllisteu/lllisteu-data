@@ -1,0 +1,7 @@
+From Hopper to Rothko
+# uid            : 20170413061508
+# dt-created     : 2017-04-13 06:15:08 GMT
+# link           : https://www.museum-barberini.com/en/exhibitions/
+# event-dt-begin : 2017-06-17
+# event-dt-end   : 2017-10-03
+# event-location : Museum Barberini, Potsdam

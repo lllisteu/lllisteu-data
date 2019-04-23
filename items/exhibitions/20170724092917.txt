@@ -1,0 +1,7 @@
+Miloslav Troup - 100 Years
+# uid            : 20170724092917
+# dt-created     : 2017-07-24 09:29:17 GMT
+# event-dt-begin : 2017-06-15
+# event-dt-end   : 2017-09-15
+# event-location : Obecní dům, Praha
+# link           : http://www.obecnidum.cz/en/miloslav-troup-100-years-1404048274.html

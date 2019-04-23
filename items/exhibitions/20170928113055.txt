@@ -1,0 +1,7 @@
+Antoine Caron
+# uid            : 20170928113055
+# dt-created     : 2017-09-28 11:30:55 GMT
+# event-dt-begin : 2018-01-18
+# event-dt-end   : 2018-04-15
+# event-location : Courtauld Gallery, London
+# link           : http://courtauld.ac.uk/gallery/what-on/exhibitions-displays

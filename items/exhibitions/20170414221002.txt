@@ -1,0 +1,7 @@
+Karel Appel – L'art est une fête !
+# uid            : 20170414221002
+# dt-created     : 2017-04-14 22:10:02 GMT
+# link           : http://www.mam.paris.fr/fr/expositions/exposition-karel-appel
+# event-dt-begin : 2017-02-24
+# event-dt-end   : 2017-08-20
+# event-location : Musée d'Art Moderne de la Ville de Paris

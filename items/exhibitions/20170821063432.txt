@@ -1,0 +1,7 @@
+Splendor and Misery in the Weimar Republic
+# uid            : 20170821063432
+# dt-created     : 2017-08-21 06:34:32 GMT
+# event-dt-begin : 2017-10-27
+# event-dt-end   : 2018-02-25
+# event-location : Schirn Kunsthalle, Frankfurt
+# link           : http://www.schirn.de/en/exhibitions/2017/weimarer_republik/

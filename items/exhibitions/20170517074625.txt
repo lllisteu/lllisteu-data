@@ -1,0 +1,7 @@
+Georg Baselitz. Hero
+# uid            : 20170517074625
+# dt-created     : 2017-05-17 07:46:25 GMT
+# link           : https://www.guggenheim-bilbao.eus/en/exhibitions/georg-baselitz-hero/
+# event-dt-begin : 2017-07-14
+# event-dt-end   : 2017-10-22
+# event-location : Museo Guggenheim, Bilbao

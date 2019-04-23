@@ -1,0 +1,7 @@
+Balthus
+# uid            : 20171218111259
+# dt-created     : 2017-12-18 11:12:59 GMT
+# event-dt-begin : 2018-09-02
+# event-dt-end   : 2019-01-13
+# event-location : Fondation Beyeler, Basel 
+# link           : https://www.fondationbeyeler.ch/balthus/

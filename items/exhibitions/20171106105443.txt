@@ -1,0 +1,7 @@
+Neo Rauch – Dromos. Painting 1993-2017
+# uid            : 20171106105443
+# dt-created     : 2017-11-06 10:54:43 GMT
+# event-dt-begin : 2018-01-21
+# event-dt-end   : 2018-06-03
+# event-location : Museum de Fundatie, Zwolle
+# link           : https://www.museumdefundatie.nl/en/id:493/

@@ -1,0 +1,7 @@
+Manguin, the Joy of Colour
+# uid            : 20170418115614
+# dt-created     : 2017-04-18 11:56:14 GMT
+# link           : http://www.mdig.fr/en/manguin-joy-colour
+# event-dt-begin : 2017-07-14
+# event-dt-end   : 2017-11-05
+# event-location : Musée des impressionnismes, Giverny

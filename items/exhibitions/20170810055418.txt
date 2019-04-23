@@ -1,0 +1,7 @@
+Mantegna and Bellini
+# uid            : 20170810055418
+# dt-created     : 2017-08-10 05:54:18 GMT
+# event-dt-begin : 2018-10-01
+# event-dt-end   : 2019-01-27
+# event-location : National Gallery, London
+# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/mantegna-and-bellini

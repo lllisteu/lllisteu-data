@@ -1,0 +1,7 @@
+William Kentridge
+# uid            : 20170419195741
+# dt-created     : 2017-04-19 19:57:41 GMT
+# link           : https://en.louisiana.dk/exhibition/william-kentridge
+# event-dt-begin : 2017-02-16
+# event-dt-end   : 2017-06-18
+# event-location : Louisiana Museum of Modern Art, Humlebæk

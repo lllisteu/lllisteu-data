@@ -1,0 +1,7 @@
+Botero: a dialogue with Picasso
+# uid            : 20170717063517
+# dt-created     : 2017-07-17 06:35:17 GMT
+# event-dt-begin : 2017-11-24
+# event-dt-end   : 2018-03-11
+# event-location : Hôtel de Caumont, Aix-en-Provence
+# link           : http://www.caumont-centredart.com/en/node/1476

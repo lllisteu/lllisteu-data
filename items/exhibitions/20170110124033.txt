@@ -1,0 +1,7 @@
+Picasso – Lautrec
+# uid            : 20170110124033
+# dt-created     : 2017-01-10 12:40:33 GMT
+# link           : http://www.museothyssen.org/en/thyssen/exposiciones_proximas/150
+# event-dt-begin : 2017-10-17
+# event-dt-end   : 2018-01-21
+# event-location : Museo Thyssen-Bornemisza, Madrid

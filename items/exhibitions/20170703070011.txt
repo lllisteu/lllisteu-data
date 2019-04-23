@@ -1,0 +1,7 @@
+New Bauhaus Chicago: Experiment Photography
+# uid            : 20170703070011
+# dt-created     : 2017-07-03 07:00:11 GMT
+# link           : http://www.bauhaus.de/en/ausstellungen/sonderausstellungen/2371_new_bauhaus_chicago_experiment_fotografie/
+# event-dt-begin : 2017-11-15
+# event-dt-end   : 2018-03-05
+# event-location : Bauhaus-Archiv, Berlin

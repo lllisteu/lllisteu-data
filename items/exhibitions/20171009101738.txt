@@ -1,0 +1,7 @@
+Keith Haring
+# uid            : 20171009101738
+# dt-created     : 2017-10-09 10:17:38 GMT
+# event-dt-begin : 2018-03-16
+# event-dt-end   : 2018-06-24
+# event-location : Albertina, Wien
+# link           : http://www.albertina.at/en/haring

@@ -1,0 +1,7 @@
+[un]erwartet – Die Kunst des Zufalls
+# uid            : 20170104093924
+# dt-created     : 2017-01-04 09:39:24 GMT
+# link           : http://www.kunstmuseum-stuttgart.de/index.php?site=Ausstellungen;Aktuell&id=101&bereich=unerwartet._Die_Kunst_des_Zufalls
+# event-dt-begin : 2016-09-24
+# event-dt-end   : 2017-02-19
+# event-location : Kunstmuseum Stuttgart

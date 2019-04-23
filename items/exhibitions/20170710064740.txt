@@ -1,0 +1,7 @@
+Lucian Freud: Closer
+# uid            : 20170710064740
+# dt-created     : 2017-07-10 06:47:40 GMT
+# link           : https://www.berlinerfestspiele.de/de/aktuell/festivals/gropiusbau/programm_mgb/mgb17_lucian_freud/ausstellung_lucian_freud/ausstellung_lucian_freud_211733.php
+# event-dt-begin : 2017-07-22
+# event-dt-end   : 2017-10-22
+# event-location : Martin-Gropius-Bau, Berlin

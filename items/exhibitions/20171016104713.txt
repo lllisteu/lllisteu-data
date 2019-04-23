@@ -1,0 +1,7 @@
+Lucien Hervé
+# uid            : 20171016104713
+# dt-created     : 2017-10-16 10:47:13 GMT
+# event-dt-begin : 2017-11-18
+# event-dt-end   : 2018-05-27
+# event-location : Jeu de Paume, Paris
+# link           : http://www.jeudepaume.org/index.php?page=article&idArt=2988

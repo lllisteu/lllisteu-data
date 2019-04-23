@@ -1,0 +1,7 @@
+Füssli
+# uid            : 20171218104648
+# dt-created     : 2017-12-18 10:46:48 GMT
+# event-dt-begin : 2018-10-20
+# event-dt-end   : 2019-02-10
+# event-location : Kunstmuseum Basel
+# link           : https://kunstmuseumbasel.ch/en/exhibitions/2018/fuseli

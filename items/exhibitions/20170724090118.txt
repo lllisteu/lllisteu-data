@@ -1,0 +1,7 @@
+Gerhard Richter. Abstraction
+# uid            : 20170724090118
+# dt-created     : 2017-07-24 09:01:18 GMT
+# event-dt-begin : 2018-06-30
+# event-dt-end   : 2018-10-21
+# event-location : Museum Barberini, Potsdam
+# link           : https://www.museum-barberini.com/en/exhibitions/

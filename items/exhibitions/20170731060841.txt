@@ -1,0 +1,7 @@
+Mariano Fortuny
+# uid            : 20170731060841
+# dt-created     : 2017-07-31 06:08:41 GMT
+# event-dt-begin : 2017-11-21
+# event-dt-end   : 2018-03-18
+# event-location : Museo Nacional del Prado, Madrid
+# link           : https://www.museodelprado.es/en/whats-on/exhibition/mariano-fortuny-1838-1874/8216331b-8024-4d46-8a6a-f6ba89095f02

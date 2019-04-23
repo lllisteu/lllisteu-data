@@ -1,0 +1,7 @@
+Paula Modersohn-Becker
+# uid            : 20171211112927
+# dt-created     : 2017-12-11 11:29:27 GMT
+# event-dt-begin : 2018-09-09
+# event-dt-end   : 2019-01-06
+# event-location : Von der Heydt Museum, Wuppertal
+# link           : http://vdh.netgate1.net/Vorschau.html

@@ -1,0 +1,7 @@
+Thomas Wrede
+# uid            : 20171211112131
+# dt-created     : 2017-12-11 11:21:31 GMT
+# event-dt-begin : 2018-05-27
+# event-dt-end   : 2018-08-26
+# event-location : Von der Heydt-Kunsthalle, Wuppertal
+# link           : http://von-der-heydt-kunsthalle.de/Thomas_Wrede.html

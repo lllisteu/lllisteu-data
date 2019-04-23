@@ -1,0 +1,7 @@
+Albert Renger-Patzsch
+# uid            : 20170606065512
+# dt-created     : 2017-06-06 06:55:12 GMT
+# link           : http://www.jeudepaume.org/index.php?page=article&idArt=2757
+# event-dt-begin : 2017-10-17
+# event-dt-end   : 2018-01-21
+# event-location : Jeu de Paume, Paris

@@ -1,0 +1,7 @@
+Werner Klotz – the eye is a peculiar animal
+# uid            : 20170717060941
+# dt-created     : 2017-07-17 06:09:41 GMT
+# link           : http://arpmuseum.org/en/exhibitions/temporary-exhibitions/preview/the-eye-is-a-peculiar-animal.html
+# event-dt-begin : 2017-07-23
+# event-dt-end   : 2017-11-05
+# event-location : Arp Museum Bahnhof Rolandseck, Remagen

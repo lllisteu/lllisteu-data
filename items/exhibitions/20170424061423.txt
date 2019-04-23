@@ -1,0 +1,7 @@
+Portraits de Cézanne
+# uid            : 20170424061423
+# dt-created     : 2017-04-24 06:14:23 GMT
+# link           : http://www.musee-orsay.fr/fr/evenements/expositions/au-musee-dorsay/presentation-generale/article/portraits-de-cezanne-46126.html?tx_ttnews%5BbackPid%5D=254&cHash=290fd499b0
+# event-dt-begin : 2017-06-13
+# event-dt-end   : 2017-09-24
+# event-location : Musée d'Orsay, Paris
