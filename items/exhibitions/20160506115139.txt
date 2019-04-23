@@ -1,0 +1,7 @@
+Renoir and intimacy
+# uid            : 20160506115139
+# dt-created     : 2016-05-06 11:51:39 GMT
+# link           : http://www.museothyssen.org/en/thyssen/exposiciones_proximas/142
+# event-dt-begin : 2016-10-18
+# event-dt-end   : 2017-01-22
+# event-location : Museo Thyssen-Bornemisza, Madrid

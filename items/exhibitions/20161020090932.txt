@@ -1,0 +1,7 @@
+Gerhard Richter – The Editions
+# uid            : 20161020090932
+# dt-created     : 2016-10-20 09:09:32 GMT
+# link           : https://www.museum-folkwang.de/en/news/exhibitions/future-exhibitions/gerhard-richter.html
+# event-dt-begin : 2017-04-07
+# event-dt-end   : 2017-07-30
+# event-location : Museum Folkwang, Essen

@@ -1,0 +1,7 @@
+Claude Lorrain – The Light of the Campagna
+# uid            : 20161124114421
+# dt-created     : 2016-11-24 11:44:21 GMT
+# link           : http://www.hamburger-kunsthalle.de/en/exhibitions/light-campagna-0
+# event-dt-begin : 2017-10-13
+# event-dt-end   : 2018-01-14
+# event-location : Hamburger Kunsthalle, Hamburg

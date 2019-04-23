@@ -1,0 +1,7 @@
+The Early Van Gogh
+# uid            : 20161018081616
+# dt-created     : 2016-10-18 08:16:16 GMT
+# link           : http://krollermuller.nl/the-early-van-gogh
+# event-dt-begin : 2016-09-24
+# event-dt-end   : 2017-04-09
+# event-location : Kröller-Müller Museum, Otterlo

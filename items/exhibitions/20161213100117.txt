@@ -1,0 +1,7 @@
+Spain’s Golden Age
+# uid            : 20161213100117
+# dt-created     : 2016-12-13 10:01:17 GMT
+# link           : http://www.kunsthalle-muc.de/en/exhibitions/details/spainsgoldenage/
+# event-dt-begin : 2016-11-25
+# event-dt-end   : 2017-03-26
+# event-location : Kunsthalle der Hypo-Kulturstiftung, München

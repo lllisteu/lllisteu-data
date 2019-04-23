@@ -1,0 +1,7 @@
+Rembrandt in Black & White
+# uid            : 20160111125752
+# dt-created     : 2016-01-11 12:57:52 GMT
+# link           : http://www.bozar.be/en/activities/106071-rembrandt
+# event-dt-begin : 2016-02-26
+# event-dt-end   : 2016-05-29
+# event-location : Palais des Beaux-Arts, Brussel

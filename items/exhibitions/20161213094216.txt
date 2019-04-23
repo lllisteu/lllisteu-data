@@ -1,0 +1,7 @@
+Pieter Bruegel the Elder
+# uid            : 20161213094216
+# dt-created     : 2016-12-13 09:42:16 GMT
+# link           : http://www.khm.at/en/visit/exhibitions/bruegel/
+# event-dt-begin : 2018-10-02
+# event-dt-end   : 2019-01-13
+# event-location : Kunsthistorisches Museum, Wien

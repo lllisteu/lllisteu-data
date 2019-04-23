@@ -1,0 +1,7 @@
+Frédéric Bazille – La jeunesse de l'impressionnisme.
+# uid            : 20160111131123
+# dt-created     : 2016-01-11 13:11:23 GMT
+# link           : http://www.musee-orsay.fr/fr/evenements/expositions/au-musee-dorsay/presentation-generale/article/frederic-bazille-44076.html?tx_ttnews%5BbackPid%5D=254&cHash=24ad46a629
+# event-dt-begin : 2016-11-15
+# event-dt-end   : 2017-03-05
+# event-location : Musée d'Orsay, Paris

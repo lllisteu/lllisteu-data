@@ -1,0 +1,7 @@
+Grayson Perry – Hold Your Beliefs Lightly
+# uid            : 20160314104445
+# dt-created     : 2016-03-14 10:44:45 GMT
+# link           : http://www.bonnefanten.nl/en/exhibitions/hold_your_beliefs_lightly_grayson_perry
+# event-dt-begin : 2016-02-26
+# event-dt-end   : 2016-06-05
+# event-location : Bonnefantenmuseum, Maastricht

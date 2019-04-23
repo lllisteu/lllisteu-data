@@ -1,0 +1,7 @@
+Alberto Giacometti
+# uid            : 20161019083634
+# dt-created     : 2016-10-19 08:36:34 GMT
+# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/alberto-giacometti
+# event-dt-begin : 2017-05-10
+# event-dt-end   : 2017-09-10
+# event-location : Tate Modern, London

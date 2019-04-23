@@ -1,0 +1,7 @@
+The Looser Collection
+# uid            : 20160111124201
+# dt-created     : 2016-01-11 12:42:01 GMT
+# link           : https://www.museum-folkwang.de/en/news/exhibitions/future-exhibitions/looser.html
+# event-dt-begin : 2016-04-29
+# event-dt-end   : 2016-10-30
+# event-location : Museum Folkwang, Essen

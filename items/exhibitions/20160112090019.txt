@@ -1,0 +1,7 @@
+Katharina Grosse
+# uid            : 20160112090019
+# dt-created     : 2016-01-12 09:00:19 GMT
+# link           : https://www.museum-frieder-burda.de/index.php?id=22&L=0&tx_eventbase_exhibition%5Bexhibition%5D=88&tx_eventbase_exhibition%5Baction%5D=show&tx_eventbase_exhibition%5Bcontroller%5D=Exhibition&cHash=e3c4fe0dbff5d0dd5204a24bf4672026
+# event-dt-begin : 2016-06-11
+# event-dt-end   : 2016-10-09
+# event-location : Museum Frieder Burda, Baden-Baden

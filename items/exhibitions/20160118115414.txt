@@ -1,0 +1,7 @@
+Watteau
+# uid            : 20160118115414
+# dt-created     : 2016-01-18 11:54:14 GMT
+# link           : http://www.teylersmuseum.nl/nl/bezoek-het-museum/wat-is-er-te-zien-en-te-doen/watteau
+# event-dt-begin : 2017-02-01
+# event-dt-end   : 2017-05-14
+# event-location : Teylers Museum, Haarlem

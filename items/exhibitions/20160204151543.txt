@@ -1,0 +1,7 @@
+Hidden Treasures
+# uid            : 20160204151543
+# dt-created     : 2016-02-04 15:15:43 GMT
+# link           : http://www.leopoldmuseum.org/en/exhibitions/79/hidden-treasures-of-the-collection
+# event-dt-begin : 2016-01-29
+# event-dt-end   : 2016-02-22
+# event-location : Leopold Museum, Wien

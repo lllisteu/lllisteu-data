@@ -1,0 +1,7 @@
+Arp: The Poetry of Forms
+# uid            : 20160529064718
+# dt-created     : 2016-05-29 06:47:18 GMT
+# link           : http://krollermuller.nl/en/en-arp-the-poetry-of-forms
+# event-dt-begin : 2017-05-20
+# event-dt-end   : 2017-09-17
+# event-location : Kröller-Müller Museum, Otterlo

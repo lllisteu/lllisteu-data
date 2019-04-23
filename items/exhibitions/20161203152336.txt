@@ -1,0 +1,7 @@
+Robert Mapplethorpe
+# uid            : 20161203152336
+# dt-created     : 2016-12-03 15:23:36 GMT
+# link           : https://www.kunsthal.nl/en/plan-your-visit/exhibitions/robert-mapplethorpe/
+# event-dt-begin : 2017-04-22
+# event-dt-end   : 2017-08-27
+# event-location : Kunsthal, Rotterdam

@@ -1,0 +1,7 @@
+Marcel Broodthaers. A retrospective
+# uid            : 20161107072640
+# dt-created     : 2016-11-07 07:26:40 GMT
+# link           : http://www.kunstsammlung.de/en/discover/exhibition-preview.html
+# event-dt-begin : 2017-03-04
+# event-dt-end   : 2017-06-11
+# event-location : K21 Kunstsammlung NRW, Düsseldorf
