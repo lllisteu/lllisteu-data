@@ -1,0 +1,11 @@
+Schirn Kunsthalle
+# uid            : 20120220230407
+# dt-created     : 2012-02-20 23:04:07 GMT
+# tags           : Frankfurt,art
+# link           : https://www.schirn.de
+# wikidata_id    : Q176293
+# wikipedia      : de:Schirn Kunsthalle
+# lat            : 50.110278
+# lon            : 8.683611
+# isa            : kunsthalle
+# twitter-handle : SCHIRN

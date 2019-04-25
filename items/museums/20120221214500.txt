@@ -1,0 +1,11 @@
+Fondation Beyeler
+# uid            : 20120221214500
+# dt-created     : 2012-02-21 21:45:00 GMT
+# tags           : Basel,art
+# link           : https://www.fondationbeyeler.ch
+# wikidata_id    : Q673833
+# wikipedia      : en:Fondation Beyeler
+# lat            : 47.5881
+# lon            : 7.65106
+# isa            : museum
+# twitter-handle : Fond_Beyeler
