@@ -4,4 +4,5 @@ Première exposition — Société anonyme des artistes peintres, sculpteurs et 
 # event-dt-begin : 1874-04-15
 # event-dt-end   : 1874-05-15
 # event-location : Ateliers Nadar, Paris
+# wikidata_id    : Q16872904
 # wikipedia      : fr:Première exposition des peintres impressionnistes
