@@ -1,0 +1,11 @@
+Museo Nacional Thyssen-Bornemisza
+# uid            : 20100401164302
+# dt-created     : 2010-04-01 14:43:02 GMT
+# tags           : art,Madrid
+# link           : http://www.museothyssen.org/
+# wikidata_id    : Q176251
+# wikipedia      : en:Museo Thyssen-Bornemisza
+# lat            : 40.41588
+# lon            : -3.69474
+# twitter-handle : museothyssen
+# isa            : museum
