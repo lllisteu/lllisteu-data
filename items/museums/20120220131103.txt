@@ -1,0 +1,10 @@
+Museo Guggenheim Bilbao
+# uid            : 20120220131103
+# dt-created     : 2012-02-20 13:11:03 GMT
+# tags           : art,Bilbao
+# link           : http://www.guggenheim-bilbao.es/
+# wikidata_id    : Q179199
+# lat            : 43.268606
+# lon            : -2.934286
+# twitter-handle : MuseoGuggenheim
+# isa            : museum
