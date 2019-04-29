@@ -1,0 +1,10 @@
+Centrale Montemartini
+# uid         : 20110221153035
+# dt-created  : 2011-02-21 15:30:35
+# tags        : Roma,art
+# link        : http://en.centralemontemartini.org/
+# wikidata_id : Q1054090
+# wikipedia   : it:Centrale Montemartini
+# lat         : 41.867048
+# lon         : 12.479128
+# isa         : museum
