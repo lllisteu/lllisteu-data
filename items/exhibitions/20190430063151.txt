@@ -1,0 +1,7 @@
+La Collection Emil Bührle
+# uid            : 20190430063151
+# dt-created     : 2019-04-30 06:31:51 GMT
+# event-dt-begin : 2019-03-20
+# event-dt-end   : 2019-07-21
+# event-location : Musée Maillol, Paris
+# link           : https://www.museemaillol.com/fr/collection-emil-buhrle
