@@ -1,0 +1,7 @@
+Paris romantique, 1815-1848 
+# uid            : 20190501051956
+# dt-created     : 2019-05-01 05:19:56 GMT
+# event-dt-begin : 2019-05-22
+# event-dt-end   : 2019-09-15
+# event-location : Petit Palais, Paris
+# link           : http://www.petitpalais.paris.fr/expositions/paris-romantique-1815-1848
