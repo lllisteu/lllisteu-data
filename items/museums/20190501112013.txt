@@ -1,0 +1,10 @@
+Kunsthaus Zürich
+# uid         : 20190501112013
+# dt-created  : 2019-05-01 11:20:13 GMT
+# link        : http://www.kunsthaus.ch/
+# tags        : Zürich,art
+# wikidata_id : Q685038
+# wikipedia   : en:Kunsthaus Zürich
+# lat         : 47.37025
+# lon         : 8.54812
+# isa         : museum
