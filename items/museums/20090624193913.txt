@@ -1,9 +1,10 @@
 Museum Kurhaus Kleve
-# uid          : 20090624193913
-# dt-created   : 2009-06-24 17:39:13 GMT
-# tags         : art,museum,Kleve
-# language     : de,nl
-# link         : http://www.museumkurhaus.de/
-# wikipedia    : de:Museum_Kurhaus_Kleve
-# lat          : 51.795556
-# lon          : 6.125833
+# uid         : 20090624193913
+# dt-created  : 2009-06-24 17:39:13 GMT
+# tags        : art,museum,Kleve
+# language    : de,nl
+# link        : http://www.museumkurhaus.de/
+# wikidata_id : Q1954460
+# wikipedia   : de:Museum_Kurhaus_Kleve
+# lat         : 51.795556
+# lon         : 6.125833

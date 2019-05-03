@@ -4,6 +4,8 @@ Kröller-Müller Museum
 # tags           : art,museum
 # language       : nl
 # link           : http://www.kmm.nl/
+# wikidata_id    : Q1051928
+# wikipedia      : en:Kröller-Müller Museum
 # lat            : 52.095479
 # lon            : 5.816671
 # twitter-handle : krollermuller
