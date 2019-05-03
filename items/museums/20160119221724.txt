@@ -6,3 +6,4 @@ Museum Küppersmühle
 # tags       : Duisburg
 # lat        : 51.441111
 # lon        : 6.775
+# isa        : museum

@@ -5,3 +5,4 @@ Pergamonmuseum
 # wikipedia  : de:Pergamonmuseum
 # lat        : 52.521028
 # lon        : 13.396667
+# isa        : museum

@@ -5,3 +5,4 @@ Neues Museum
 # wikipedia  : de:Neues Museum (Berlin)
 # lat        : 52.520139
 # lon        : 13.397778
+# isa        : museum

@@ -1,5 +1,6 @@
 Römisch-Germanisches Museum
-# uid         : 20140412101453
-# dt-created  : 2014-04-12 10:14:53 GMT
-# tags        : Köln,museum
-# wikipedia   : de:Römisch-Germanisches_Museum
+# uid        : 20140412101453
+# dt-created : 2014-04-12 10:14:53 GMT
+# tags       : Köln,museum
+# wikipedia  : de:Römisch-Germanisches_Museum
+# isa        : museum

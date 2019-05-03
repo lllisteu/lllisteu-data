@@ -8,3 +8,4 @@ Vitra Design Museum
 # lat            : 47.601667
 # lon            : 7.618889
 # twitter-handle : vitra
+# isa            : museum

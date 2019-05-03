@@ -8,3 +8,4 @@ Kunsthistorisches Museum Wien
 # lat            : 48.203661
 # lon            : 16.361378
 # twitter-handle : KHM_Wien
+# isa            : museum

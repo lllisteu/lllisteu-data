@@ -1,9 +1,10 @@
 Lehmbruck Museum
-# uid         : 20131124194829
-# dt-created  : 2013-11-24 19:48:29 GMT
-# tags        : museum,Duisburg
-# language    : de,en
-# link        : http://www.lehmbruckmuseum.de/
-# wikipedia   : Lehmbruck Museum
-# lat         : 51.430278
-# lon         : 6.766111
+# uid        : 20131124194829
+# dt-created : 2013-11-24 19:48:29 GMT
+# tags       : museum,Duisburg
+# language   : de,en
+# link       : http://www.lehmbruckmuseum.de/
+# wikipedia  : Lehmbruck Museum
+# lat        : 51.430278
+# lon        : 6.766111
+# isa        : museum

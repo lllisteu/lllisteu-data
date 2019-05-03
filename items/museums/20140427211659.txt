@@ -6,3 +6,4 @@ Real Academia de Bellas Artes de San Fernando
 # wikipedia  : en:Real Academia de Bellas Artes de San Fernando
 # lat        : 40.418056
 # lon        : -3.700278
+# isa        : museum

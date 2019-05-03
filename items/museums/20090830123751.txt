@@ -9,3 +9,4 @@ Kröller-Müller Museum
 # lat            : 52.095479
 # lon            : 5.816671
 # twitter-handle : krollermuller
+# isa            : museum
