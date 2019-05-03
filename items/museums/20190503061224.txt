@@ -1,0 +1,10 @@
+Fondation Pierre Gianadda
+# uid         : 20190503061224
+# dt-created  : 2019-05-03 06:12:24 GMT
+# link        : http://www.gianadda.ch/
+# tags        : art
+# wikidata_id : Q687778
+# wikipedia   : en:Fondation Pierre Gianadda
+# lat         : 46.09513
+# lon         : 7.07077
+# isa         : museum
