@@ -1,0 +1,10 @@
+David Hockney: Drawing from life 
+# uid            : 20190504094636
+# dt-created     : 2019-05-04 09:46:36 GMT
+# event-location : National Portrait Gallery, London
+# event-dt-begin : 2020-02-27
+# event-dt-end   : 2020-06-28
+# link           : https://www.npg.org.uk/whatson/exhibitions/2019/david-hockney-drawing-from-life/
+# markup         : markdown
+ 
+[Major show of David Hockney drawings will trace artist's career](https://www.theguardian.com/artanddesign/2019/may/03/major-show-david-hockney-drawings-trace-artists-career-national-portrait-gallery)
