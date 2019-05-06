@@ -1,0 +1,10 @@
+Musée Rodin
+# uid         : 20190506045856
+# dt-created  : 2019-05-06 04:58:56 GMT
+# link        : http://www.musee-rodin.fr/
+# tags        : Paris,art
+# wikidata_id : Q650519
+# wikipedia   : en:Musée Rodin
+# lat         : 48.85531
+# lon         : 2.31585
+# isa         : museum
