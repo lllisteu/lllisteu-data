@@ -2,7 +2,6 @@ Fundação Calouste Gulbenkian
 # uid            : 20120219142500
 # dt-created     : 2012-02-19 14:25:00 GMT
 # tags           : art,Lisboa
-# language       : pt,en,fr
 # link           : http://www.gulbenkian.pt/
 # twitter-handle : FCGulbenkian
 # isa            : museum

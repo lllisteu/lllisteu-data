@@ -3,7 +3,7 @@ The Courtauld Gallery
 # dt-created     : 2010-11-23 13:35:28 GMT
 # tags           : art,London
 # link           : http://www.courtauld.ac.uk/gallery/
-# wikipedia      : en:Courtauld_Institute_of_Art
+# wikipedia      : en:Courtauld Institute of Art
 # lat            : 51.510833
 # lon            : -0.117222
 # twitter-handle : CourtauldGall

@@ -1,7 +1,7 @@
 Neues Museum
 # uid        : 20141016143528
 # dt-created : 2014-10-16 14:35:28 GMT
-# tags       : Berlin
+# tags       : Berlin,art
 # wikipedia  : de:Neues Museum (Berlin)
 # lat        : 52.520139
 # lon        : 13.397778

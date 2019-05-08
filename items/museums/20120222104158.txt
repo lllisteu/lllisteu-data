@@ -1,8 +1,7 @@
 Vitra Design Museum
 # uid            : 20120222104158
 # dt-created     : 2012-02-22 10:41:58 GMT
-# tags           : museum
-# language       : de,en
+# tags           : art
 # link           : http://www.design-museum.de/
 # wikipedia      : de:Vitra Design Museum
 # lat            : 47.601667

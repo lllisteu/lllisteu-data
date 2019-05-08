@@ -1,6 +1,6 @@
 Palazzo Spada
 # uid         : 20110220151320
-# dt-created  : 2011-02-20 15:13:20
+# dt-created  : 2011-02-20 14:13:20 GMT
 # tags        : Roma,art
 # link        : http://www.galleriaborghese.it/spada/en/einfo.htm
 # wikidata_id : Q1058475

@@ -1,8 +1,7 @@
 Musée Jacquemart-André
 # uid        : 20110902120740
 # dt-created : 2011-09-02 10:07:40 GMT
-# tags       : Paris,art,museum
-# language   : fr
+# tags       : Paris,art
 # link       : http://www.musee-jacquemart-andre.com/
 # wikipedia  : en:Musée Jacquemart-André
 # lat        : 48.87543

@@ -1,9 +1,9 @@
 Louisiana Museum of Modern Art
 # uid        : 20120211162217
 # dt-created : 2012-02-11 16:22:17 GMT
-# tags       : museum,art
+# tags       : art
 # link       : http://www.louisiana.dk/
-# wikipedia  : Louisiana Museum of Modern Art
+# wikipedia  : en:Louisiana Museum of Modern Art
 # lat        : 55.969444
 # lon        : 12.543056
 # isa        : museum

@@ -1,7 +1,7 @@
 ARoS Aarhus Kunstmuseum
 # uid        : 20120308133743
 # dt-created : 2012-03-08 13:37:43 GMT
-# tags       : museum
+# tags       : art
 # link       : http://www.aros.dk/
 # wikipedia  : en:ARoS Aarhus Kunstmuseum
 # lat        : 56.153889

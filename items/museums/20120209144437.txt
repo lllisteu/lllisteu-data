@@ -2,7 +2,6 @@ Museo Nacional del Prado
 # uid            : 20120209144437
 # dt-created     : 2012-02-09 14:44:37 GMT
 # tags           : Madrid,art
-# language       : es
 # link           : http://www.museodelprado.es/
 # wikipedia      : en:Museo del Prado
 # lat            : 40.413889
