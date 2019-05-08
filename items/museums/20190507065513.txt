@@ -5,6 +5,6 @@ Scottish National Gallery
 # tags        : Edinburgh,art
 # wikidata_id : Q942713
 # wikipedia   : en:Scottish National Gallery
-# lat         : 55.94960
-# lon         : -3.19469
+# lat         : 55.9509
+# lon         : -3.1957
 # isa         : museum
