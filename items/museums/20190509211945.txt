@@ -1,0 +1,10 @@
+Glyptothek
+# uid         : 20190509211945
+# dt-created  : 2019-05-09 21:19:45 GMT
+# link        : http://www.antike-am-koenigsplatz.mwn.de/
+# tags        : München,art
+# wikidata_id : Q162077
+# wikipedia   : en:Glyptothek
+# lat         : 48.14658
+# lon         : 11.56585
+# isa         : museum
