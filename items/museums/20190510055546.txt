@@ -1,0 +1,10 @@
+Pinakothek der Moderne
+# uid         : 20190510055546
+# dt-created  : 2019-05-10 05:55:46 GMT
+# link        : https://www.pinakothek.de/
+# tags        : München,art
+# wikidata_id : Q250195
+# wikipedia   : en:Pinakothek der Moderne
+# lat         : 48.14718
+# lon         : 11.57220
+# isa         : museum
