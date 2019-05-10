@@ -1,0 +1,10 @@
+Museum Boijmans Van Beuningen
+# uid         : 20190510094923
+# dt-created  : 2019-05-10 09:49:23 GMT
+# link        : https://www.boijmans.nl/
+# tags        : Rotterdam,art
+# wikidata_id : Q679527
+# wikipedia   : en:Museum Boijmans Van Beuningen
+# lat         : 51.91284
+# lon         : 4.47219
+# isa         : museum
