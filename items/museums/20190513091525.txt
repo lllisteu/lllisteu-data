@@ -1,0 +1,10 @@
+Galleria degli Uffizi
+# uid         : 20190513091525
+# dt-created  : 2019-05-13 09:15:25 GMT
+# link        : https://www.uffizi.it/
+# tags        : Firenze,art
+# wikidata_id : Galleria degli Uffizi
+# wikipedia   : en:Uffizi
+# lat         : 43.76841
+# lon         : 11.25586
+# isa         : museum
