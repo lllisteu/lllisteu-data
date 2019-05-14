@@ -1,0 +1,10 @@
+Kunstmuseum Bern
+# uid         : 20190514075015
+# dt-created  : 2019-05-14 07:50:15 GMT
+# link        : https://www.kunstmuseumbern.ch/
+# tags        : Bern,art
+# wikidata_id : Q194622
+# wikipedia   : de:Kunstmuseum Bern
+# lat         : 46.95120
+# lon         : 7.44313
+# isa         : museum
