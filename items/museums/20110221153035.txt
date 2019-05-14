@@ -5,6 +5,6 @@ Centrale Montemartini
 # link        : http://en.centralemontemartini.org/
 # wikidata_id : Q1054090
 # wikipedia   : it:Centrale Montemartini
-# lat         : 41.867048
-# lon         : 12.479128
+# lat         : 41.86659
+# lon         : 12.47807
 # isa         : museum

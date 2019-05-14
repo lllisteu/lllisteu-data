@@ -1,7 +1,11 @@
-Fundação Calouste Gulbenkian
+Museu Calouste Gulbenkian
 # uid            : 20120219142500
 # dt-created     : 2012-02-19 14:25:00 GMT
-# tags           : art,Lisboa
 # link           : http://www.gulbenkian.pt/
+# tags           : art,Lisboa
+# wikidata_id    : Q211262
+# wikipedia      : en:Calouste Gulbenkian Museum
+# lat            : 38.73779
+# lon            : -9.15350
 # twitter-handle : FCGulbenkian
 # isa            : museum
