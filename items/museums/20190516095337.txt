@@ -1,0 +1,10 @@
+Statens Museum for Kunst
+# uid         : 20190516095337
+# dt-created  : 2019-05-16 09:53:37 GMT
+# link        : https://www.smk.dk/
+# tags        : København,art
+# wikidata_id : Q671384
+# wikipedia   : en:National Gallery of Denmark
+# lat         : 55.68873
+# lon         : 12.57838
+# isa         : museum
