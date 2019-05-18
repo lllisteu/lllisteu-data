@@ -1,0 +1,10 @@
+NRW-Forum Düsseldorf
+# uid         : 20190518085903
+# dt-created  : 2019-05-18 08:59:03 GMT
+# link        : https://www.nrw-forum.de/
+# tags        : Düsseldorf,art
+# wikidata_id : Q973307
+# wikipedia   : en:NRW Forum
+# lat         : 51.23326
+# lon         : 6.77194
+# isa         : kunsthalle
