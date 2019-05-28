@@ -1,0 +1,10 @@
+Brücke-Museum
+# uid         : 20190528063044
+# dt-created  : 2019-05-28 06:30:44 GMT
+# link        : https://www.bruecke-museum.de/
+# tags        : Berlin,art
+# wikidata_id : Q833759
+# wikipedia   : en:Brücke Museum
+# lat         : 52.46687
+# lon         : 13.27471
+# isa         : museum
