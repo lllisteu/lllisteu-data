@@ -1,0 +1,10 @@
+Musée d'Art Moderne de Troyes
+# uid         : 20190602152453
+# dt-created  : 2019-06-02 15:24:53 GMT
+# link        : http://www.musee-troyes.com/
+# tags        : art
+# wikidata_id : Q3329650
+# wikipedia   : fr:Musée d'Art moderne de Troyes
+# lat         : 48.29995
+# lon         : 4.08231
+# isa         : museum
