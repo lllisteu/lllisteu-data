@@ -1,0 +1,10 @@
+Museo Lázaro Galdiano
+# uid         : 20190605202908
+# dt-created  : 2019-06-05 20:29:08 GMT
+# link        : http://www.museolazarogaldiano.es/
+# tags        : Madrid,art
+# wikidata_id : Q386570
+# wikipedia   : en:Lázaro Galdiano Museum
+# lat         : 40.43690
+# lon         : -3.68575
+# isa         : museum
