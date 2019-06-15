@@ -1,0 +1,10 @@
+Bode Museum
+# uid         : 20190615073646
+# dt-created  : 2019-06-15 07:36:46 GMT
+# link        : https://www.smb.museum/
+# tags        : Berlin,art
+# wikidata_id : Q157825
+# wikipedia   : en:Bode Museum
+# lat         : 52.52194
+# lon         : 13.39427
+# isa         : museum
