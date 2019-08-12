@@ -1,0 +1,10 @@
+Galleria Doria Pamphilj
+# uid         : 20190812210600
+# dt-created  : 2019-08-12 21:06:00 GMT
+# link        : https://www.doriapamphilj.it/
+# tags        : Roma,art
+# wikidata_id : Q1203458
+# wikipedia   : en:Doria Pamphilj Gallery
+# lat         : 41.89755
+# lon         : 12.48148
+# isa         : museum
