@@ -1,0 +1,10 @@
+De Mesdag Collectie
+# uid         : 20190813095609
+# dt-created  : 2019-08-13 09:56:09 GMT
+# link        : https://www.demesdagcollectie.nl/
+# tags        : Den Haag,art
+# wikidata_id : Q255409
+# wikipedia   : en:The Mesdag Collection
+# lat         : 52.08592
+# lon         : 4.29761
+# isa         : museum
