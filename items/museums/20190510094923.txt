@@ -5,6 +5,6 @@ Museum Boijmans Van Beuningen
 # tags        : Rotterdam,art
 # wikidata_id : Q679527
 # wikipedia   : en:Museum Boijmans Van Beuningen
-# lat         : 51.91284
-# lon         : 4.47219
+# lat         : 51.91418
+# lon         : 4.47306
 # isa         : museum
