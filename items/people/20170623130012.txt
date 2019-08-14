@@ -1,0 +1,9 @@
+Claude Monet
+# uid         : 20170623130012
+# dt-created  : 2017-06-23 13:00:12 GMT
+# wikidata_id : Q296
+# wikipedia   : en:Claude Monet
+# isa         : person,artist,painter
+# dt-birth    : 1840-11-14
+# dt-death    : 1926-12-05
+# color       : lightblue
