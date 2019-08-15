@@ -1,0 +1,7 @@
+Auguste Renoir
+# uid         : 20170704193005
+# dt-created  : 2017-07-04 19:30:05 GMT
+# wikidata_id : Q39931
+# isa         : person,artist
+# dt-birth    : 1841-02-25
+# dt-death    : 1919-12-03

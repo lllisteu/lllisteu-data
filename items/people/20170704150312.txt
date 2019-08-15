@@ -1,0 +1,7 @@
+Leonardo da Vinci
+# uid         : 20170704150312
+# dt-created  : 2017-07-04 15:03:12 GMT
+# wikidata_id : Q762
+# isa         : person,artist
+# dt-birth    : 1452-04-15
+# dt-death    : 1519-05-02
