@@ -1,0 +1,10 @@
+Pinacoteca Nazionale di Siena
+# uid         : 20190930110620
+# dt-created  : 2019-09-30 11:06:20 GMT
+# link        : http://pinacotecanazionale.siena.it/
+# tags        : Siena,art
+# wikidata_id : Q2095405
+# wikipedia   : it:Pinacoteca nazionale (Siena)
+# lat         : 43.31569
+# lon         : 11.33053
+# isa         : museum
