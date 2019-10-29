@@ -1,0 +1,10 @@
+Museum Berggruen
+# uid         : 20191029171235
+# dt-created  : 2019-10-29 17:12:35 GMT
+# link        : https://www.smb.museum/
+# tags        : Berlin,art
+# wikidata_id : Q641630
+# wikipedia   : en:Berggruen Museum
+# lat         : 52.51911
+# lon         : 13.29534
+# isa         : museum
