@@ -1,0 +1,9 @@
+Segantini Museum
+# uid         : 20200605194700
+# dt-created  : 2020-06-05 19:47:00 GMT
+# link        : https://segantini-museum.ch/
+# tags        : art
+# wikidata_id : Q2265861
+# lat         : 46.49269
+# lon         : 9.83330
+# isa         : museum
