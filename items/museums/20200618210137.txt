@@ -1,0 +1,8 @@
+Musée de Picardie
+# uid         : 20200618210137
+# dt-created  : 2020-06-18 21:01:37 GMT
+# tags        : art,Amiens
+# wikidata_id : Q3107709
+# lat         : 49.89059
+# lon         : 2.29522
+# isa         : museum
