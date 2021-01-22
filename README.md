@@ -12,7 +12,7 @@ Items are provided as individual .txt files, encoded in UTF-8.
 
 ### Exhibition data
 
-Since lllist.eu went on hiatus, exhibition data are amended only infrequently. 
+Since lllist.eu went on hiatus, exhibition data are amended only infrequently.
 
 Next to the exhibition title, field names are mostly self explanatory:
 
@@ -45,14 +45,14 @@ isa|Object class (usually _museum_)
 
 ## Resources
 
+* Related projects
+    * Museum of Modern Art [collection](https://github.com/MuseumofModernArt/collection) and [exhibition](https://github.com/MuseumofModernArt/exhibitions) data
+    * [The Tate Collection](https://github.com/tategallery/collection)
 * [Europeana Collections](https://www.europeana.eu/)
+* [_Unsustainable Museum Data_](https://matthewlincoln.net/2015/01/26/unsustainable-museum-data.html) by Matthew Lincoln
 
 ## License
 
 Data is provided “as is”, without warranties of any kind.
 
 This dataset is placed in the public domain using a [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-## Related projects
-
-* Museum of Modern Art [collection](https://github.com/MuseumofModernArt/collection) and [exhibition](https://github.com/MuseumofModernArt/exhibitions) data
