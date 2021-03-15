@@ -1,0 +1,9 @@
+Museum De Lakenhal
+# uid         : 20210315140438
+# dt-created  : 2021-03-15 14:04:38 GMT
+# link        : https://www.lakenhal.nl/
+# tags        : art
+# wikidata_id : Q2098586
+# lat         : 52.16312
+# lon         : 4.48765
+# isa         : museum
