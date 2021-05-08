@@ -16,14 +16,14 @@ Since lllist.eu went on hiatus, exhibition data are amended only infrequently.
 
 Next to the exhibition title, field names are mostly self explanatory:
 
-Field|Description
----|---
-uid|Unique identifier
-dt-created|Record creation date/time
-event-dt-begin|Opening date of the exhibition
-event-dt-end|Closing date of the exhibition
-event-location|Exhibition venue (museum)
-link|URL of exhibition webpage
+Field|Description|Wikidata equivalent
+---|---|---
+uid|Unique identifier|
+dt-created|Record creation date/time|
+event-dt-begin|Opening date of the exhibition|[P580](https://www.wikidata.org/wiki/Property:P580)
+event-dt-end|Closing date of the exhibition|[P582](https://www.wikidata.org/wiki/Property:P582)
+event-location|Exhibition venue (museum)|
+link|URL of exhibition webpage|
 
 ### Museum data
 
@@ -31,17 +31,17 @@ The set of museum data is still growing. Apart from museums, it includes some ex
 
 Next to the museum name, field names are mostly self explanatory:
 
-Field|Description
----|---
-uid|Unique identifier
-dt-created|Record creation date/time
-link|URL of museum webpage
-tags|Tags
-wikidata_id|Corresponding [Wikidata](https://www.wikidata.org/) item
-wikipedia|Corresponding [Wikipedia](https://en.wikipedia.org/) article
-lat|[Latitude](https://en.wikipedia.org/wiki/Geographic_coordinate_system)
-lon|[Longitude](https://en.wikipedia.org/wiki/Geographic_coordinate_system)
-isa|Object class (usually _museum_)
+Field|Description|Wikidata equivalent
+---|---|---
+uid|Unique identifier|
+dt-created|Record creation date/time|
+link|URL of museum webpage|[P856](https://www.wikidata.org/wiki/Property:P856)
+tags|Tags|
+wikidata_id|Corresponding [Wikidata](https://www.wikidata.org/) item|
+wikipedia|Corresponding [Wikipedia](https://en.wikipedia.org/) article|
+lat|[Latitude](https://en.wikipedia.org/wiki/Geographic_coordinate_system)|
+lon|[Longitude](https://en.wikipedia.org/wiki/Geographic_coordinate_system)|
+isa|Object class (usually _museum_)|
 
 ## Resources
 
