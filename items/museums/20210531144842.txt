@@ -1,0 +1,9 @@
+Fundació Joan Miró
+# uid         : 20210531144842
+# dt-created  : 2021-05-31 14:48:42 GMT
+# link        : https://www.fmirobcn.org/
+# tags        : Barcelona,art
+# wikidata_id : Q867072
+# lat         : 41.36855
+# lon         : 2.16006
+# isa         : museum
