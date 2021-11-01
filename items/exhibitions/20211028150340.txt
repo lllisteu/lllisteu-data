@@ -1,0 +1,7 @@
+Andreas Gursky
+# uid            : 20211028150340
+# dt-created     : 2021-10-28 15:03:40 GMT
+# event-dt-begin : 2021-09-09
+# event-dt-end   : 2022-01-30
+# event-location : Museum Küppersmühle für Moderne Kunst, Duisburg
+# link           : https://museum-kueppersmuehle.de/ausstellung/andreas-gursky/
