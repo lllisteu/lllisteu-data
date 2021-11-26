@@ -1,0 +1,5 @@
+Museum August Macke Haus
+# uid        : 20211126130938
+# dt-created : 2021-11-26 13:09:38 GMT
+# link       : https://www.august-macke-haus.de/
+# isa        : museum
