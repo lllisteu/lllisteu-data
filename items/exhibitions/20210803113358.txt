@@ -2,6 +2,6 @@ Viva la Frida! – Life and art of Frida Kahlo
 # uid            : 20210803113358
 # dt-created     : 2021-08-03 11:33:58 GMT
 # event-dt-begin : 2021-10-08
-# event-dt-end   : 2022-03-27
+# event-dt-end   : 2022-04-18
 # event-location : Drents Museum, Assen
 # link           : https://drentsmuseum.nl/en/frida

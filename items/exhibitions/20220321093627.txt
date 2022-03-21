@@ -1,0 +1,7 @@
+Isamu Noguchi
+# uid            : 20220321093627
+# dt-created     : 2022-03-21 09:36:27 GMT
+# event-dt-begin : 2022-03-26
+# event-dt-end   : 2022-07-31
+# event-location : Museum Ludwig, Köln
+# link           : https://www.museum-ludwig.de/de/ausstellungen/isamu-noguchi.html
