@@ -1,0 +1,5 @@
+Museum Reinhard Ernst
+# uid         : 20220324194300
+# dt-created  : 2022-03-24 19:43:00 GMT
+# link        : https://www.museum-reinhard-ernst.de/
+# isa         : museum
