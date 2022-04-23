@@ -1,0 +1,7 @@
+Helen Frankenthaler
+# uid            : 20220423085348
+# dt-created     : 2022-04-23 08:53:48 GMT
+# event-dt-begin : 2022-12-02
+# event-dt-end   : 2023-03-05
+# event-location : Museum Folkwang, Essen
+# link           : https://www.museum-folkwang.de/de/ausstellung/helen-frankenthaler

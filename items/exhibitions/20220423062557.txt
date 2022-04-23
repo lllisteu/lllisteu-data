@@ -1,0 +1,7 @@
+Zoro Feigl – Zonvonkengesproei
+# uid            : 20220423062557
+# dt-created     : 2022-04-23 06:25:57 GMT
+# event-dt-begin : 2022-05-14
+# event-dt-end   : 2022-09-11
+# event-location : Stedelijk Museum Schiedam
+# link           : https://www.stedelijkmuseumschiedam.nl/tentoonstelling/zonvonkengesproei/
