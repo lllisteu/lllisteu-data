@@ -1,0 +1,7 @@
+Gaudí
+# uid            : 20220425071913
+# dt-created     : 2022-04-25 07:19:13 GMT
+# event-dt-begin : 2022-04-12
+# event-dt-end   : 2022-07-17
+# event-location : Musée d’Orsay, Paris
+# link           : https://www.musee-orsay.fr/fr/expositions/gaudi-213307

@@ -1,0 +1,7 @@
+Boldini – Pleasures and Days
+# uid            : 20220424160422
+# dt-created     : 2022-04-24 16:04:22 GMT
+# event-dt-begin : 2022-03-29
+# event-dt-end   : 2022-07-24
+# event-location : Petit Palais, Paris
+# link           : https://www.petitpalais.paris.fr/en/expositions/boldini

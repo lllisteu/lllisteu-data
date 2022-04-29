@@ -1,0 +1,7 @@
+Walter Sickert – Painting and transgressing
+# uid            : 20220424163401
+# dt-created     : 2022-04-24 16:34:01 GMT
+# event-dt-begin : 2022-10-14
+# event-dt-end   : 2023-01-29
+# event-location : Petit Palais, Paris
+# link           : https://www.petitpalais.paris.fr/en/expositions/walter-sickert-1860-1942
