@@ -1,0 +1,7 @@
+Niki de Saint Phalle
+# uid            : 20220503082122
+# dt-created     : 2022-05-03 08:21:22 GMT
+# event-dt-begin : 2022-09-02
+# event-dt-end   : 2023-01-08
+# event-location : Kunsthaus Zürich
+# link           : https://www.kunsthaus.ch/en/besuch-planen/ausstellungen/niki-de-saint-phalle/
