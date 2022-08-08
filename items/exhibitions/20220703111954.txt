@@ -1,0 +1,7 @@
+Antony Gormley – Ground
+# uid            : 20220703111954
+# dt-created     : 2022-07-03 11:19:54 GMT
+# event-dt-begin : 2022-05-26
+# event-dt-end   : 2022-09-25
+# event-location : Museum Voorlinden, Wassenaar
+# link           : https://www.voorlinden.nl/exhibition/antony-gormley
