@@ -1,0 +1,7 @@
+Füssli: Fashion – Fetishism – Fantasy
+# uid            : 20221014072325
+# dt-created     : 2022-10-14 07:23:25 GMT
+# event-dt-begin : 2023-02-24
+# event-dt-end   : 2023-05-21
+# event-location : Kunsthaus Zürich
+# link           : https://www.kunsthaus.ch/en/besuch-planen/ausstellungen/fuessli/
