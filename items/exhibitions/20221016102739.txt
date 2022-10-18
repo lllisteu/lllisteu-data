@@ -1,0 +1,7 @@
+The cold gaze - Germany in the 1920s
+# uid            : 20221016102739
+# dt-created     : 2022-10-16 10:27:39 GMT
+# event-dt-begin : 2022-10-14
+# event-dt-end   : 2023-02-19
+# event-location : Louisiana Museum of Modern Art, Humlebæk
+# link           : https://louisiana.dk/en/exhibition/germany-in-the-1920s/
