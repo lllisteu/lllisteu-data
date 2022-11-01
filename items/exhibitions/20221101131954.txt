@@ -1,0 +1,7 @@
+Manet / Degas
+# uid            : 20221101131954
+# dt-created     : 2022-11-01 13:19:54 GMT
+# event-dt-begin : 2023-03-28
+# event-dt-end   : 2023-07-23
+# event-location : Musée d'Orsay, Paris
+# link           : https://www.musee-orsay.fr/en/whats-on/exhibitions/manet-degas
