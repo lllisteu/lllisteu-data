@@ -1,0 +1,7 @@
+Marinetti and Futurism
+# uid            : 20221101095933
+# dt-created     : 2022-11-01 09:59:33 GMT
+# event-dt-begin : 2022-09-25
+# event-dt-end   : 2023-02-19
+# event-location : Rijksmuseum Twenthe, Enschede
+# link           : https://www.rijksmuseumtwenthe.nl/content/2706/en/marinetti-and-futurism-a-manifesto-for-a-new-world
