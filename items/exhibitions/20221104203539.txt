@@ -1,0 +1,7 @@
+Matisse, Derain and friends
+# uid            : 20221104203539
+# dt-created     : 2022-11-04 20:35:39 GMT
+# event-dt-begin : 2023-09-02
+# event-dt-end   : 2024-01-21
+# event-location : Kunstmuseum Basel
+# link           : https://kunstmuseumbasel.ch/en/exhibitions/2023/matisse,-derain-und-freunde
