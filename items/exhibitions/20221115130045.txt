@@ -1,0 +1,7 @@
+Rein Dool - tekenaar
+# uid            : 20221115130045
+# dt-created     : 2022-11-15 13:00:45 GMT
+# event-dt-begin : 2022-12-11
+# event-dt-end   : 2023-05-21
+# event-location : Dordrechts Museum
+# link           : https://www.dordrechtsmuseum.nl/nu-te-zien-en-te-doen/rein-dool/
