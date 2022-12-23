@@ -1,0 +1,7 @@
+Lucian Freud. New perspectives
+# uid            : 20221202122630
+# dt-created     : 2022-12-02 12:26:30 GMT
+# event-dt-begin : 2023-02-14
+# event-dt-end   : 2023-06-18
+# event-location : Museo Thyssen-Bornemisza, Madrid
+# link           : https://www.museothyssen.org/en/exhibitions/lucian-freud-new-perspectives

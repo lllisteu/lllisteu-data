@@ -1,0 +1,7 @@
+Clouds and Light: Impressionism in Holland
+# uid            : 20221223195526
+# dt-created     : 2022-12-23 19:55:26 GMT
+# event-dt-begin : 2023-07-08
+# event-dt-end   : 2023-10-22
+# event-location : Museum Barberini, Potsdam
+# link           : https://www.museum-barberini.de/en/ausstellungen/9498/clouds-and-light-impressionism-in-holland

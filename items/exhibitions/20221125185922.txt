@@ -1,0 +1,7 @@
+Chaïm Soutine
+# uid            : 20221125185922
+# dt-created     : 2022-11-25 18:59:22 GMT
+# event-dt-begin : 2023-09-02
+# event-dt-end   : 2024-01-14
+# event-location : Kunstsammlung NRW, Düsseldorf
+# link           : https://www.kunstsammlung.de/en/exhibitions/chaim-soutine-en

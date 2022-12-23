@@ -3,5 +3,5 @@ Alex Katz
 # dt-created     : 2022-04-30 15:54:11 GMT
 # event-dt-begin : 2022-06-11
 # event-dt-end   : 2022-09-11
-# event-location : Museo Nacional Thyssen-Bornemisza, Madrid
+# event-location : Museo Thyssen-Bornemisza, Madrid
 # link           : https://www.museothyssen.org/en/exhibitions/alex-katz

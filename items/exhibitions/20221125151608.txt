@@ -1,0 +1,7 @@
+Mondrian. Evolution
+# uid            : 20221125151608
+# dt-created     : 2022-11-25 15:16:08 GMT
+# event-dt-begin : 2022-10-29
+# event-dt-end   : 2023-02-12
+# event-location : Kunstsammlung NRW, Düsseldorf
+# link           : https://www.kunstsammlung.de/en/exhibitions/mondrian-evolution-en
