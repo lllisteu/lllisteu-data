@@ -1,0 +1,7 @@
+Jasper Johns – The artist as collector
+# uid            : 20230109090149
+# dt-created     : 2023-01-09 09:01:49 GMT
+# event-dt-begin : 2023-09-30
+# event-dt-end   : 2024-02-04
+# event-location : Kunstmuseum Basel
+# link           : https://kunstmuseumbasel.ch/en/exhibitions/2023/jasper-johns

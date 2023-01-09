@@ -1,0 +1,7 @@
+Robert Motherwell - Painting
+# uid            : 20230109084700
+# dt-created     : 2023-01-09 08:47:00 GMT
+# event-dt-begin : 2023-10-12
+# event-dt-end   : 2024-01-14
+# event-location : Kunstforum Wien
+# link           : https://www.kunstforumwien.at/en/exhibition/exhibitions/347/robert-motherwell-painting

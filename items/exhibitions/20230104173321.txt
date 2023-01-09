@@ -1,0 +1,7 @@
+Maison Sonia: Sonia Delaunay and the Atelier Simultané
+# uid            : 20230104173321
+# dt-created     : 2023-01-04 17:33:21 GMT
+# event-dt-begin : 2022-10-23
+# event-dt-end   : 2023-02-26
+# event-location : Haus Lange, Krefeld
+# link           : https://kunstmuseenkrefeld.de/en/Exhibitions/2022/Maison-Sonia
