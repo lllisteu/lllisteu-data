@@ -1,0 +1,7 @@
+Sofonisba Anguissola
+# uid            : 20230126204217
+# dt-created     : 2023-01-26 20:42:17 GMT
+# event-dt-begin : 2023-02-11
+# event-dt-end   : 2023-06-11
+# event-location : Rijksmuseum Twenthe, Enschede
+# link           : https://www.rijksmuseumtwenthe.nl/content/3287/en/binnenkort-sofonisba-anguissola

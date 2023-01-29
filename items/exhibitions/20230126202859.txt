@@ -1,0 +1,7 @@
+Günter Fruhtrunk, the Paris Years
+# uid            : 20230126202859
+# dt-created     : 2023-01-26 20:28:59 GMT
+# event-dt-begin : 2023-11-21
+# event-dt-end   : 2024-04-07
+# event-location : Lenbachhaus, München
+# link           : https://www.lenbachhaus.de/en/visit/exhibitions/details/guenter-fruhtrunk
