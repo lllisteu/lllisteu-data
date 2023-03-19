@@ -1,0 +1,7 @@
+Giacometti – Dalí
+# uid            : 20230319083755
+# dt-created     : 2023-03-19 08:37:55 GMT
+# event-dt-begin : 2023-04-14
+# event-dt-end   : 2023-07-02
+# event-location : Kunsthaus Zürich
+# link           : https://www.kunsthaus.ch/en/besuch-planen/ausstellungen/giacometti-dali/
