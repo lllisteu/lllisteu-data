@@ -1,0 +1,7 @@
+Felipe Pantone
+# uid            : 20230326120822
+# dt-created     : 2023-03-26 12:08:22 GMT
+# event-dt-begin : 2023-04-29
+# event-dt-end   : 2023-10-01
+# event-location : Kunsthal, Rotterdam
+# link           : https://www.kunsthal.nl/nl/plan-je-bezoek/tentoonstellingen/felipe-pantone/
