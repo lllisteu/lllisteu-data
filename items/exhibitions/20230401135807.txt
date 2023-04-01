@@ -1,0 +1,7 @@
+Cobra 75: Freedom without Borders
+# uid            : 20230401135807
+# dt-created     : 2023-04-01 13:58:07 GMT
+# event-dt-begin : 2023-06-02
+# event-dt-end   : 2023-10-08
+# event-location : Cobra Museum, Amstelveen
+# link           : https://cobra-museum.nl/tentoonstelling/cobra-75-freedom-without-borders/?lang=en

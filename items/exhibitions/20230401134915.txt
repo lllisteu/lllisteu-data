@@ -1,0 +1,7 @@
+Suzanne Valadon – Un monde à soi
+# uid            : 20230401134915
+# dt-created     : 2023-04-01 13:49:15 GMT
+# event-dt-begin : 2023-04-15
+# event-dt-end   : 2023-09-11
+# event-location : Centre Pompidou, Metz
+# link           : https://www.centrepompidou-metz.fr/en/programme/exposition/suzanne-valadon

@@ -1,0 +1,7 @@
+Yayoi Kusama. The Dutch Years 1965-1970
+# uid            : 20230401134418
+# dt-created     : 2023-04-01 13:44:18 GMT
+# event-dt-begin : 2023-09-23
+# event-dt-end   : 2024-02-25
+# event-location : Stedelijk Museum Schiedam
+# link           : https://www.stedelijkmuseumschiedam.nl/tentoonstelling/yayoi-kusama-the-dutch-years-1965-1970/
