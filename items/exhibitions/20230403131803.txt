@@ -1,0 +1,7 @@
+Joan Miró. Absolute Reality
+# uid            : 20230403131803
+# dt-created     : 2023-04-03 13:18:03 GMT
+# event-dt-begin : 2023-02-10
+# event-dt-end   : 2023-05-28
+# event-location : Museo Guggenheim, Bilbao
+# link           : https://www.guggenheim-bilbao.eus/en/exhibitions/joan-miro-absolute-reality-paris-1920-1945
