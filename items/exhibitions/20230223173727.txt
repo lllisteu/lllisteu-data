@@ -4,4 +4,4 @@ Barbara Hepworth – The Liberation of Form
 # event-dt-begin : 2023-04-02
 # event-dt-end   : 2023-08-20
 # event-location : Lehmbruck Museum, Duisburg
-# link           : https://lehmbruckmuseum.de/exhibitions/exhibition-preview/the-liberation-of-form-barbara-hepworth/
+# link           : https://lehmbruckmuseum.de/exhibitions/current-exhibitions/the-liberation-of-form-barbara-hepworth/
