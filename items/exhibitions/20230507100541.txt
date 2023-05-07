@@ -1,0 +1,7 @@
+Man Ray and Fashion
+# uid            : 20230507100541
+# dt-created     : 2023-05-07 10:05:41 GMT
+# event-dt-begin : 2023-04-22
+# event-dt-end   : 2023-08-13
+# event-location : Modemuseum, Antwerpen
+# link           : https://www.momu.be/en/exhibitions/man-ray
