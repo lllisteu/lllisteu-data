@@ -1,0 +1,7 @@
+Lothar Wolleh ziet Jan Schoonhoven
+# uid            : 20230618090446
+# dt-created     : 2023-06-18 09:04:46 GMT
+# event-dt-begin : 2023-07-06
+# event-dt-end   : 2024-01-07
+# event-location : Museum Prinsenhof Delft
+# link           : https://prinsenhof-delft.nl/ontdek-het-museum/tentoonstellingen/lothar-wolleh-ziet-jan-schoonhoven-meesters-in-ritme-en-licht
