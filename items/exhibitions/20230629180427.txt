@@ -1,0 +1,7 @@
+Love of Colour
+# uid            : 20230629180427
+# dt-created     : 2023-06-29 18:04:27 GMT
+# event-dt-begin : 2023-05-16
+# event-dt-end   : 2023-09-03
+# event-location : Singer Laren
+# link           : https://www.singerlaren.nl/en/agenda/1351/May_16_2023_September_3_2023/LOVE_OF_COLOUR_
