@@ -1,0 +1,7 @@
+La Grande Bleue
+# uid            : 20230707103531
+# dt-created     : 2023-07-07 10:35:31 GMT
+# event-dt-begin : 2023-09-12
+# event-dt-end   : 2024-01-07
+# event-location : Singer Laren
+# link           : https://www.singerlaren.nl/nl/agenda/1401/12_september_2023_t_m_7_januari_2024_/La_Grande_Bleue_Schilders_van_de_Mediterranee

@@ -1,0 +1,7 @@
+Matisse
+# uid            : 20230707104528
+# dt-created     : 2023-07-07 10:45:28 GMT
+# event-dt-begin : 2024-09-22
+# event-dt-end   : 2025-01-26
+# event-location : Fondation Beyeler, Basel
+# link           : https://www.fondationbeyeler.ch/en/exhibitions/henri-matisse
