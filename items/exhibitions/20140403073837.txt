@@ -4,4 +4,4 @@ Counterproof. An Art in Itself
 # link           : http://www.wallraf.museum/en/exhibitions/now/2014-08-abklatsch/
 # event-dt-begin : 2014-08-29
 # event-dt-end   : 2014-11-23
-# event-location : Wallraf-Richartz-Museum, Köln
+# event-location : Wallraf–Richartz–Museum, Köln

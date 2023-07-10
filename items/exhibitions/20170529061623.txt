@@ -4,4 +4,4 @@ Tintoretto
 # link           : http://www.wallraf.museum/ausstellungen/vorschau/2017-10-06-tintoretto/
 # event-dt-begin : 2017-10-06
 # event-dt-end   : 2018-01-28
-# event-location : Wallraf-Richartz-Museum, Köln
+# event-location : Wallraf–Richartz–Museum, Köln
