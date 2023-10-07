@@ -1,0 +1,7 @@
+Gertrude Stein et Pablo Picasso
+# uid            : 20231007072156
+# dt-created     : 2023-10-07 07:21:56 GMT
+# event-dt-begin : 2023-09-13
+# event-dt-end   : 2024-01-28
+# event-location : Musée du Luxembourg, Paris
+# link           : https://www.grandpalais.fr/en/event/gertrude-stein-et-pablo-picasso

@@ -1,0 +1,7 @@
+Picasso. Dessiner à l'infini
+# uid            : 20231007065350
+# dt-created     : 2023-10-07 06:53:50 GMT
+# event-dt-begin : 2023-10-18
+# event-dt-end   : 2024-01-15
+# event-location : Centre Pompidou, Paris
+# link           : https://www.centrepompidou.fr/en/program/calendar/event/kVxyAVk
