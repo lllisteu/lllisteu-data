@@ -1,0 +1,7 @@
+Paris 1874 – Inventer l'impressionnisme
+# uid            : 20231022095008
+# dt-created     : 2023-10-22 09:50:08 GMT
+# event-dt-begin : 2024-03-26
+# event-dt-end   : 2024-07-14
+# event-location : Musée d'Orsay, Paris
+# link           : https://www.musee-orsay.fr/en/whats-on/exhibitions/paris-1874-inventing-impressionism

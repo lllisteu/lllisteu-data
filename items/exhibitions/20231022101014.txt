@@ -1,0 +1,7 @@
+Alberto Giacometti
+# uid            : 20231022101014
+# dt-created     : 2023-10-22 10:10:14 GMT
+# event-dt-begin : 2024-02-10 
+# event-dt-end   : 2024-05-20
+# event-location : Statens Museum for Kunst, København
+# link           : https://www.smk.dk/en/exhibition/alberto-giacometti/
