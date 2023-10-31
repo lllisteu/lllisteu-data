@@ -4,4 +4,6 @@ Fondation Bemberg
 # link        : http://www.fondation-bemberg.fr/
 # tags        : art,Toulouse
 # wikidata_id : Q16303680
+# lat         : 43.6001991
+# lon         : 1.4420464
 # isa         : museum
