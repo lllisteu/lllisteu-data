@@ -1,7 +1,7 @@
-Renoir. Le peintre et ses modèles
+Renoir – The Painter and His Models
 # uid            : 20231007070203
 # dt-created     : 2023-10-07 07:02:03 GMT
 # event-dt-begin : 2023-09-22
 # event-dt-end   : 2024-01-07
-# event-location : Musée d'Orsay, Paris
-# link           : https://www.musee-orsay.fr/fr/agenda/expositions/renoir-le-peintre-et-ses-modeles-0
+# event-location : Museum of Fine Arts, Budapest
+# link           : https://www.mfab.hu/exhibitions/renoir-the-painter-and-his-models/
