@@ -1,0 +1,7 @@
+Arte Povera
+# uid            : 20231109115746
+# dt-created     : 2023-11-09 11:57:46 GMT
+# event-dt-begin : 2024-09-25
+# event-dt-end   : 2025-03-24
+# event-location : Bourse de Commerce, Paris
+# link           : https://www.pinaultcollection.com/en/boursedecommerce/arte-povera
