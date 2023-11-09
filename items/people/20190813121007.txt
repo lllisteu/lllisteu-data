@@ -8,4 +8,5 @@ isa:
 - artist
 dt-birth: '1923-08-17'
 dt-death: '2019-07-27'
+label: Cruz-Diez
 ---

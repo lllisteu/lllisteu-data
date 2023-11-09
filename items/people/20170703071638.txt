@@ -8,4 +8,5 @@ isa:
 - artist
 dt-birth: '1577-06-28'
 dt-death: '1640-05-30'
+label: Rubens
 ---

@@ -8,4 +8,5 @@ isa:
 - artist
 dt-birth: circa 1267
 dt-death: '1337-01-08'
+label: Giotto
 ---

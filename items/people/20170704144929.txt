@@ -8,4 +8,5 @@ isa:
 - artist
 dt-birth: '1599'
 dt-death: '1660-08-06'
+label: Velázquez
 ---

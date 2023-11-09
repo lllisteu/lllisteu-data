@@ -8,4 +8,5 @@ isa:
 - artist
 dt-birth: '1452-04-15'
 dt-death: '1519-05-02'
+label: Leonardo
 ---

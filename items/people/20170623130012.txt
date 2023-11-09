@@ -10,4 +10,5 @@ isa:
 dt-birth: '1840-11-14'
 dt-death: '1926-12-05'
 color: lightblue
+label: Monet
 ---

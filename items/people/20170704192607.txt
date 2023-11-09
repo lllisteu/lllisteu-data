@@ -8,4 +8,5 @@ isa:
 - artist
 dt-birth: '1839-01-19'
 dt-death: '1906-10-22'
+label: Cézanne
 ---

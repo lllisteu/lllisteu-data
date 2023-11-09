@@ -7,4 +7,5 @@ isa:
 - person
 dt-birth: '1866-07-03'
 dt-death: '1939-07-21'
+label: Vollard
 ---

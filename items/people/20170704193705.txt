@@ -9,4 +9,5 @@ isa:
 - painter
 dt-birth: '1832-01-23'
 dt-death: '1883-04-30'
+label: Manet
 ---

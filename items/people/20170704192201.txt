@@ -8,4 +8,5 @@ isa:
 - artist
 dt-birth: '1848-06-07'
 dt-death: '1903-05-08'
+label: Gauguin
 ---

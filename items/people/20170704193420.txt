@@ -8,4 +8,5 @@ isa:
 - artist
 dt-birth: '1834-07-19'
 dt-death: '1917-09-27'
+label: Degas
 ---
