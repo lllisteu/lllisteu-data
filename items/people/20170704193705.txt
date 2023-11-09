@@ -1,7 +1,9 @@
-Édouard Manet
-# uid         : 20170704193705
-# dt-created  : 2017-07-04 19:37:05 GMT
-# wikidata_id : Q40599
-# isa         : person,artist,painter
-# dt-birth    : 1832-01-23
-# dt-death    : 1883-04-30
+---
+title: Édouard Manet
+uid: '20170704193705'
+dt-created: 2017-07-04 19:37:05 GMT
+wikidata_id: Q40599
+isa: person,artist,painter
+dt-birth: '1832-01-23'
+dt-death: '1883-04-30'
+---

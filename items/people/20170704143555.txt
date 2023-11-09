@@ -1,7 +1,9 @@
-Georges Seurat
-# uid         : 20170704143555
-# dt-created  : 2017-07-04 14:35:55 GMT
-# wikidata_id : Q34013
-# isa         : person,artist
-# dt-birth    : 1859-12-02
-# dt-death    : 1891-03-29
+---
+title: Georges Seurat
+uid: '20170704143555'
+dt-created: 2017-07-04 14:35:55 GMT
+wikidata_id: Q34013
+isa: person,artist
+dt-birth: '1859-12-02'
+dt-death: '1891-03-29'
+---

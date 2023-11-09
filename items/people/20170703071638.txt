@@ -1,7 +1,9 @@
-Pieter Paul Rubens
-# uid         : 20170703071638
-# dt-created  : 2017-07-03 07:16:38 GMT
-# wikidata_id : Q5599
-# isa         : person,artist
-# dt-birth    : 1577-06-28
-# dt-death    : 1640-05-30
+---
+title: Pieter Paul Rubens
+uid: '20170703071638'
+dt-created: 2017-07-03 07:16:38 GMT
+wikidata_id: Q5599
+isa: person,artist
+dt-birth: '1577-06-28'
+dt-death: '1640-05-30'
+---

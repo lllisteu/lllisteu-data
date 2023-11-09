@@ -1,7 +1,9 @@
-Carlos Cruz-Diez
-# uid         : 20190813121007
-# dt-created  : 2019-08-13 12:10:07 GMT
-# wikidata_id : Q1042835
-# isa         : person,artist
-# dt-birth    : 1923-08-17
-# dt-death    : 2019-07-27
+---
+title: Carlos Cruz-Diez
+uid: '20190813121007'
+dt-created: 2019-08-13 12:10:07 GMT
+wikidata_id: Q1042835
+isa: person,artist
+dt-birth: '1923-08-17'
+dt-death: '2019-07-27'
+---

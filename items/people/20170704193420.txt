@@ -1,7 +1,9 @@
-Edgar Degas
-# uid         : 20170704193420
-# dt-created  : 2017-07-04 19:34:20 GMT
-# wikidata_id : Q46373
-# isa         : person,artist
-# dt-birth    : 1834-07-19
-# dt-death    : 1917-09-27
+---
+title: Edgar Degas
+uid: '20170704193420'
+dt-created: 2017-07-04 19:34:20 GMT
+wikidata_id: Q46373
+isa: person,artist
+dt-birth: '1834-07-19'
+dt-death: '1917-09-27'
+---
