@@ -1,0 +1,10 @@
+---
+title: Gerhard Richter
+uid: '20231109135418'
+dt-created: 2023-11-09 13:54:18 GMT
+wikidata_id: Q164351
+isa:
+- person
+- artist
+dt-birth: '1932-02-09'
+---

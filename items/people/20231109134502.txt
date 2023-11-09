@@ -1,0 +1,10 @@
+---
+title: Ambroise Vollard
+uid: '20231109134502'
+dt-created: 2023-11-09 13:45:02 GMT
+wikidata_id: Q459041
+isa:
+- person
+dt-birth: '1866-07-03'
+dt-death: '1939-07-21'
+---

@@ -1,0 +1,11 @@
+---
+title: Giotto di Bondone
+uid: '20231109135656'
+dt-created: 2023-11-09 13:56:56 GMT
+wikidata_id: Q7814
+isa:
+- person
+- artist
+dt-birth: circa 1267
+dt-death: '1337-01-08'
+---
