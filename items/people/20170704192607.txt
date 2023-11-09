@@ -3,7 +3,9 @@ title: Paul Cézanne
 uid: '20170704192607'
 dt-created: 2017-07-04 19:26:07 GMT
 wikidata_id: Q35548
-isa: person,artist
+isa:
+- person
+- artist
 dt-birth: '1839-01-19'
 dt-death: '1906-10-22'
 ---

@@ -3,7 +3,9 @@ title: Vincent van Gogh
 uid: '20170625201143'
 dt-created: 2017-06-25 20:11:43 GMT
 wikidata_id: Q5582
-isa: person,artist
+isa:
+- person
+- artist
 dt-birth: '1853-03-30'
 dt-death: '1890-07-29'
 ---

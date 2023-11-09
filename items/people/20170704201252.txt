@@ -3,7 +3,9 @@ title: Pablo Picasso
 uid: '20170704201252'
 dt-created: 2017-07-04 20:12:52 GMT
 wikidata_id: Q5593
-isa: person,artist
+isa:
+- person
+- artist
 dt-birth: '1881-10-25'
 dt-death: '1973-04-08'
 ---

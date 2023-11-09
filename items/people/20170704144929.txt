@@ -3,7 +3,9 @@ title: Diego Velázquez
 uid: '20170704144929'
 dt-created: 2017-07-04 14:49:29 GMT
 wikidata_id: Q297
-isa: person,artist
+isa:
+- person
+- artist
 dt-birth: '1599'
 dt-death: '1660-08-06'
 ---

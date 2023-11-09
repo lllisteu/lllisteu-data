@@ -3,8 +3,9 @@ title: Hokusai
 uid: '20170623150639'
 dt-created: 2017-06-23 15:06:39 GMT
 wikidata_id: Q5586
-wikipedia: en:Hokusai
-isa: person,artist
+isa:
+- person
+- artist
 dt-birth: '1760-10-31'
 dt-death: '1849-05-10'
 ---

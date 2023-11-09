@@ -3,7 +3,9 @@ title: Paul Gauguin
 uid: '20170704192201'
 dt-created: 2017-07-04 19:22:01 GMT
 wikidata_id: Q37693
-isa: person,artist
+isa:
+- person
+- artist
 dt-birth: '1848-06-07'
 dt-death: '1903-05-08'
 ---

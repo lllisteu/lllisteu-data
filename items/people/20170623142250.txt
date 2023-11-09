@@ -3,8 +3,9 @@ title: Hiroshige
 uid: '20170623142250'
 dt-created: 2017-06-23 14:22:50 GMT
 wikidata_id: Q200798
-wikipedia: en:Hiroshige
-isa: person,artist
+isa:
+- person
+- artist
 dt-birth: '1797'
 dt-death: '1858-10-12'
 ---
