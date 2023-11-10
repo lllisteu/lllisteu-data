@@ -1,0 +1,11 @@
+---
+title: Yaacov Agam
+uid: '20231110125222'
+dt-created: 2023-11-10 12:52:22 GMT
+wikidata_id: Q276030
+isa:
+- person
+- artist
+dt-birth: '1928-05-11'
+label: Agam
+---

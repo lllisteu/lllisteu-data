@@ -1,0 +1,13 @@
+---
+title: Kees van Dongen
+uid: '20231110124841'
+dt-created: 2023-11-10 12:48:41 GMT
+wikidata_id: Q170345
+isa:
+- person
+- artist
+- painter
+dt-birth: '1877-01-26'
+dt-death: '1968-05-28'
+label: van Dongen
+---

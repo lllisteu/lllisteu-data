@@ -1,0 +1,13 @@
+---
+title: Jean-Honoré Fragonard
+uid: '20231110125816'
+dt-created: 2023-11-10 12:58:16 GMT
+wikidata_id: Q127171
+isa:
+- person
+- artist
+- painter
+dt-birth: '1732-04-05'
+dt-death: '1806-08-22'
+label: Fragonard
+---

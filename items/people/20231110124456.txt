@@ -1,0 +1,13 @@
+---
+title: Sandro Botticelli
+uid: '20231110124456'
+dt-created: 2023-11-10 12:44:56 GMT
+wikidata_id: Q5669
+isa:
+- person
+- artist
+- painter
+dt-birth: circa 1445
+dt-death: '1510-05-17'
+label: Botticelli
+---
