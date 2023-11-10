@@ -3,10 +3,12 @@ title: Musée du quai Branly – Jacques Chirac
 uid: '20190506052408'
 dt-created: 2019-05-06 05:24:08 GMT
 link: http://www.quaibranly.fr/
-tags: Paris,art
+tags:
+- Paris
+- art
 wikidata_id: Q167863
-wikipedia: en:Musée du quai Branly – Jacques Chirac
-lat: '48.86062'
-lon: '2.29718'
-isa: museum
+lat: 48.86062
+lon: 2.29718
+isa:
+- museum
 ---

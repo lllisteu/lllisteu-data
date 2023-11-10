@@ -3,10 +3,12 @@ title: Panorama Mesdag
 uid: '20191028213106'
 dt-created: 2019-10-28 21:31:06 GMT
 link: https://www.panorama-mesdag.nl/
-tags: Den Haag,art
+tags:
+- Den Haag
+- art
 wikidata_id: Q1738414
-wikipedia: en:Panorama Mesdag
-lat: '52.08498'
-lon: '4.30422'
-isa: museum
+lat: 52.08498
+lon: 4.30422
+isa:
+- museum
 ---

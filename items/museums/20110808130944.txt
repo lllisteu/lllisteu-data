@@ -2,11 +2,13 @@
 title: Kunsthistorisches Museum Wien
 uid: '20110808130944'
 dt-created: 2011-08-08 11:09:44 GMT
-tags: art,Wien
+tags:
+- art
+- Wien
 link: http://www.khm.at/
 wikipedia: de:Kunsthistorisches Museum
-lat: '48.203661'
-lon: '16.361378'
-twitter-handle: KHM_Wien
-isa: museum
+lat: 48.203661
+lon: 16.361378
+isa:
+- museum
 ---

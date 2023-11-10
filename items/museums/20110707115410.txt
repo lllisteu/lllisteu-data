@@ -2,9 +2,12 @@
 title: Palazzo Altemps
 uid: '20110707115410'
 dt-created: 2011-07-07 09:54:10 GMT
-tags: Roma,art
+tags:
+- Roma
+- art
 wikidata_id: Q1816007
-lat: '41.901051'
-lon: '12.473131'
-isa: museum
+lat: 41.901051
+lon: 12.473131
+isa:
+- museum
 ---

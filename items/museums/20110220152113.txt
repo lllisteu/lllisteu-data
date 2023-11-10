@@ -2,11 +2,13 @@
 title: Galleria Borghese
 uid: '20110220152113'
 dt-created: 2011-02-20 14:21:13 GMT
-tags: Roma,art
+tags:
+- Roma
+- art
 link: http://www.galleriaborghese.it/
 wikidata_id: Q841506
-wikipedia: en:Galleria Borghese
-lat: '41.91418'
-lon: '12.49219'
-isa: museum
+lat: 41.91418
+lon: 12.49219
+isa:
+- museum
 ---

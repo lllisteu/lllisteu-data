@@ -2,11 +2,13 @@
 title: Musei Vaticani
 uid: '20110131120359'
 dt-created: 2011-01-31 11:03:59 GMT
-tags: Roma,art
+tags:
+- Roma
+- art
 link: http://mv.vatican.va/
 wikidata_id: Q182955
-wikipedia: en:Vatican Museums
-lat: '41.906389'
-lon: '12.454444'
-isa: museum
+lat: 41.906389
+lon: 12.454444
+isa:
+- museum
 ---

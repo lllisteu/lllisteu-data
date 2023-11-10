@@ -3,9 +3,12 @@ title: Museum De Reede
 uid: '20210610122250'
 dt-created: 2021-06-10 12:22:50 GMT
 link: https://museum-dereede.com/
-tags: Antwerpen,art
+tags:
+- Antwerpen
+- art
 wikidata_id: Q24471974
-lat: '51.22172'
-lon: '4.39778'
-isa: museum
+lat: 51.22172
+lon: 4.39778
+isa:
+- museum
 ---

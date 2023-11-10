@@ -3,10 +3,12 @@ title: Musée d'Art et d'Industrie André Diligent
 uid: '20200316142543'
 dt-created: 2020-03-16 14:25:43 GMT
 link: https://www.roubaix-lapiscine.com/
-tags: art,Roubaix
+tags:
+- art
+- Roubaix
 wikidata_id: Q1955748
-wikipedia: en:La Piscine Museum
-lat: '50.69236'
-lon: '3.16785'
-isa: museum
+lat: 50.69236
+lon: 3.16785
+isa:
+- museum
 ---

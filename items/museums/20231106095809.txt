@@ -3,9 +3,11 @@ title: Museum Voorlinden
 uid: '20231106095809'
 dt-created: 2023-11-06 09:58:09 GMT
 wikidata_id: Q2298844
-lat: '52.11924'
-lon: '4.34765'
-isa: museum
-tags: art
+lat: 52.11924
+lon: 4.34765
+isa:
+- museum
+tags:
+- art
 link: https://www.voorlinden.nl/
 ---

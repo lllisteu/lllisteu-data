@@ -4,8 +4,11 @@ uid: '20160119221724'
 dt-created: 2016-01-19 22:17:24 GMT
 link: http://www.museum-kueppersmuehle.de/
 wikipedia: en:Museum Küppersmühle
-tags: Duisburg,art
-lat: '51.441111'
-lon: '6.775'
-isa: museum
+tags:
+- Duisburg
+- art
+lat: 51.441111
+lon: 6.775
+isa:
+- museum
 ---

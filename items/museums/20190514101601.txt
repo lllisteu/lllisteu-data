@@ -3,10 +3,12 @@ title: Kunstmuseum Wolfsburg
 uid: '20190514101601'
 dt-created: 2019-05-14 10:16:01 GMT
 link: https://www.kunstmuseum-wolfsburg.de/
-tags: Wolfsburg,art
+tags:
+- Wolfsburg
+- art
 wikidata_id: Q1792556
-wikipedia: en:Kunstmuseum Wolfsburg
-lat: '52.41855'
-lon: '10.78551'
-isa: museum
+lat: 52.41855
+lon: 10.78551
+isa:
+- museum
 ---

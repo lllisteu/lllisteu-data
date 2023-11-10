@@ -3,9 +3,12 @@ title: Museum Arnhem
 uid: '20231101174135'
 dt-created: 2023-11-01 17:41:35 GMT
 wikidata_id: Q2114028
-lat: '51.98539'
-lon: '5.89218'
+lat: 51.98539
+lon: 5.89218
 link: https://museumarnhem.nl/
-isa: museum
-tags: art,Arnhem
+isa:
+- museum
+tags:
+- art
+- Arnhem
 ---

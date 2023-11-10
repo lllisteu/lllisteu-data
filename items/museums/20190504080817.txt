@@ -3,10 +3,12 @@ title: Hamburger Kunsthalle
 uid: '20190504080817'
 dt-created: 2019-05-04 08:08:17 GMT
 link: https://www.hamburger-kunsthalle.de/
-tags: Hamburg,art
+tags:
+- Hamburg
+- art
 wikidata_id: Q169542
-wikipedia: en:Kunsthalle Hamburg
-lat: '53.55527'
-lon: '10.00299'
-isa: museum
+lat: 53.55527
+lon: 10.00299
+isa:
+- museum
 ---

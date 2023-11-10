@@ -2,10 +2,13 @@
 title: Leopold Museum
 uid: '20120216213545'
 dt-created: 2012-02-16 21:35:45 GMT
-tags: Wien,art
+tags:
+- Wien
+- art
 link: http://www.leopoldmuseum.org/
 wikipedia: en:Leopold Museum
-lat: '48.2025'
-lon: '16.3589'
-isa: museum
+lat: 48.2025
+lon: 16.3589
+isa:
+- museum
 ---

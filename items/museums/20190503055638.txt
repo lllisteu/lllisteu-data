@@ -3,10 +3,11 @@ title: Fondation Vasarely
 uid: '20190503055638'
 dt-created: 2019-05-03 05:56:38 GMT
 link: http://www.fondationvasarely.org/
-tags: art
+tags:
+- art
 wikidata_id: Q3075583
-wikipedia: en:Fondation Vasarely
-lat: '43.52136'
-lon: '5.42487'
-isa: museum
+lat: 43.52136
+lon: 5.42487
+isa:
+- museum
 ---

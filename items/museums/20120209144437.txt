@@ -2,11 +2,13 @@
 title: Museo Nacional del Prado
 uid: '20120209144437'
 dt-created: 2012-02-09 14:44:37 GMT
-tags: Madrid,art
+tags:
+- Madrid
+- art
 link: http://www.museodelprado.es/
 wikipedia: en:Museo del Prado
-lat: '40.413889'
-lon: "-3.6925"
-isa: museum
-twitter-handle: museodelprado
+lat: 40.413889
+lon: -3.6925
+isa:
+- museum
 ---

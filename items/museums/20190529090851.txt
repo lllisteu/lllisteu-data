@@ -3,10 +3,12 @@ title: Musée des Beaux Arts de Lyon
 uid: '20190529090851'
 dt-created: 2019-05-29 09:08:51 GMT
 link: http://www.mba-lyon.fr/
-tags: Lyon,art
+tags:
+- Lyon
+- art
 wikidata_id: Q511
-wikipedia: en:Museum of Fine Arts of Lyon
-lat: '45.76683'
-lon: '4.83364'
-isa: Museum
+lat: 45.76683
+lon: 4.83364
+isa:
+- Museum
 ---

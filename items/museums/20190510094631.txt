@@ -3,10 +3,12 @@ title: Museum de Fundatie
 uid: '20190510094631'
 dt-created: 2019-05-10 09:46:31 GMT
 link: https://www.museumdefundatie.nl/
-tags: Zwolle,art
+tags:
+- Zwolle
+- art
 wikidata_id: Q2436387
-wikipedia: en:Museum de Fundatie
-lat: '52.51017'
-lon: '6.09145'
-isa: museum
+lat: 52.51017
+lon: 6.09145
+isa:
+- museum
 ---

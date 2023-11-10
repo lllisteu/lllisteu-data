@@ -2,10 +2,13 @@
 title: LWL-Museum für Kunst und Kultur
 uid: '20161116112514'
 dt-created: 2016-11-16 11:25:14 GMT
-tags: Münster,art
+tags:
+- Münster
+- art
 link: http://www.lwl.org/LWL/Kultur/museumkunstkultur
 wikipedia: de:LWL-Museum für Kunst und Kultur
-lat: '51.961944'
-lon: '7.624444'
-isa: museum
+lat: 51.961944
+lon: 7.624444
+isa:
+- museum
 ---

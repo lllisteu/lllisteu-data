@@ -3,10 +3,12 @@ title: Lentos Kunstmuseum Linz
 uid: '20190531133224'
 dt-created: 2019-05-31 13:32:24 GMT
 link: https://www.lentos.at/
-tags: Linz,art
+tags:
+- Linz
+- art
 wikidata_id: Q686531
-wikipedia: en:Lentos Art Museum
-lat: '48.30852'
-lon: '14.28875'
-isa: museum
+lat: 48.30852
+lon: 14.28875
+isa:
+- museum
 ---

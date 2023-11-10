@@ -2,10 +2,13 @@
 title: Museum Ludwig
 uid: '20140427204822'
 dt-created: 2014-04-27 20:48:22 GMT
-tags: Köln,art
+tags:
+- Köln
+- art
 link: http://www.museum-ludwig.de/
 wikipedia: de:Museum Ludwig
-lat: '50.940833'
-lon: '6.960278'
-isa: museum
+lat: 50.940833
+lon: 6.960278
+isa:
+- museum
 ---

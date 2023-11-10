@@ -3,10 +3,12 @@ title: Haus der Kunst
 uid: '20190509205713'
 dt-created: 2019-05-09 20:57:13 GMT
 link: https://hausderkunst.de/
-tags: München,art
+tags:
+- München
+- art
 wikidata_id: Q697782
-wikipedia: en:Haus der Kunst
-lat: '48.14410'
-lon: '11.58600'
-isa: kunsthalle
+lat: 48.1441
+lon: 11.586
+isa:
+- kunsthalle
 ---

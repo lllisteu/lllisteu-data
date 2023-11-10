@@ -2,11 +2,13 @@
 title: Pinacoteca di Brera
 uid: '20190425124335'
 dt-created: 2019-04-25 12:43:35 GMT
-tags: Milano,art
+tags:
+- Milano
+- art
 link: https://pinacotecabrera.org
 wikidata_id: Q150066
-wikipedia: en:Pinacoteca di Brera
-lat: '45.47199'
-lon: '9.18813'
-isa: museum
+lat: 45.47199
+lon: 9.18813
+isa:
+- museum
 ---

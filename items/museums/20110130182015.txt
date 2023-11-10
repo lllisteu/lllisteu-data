@@ -2,12 +2,13 @@
 title: MAXXI - Museo nazionale delle arti del XXI secolo
 uid: '20110130182015'
 dt-created: 2011-01-30 17:20:15 GMT
-tags: Roma,art
+tags:
+- Roma
+- art
 link: http://www.fondazionemaxxi.it/
 wikidata_id: Q1881229
-wikipedia: en:MAXXI
-lat: '41.928639'
-lon: '12.46643'
-twitter-handle: Museo_MAXXI
-isa: museum
+lat: 41.928639
+lon: 12.46643
+isa:
+- museum
 ---

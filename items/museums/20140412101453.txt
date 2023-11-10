@@ -2,9 +2,12 @@
 title: Römisch-Germanisches Museum
 uid: '20140412101453'
 dt-created: 2014-04-12 10:14:53 GMT
-tags: Köln,art
+tags:
+- Köln
+- art
 wikidata_id: Q707955
-lat: '50.94070'
-lon: '6.95891'
-isa: museum
+lat: 50.9407
+lon: 6.95891
+isa:
+- museum
 ---

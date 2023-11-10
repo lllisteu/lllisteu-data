@@ -2,10 +2,13 @@
 title: Tate Britain
 uid: '20140429221602'
 dt-created: 2014-04-29 22:16:02 GMT
-tags: London,art
+tags:
+- London
+- art
 link: http://www.tate.org.uk/britain
 wikipedia: en:Tate Britain
-lat: '51.490833'
-lon: "-0.127222"
-isa: museum
+lat: 51.490833
+lon: -0.127222
+isa:
+- museum
 ---

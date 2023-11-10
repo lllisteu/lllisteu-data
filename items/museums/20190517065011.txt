@@ -3,10 +3,11 @@ title: Fondation Marguerite et Aimé Maeght
 uid: '20190517065011'
 dt-created: 2019-05-17 06:50:11 GMT
 link: https://www.fondation-maeght.com/
-tags: art
+tags:
+- art
 wikidata_id: Q1435689
-wikipedia: en:Fondation Maeght
-lat: '43.70087'
-lon: '7.11491'
-isa: museum
+lat: 43.70087
+lon: 7.11491
+isa:
+- museum
 ---

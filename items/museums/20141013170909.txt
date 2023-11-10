@@ -2,10 +2,13 @@
 title: Royal Academy of Arts
 uid: '20141013170909'
 dt-created: 2014-10-13 17:09:09 GMT
-tags: London,art
+tags:
+- London
+- art
 link: http://www.royalacademy.org.uk/
 wikipedia: en:Royal Academy of Arts
-lat: '51.509167'
-lon: "-0.139444"
-isa: museum
+lat: 51.509167
+lon: -0.139444
+isa:
+- museum
 ---

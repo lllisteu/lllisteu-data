@@ -3,10 +3,12 @@ title: Tate Liverpool
 uid: '20190510101205'
 dt-created: 2019-05-10 10:12:05 GMT
 link: https://www.tate.org.uk/liverpool/
-tags: Liverpool,art
+tags:
+- Liverpool
+- art
 wikidata_id: Q517612
-wikipedia: en:Tate Liverpool
-lat: '53.40053'
-lon: "-2.99422"
-isa: museum
+lat: 53.40053
+lon: -2.99422
+isa:
+- museum
 ---

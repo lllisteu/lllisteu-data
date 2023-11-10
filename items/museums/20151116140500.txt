@@ -2,11 +2,13 @@
 title: Petit Palais
 uid: '20151116140500'
 dt-created: 2015-11-16 14:05:00 GMT
-tags: Paris,art
+tags:
+- Paris
+- art
 link: http://www.petitpalais.paris.fr/
 wikidata_id: Q820892
-wikipedia: en:Petit Palais
-lat: '48.86611'
-lon: '2.31444'
-isa: museum
+lat: 48.86611
+lon: 2.31444
+isa:
+- museum
 ---

@@ -3,9 +3,12 @@ title: Museo Sorolla
 uid: '20190423130919'
 dt-created: 2019-04-23 13:09:19 GMT
 link: http://www.culturaydeporte.gob.es/msorolla/
-lat: '40.43540'
-lon: "-3.69254"
+lat: 40.4354
+lon: -3.69254
 wikipedia: es:Museo Sorolla
-tags: Madrid,art
-isa: museum
+tags:
+- Madrid
+- art
+isa:
+- museum
 ---

@@ -3,10 +3,12 @@ title: Museu Nacional de Arte Antiga
 uid: '20200314134544'
 dt-created: 2020-03-14 13:45:44 GMT
 link: http://museudearteantiga.pt/
-tags: Lisboa,art
+tags:
+- Lisboa
+- art
 wikidata_id: Q212459
-wikipedia: en:National Museum of Ancient Art
-lat: '38.70461'
-lon: "-9.16187"
-isa: museum
+lat: 38.70461
+lon: -9.16187
+isa:
+- museum
 ---
