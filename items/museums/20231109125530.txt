@@ -1,0 +1,7 @@
+Jeu de Paume
+# uid         : 20231109125530
+# dt-created  : 2023-11-09 12:55:30 GMT
+# wikidata_id : Q656296
+#lat: 48.86583
+#lon: 2.32403
+# link        : https://jeudepaume.org/
