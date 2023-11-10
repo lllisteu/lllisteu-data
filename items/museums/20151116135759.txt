@@ -1,10 +1,12 @@
-Musée de l'Orangerie
-# uid         : 20151116135759
-# dt-created  : 2015-11-16 13:57:59 GMT
-# tags        : Paris,art
-# link        : https://www.musee-orangerie.fr
-# wikidata_id : Q726781
-# wikipedia   : en:Musée de l'Orangerie
-# lat         : 48.86385556
-# lon         : 2.32227222
-# isa         : museum
+---
+title: Musée de l'Orangerie
+uid: '20151116135759'
+dt-created: 2015-11-16 13:57:59 GMT
+tags: Paris,art
+link: https://www.musee-orangerie.fr
+wikidata_id: Q726781
+wikipedia: en:Musée de l'Orangerie
+lat: '48.86385556'
+lon: '2.32227222'
+isa: museum
+---

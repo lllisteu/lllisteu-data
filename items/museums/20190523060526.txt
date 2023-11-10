@@ -1,10 +1,12 @@
-Sprengel Museum Hannover
-# uid         : 20190523060526
-# dt-created  : 2019-05-23 06:05:26 GMT
-# link        : https://www.sprengel-museum.com/
-# tags        : Hannover,art
-# wikidata_id : Q510144
-# wikipedia   : en:Sprengel Museum
-# lat         : 52.36299
-# lon         : 9.74004
-# isa         : museum
+---
+title: Sprengel Museum Hannover
+uid: '20190523060526'
+dt-created: 2019-05-23 06:05:26 GMT
+link: https://www.sprengel-museum.com/
+tags: Hannover,art
+wikidata_id: Q510144
+wikipedia: en:Sprengel Museum
+lat: '52.36299'
+lon: '9.74004'
+isa: museum
+---

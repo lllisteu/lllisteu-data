@@ -1,10 +1,12 @@
-Musée Bourdelle
-# uid         : 20190520084004
-# dt-created  : 2019-05-20 08:40:04 GMT
-# link        : http://www.bourdelle.paris.fr/
-# tags        : Paris,art
-# wikidata_id : Q2715373
-# wikipedia   : en:Musée Bourdelle
-# lat         : 48.84320
-# lon         : 2.31867
-# isa         : museum
+---
+title: Musée Bourdelle
+uid: '20190520084004'
+dt-created: 2019-05-20 08:40:04 GMT
+link: http://www.bourdelle.paris.fr/
+tags: Paris,art
+wikidata_id: Q2715373
+wikipedia: en:Musée Bourdelle
+lat: '48.84320'
+lon: '2.31867'
+isa: museum
+---

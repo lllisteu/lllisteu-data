@@ -1,10 +1,12 @@
-Musée du Louvre
-# uid         : 20140912154206
-# dt-created  : 2014-09-12 15:42:06 GMT
-# tags        : Paris,art
-# link        : http://www.louvre.fr/
-# wikidata_id : Q19675
-# wikipedia   : en:Louvre
-# lat         : 48.861111
-# lon         : 2.336389
-# isa         : museum
+---
+title: Musée du Louvre
+uid: '20140912154206'
+dt-created: 2014-09-12 15:42:06 GMT
+tags: Paris,art
+link: http://www.louvre.fr/
+wikidata_id: Q19675
+wikipedia: en:Louvre
+lat: '48.861111'
+lon: '2.336389'
+isa: museum
+---

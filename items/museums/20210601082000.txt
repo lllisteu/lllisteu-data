@@ -1,9 +1,11 @@
-Museu Picasso
-# uid         : 20210601082000
-# dt-created  : 2021-06-01 08:20:00 GMT
-# link        : http://www.museupicasso.bcn.cat/
-# tags        : Barcelona,art
-# wikidata_id : Q1050032
-# lat         : 41.38503
-# lon         : 2.18119
-# isa         : museum
+---
+title: Museu Picasso
+uid: '20210601082000'
+dt-created: 2021-06-01 08:20:00 GMT
+link: http://www.museupicasso.bcn.cat/
+tags: Barcelona,art
+wikidata_id: Q1050032
+lat: '41.38503'
+lon: '2.18119'
+isa: museum
+---

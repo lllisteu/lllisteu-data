@@ -1,4 +1,6 @@
-Kunsthalle zu Kiel
-# uid            : 20231109083706
-# dt-created     : 2023-11-09 08:37:06 GMT
-# link           : https://www.kunsthalle-kiel.de/
+---
+title: Kunsthalle zu Kiel
+uid: '20231109083706'
+dt-created: 2023-11-09 08:37:06 GMT
+link: https://www.kunsthalle-kiel.de/
+---

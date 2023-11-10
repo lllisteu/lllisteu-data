@@ -1,9 +1,11 @@
-Louvre-Lens
-# uid         : 20121211231818
-# dt-created  : 2012-12-11 23:18:18 GMT
-# tags        : art
-# link        : http://www.louvrelens.fr/
-# wikidata_id : Q405543
-# lat         : 50.430689
-# lon         : 2.803303
-# isa         : museum
+---
+title: Louvre-Lens
+uid: '20121211231818'
+dt-created: 2012-12-11 23:18:18 GMT
+tags: art
+link: http://www.louvrelens.fr/
+wikidata_id: Q405543
+lat: '50.430689'
+lon: '2.803303'
+isa: museum
+---

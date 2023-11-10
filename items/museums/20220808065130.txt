@@ -1,9 +1,11 @@
-Museum Rietberg
-# uid         : 20220808065130
-# dt-created  : 2022-08-08 06:51:30 GMT
-# link        : https://rietberg.ch/
-# wikidata_id : Q668300
-# lat         : 47.35892
-# lon         : 8.53023
-# isa         : museum
-# tags        : Zürich
+---
+title: Museum Rietberg
+uid: '20220808065130'
+dt-created: 2022-08-08 06:51:30 GMT
+link: https://rietberg.ch/
+wikidata_id: Q668300
+lat: '47.35892'
+lon: '8.53023'
+isa: museum
+tags: Zürich
+---

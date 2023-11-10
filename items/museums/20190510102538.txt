@@ -1,10 +1,12 @@
-Musée National d'Art Moderne
-# uid         : 20190510102538
-# dt-created  : 2019-05-10 10:25:38 GMT
-# link        : https://www.centrepompidou.fr/
-# tags        : Paris,art
-# wikidata_id : Q1895953
-# wikipedia   : en:Musée National d'Art Moderne
-# lat         : 48.86054
-# lon         : 2.35249
-# isa         : museum
+---
+title: Musée National d'Art Moderne
+uid: '20190510102538'
+dt-created: 2019-05-10 10:25:38 GMT
+link: https://www.centrepompidou.fr/
+tags: Paris,art
+wikidata_id: Q1895953
+wikipedia: en:Musée National d'Art Moderne
+lat: '48.86054'
+lon: '2.35249'
+isa: museum
+---

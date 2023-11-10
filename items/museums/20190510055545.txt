@@ -1,10 +1,12 @@
-Neue Pinakothek
-# uid         : 20190510055545
-# dt-created  : 2019-05-10 05:55:45 GMT
-# link        : https://www.pinakothek.de/
-# tags        : München,art
-# wikidata_id : Q170152
-# wikipedia   : en:Neue Pinakothek
-# lat         : 48.15000
-# lon         : 11.57095
-# isa         : museum
+---
+title: Neue Pinakothek
+uid: '20190510055545'
+dt-created: 2019-05-10 05:55:45 GMT
+link: https://www.pinakothek.de/
+tags: München,art
+wikidata_id: Q170152
+wikipedia: en:Neue Pinakothek
+lat: '48.15000'
+lon: '11.57095'
+isa: museum
+---

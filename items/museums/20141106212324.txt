@@ -1,10 +1,12 @@
-Musée Marmottan Monet
-# uid         : 20141106212324
-# dt-created  : 2014-11-06 21:23:24 GMT
-# tags        : Paris,art
-# link        : http://marmottan.fr/
-# wikidata_id : Q1327886
-# wikipedia   : en:Musée Marmottan Monet
-# lat         : 48.8593
-# lon         : 2.2673
-# isa         : museum
+---
+title: Musée Marmottan Monet
+uid: '20141106212324'
+dt-created: 2014-11-06 21:23:24 GMT
+tags: Paris,art
+link: http://marmottan.fr/
+wikidata_id: Q1327886
+wikipedia: en:Musée Marmottan Monet
+lat: '48.8593'
+lon: '2.2673'
+isa: museum
+---

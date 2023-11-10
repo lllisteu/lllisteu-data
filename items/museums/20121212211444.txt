@@ -1,10 +1,12 @@
-Musée national Picasso-Paris
-# uid         : 20121212211444
-# dt-created  : 2012-12-12 21:14:44 GMT
-# tags        : Paris,art
-# link        : http://www.museepicassoparis.fr/
-# wikidata_id : Q743206
-# wikipedia   : en:Musée Picasso
-# lat         : 48.8597
-# lon         : 2.36244
-# isa         : museum
+---
+title: Musée national Picasso-Paris
+uid: '20121212211444'
+dt-created: 2012-12-12 21:14:44 GMT
+tags: Paris,art
+link: http://www.museepicassoparis.fr/
+wikidata_id: Q743206
+wikipedia: en:Musée Picasso
+lat: '48.8597'
+lon: '2.36244'
+isa: museum
+---

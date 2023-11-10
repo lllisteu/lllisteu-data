@@ -1,7 +1,9 @@
-Museum Reinhard Ernst
-# uid        : 20220324194300
-# dt-created : 2022-03-24 19:43:00 GMT
-# link       : https://www.museum-reinhard-ernst.de/
-# lat        : 50.07850
-# lon        : 8.24592
-# isa        : museum
+---
+title: Museum Reinhard Ernst
+uid: '20220324194300'
+dt-created: 2022-03-24 19:43:00 GMT
+link: https://www.museum-reinhard-ernst.de/
+lat: '50.07850'
+lon: '8.24592'
+isa: museum
+---

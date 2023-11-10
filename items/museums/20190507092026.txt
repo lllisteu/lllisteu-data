@@ -1,10 +1,12 @@
-Staatliches Museum Ägyptischer Kunst
-# uid         : 20190507092026
-# dt-created  : 2019-05-07 09:20:26 GMT
-# link        : https://smaek.de/
-# tags        : München,art
-# wikidata_id : Q464872
-# wikipedia   : en:Staatliches Museum Ägyptischer Kunst
-# lat         : 48.14698
-# lon         : 11.56830
-# isa         : museum
+---
+title: Staatliches Museum Ägyptischer Kunst
+uid: '20190507092026'
+dt-created: 2019-05-07 09:20:26 GMT
+link: https://smaek.de/
+tags: München,art
+wikidata_id: Q464872
+wikipedia: en:Staatliches Museum Ägyptischer Kunst
+lat: '48.14698'
+lon: '11.56830'
+isa: museum
+---

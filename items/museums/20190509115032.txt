@@ -1,10 +1,12 @@
-Sammlung Schack
-# uid         : 20190509115032
-# dt-created  : 2019-05-09 11:50:32 GMT
-# link        : http://www.sammlungschack.de/
-# tags        : München,art
-# wikidata_id : Q523652
-# wikipedia   : en:Schackgalerie
-# lat         : 48.14236
-# lon         : 11.59333
-# isa         : museum
+---
+title: Sammlung Schack
+uid: '20190509115032'
+dt-created: 2019-05-09 11:50:32 GMT
+link: http://www.sammlungschack.de/
+tags: München,art
+wikidata_id: Q523652
+wikipedia: en:Schackgalerie
+lat: '48.14236'
+lon: '11.59333'
+isa: museum
+---

@@ -1,7 +1,9 @@
-Museo Helga de Alvear
-# uid        : 20210302072118
-# dt-created : 2021-03-02 07:21:18 GMT
-# tags       : art
-# lat        : 39.47188
-# lon        : -6.37336
-# isa        : museum
+---
+title: Museo Helga de Alvear
+uid: '20210302072118'
+dt-created: 2021-03-02 07:21:18 GMT
+tags: art
+lat: '39.47188'
+lon: "-6.37336"
+isa: museum
+---

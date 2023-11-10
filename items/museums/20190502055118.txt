@@ -1,10 +1,12 @@
-Staatsgalerie Stuttgart
-# uid         : 20190502055118
-# dt-created  : 2019-05-02 05:51:18 GMT
-# link        : https://www.staatsgalerie.de/
-# tags        : Stuttgart,art
-# wikidata_id : Q14917275
-# wikipedia   : en:Staatsgalerie Stuttgart
-# lat         : 48.77980
-# lon         : 9.18682
-# isa         : museum
+---
+title: Staatsgalerie Stuttgart
+uid: '20190502055118'
+dt-created: 2019-05-02 05:51:18 GMT
+link: https://www.staatsgalerie.de/
+tags: Stuttgart,art
+wikidata_id: Q14917275
+wikipedia: en:Staatsgalerie Stuttgart
+lat: '48.77980'
+lon: '9.18682'
+isa: museum
+---

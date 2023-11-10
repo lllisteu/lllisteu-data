@@ -1,9 +1,11 @@
-Zentrum Für Internationale Lichtkunst Unna
-# uid            : 20110123130322
-# dt-created     : 2011-01-23 12:03:22 GMT
-# tags           : art
-# link           : https://www.lichtkunst-unna.de
-# lat            : 51.534722
-# lon            : 7.685278
-# twitter-handle : Lichtkunst_Unna
-# isa            : museum
+---
+title: Zentrum Für Internationale Lichtkunst Unna
+uid: '20110123130322'
+dt-created: 2011-01-23 12:03:22 GMT
+tags: art
+link: https://www.lichtkunst-unna.de
+lat: '51.534722'
+lon: '7.685278'
+twitter-handle: Lichtkunst_Unna
+isa: museum
+---

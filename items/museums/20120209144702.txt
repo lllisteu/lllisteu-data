@@ -1,10 +1,12 @@
-Museo Reina Sofía
-# uid            : 20120209144702
-# dt-created     : 2012-02-09 14:47:02 GMT
-# tags           : Madrid,art
-# link           : http://www.museoreinasofia.es/
-# wikipedia      : en:Museo Nacional Centro de Arte Reina Sofía
-# lat            : 40.408889
-# lon            : -3.694444
-# isa            : museum
-# twitter-handle : museoreinasofia
+---
+title: Museo Reina Sofía
+uid: '20120209144702'
+dt-created: 2012-02-09 14:47:02 GMT
+tags: Madrid,art
+link: http://www.museoreinasofia.es/
+wikipedia: en:Museo Nacional Centro de Arte Reina Sofía
+lat: '40.408889'
+lon: "-3.694444"
+isa: museum
+twitter-handle: museoreinasofia
+---

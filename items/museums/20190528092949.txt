@@ -1,10 +1,12 @@
-Palais des Beaux Arts de Lille
-# uid         : 20190528092949
-# dt-created  : 2019-05-28 09:29:49 GMT
-# link        : https://pba.lille.fr
-# tags        : Lille,art
-# wikidata_id : Q2628596
-# wikipedia   : en:Palais des Beaux-Arts de Lille
-# lat         : 50.63044
-# lon         : 3.06290
-# isa         : museum
+---
+title: Palais des Beaux Arts de Lille
+uid: '20190528092949'
+dt-created: 2019-05-28 09:29:49 GMT
+link: https://pba.lille.fr
+tags: Lille,art
+wikidata_id: Q2628596
+wikipedia: en:Palais des Beaux-Arts de Lille
+lat: '50.63044'
+lon: '3.06290'
+isa: museum
+---

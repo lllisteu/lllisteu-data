@@ -1,9 +1,11 @@
-Fondation Arp
-# uid        : 20120221091623
-# dt-created : 2012-02-21 09:16:23 GMT
-# tags       : art,Paris
-# link       : http://www.fondationarp.org/
-# wikipedia  : fr:Fondation Arp
-# lat        : 48.8035
-# lon        : 2.244451
-# isa        : museum
+---
+title: Fondation Arp
+uid: '20120221091623'
+dt-created: 2012-02-21 09:16:23 GMT
+tags: art,Paris
+link: http://www.fondationarp.org/
+wikipedia: fr:Fondation Arp
+lat: '48.8035'
+lon: '2.244451'
+isa: museum
+---

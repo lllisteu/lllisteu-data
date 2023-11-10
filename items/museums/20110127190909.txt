@@ -1,10 +1,12 @@
-Albert Kahn - Musée et Jardins
-# uid         : 20110127190909
-# dt-created  : 2011-01-27 18:09:09 GMT
-# tags        : Paris,art,photography
-# link        : http://www.albert-kahn.fr/
-# wikidata_id : Q3330509
-# wikipedia   : fr:Musée départemental Albert-Kahn
-# lat         : 48.84137
-# lon         : 2.22744
-# isa         : museum
+---
+title: Albert Kahn - Musée et Jardins
+uid: '20110127190909'
+dt-created: 2011-01-27 18:09:09 GMT
+tags: Paris,art,photography
+link: http://www.albert-kahn.fr/
+wikidata_id: Q3330509
+wikipedia: fr:Musée départemental Albert-Kahn
+lat: '48.84137'
+lon: '2.22744'
+isa: museum
+---

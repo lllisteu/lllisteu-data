@@ -1,10 +1,12 @@
-Galleria Nazionale d’Arte Moderna e Contemporanea
-# uid                       : 20190509093350
-# dt-created                : 2019-05-09 09:33:50 GMT
-# link                      : http://lagallerianazionale.com/
-# tags                      : Roma,art
-# wikidata_id               : Q1492387
-# openstreetmap_relation_id : 2980622
-# lat                       : 41.91723
-# lon                       : 12.48227
-# isa                       : museum
+---
+title: Galleria Nazionale d’Arte Moderna e Contemporanea
+uid: '20190509093350'
+dt-created: 2019-05-09 09:33:50 GMT
+link: http://lagallerianazionale.com/
+tags: Roma,art
+wikidata_id: Q1492387
+openstreetmap_relation_id: '2980622'
+lat: '41.91723'
+lon: '12.48227'
+isa: museum
+---

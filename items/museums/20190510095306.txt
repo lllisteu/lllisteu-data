@@ -1,10 +1,12 @@
-Kunsthal Rotterdam
-# uid         : 20190510095306
-# dt-created  : 2019-05-10 09:53:06 GMT
-# link        : https://www.kunsthal.nl/
-# tags        : Rotterdam,art
-# wikidata_id : Q1668856
-# wikipedia   : en:Kunsthal
-# lat         : 51.91084
-# lon         : 4.47339
-# isa         : museum
+---
+title: Kunsthal Rotterdam
+uid: '20190510095306'
+dt-created: 2019-05-10 09:53:06 GMT
+link: https://www.kunsthal.nl/
+tags: Rotterdam,art
+wikidata_id: Q1668856
+wikipedia: en:Kunsthal
+lat: '51.91084'
+lon: '4.47339'
+isa: museum
+---

@@ -1,10 +1,12 @@
-Neue Galerie
-# uid         : 20190527090944
-# dt-created  : 2019-05-27 09:09:44 GMT
-# link        : https://museum-kassel.de/
-# tags        : Kassel,art
-# wikidata_id : Q869781
-# wikipedia   : en:Neue Galerie (Kassel)
-# lat         : 51.30945
-# lon         : 9.49307
-# isa         : museum
+---
+title: Neue Galerie
+uid: '20190527090944'
+dt-created: 2019-05-27 09:09:44 GMT
+link: https://museum-kassel.de/
+tags: Kassel,art
+wikidata_id: Q869781
+wikipedia: en:Neue Galerie (Kassel)
+lat: '51.30945'
+lon: '9.49307'
+isa: museum
+---

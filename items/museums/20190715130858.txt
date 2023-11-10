@@ -1,10 +1,12 @@
-Alte Nationalgalerie
-# uid         : 20190715130858
-# dt-created  : 2019-07-15 13:08:58 GMT
-# link        : https://www.smb.museum/
-# tags        : Berlin,art
-# wikidata_id : Q162111
-# wikipedia   : en:Alte Nationalgalerie
-# lat         : 52.52084
-# lon         : 13.39829
-# isa         : museum
+---
+title: Alte Nationalgalerie
+uid: '20190715130858'
+dt-created: 2019-07-15 13:08:58 GMT
+link: https://www.smb.museum/
+tags: Berlin,art
+wikidata_id: Q162111
+wikipedia: en:Alte Nationalgalerie
+lat: '52.52084'
+lon: '13.39829'
+isa: museum
+---

@@ -1,10 +1,12 @@
-Städtische Galerie im Lenbachhaus
-# uid         : 20190510061346
-# dt-created  : 2019-05-10 06:13:46 GMT
-# link        : https://www.lenbachhaus.de/
-# tags        : München,art
-# wikidata_id : Q262234
-# wikipedia   : en:Lenbachhaus
-# lat         : 48.14702
-# lon         : 11.56355
-# isa         : museum
+---
+title: Städtische Galerie im Lenbachhaus
+uid: '20190510061346'
+dt-created: 2019-05-10 06:13:46 GMT
+link: https://www.lenbachhaus.de/
+tags: München,art
+wikidata_id: Q262234
+wikipedia: en:Lenbachhaus
+lat: '48.14702'
+lon: '11.56355'
+isa: museum
+---

@@ -1,9 +1,11 @@
-Fondation Bemberg
-# uid         : 20210108110820
-# dt-created  : 2021-01-08 11:08:20 GMT
-# link        : http://www.fondation-bemberg.fr/
-# tags        : art,Toulouse
-# wikidata_id : Q16303680
-# lat         : 43.6001991
-# lon         : 1.4420464
-# isa         : museum
+---
+title: Fondation Bemberg
+uid: '20210108110820'
+dt-created: 2021-01-08 11:08:20 GMT
+link: http://www.fondation-bemberg.fr/
+tags: art,Toulouse
+wikidata_id: Q16303680
+lat: '43.6001991'
+lon: '1.4420464'
+isa: museum
+---

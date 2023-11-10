@@ -1,9 +1,11 @@
-Museum August Macke Haus
-# uid                  : 20211126130938
-# dt-created           : 2021-11-26 13:09:38 GMT
-# wikidata_id          : Q760642
-# openstreetmap_way_id : 123656655
-# lat                  : 50.73747
-# lon                  : 7.08633
-# link                 : https://www.august-macke-haus.de/
-# isa                  : museum
+---
+title: Museum August Macke Haus
+uid: '20211126130938'
+dt-created: 2021-11-26 13:09:38 GMT
+wikidata_id: Q760642
+openstreetmap_way_id: '123656655'
+lat: '50.73747'
+lon: '7.08633'
+link: https://www.august-macke-haus.de/
+isa: museum
+---

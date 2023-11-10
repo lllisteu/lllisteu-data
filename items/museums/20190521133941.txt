@@ -1,10 +1,12 @@
-Musée Unterlinden
-# uid         : 20190521133941
-# dt-created  : 2019-05-21 13:39:41 GMT
-# link        : http://www.musee-unterlinden.com/
-# tags        : Colmar,art
-# wikidata_id : Q1851283
-# wikipedia   : en:Unterlinden Museum
-# lat         : 48.07984
-# lon         : 7.35546
-# isa         : museum
+---
+title: Musée Unterlinden
+uid: '20190521133941'
+dt-created: 2019-05-21 13:39:41 GMT
+link: http://www.musee-unterlinden.com/
+tags: Colmar,art
+wikidata_id: Q1851283
+wikipedia: en:Unterlinden Museum
+lat: '48.07984'
+lon: '7.35546'
+isa: museum
+---

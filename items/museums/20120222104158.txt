@@ -1,10 +1,12 @@
-Vitra Design Museum
-# uid            : 20120222104158
-# dt-created     : 2012-02-22 10:41:58 GMT
-# tags           : art
-# link           : http://www.design-museum.de/
-# wikipedia      : de:Vitra Design Museum
-# lat            : 47.601667
-# lon            : 7.618889
-# twitter-handle : vitra
-# isa            : museum
+---
+title: Vitra Design Museum
+uid: '20120222104158'
+dt-created: 2012-02-22 10:41:58 GMT
+tags: art
+link: http://www.design-museum.de/
+wikipedia: de:Vitra Design Museum
+lat: '47.601667'
+lon: '7.618889'
+twitter-handle: vitra
+isa: museum
+---

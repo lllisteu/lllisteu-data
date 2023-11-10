@@ -1,10 +1,12 @@
-Galleria Nazionale delle Marche
-# uid         : 20190622081920
-# dt-created  : 2019-06-22 08:19:20 GMT
-# link        : http://www.gallerianazionalemarche.it/
-# tags        : Urbino,art
-# wikidata_id : Q1080108
-# wikipedia   : en:Ducal Palace, Urbino
-# lat         : 43.72429
-# lon         : 12.63621
-# isa         : museum
+---
+title: Galleria Nazionale delle Marche
+uid: '20190622081920'
+dt-created: 2019-06-22 08:19:20 GMT
+link: http://www.gallerianazionalemarche.it/
+tags: Urbino,art
+wikidata_id: Q1080108
+wikipedia: en:Ducal Palace, Urbino
+lat: '43.72429'
+lon: '12.63621'
+isa: museum
+---

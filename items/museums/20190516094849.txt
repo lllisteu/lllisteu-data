@@ -1,10 +1,12 @@
-Thorvaldsens Museum
-# uid         : 20190516094849
-# dt-created  : 2019-05-16 09:48:49 GMT
-# link        : http://www.thorvaldsensmuseum.dk/
-# tags        : København,art
-# wikidata_id : Q1992413
-# wikipedia   : en:Thorvaldsen Museum
-# lat         : 55.67676
-# lon         : 12.57844
-# isa         : museum
+---
+title: Thorvaldsens Museum
+uid: '20190516094849'
+dt-created: 2019-05-16 09:48:49 GMT
+link: http://www.thorvaldsensmuseum.dk/
+tags: København,art
+wikidata_id: Q1992413
+wikipedia: en:Thorvaldsen Museum
+lat: '55.67676'
+lon: '12.57844'
+isa: museum
+---

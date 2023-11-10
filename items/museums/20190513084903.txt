@@ -1,10 +1,12 @@
-Museum der bildenden Künste Leipzig
-# uid         : 20190513084903
-# dt-created  : 2019-05-13 08:49:03 GMT
-# link        : https://mdbk.de/
-# tags        : Leipzig,art
-# wikidata_id : Q566661
-# wikipedia   : en:Museum der bildenden Künste
-# lat         : 51.34236
-# lon         : 12.37579
-# isa         : museum
+---
+title: Museum der bildenden Künste Leipzig
+uid: '20190513084903'
+dt-created: 2019-05-13 08:49:03 GMT
+link: https://mdbk.de/
+tags: Leipzig,art
+wikidata_id: Q566661
+wikipedia: en:Museum der bildenden Künste
+lat: '51.34236'
+lon: '12.37579'
+isa: museum
+---

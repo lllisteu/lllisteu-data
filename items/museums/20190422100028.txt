@@ -1,9 +1,11 @@
-The Estorick Collection of Modern Italian Art
-# uid        : 20190422100028
-# dt-created : 2019-04-22 10:00:28 GMT
-# link       : https://www.estorickcollection.com/
-# lat        : 51.54392
-# lon        : -0.10044
-# wikipedia  : en:Estorick Collection of Modern Italian Art
-# tags       : art,London
-# isa        : museum
+---
+title: The Estorick Collection of Modern Italian Art
+uid: '20190422100028'
+dt-created: 2019-04-22 10:00:28 GMT
+link: https://www.estorickcollection.com/
+lat: '51.54392'
+lon: "-0.10044"
+wikipedia: en:Estorick Collection of Modern Italian Art
+tags: art,London
+isa: museum
+---

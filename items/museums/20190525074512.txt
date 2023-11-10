@@ -1,11 +1,13 @@
-Paula Modersohn-Becker Museum
-# uid         : 20190525074512
-# dt-created  : 2019-05-25 07:45:12 GMT
-# link        : http://www.pmbm.de/
-# tags        : Bremen,art
-# wikidata_id : Q318983
-# wikipedia   : en:Paula Modersohn-Becker Museum
-# lat         : 53.07501
-# lon         : 8.80586
-# isa         : museum
-# todo        : verify location
+---
+title: Paula Modersohn-Becker Museum
+uid: '20190525074512'
+dt-created: 2019-05-25 07:45:12 GMT
+link: http://www.pmbm.de/
+tags: Bremen,art
+wikidata_id: Q318983
+wikipedia: en:Paula Modersohn-Becker Museum
+lat: '53.07501'
+lon: '8.80586'
+isa: museum
+todo: verify location
+---
