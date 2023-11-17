@@ -5,7 +5,4 @@ Women of the Avant-garde 1920-1940
 # event-dt-begin : 2012-02-14
 # event-dt-end   : 2012-05-28
 # event-location : Louisiana Museum of Modern Art, Humlebæk
-# language       : en
-# markup         : markdown
-
 Eight women avant-garde artists of the inter-war years: Sophie Taeuber-Arp, Claude Cahun, Sonia Delaunay, Germaine Dulac, Florence Henri, Hannah Höch, Katarzyna Kobro and Dora Maar.

@@ -1,0 +1,11 @@
+---
+title: Cimabue
+uid: '20231117202921'
+dt-created: 2023-11-17 20:29:21 GMT
+wikidata_id: Q15790
+isa:
+- person
+dt-birth:
+dt-death:
+label:
+---
