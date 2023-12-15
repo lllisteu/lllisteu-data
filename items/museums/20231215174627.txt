@@ -1,0 +1,14 @@
+---
+title: Kunsthalle Düsseldorf
+uid: '20231215174627'
+dt-created: 2023-12-15 17:46:27 GMT
+wikidata_id: Q324658
+lat: 51.22742
+lon: 6.77582
+isa:
+- kunsthalle
+tags:
+- Düsseldorf
+- art
+link: https://www.kunsthalle-duesseldorf.de/
+---
