@@ -1,0 +1,13 @@
+---
+title: Musée national Fernand-Léger
+uid: '20231229103833'
+dt-created: 2023-12-29 10:38:33 UTC
+wikidata_id: Q3330673
+lat: 43.62233
+lon: 7.11254
+link: https://musees-nationaux-alpesmaritimes.fr/fleger/
+isa:
+- museum
+tags:
+- art
+---

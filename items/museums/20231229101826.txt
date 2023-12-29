@@ -1,0 +1,13 @@
+---
+title: Musée départemental Matisse
+uid: '20231229101826'
+dt-created: 2023-12-29 10:18:26 GMT
+wikidata_id: Q3192181
+lat: 50.10639
+lon: 3.54099
+link: https://museematisse.fr/
+isa:
+- museum
+tags:
+- art
+---

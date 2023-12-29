@@ -1,0 +1,14 @@
+---
+title: Musée national Marc Chagall
+uid: '20231229104217'
+dt-created: 2023-12-29 10:42:17 UTC
+wikidata_id: Q3329265
+lat: 43.70916
+lon: 7.2695
+link: https://musees-nationaux-alpesmaritimes.fr/chagall/
+isa:
+- museum
+tags:
+- art
+- Nice
+---
