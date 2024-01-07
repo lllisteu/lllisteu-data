@@ -2,6 +2,6 @@ Sensation of Seeing, Vol 2
 # uid            : 20230709095121
 # dt-created     : 2023-07-09 09:51:21 GMT
 # event-dt-begin : 2023-09-08
-# event-dt-end   : 2024-10-27
+# event-dt-end   : 2024-01-28
 # event-location : Wallraf–Richartz–Museum, Köln
 # link           : https://www.wallraf.museum/en/exhibitions/preview/2023-09-08-sensation-des-sehens/information/
