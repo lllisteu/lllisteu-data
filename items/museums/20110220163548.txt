@@ -2,13 +2,13 @@
 title: Galleria Corsini
 uid: '20110220163548'
 dt-created: 2011-02-20 15:35:48 GMT
-tags:
-- Roma
-- art
-link: http://www.galleriaborghese.it/corsini/en/einfo.htm
 wikidata_id: Q3757768
 lat: 41.893173
 lon: 12.466886
+link: https://www.barberinicorsini.org/
 isa:
 - museum
+tags:
+- Roma
+- art
 ---
