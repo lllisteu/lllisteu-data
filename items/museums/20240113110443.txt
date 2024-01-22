@@ -1,0 +1,13 @@
+---
+title: Musée des Beaux-Arts et d'Archéologie de Besançon
+uid: '20240113110443'
+dt-created: 2024-01-13 11:04:43 GMT
+wikidata_id: Q1324926
+lat: 47.24023
+lon: 6.0232
+link: http://www.mbaa.besancon.fr/
+isa:
+- museum
+tags:
+- art
+---
