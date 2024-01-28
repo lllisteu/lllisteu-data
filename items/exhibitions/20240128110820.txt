@@ -1,0 +1,7 @@
+Roni Horn
+# uid            : 20240128110820
+# dt-created     : 2024-01-28 11:08:20 GMT
+# event-dt-begin : 2024-05-02
+# event-dt-end   : 2024-09-01
+# event-location : Louisiana Museum of Modern Art, Humlebæk
+# link           : https://louisiana.dk/en/exhibition/roni-horn/

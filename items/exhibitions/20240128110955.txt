@@ -1,0 +1,7 @@
+Franz Gertsch
+# uid            : 20240128110955
+# dt-created     : 2024-01-28 11:09:55 GMT
+# event-dt-begin : 2024-06-21
+# event-dt-end   : 2024-11-10
+# event-location : Louisiana Museum of Modern Art, Humlebæk
+# link           : https://louisiana.dk/en/exhibition/franz-gertsch/
