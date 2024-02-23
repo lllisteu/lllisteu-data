@@ -1,0 +1,7 @@
+Esprit d'atelier, arp et taeuber
+# uid            : 20240223104304
+# dt-created     : 2024-02-23 10:43:04 GMT
+# event-dt-begin : 2024-02-02
+# event-dt-end   : 2024-11-24
+# event-location : Fondation Arp, Clamart
+# link           : http://www.fondationarp.org/en_atelierexpo.html

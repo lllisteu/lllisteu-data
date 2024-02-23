@@ -1,0 +1,7 @@
+Otto Mueller
+# uid            : 20240223100931
+# dt-created     : 2024-02-23 10:09:31 GMT
+# event-dt-begin : 2024-09-20
+# event-dt-end   : 2025-02-02
+# event-location : LWL-Museum für Kunst und Kultur, Münster
+# link           : https://www.lwl-museum-kunst-kultur.de/
