@@ -1,0 +1,7 @@
+Swiss Treasures
+# uid            : 20240308074413
+# dt-created     : 2024-03-08 07:44:13 GMT
+# event-dt-begin : 2025-03-28
+# event-dt-end   : 2025-07-27
+# event-location : Wallraf-Richartz-Museum, Köln
+# link           : https://www.wallraf.museum/en/exhibitions/preview/2025-03-28-schweizer-schaetze/

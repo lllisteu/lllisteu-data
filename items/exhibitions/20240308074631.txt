@@ -1,0 +1,8 @@
+Sensation of Seeing, Vol. 3
+# uid            : 20240308074631
+# dt-created     : 2024-03-08 07:46:31 GMT
+# event-dt-begin : 2025-01-31
+# event-dt-end   : 2025-04-01
+# event-location : Wallraf–Richartz–Museum, Köln
+# link           : https://www.wallraf.museum/en/exhibitions/preview/2025-01-31-sensation-des-sehens/
+# todo           : Correct end date
