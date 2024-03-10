@@ -1,0 +1,7 @@
+Hanns Kunitzberger
+# uid            : 20240310125640
+# dt-created     : 2024-03-10 12:56:40 GMT
+# event-dt-begin : 2024-11-29
+# event-dt-end   : 2025-05-04
+# event-location : Hamburger Kunsthalle
+# link           : https://www.hamburger-kunsthalle.de/en/exhibitions/hanns-kunitzberger

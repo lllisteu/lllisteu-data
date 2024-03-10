@@ -1,0 +1,7 @@
+Romantic Surrealism
+# uid            : 20240310125110
+# dt-created     : 2024-03-10 12:51:10 GMT
+# event-dt-begin : 2025-06-12
+# event-dt-end   : 2025-10-12
+# event-location : Hamburger Kunsthalle
+# link           : https://www.hamburger-kunsthalle.de/en/exhibitions/romantic-surrealism
