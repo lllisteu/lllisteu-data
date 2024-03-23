@@ -1,0 +1,7 @@
+Kiki Kogelnik
+# uid            : 20240320080253
+# dt-created     : 2024-03-20 08:02:53 GMT
+# event-dt-begin : 2024-03-22
+# event-dt-end   : 2024-07-14
+# event-location : Kunsthaus Zürich
+# link           : https://www.kunsthaus.ch/en/besuch-planen/ausstellungen/kiki-kogelnik/

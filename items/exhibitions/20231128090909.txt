@@ -1,4 +1,4 @@
-Yoko Ono
+Yoko Ono: Music of the Mind
 # uid            : 20231128090909
 # dt-created     : 2023-11-28 09:09:09 GMT
 # event-dt-begin : 2024-09-28

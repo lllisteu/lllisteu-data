@@ -1,0 +1,7 @@
+Klaas Gubbels
+# uid            : 20240314123319
+# dt-created     : 2024-03-14 12:33:19 GMT
+# event-dt-begin : 2024-04-28
+# event-dt-end   : 2024-08-18
+# event-location : Museum Arnhem
+# link           : https://museumarnhem.nl/nl/tentoonstellingen/klaas-gubbels
