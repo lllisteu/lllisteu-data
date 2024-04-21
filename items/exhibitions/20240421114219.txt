@@ -1,0 +1,7 @@
+Andy Warhol: Velvet Rage and Beauty
+# uid            : 20240421114219
+# dt-created     : 2024-04-21 11:42:19 GMT
+# event-dt-begin : 2024-06-09
+# event-dt-end   : 2024-10-06
+# event-location : Neue Nationalgalerie, Berlin
+# link           : https://www.smb.museum/en/exhibitions/detail/andy-warhol/
