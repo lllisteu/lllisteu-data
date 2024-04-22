@@ -1,0 +1,9 @@
+---
+title: Expressionists
+uid: '20240422213721'
+dt-created: 2024-04-22 21:37:21 GMT
+event-dt-begin: '2024-04-25'
+event-dt-end: '2024-10-20'
+event-location: Tate Modern, London
+link: https://www.tate.org.uk/whats-on/tate-modern/expressionists
+---
