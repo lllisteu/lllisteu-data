@@ -2,7 +2,7 @@
 
 # lllist.eu data
 
-This repository provides data for art exhibitions and art museums in Europe. It is updated irregularly.
+This repository contains data for art exhibitions and art museums in Europe. It is updated irregularly.
 
 The [lllist.eu](https://lllist.eu/) website lists art exhibitions in Europe and is generated from exhibition data in this repository.
 
@@ -18,20 +18,22 @@ lllist is a [single-serving site](https://en.wikipedia.org/wiki/Single-serving_s
 
 ## Data
 
-Items are provided as individual .txt files, encoded in UTF-8. The format used is trivial, derived from the one used by [Blosxom](https://en.wikipedia.org/wiki/Blosxom)-with-meta-plugin.
+Data is stored in simple text files. Each file holds data for one exhibition (or museum), formatted as YAML frontmatter. Files are encoded in UTF-8 and have a .txt extension.
 
 ### Exhibition data
 
 This is an example of a file for an exhibition:
 
-```text
-Abraham Cruzvillegas
-# uid            : 20171106103952
-# dt-created     : 2017-11-06 10:39:52 GMT
-# event-dt-begin : 2018-02-16
-# event-dt-end   : 2018-03-25
-# event-location : Kunsthaus Zürich
-# link           : http://www.kunsthaus.ch/en/exhibitions/coming-soon/abraham-cruzvillegas/
+```yaml
+---
+title: Abraham Cruzvillegas
+uid: '20171106103952'
+dt-created: 2017-11-06 10:39:52 GMT
+event-dt-begin: '2018-02-16'
+event-dt-end: '2018-03-25'
+event-location: 'Kunsthaus Zürich'
+link: http://www.kunsthaus.ch/en/exhibitions/coming-soon/abraham-cruzvillegas/
+---
 ```
 
 Next to the exhibition title, field names are mostly self explanatory:
