@@ -1,0 +1,9 @@
+---
+title: Matthew Wong – Vincent Van Gogh
+uid: '20240422111620'
+dt-created: 2024-04-22 11:16:20 GMT
+event-dt-begin: '2024-09-20'
+event-dt-end: '2025-01-26'
+event-location: Kunsthaus Zürich
+link: https://www.kunsthaus.ch/en/besuch-planen/ausstellungen/wong-van-gogh/
+---
