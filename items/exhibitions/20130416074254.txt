@@ -5,4 +5,3 @@ Hans Richter: The crossing of the century
 # event-dt-begin : 2013-09-29
 # event-dt-end   : 2014-02-24
 # event-location : Centre Pompidou, Metz
-# todo           : check end date
