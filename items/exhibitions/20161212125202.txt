@@ -5,5 +5,5 @@ dt-created: 2016-12-12 12:52:02 GMT
 link: http://www.fondationbeyeler.ch/en/Exhibitions/Preview
 event-dt-begin: '2017-10-01'
 event-dt-end: '2018-01-21'
-event-location: 'Fondation Beyeler, Basel '
+event-location: 'Fondation Beyeler, Basel'
 ---

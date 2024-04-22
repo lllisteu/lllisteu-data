@@ -5,5 +5,5 @@ dt-created: 2017-04-12 09:58:49 GMT
 link: http://www.dulwichpicturegallery.org.uk/whats-on/exhibitions/2017/june/sargent-the-watercolours/
 event-dt-begin: '2017-06-21'
 event-dt-end: '2017-10-08'
-event-location: 'Dulwich Picture Gallery, London '
+event-location: 'Dulwich Picture Gallery, London'
 ---

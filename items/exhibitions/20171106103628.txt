@@ -4,6 +4,6 @@ uid: '20171106103628'
 dt-created: 2017-11-06 10:36:28 GMT
 event-dt-begin: '2018-08-31'
 event-dt-end: '2018-11-18'
-event-location: 'Kunsthaus Zürich '
+event-location: 'Kunsthaus Zürich'
 link: http://www.kunsthaus.ch/en/exhibitions/coming-soon/robert-delaunay/
 ---

@@ -5,5 +5,5 @@ dt-created: 2017-04-19 19:47:45 GMT
 link: https://www.gemeentemuseum.nl/en/exhibitions/discovery-mondrian
 event-dt-begin: '2017-06-03'
 event-dt-end: '2017-09-24'
-event-location: 'Gemeentemuseum, Den Haag '
+event-location: 'Gemeentemuseum, Den Haag'
 ---
