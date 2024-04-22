@@ -1,7 +1,9 @@
-Arte Povera
-# uid            : 20171023104328
-# dt-created     : 2017-10-23 10:43:28 GMT
-# event-dt-begin : 2017-09-20
-# event-dt-end   : 2017-12-17
-# event-location : Estorick Collection, London
-# link           : http://www.estorickcollection.com/exhibitions/poor-art-or-arte-povera-italian-influences-british-responses
+---
+title: Arte Povera
+uid: '20171023104328'
+dt-created: 2017-10-23 10:43:28 GMT
+event-dt-begin: '2017-09-20'
+event-dt-end: '2017-12-17'
+event-location: Estorick Collection, London
+link: http://www.estorickcollection.com/exhibitions/poor-art-or-arte-povera-italian-influences-british-responses
+---

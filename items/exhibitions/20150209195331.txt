@@ -1,7 +1,9 @@
-Rogier van der Weyden
-# uid            : 20150209195331
-# dt-created     : 2015-02-09 19:53:31 GMT
-# link           : https://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/rogier-van-der-weyden-y-los-reinos-peninsulares/
-# event-dt-begin : 2015-03-24
-# event-dt-end   : 2015-06-28
-# event-location : Museo Nacional del Prado, Madrid
+---
+title: Rogier van der Weyden
+uid: '20150209195331'
+dt-created: 2015-02-09 19:53:31 GMT
+link: https://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/rogier-van-der-weyden-y-los-reinos-peninsulares/
+event-dt-begin: '2015-03-24'
+event-dt-end: '2015-06-28'
+event-location: Museo Nacional del Prado, Madrid
+---

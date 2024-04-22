@@ -1,7 +1,9 @@
-Sonia Delaunay
-# uid            : 20220321094318
-# dt-created     : 2022-03-21 09:43:18 GMT
-# event-dt-begin : 2022-02-12
-# event-dt-end   : 2022-06-12
-# event-location : Louisiana Museum, Humlebæk
-# link           : https://louisiana.dk/en/exhibition/sonia-delaunay/
+---
+title: Sonia Delaunay
+uid: '20220321094318'
+dt-created: 2022-03-21 09:43:18 GMT
+event-dt-begin: '2022-02-12'
+event-dt-end: '2022-06-12'
+event-location: Louisiana Museum, Humlebæk
+link: https://louisiana.dk/en/exhibition/sonia-delaunay/
+---

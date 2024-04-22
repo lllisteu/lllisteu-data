@@ -1,7 +1,9 @@
-Peter Saul
-# uid            : 20170418114023
-# dt-created     : 2017-04-18 11:40:23 GMT
-# link           : http://www.schirn.de/ausstellungen/2017/peter_saul/
-# event-dt-begin : 2017-06-02
-# event-dt-end   : 2017-09-03
-# event-location : Schirn Kunsthalle, Frankfurt
+---
+title: Peter Saul
+uid: '20170418114023'
+dt-created: 2017-04-18 11:40:23 GMT
+link: http://www.schirn.de/ausstellungen/2017/peter_saul/
+event-dt-begin: '2017-06-02'
+event-dt-end: '2017-09-03'
+event-location: Schirn Kunsthalle, Frankfurt
+---

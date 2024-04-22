@@ -1,7 +1,9 @@
-Emil Nolde. Retrospektive
-# uid            : 20130906063332
-# dt-created     : 2013-09-06 06:33:32 GMT
-# link           : http://nolde-in-frankfurt.de/
-# event-dt-begin : 2014-03-05
-# event-dt-end   : 2014-06-15
-# event-location : Städel Museum, Frankfurt
+---
+title: Emil Nolde. Retrospektive
+uid: '20130906063332'
+dt-created: 2013-09-06 06:33:32 GMT
+link: http://nolde-in-frankfurt.de/
+event-dt-begin: '2014-03-05'
+event-dt-end: '2014-06-15'
+event-location: Städel Museum, Frankfurt
+---

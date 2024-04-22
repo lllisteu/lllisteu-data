@@ -1,7 +1,9 @@
-Pissarro à Éragny
-# uid            : 20161019084423
-# dt-created     : 2016-10-19 08:44:23 GMT
-# link           : http://www.grandpalais.fr/fr/evenement/pissarro-eragny
-# event-dt-begin : 2017-03-16
-# event-dt-end   : 2017-07-09
-# event-location : Musée du Luxembourg, Paris
+---
+title: Pissarro à Éragny
+uid: '20161019084423'
+dt-created: 2016-10-19 08:44:23 GMT
+link: http://www.grandpalais.fr/fr/evenement/pissarro-eragny
+event-dt-begin: '2017-03-16'
+event-dt-end: '2017-07-09'
+event-location: Musée du Luxembourg, Paris
+---

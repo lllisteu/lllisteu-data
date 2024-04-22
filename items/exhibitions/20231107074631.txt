@@ -1,7 +1,9 @@
-Günter Fruhtrunk - Retrospektive 1952–1982
-# uid            : 20231107074631
-# dt-created     : 2023-11-07 07:46:31 GMT
-# event-dt-begin : 2024-04-26
-# event-dt-end   : 2024-08-25
-# event-location : Museum Wiesbaden
-# link           : https://museum-wiesbaden.de/fruhtrunk
+---
+title: Günter Fruhtrunk - Retrospektive 1952–1982
+uid: '20231107074631'
+dt-created: 2023-11-07 07:46:31 GMT
+event-dt-begin: '2024-04-26'
+event-dt-end: '2024-08-25'
+event-location: Museum Wiesbaden
+link: https://museum-wiesbaden.de/fruhtrunk
+---

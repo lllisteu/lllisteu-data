@@ -1,7 +1,9 @@
-Medardo Rosso
-# uid            : 20180205100909
-# dt-created     : 2018-02-05 10:09:09 GMT
-# event-dt-begin : 2018-03-10
-# event-dt-end   : 2018-06-24
-# event-location : Museum voor Schone Kunsten, Gent
-# link           : https://www.mskgent.be/en/exhibitions/medardo-rosso
+---
+title: Medardo Rosso
+uid: '20180205100909'
+dt-created: 2018-02-05 10:09:09 GMT
+event-dt-begin: '2018-03-10'
+event-dt-end: '2018-06-24'
+event-location: Museum voor Schone Kunsten, Gent
+link: https://www.mskgent.be/en/exhibitions/medardo-rosso
+---

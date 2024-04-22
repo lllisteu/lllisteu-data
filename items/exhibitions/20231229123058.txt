@@ -1,7 +1,9 @@
-Claude Viallat – Et pourtant si... 
-# uid            : 20231229123058
-# dt-created     : 2023-12-29 12:30:58 GMT
-# event-dt-begin : 2023-10-27
-# event-dt-end   : 2024-03-03
-# event-location : Carré d’Art, Nîmes
-# link           : https://www.carreartmusee.com/en/exhibitions/claude-viallat-198
+---
+title: 'Claude Viallat – Et pourtant si... '
+uid: '20231229123058'
+dt-created: 2023-12-29 12:30:58 GMT
+event-dt-begin: '2023-10-27'
+event-dt-end: '2024-03-03'
+event-location: Carré d’Art, Nîmes
+link: https://www.carreartmusee.com/en/exhibitions/claude-viallat-198
+---

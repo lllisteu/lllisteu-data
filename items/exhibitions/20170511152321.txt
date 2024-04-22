@@ -1,7 +1,9 @@
-Utrecht, Caravaggio and Europe
-# uid            : 20170511152321
-# dt-created     : 2017-05-11 15:23:21 GMT
-# link           : https://www.pinakothek.de/en/exhibitions/utrecht-caravaggio-and-europe-1600-1630
-# event-dt-begin : 2019-04-17
-# event-dt-end   : 2019-07-21
-# event-location : Alte Pinakothek, München
+---
+title: Utrecht, Caravaggio and Europe
+uid: '20170511152321'
+dt-created: 2017-05-11 15:23:21 GMT
+link: https://www.pinakothek.de/en/exhibitions/utrecht-caravaggio-and-europe-1600-1630
+event-dt-begin: '2019-04-17'
+event-dt-end: '2019-07-21'
+event-location: Alte Pinakothek, München
+---

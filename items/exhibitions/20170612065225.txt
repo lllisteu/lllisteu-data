@@ -1,7 +1,9 @@
-Art et Liberté: Rupture, War, and Surrealism in Egypt 1938–1948
-# uid            : 20170612065225
-# dt-created     : 2017-06-12 06:52:25 GMT
-# link           : https://www.kunstsammlung.de/en/discover/exhibitions.html
-# event-dt-begin : 2017-07-15
-# event-dt-end   : 2017-10-15
-# event-location : K20 Kunstsammlung NRW, Düsseldorf
+---
+title: 'Art et Liberté: Rupture, War, and Surrealism in Egypt 1938–1948'
+uid: '20170612065225'
+dt-created: 2017-06-12 06:52:25 GMT
+link: https://www.kunstsammlung.de/en/discover/exhibitions.html
+event-dt-begin: '2017-07-15'
+event-dt-end: '2017-10-15'
+event-location: K20 Kunstsammlung NRW, Düsseldorf
+---

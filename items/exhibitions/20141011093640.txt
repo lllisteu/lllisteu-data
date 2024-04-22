@@ -1,7 +1,9 @@
-Salt and Silver: Early Photography 1840 – 1860
-# uid            : 20141011093640
-# dt-created     : 2014-10-11 09:36:40 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-britain/exhibition/salt-and-silver-early-photography-1840-1860
-# event-dt-begin : 2015-02-25
-# event-dt-end   : 2015-06-07
-# event-location : Tate Britain, London
+---
+title: 'Salt and Silver: Early Photography 1840 – 1860'
+uid: '20141011093640'
+dt-created: 2014-10-11 09:36:40 GMT
+link: http://www.tate.org.uk/whats-on/tate-britain/exhibition/salt-and-silver-early-photography-1840-1860
+event-dt-begin: '2015-02-25'
+event-dt-end: '2015-06-07'
+event-location: Tate Britain, London
+---

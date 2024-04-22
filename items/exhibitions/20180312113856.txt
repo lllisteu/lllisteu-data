@@ -1,7 +1,9 @@
-Eusebio Sempere
-# uid            : 20180312113856
-# dt-created     : 2018-03-12 11:38:56 GMT
-# event-dt-begin : 2018-05-09
-# event-dt-end   : 2018-09-17
-# event-location : Museo Nacional Centro de Arte Reina Sofía, Madrid
-# link           : http://www.museoreinasofia.es/en/exhibitions/eusebio-sempere
+---
+title: Eusebio Sempere
+uid: '20180312113856'
+dt-created: 2018-03-12 11:38:56 GMT
+event-dt-begin: '2018-05-09'
+event-dt-end: '2018-09-17'
+event-location: Museo Nacional Centro de Arte Reina Sofía, Madrid
+link: http://www.museoreinasofia.es/en/exhibitions/eusebio-sempere
+---

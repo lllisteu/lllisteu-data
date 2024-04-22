@@ -1,7 +1,9 @@
-George Desvallières
-# uid            : 20160518100829
-# dt-created     : 2016-05-18 10:08:29 GMT
-# link           : http://petitpalais.paris.fr/en/expositions/george-desvallieres-painting-body-and-soul
-# event-dt-begin : 2016-03-15
-# event-dt-end   : 2016-07-17
-# event-location : Petit Palais, Paris
+---
+title: George Desvallières
+uid: '20160518100829'
+dt-created: 2016-05-18 10:08:29 GMT
+link: http://petitpalais.paris.fr/en/expositions/george-desvallieres-painting-body-and-soul
+event-dt-begin: '2016-03-15'
+event-dt-end: '2016-07-17'
+event-location: Petit Palais, Paris
+---

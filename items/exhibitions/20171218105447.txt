@@ -1,7 +1,9 @@
-Classic Beauties
-# uid            : 20171218105447
-# dt-created     : 2017-12-18 10:54:47 GMT
-# event-dt-begin : 2018-06-16
-# event-dt-end   : 2019-01-13
-# event-location : Hermitage Amsterdam
-# link           : https://hermitage.nl/nl/classic-beauties/
+---
+title: Classic Beauties
+uid: '20171218105447'
+dt-created: 2017-12-18 10:54:47 GMT
+event-dt-begin: '2018-06-16'
+event-dt-end: '2019-01-13'
+event-location: Hermitage Amsterdam
+link: https://hermitage.nl/nl/classic-beauties/
+---

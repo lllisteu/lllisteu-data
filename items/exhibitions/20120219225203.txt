@@ -1,7 +1,9 @@
-Sol LeWitt – Wall Drawings from 1968 to 2007
-# uid            : 20120219225203
-# dt-created     : 2012-02-19 22:52:03 GMT
-# link           : http://www.centrepompidou-metz.fr/en/sol-lewitt-wall-drawings-1968-2007
-# event-dt-begin : 2012-03-07
-# event-dt-end   : 2013-08-12
-# event-location : Centre Pompidou, Metz
+---
+title: Sol LeWitt – Wall Drawings from 1968 to 2007
+uid: '20120219225203'
+dt-created: 2012-02-19 22:52:03 GMT
+link: http://www.centrepompidou-metz.fr/en/sol-lewitt-wall-drawings-1968-2007
+event-dt-begin: '2012-03-07'
+event-dt-end: '2013-08-12'
+event-location: Centre Pompidou, Metz
+---

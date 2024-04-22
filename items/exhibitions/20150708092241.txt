@@ -1,7 +1,9 @@
-Joaquín Sorolla
-# uid            : 20150708092241
-# dt-created     : 2015-07-08 09:22:41 GMT
-# link           : http://www.kunsthalle-muc.de/en/exhibitions/details/joaquin-sorolla/
-# event-dt-begin : 2016-03-04
-# event-dt-end   : 2016-07-03
-# event-location : Kunsthalle der Hypo-Kulturstiftung, München
+---
+title: Joaquín Sorolla
+uid: '20150708092241'
+dt-created: 2015-07-08 09:22:41 GMT
+link: http://www.kunsthalle-muc.de/en/exhibitions/details/joaquin-sorolla/
+event-dt-begin: '2016-03-04'
+event-dt-end: '2016-07-03'
+event-location: Kunsthalle der Hypo-Kulturstiftung, München
+---

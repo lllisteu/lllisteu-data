@@ -1,7 +1,9 @@
-Mark Rothko
-# uid            : 20231013104806
-# dt-created     : 2023-10-13 10:48:06 GMT
-# event-dt-begin : 2023-10-18
-# event-dt-end   : 2024-04-02
-# event-location : Fondation Louis Vuitton, Paris
-# link           : https://www.fondationlouisvuitton.fr/en/events/mark-rothko
+---
+title: Mark Rothko
+uid: '20231013104806'
+dt-created: 2023-10-13 10:48:06 GMT
+event-dt-begin: '2023-10-18'
+event-dt-end: '2024-04-02'
+event-location: Fondation Louis Vuitton, Paris
+link: https://www.fondationlouisvuitton.fr/en/events/mark-rothko
+---

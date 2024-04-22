@@ -1,7 +1,9 @@
-Blumenfeld Studio: New York, 1941–1960
-# uid            : 20130427092408
-# dt-created     : 2013-04-27 09:24:08 GMT
-# link           : http://www.somersethouse.org.uk/visual-arts/blumenfeld-studio
-# event-dt-begin : 2013-05-23
-# event-dt-end   : 2013-09-01
-# event-location : Somerset House, London
+---
+title: 'Blumenfeld Studio: New York, 1941–1960'
+uid: '20130427092408'
+dt-created: 2013-04-27 09:24:08 GMT
+link: http://www.somersethouse.org.uk/visual-arts/blumenfeld-studio
+event-dt-begin: '2013-05-23'
+event-dt-end: '2013-09-01'
+event-location: Somerset House, London
+---

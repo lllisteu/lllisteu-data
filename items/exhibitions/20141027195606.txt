@@ -1,7 +1,9 @@
-Charles Pollock: A Retrospective
-# uid            : 20141027195606
-# dt-created     : 2014-10-27 19:56:06 GMT
-# link           : http://www.guggenheim-venice.it/inglese/exhibitions/pollock365/charles-pollock.html
-# event-dt-begin : 2015-04-23
-# event-dt-end   : 2015-09-14
-# event-location : Peggy Guggenheim Collection, Venezia
+---
+title: 'Charles Pollock: A Retrospective'
+uid: '20141027195606'
+dt-created: 2014-10-27 19:56:06 GMT
+link: http://www.guggenheim-venice.it/inglese/exhibitions/pollock365/charles-pollock.html
+event-dt-begin: '2015-04-23'
+event-dt-end: '2015-09-14'
+event-location: Peggy Guggenheim Collection, Venezia
+---

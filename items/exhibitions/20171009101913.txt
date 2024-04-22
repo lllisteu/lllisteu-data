@@ -1,7 +1,9 @@
-Helen Levitt
-# uid            : 20171009101913
-# dt-created     : 2017-10-09 10:19:13 GMT
-# event-dt-begin : 2018-10-24
-# event-dt-end   : 2019-02-17
-# event-location : Albertina, Wien
-# link           : http://www.albertina.at/en/exhibitions/current?ausstellungen_id=1495878446369&j-cc-item=ausstellungen&j-cc-id=1495878446369&j-cc-node=item
+---
+title: Helen Levitt
+uid: '20171009101913'
+dt-created: 2017-10-09 10:19:13 GMT
+event-dt-begin: '2018-10-24'
+event-dt-end: '2019-02-17'
+event-location: Albertina, Wien
+link: http://www.albertina.at/en/exhibitions/current?ausstellungen_id=1495878446369&j-cc-item=ausstellungen&j-cc-id=1495878446369&j-cc-node=item
+---

@@ -1,7 +1,9 @@
-Germaine Krull
-# uid            : 20141012181152
-# dt-created     : 2014-10-12 18:11:52 GMT
-# link           : http://www.jeudepaume.org/index.php?page=article&idArt=2238
-# event-dt-begin : 2015-06-02
-# event-dt-end   : 2015-09-27
-# event-location : Jeu de Paume, Paris
+---
+title: Germaine Krull
+uid: '20141012181152'
+dt-created: 2014-10-12 18:11:52 GMT
+link: http://www.jeudepaume.org/index.php?page=article&idArt=2238
+event-dt-begin: '2015-06-02'
+event-dt-end: '2015-09-27'
+event-location: Jeu de Paume, Paris
+---

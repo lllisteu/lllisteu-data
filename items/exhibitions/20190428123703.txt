@@ -1,7 +1,9 @@
-Hammershøi, le maître de la peinture danoise
-# uid            : 20190428123703
-# dt-created     : 2019-04-28 12:37:03 GMT
-# link           : https://www.musee-jacquemart-andre.com/fr/hammershoi-maitre-peinture-danoise
-# event-dt-begin : 2019-03-14
-# event-dt-end   : 2019-07-22
-# event-location : Musée Jacquemart-André, Paris
+---
+title: Hammershøi, le maître de la peinture danoise
+uid: '20190428123703'
+dt-created: 2019-04-28 12:37:03 GMT
+link: https://www.musee-jacquemart-andre.com/fr/hammershoi-maitre-peinture-danoise
+event-dt-begin: '2019-03-14'
+event-dt-end: '2019-07-22'
+event-location: Musée Jacquemart-André, Paris
+---

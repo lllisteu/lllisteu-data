@@ -1,7 +1,9 @@
-Clouds
-# uid            : 20130117185059
-# dt-created     : 2013-01-17 18:50:59 GMT
-# link           : http://www.leopoldmuseum.org/en/exhibitions/49/clouds
-# event-dt-begin : 2013-03-22
-# event-dt-end   : 2013-07-01
-# event-location : Leopold Museum, Wien
+---
+title: Clouds
+uid: '20130117185059'
+dt-created: 2013-01-17 18:50:59 GMT
+link: http://www.leopoldmuseum.org/en/exhibitions/49/clouds
+event-dt-begin: '2013-03-22'
+event-dt-end: '2013-07-01'
+event-location: Leopold Museum, Wien
+---

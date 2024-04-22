@@ -1,7 +1,9 @@
-Felix Nussbaum
-# uid            : 20170710063009
-# dt-created     : 2017-07-10 06:30:09 GMT
-# link           : http://muzee.be/en/muzee/t208954/felix-nussbaum
-# event-dt-begin : 2018-09-01
-# event-dt-end   : 2018-12-02
-# event-location : Mu.ZEE, Oostende
+---
+title: Felix Nussbaum
+uid: '20170710063009'
+dt-created: 2017-07-10 06:30:09 GMT
+link: http://muzee.be/en/muzee/t208954/felix-nussbaum
+event-dt-begin: '2018-09-01'
+event-dt-end: '2018-12-02'
+event-location: Mu.ZEE, Oostende
+---

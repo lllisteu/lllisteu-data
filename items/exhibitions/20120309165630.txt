@@ -1,7 +1,9 @@
-Expanding Horizons – Giovanni Battista Lusieri and the Panoramic Landscape
-# uid            : 20120309165630
-# dt-created     : 2012-03-09 16:56:30 GMT
-# link           : http://www.nationalgalleries.org/whatson/exhibitions/expanding-horizons
-# event-dt-begin : 2012-06-30
-# event-dt-end   : 2012-10-28
-# event-location : Scottish National Gallery, Edinburgh
+---
+title: Expanding Horizons – Giovanni Battista Lusieri and the Panoramic Landscape
+uid: '20120309165630'
+dt-created: 2012-03-09 16:56:30 GMT
+link: http://www.nationalgalleries.org/whatson/exhibitions/expanding-horizons
+event-dt-begin: '2012-06-30'
+event-dt-end: '2012-10-28'
+event-location: Scottish National Gallery, Edinburgh
+---

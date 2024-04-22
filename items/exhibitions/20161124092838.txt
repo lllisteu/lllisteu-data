@@ -1,7 +1,9 @@
-Joseph Klibansky
-# uid            : 20161124092838
-# dt-created     : 2016-11-24 09:28:38 GMT
-# link           : http://www.museumdefundatie.nl/en/joseph-klibansky/
-# event-dt-begin : 2017-01-28
-# event-dt-end   : 2017-05-14
-# event-location : Museum de Fundatie, Zwolle
+---
+title: Joseph Klibansky
+uid: '20161124092838'
+dt-created: 2016-11-24 09:28:38 GMT
+link: http://www.museumdefundatie.nl/en/joseph-klibansky/
+event-dt-begin: '2017-01-28'
+event-dt-end: '2017-05-14'
+event-location: Museum de Fundatie, Zwolle
+---

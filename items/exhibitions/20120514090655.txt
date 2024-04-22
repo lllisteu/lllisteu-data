@@ -1,7 +1,9 @@
-Pop and the Sixties
-# uid            : 20120514090655
-# dt-created     : 2012-05-14 09:06:55 GMT
-# link           : http://www.mumok.at/programme/exhibitions/pop-and-the-sixties/?L=1
-# event-dt-begin : 2012-01-19
-# event-dt-end   : 2012-09-02
-# event-location : Mumok, Wien
+---
+title: Pop and the Sixties
+uid: '20120514090655'
+dt-created: 2012-05-14 09:06:55 GMT
+link: http://www.mumok.at/programme/exhibitions/pop-and-the-sixties/?L=1
+event-dt-begin: '2012-01-19'
+event-dt-end: '2012-09-02'
+event-location: Mumok, Wien
+---

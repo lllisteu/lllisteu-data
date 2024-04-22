@@ -1,7 +1,9 @@
-Alexander von Humboldt: Photography and Legacy
-# uid            : 20180305100459
-# dt-created     : 2018-03-05 10:04:59 GMT
-# event-dt-begin : 2018-10-13
-# event-dt-end   : 2019-02-03
-# event-location : Museum Ludwig, Köln
-# link           : http://www.museum-ludwig.de/
+---
+title: 'Alexander von Humboldt: Photography and Legacy'
+uid: '20180305100459'
+dt-created: 2018-03-05 10:04:59 GMT
+event-dt-begin: '2018-10-13'
+event-dt-end: '2019-02-03'
+event-location: Museum Ludwig, Köln
+link: http://www.museum-ludwig.de/
+---

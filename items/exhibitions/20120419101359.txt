@@ -1,7 +1,9 @@
-Gerhard Richter: Drawings and Other Works on Paper
-# uid            : 20120419101359
-# dt-created     : 2012-04-19 10:13:59 GMT
-# link           : http://www.louvre.fr/en/expositions/contemporary-art-gerhard-richter-drawings-and-other-works-paper
-# event-dt-begin : 2012-06-07
-# event-dt-end   : 2012-09-17
-# event-location : Musée du Louvre, Paris
+---
+title: 'Gerhard Richter: Drawings and Other Works on Paper'
+uid: '20120419101359'
+dt-created: 2012-04-19 10:13:59 GMT
+link: http://www.louvre.fr/en/expositions/contemporary-art-gerhard-richter-drawings-and-other-works-paper
+event-dt-begin: '2012-06-07'
+event-dt-end: '2012-09-17'
+event-location: Musée du Louvre, Paris
+---

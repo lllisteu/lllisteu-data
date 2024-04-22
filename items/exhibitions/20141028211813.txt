@@ -1,7 +1,9 @@
-Secessione e Avanguardia
-# uid            : 20141028211813
-# dt-created     : 2014-10-28 21:18:13 GMT
-# link           : http://www.gnam.beniculturali.it/index.php?it/503/secessione-e-avanguardia
-# event-dt-begin : 2014-10-31
-# event-dt-end   : 2015-02-15
-# event-location : Galleria nazionale d'arte moderna, Roma
+---
+title: Secessione e Avanguardia
+uid: '20141028211813'
+dt-created: 2014-10-28 21:18:13 GMT
+link: http://www.gnam.beniculturali.it/index.php?it/503/secessione-e-avanguardia
+event-dt-begin: '2014-10-31'
+event-dt-end: '2015-02-15'
+event-location: Galleria nazionale d'arte moderna, Roma
+---

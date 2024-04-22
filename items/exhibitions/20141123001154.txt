@@ -1,7 +1,9 @@
-Paul Gauguin
-# uid            : 20141123001154
-# dt-created     : 2014-11-23 00:11:54 GMT
-# link           : http://www.fondationbeyeler.ch/ausstellungen/paul-gauguin/einleitung
-# event-dt-begin : 2015-02-08
-# event-dt-end   : 2015-06-28
-# event-location : Fondation Beyeler, Basel
+---
+title: Paul Gauguin
+uid: '20141123001154'
+dt-created: 2014-11-23 00:11:54 GMT
+link: http://www.fondationbeyeler.ch/ausstellungen/paul-gauguin/einleitung
+event-dt-begin: '2015-02-08'
+event-dt-end: '2015-06-28'
+event-location: Fondation Beyeler, Basel
+---

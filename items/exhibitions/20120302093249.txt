@@ -1,7 +1,9 @@
-Jeff Koons
-# uid            : 20120302093249
-# dt-created     : 2012-03-02 09:32:49 GMT
-# link           : http://www.fondationbeyeler.ch/en/exhibitions/jeff-koons/introduction
-# event-dt-begin : 2012-05-13
-# event-dt-end   : 2012-09-02
-# event-location : Fondation Beyeler, Basel
+---
+title: Jeff Koons
+uid: '20120302093249'
+dt-created: 2012-03-02 09:32:49 GMT
+link: http://www.fondationbeyeler.ch/en/exhibitions/jeff-koons/introduction
+event-dt-begin: '2012-05-13'
+event-dt-end: '2012-09-02'
+event-location: Fondation Beyeler, Basel
+---

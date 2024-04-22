@@ -1,7 +1,9 @@
-Chagall – The Breakthrough Years
-# uid            : 20170724092223
-# dt-created     : 2017-07-24 09:22:23 GMT
-# event-dt-begin : 2017-09-16
-# event-dt-end   : 2018-01-21
-# event-location : Kunstmuseum Basel
-# link           : https://kunstmuseumbasel.ch/en/exhibitions/2017/chagall
+---
+title: Chagall – The Breakthrough Years
+uid: '20170724092223'
+dt-created: 2017-07-24 09:22:23 GMT
+event-dt-begin: '2017-09-16'
+event-dt-end: '2018-01-21'
+event-location: Kunstmuseum Basel
+link: https://kunstmuseumbasel.ch/en/exhibitions/2017/chagall
+---

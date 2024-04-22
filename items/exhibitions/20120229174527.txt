@@ -1,7 +1,9 @@
-Berthe Morisot
-# uid            : 20120229174527
-# dt-created     : 2012-02-29 17:45:27 GMT
-# link           : http://www.marmottan.com/francais/expositions/expositions-en-cours.asp
-# event-dt-begin : 2012-03-08
-# event-dt-end   : 2012-07-29
-# event-location : Musée Marmottan Monet, Paris
+---
+title: Berthe Morisot
+uid: '20120229174527'
+dt-created: 2012-02-29 17:45:27 GMT
+link: http://www.marmottan.com/francais/expositions/expositions-en-cours.asp
+event-dt-begin: '2012-03-08'
+event-dt-end: '2012-07-29'
+event-location: Musée Marmottan Monet, Paris
+---

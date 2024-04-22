@@ -1,7 +1,9 @@
-The Revolution is dead. Long live the Revolution!
-# uid            : 20170415075730
-# dt-created     : 2017-04-15 07:57:30 GMT
-# link           : http://www.kunstmuseumbern.ch/en/see/today/657-the-revolution-is-dead--120.html
-# event-dt-begin : 2017-04-13
-# event-dt-end   : 2017-07-09
-# event-location : Kunstmuseum Bern
+---
+title: The Revolution is dead. Long live the Revolution!
+uid: '20170415075730'
+dt-created: 2017-04-15 07:57:30 GMT
+link: http://www.kunstmuseumbern.ch/en/see/today/657-the-revolution-is-dead--120.html
+event-dt-begin: '2017-04-13'
+event-dt-end: '2017-07-09'
+event-location: Kunstmuseum Bern
+---

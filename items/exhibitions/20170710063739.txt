@@ -1,7 +1,9 @@
-Bauhaus and America – Interactions
-# uid            : 20170710063739
-# dt-created     : 2017-07-10 06:37:39 GMT
-# link           : https://www.lwl.org/LWL/Kultur/museumkunstkultur/ausstellungen/
-# event-dt-begin : 2018-11-09
-# event-dt-end   : 2019-03-10
-# event-location : LWL-Museum für Kunst und Kultur, Münster
+---
+title: Bauhaus and America – Interactions
+uid: '20170710063739'
+dt-created: 2017-07-10 06:37:39 GMT
+link: https://www.lwl.org/LWL/Kultur/museumkunstkultur/ausstellungen/
+event-dt-begin: '2018-11-09'
+event-dt-end: '2019-03-10'
+event-location: LWL-Museum für Kunst und Kultur, Münster
+---

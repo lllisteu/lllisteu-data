@@ -1,7 +1,9 @@
-Cecily Brown
-# uid            : 20180108105416
-# dt-created     : 2018-01-08 10:54:16 GMT
-# event-dt-begin : 2018-11-08
-# event-dt-end   : 2019-02-24
-# event-location : Louisiana Museum of Modern Art, Humlebæk
-# link           : https://en.louisiana.dk/exhibition/cecily-brown
+---
+title: Cecily Brown
+uid: '20180108105416'
+dt-created: 2018-01-08 10:54:16 GMT
+event-dt-begin: '2018-11-08'
+event-dt-end: '2019-02-24'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+link: https://en.louisiana.dk/exhibition/cecily-brown
+---

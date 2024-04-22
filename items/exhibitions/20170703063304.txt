@@ -1,7 +1,9 @@
-Joseph Beuys. Impeccable Pictures 1945-1984
-# uid            : 20170703063304
-# dt-created     : 2017-07-03 06:33:04 GMT
-# link           : http://www.lenbachhaus.de/exhibitions/vorschau-2017/joseph-beuys/?L=1
-# event-dt-begin : 2017-11-14
-# event-dt-end   : 2018-03-18
-# event-location : Lenbachhaus, München
+---
+title: Joseph Beuys. Impeccable Pictures 1945-1984
+uid: '20170703063304'
+dt-created: 2017-07-03 06:33:04 GMT
+link: http://www.lenbachhaus.de/exhibitions/vorschau-2017/joseph-beuys/?L=1
+event-dt-begin: '2017-11-14'
+event-dt-end: '2018-03-18'
+event-location: Lenbachhaus, München
+---

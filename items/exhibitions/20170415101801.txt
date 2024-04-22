@@ -1,7 +1,9 @@
-Bill Viola: A Retrospective
-# uid            : 20170415101801
-# dt-created     : 2017-04-15 10:18:01 GMT
-# link           : https://www.guggenheim-bilbao.eus/en/exhibitions/bill-viola-a-retrospective/
-# event-dt-begin : 2017-06-30
-# event-dt-end   : 2017-11-09
-# event-location : Museo Guggenheim, Bilbao
+---
+title: 'Bill Viola: A Retrospective'
+uid: '20170415101801'
+dt-created: 2017-04-15 10:18:01 GMT
+link: https://www.guggenheim-bilbao.eus/en/exhibitions/bill-viola-a-retrospective/
+event-dt-begin: '2017-06-30'
+event-dt-end: '2017-11-09'
+event-location: Museo Guggenheim, Bilbao
+---

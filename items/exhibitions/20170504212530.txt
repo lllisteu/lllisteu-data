@@ -1,7 +1,9 @@
-Peter Lindbergh
-# uid            : 20170504212530
-# dt-created     : 2017-05-04 21:25:30 GMT
-# link           : http://www.kunsthalle-muc.de/en/exhibitions/details/peterlindbergh/
-# event-dt-begin : 2017-04-13
-# event-dt-end   : 2017-08-27
-# event-location : Kunsthalle der Hypo-Kulturstiftung, München
+---
+title: Peter Lindbergh
+uid: '20170504212530'
+dt-created: 2017-05-04 21:25:30 GMT
+link: http://www.kunsthalle-muc.de/en/exhibitions/details/peterlindbergh/
+event-dt-begin: '2017-04-13'
+event-dt-end: '2017-08-27'
+event-location: Kunsthalle der Hypo-Kulturstiftung, München
+---

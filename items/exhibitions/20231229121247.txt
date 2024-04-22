@@ -1,7 +1,9 @@
-Maurice de Vlaminck: Modern Artist Rebel
-# uid            : 20231229121247
-# dt-created     : 2023-12-29 12:12:47 GMT
-# event-dt-begin : 2024-09-14
-# event-dt-end   : 2025-01-12
-# event-location : Museum Barberini, Potsdam
-# link           : https://www.museum-barberini.de/en/ausstellungen/14140/maurice-de-vlaminck-modern-artist-rebel
+---
+title: 'Maurice de Vlaminck: Modern Artist Rebel'
+uid: '20231229121247'
+dt-created: 2023-12-29 12:12:47 GMT
+event-dt-begin: '2024-09-14'
+event-dt-end: '2025-01-12'
+event-location: Museum Barberini, Potsdam
+link: https://www.museum-barberini.de/en/ausstellungen/14140/maurice-de-vlaminck-modern-artist-rebel
+---

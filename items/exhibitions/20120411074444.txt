@@ -1,7 +1,9 @@
-Edward Kienholz: Five Car Stud
-# uid            : 20120411074444
-# dt-created     : 2012-04-11 07:44:44 GMT
-# link           : http://www.louisiana.dk/uk/Menu/Exhibitions/Edward+Kienholz+-+Five+Car+Stud
-# event-dt-begin : 2012-06-06
-# event-dt-end   : 2012-10-21
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: 'Edward Kienholz: Five Car Stud'
+uid: '20120411074444'
+dt-created: 2012-04-11 07:44:44 GMT
+link: http://www.louisiana.dk/uk/Menu/Exhibitions/Edward+Kienholz+-+Five+Car+Stud
+event-dt-begin: '2012-06-06'
+event-dt-end: '2012-10-21'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

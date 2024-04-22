@@ -1,7 +1,9 @@
-Body and Soul – Munich Rococo from Asam to Günther
-# uid            : 20141014205120
-# dt-created     : 2014-10-14 20:51:20 GMT
-# link           : http://www.kunsthalle-muc.de/en/exhibitions/details/body-and-soul/
-# event-dt-begin : 2014-12-12
-# event-dt-end   : 2015-04-12
-# event-location : Kunsthalle der Hypo-Kulturstiftung, München
+---
+title: Body and Soul – Munich Rococo from Asam to Günther
+uid: '20141014205120'
+dt-created: 2014-10-14 20:51:20 GMT
+link: http://www.kunsthalle-muc.de/en/exhibitions/details/body-and-soul/
+event-dt-begin: '2014-12-12'
+event-dt-end: '2015-04-12'
+event-location: Kunsthalle der Hypo-Kulturstiftung, München
+---

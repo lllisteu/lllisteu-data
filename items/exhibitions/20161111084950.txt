@@ -1,7 +1,9 @@
-Yves Klein
-# uid            : 20161111084950
-# dt-created     : 2016-11-11 08:49:50 GMT
-# link           : http://www.bozar.be/en/activities/119802-yves-klein
-# event-dt-begin : 2017-03-29
-# event-dt-end   : 2017-08-20
-# event-location : Palais des Beaux-Arts, Brussel
+---
+title: Yves Klein
+uid: '20161111084950'
+dt-created: 2016-11-11 08:49:50 GMT
+link: http://www.bozar.be/en/activities/119802-yves-klein
+event-dt-begin: '2017-03-29'
+event-dt-end: '2017-08-20'
+event-location: Palais des Beaux-Arts, Brussel
+---

@@ -1,7 +1,9 @@
-Biennale di Venezia
-# uid            : 20120318143035
-# dt-created     : 2012-03-18 14:30:35 GMT
-# link           : http://www.labiennale.org/en/art/
-# event-dt-begin : 2013-06-01
-# event-dt-end   : 2013-11-24
-# event-location : Venezia
+---
+title: Biennale di Venezia
+uid: '20120318143035'
+dt-created: 2012-03-18 14:30:35 GMT
+link: http://www.labiennale.org/en/art/
+event-dt-begin: '2013-06-01'
+event-dt-end: '2013-11-24'
+event-location: Venezia
+---

@@ -1,7 +1,9 @@
-Whistler in London
-# uid            : 20121203082617
-# dt-created     : 2012-12-03 08:26:17 GMT
-# link           : http://www.dulwichpicturegallery.org.uk/exhibitions/coming_soon/whistler_in_london.aspx
-# event-dt-begin : 2013-10-16
-# event-dt-end   : 2014-01-12
-# event-location : Dulwich Picture Gallery, London
+---
+title: Whistler in London
+uid: '20121203082617'
+dt-created: 2012-12-03 08:26:17 GMT
+link: http://www.dulwichpicturegallery.org.uk/exhibitions/coming_soon/whistler_in_london.aspx
+event-dt-begin: '2013-10-16'
+event-dt-end: '2014-01-12'
+event-location: Dulwich Picture Gallery, London
+---

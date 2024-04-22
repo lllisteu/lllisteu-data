@@ -1,7 +1,9 @@
-Le Corbusier's Secret Laboratory
-# uid            : 20121206105325
-# dt-created     : 2012-12-06 10:53:25 GMT
-# link           : http://www.modernamuseet.se/en/Stockholm/Exhibitions/2013/Moment---Le-Corbusier/
-# event-dt-begin : 2013-01-19
-# event-dt-end   : 2013-04-18
-# event-location : Moderna Museet, Stockholm
+---
+title: Le Corbusier's Secret Laboratory
+uid: '20121206105325'
+dt-created: 2012-12-06 10:53:25 GMT
+link: http://www.modernamuseet.se/en/Stockholm/Exhibitions/2013/Moment---Le-Corbusier/
+event-dt-begin: '2013-01-19'
+event-dt-end: '2013-04-18'
+event-location: Moderna Museet, Stockholm
+---

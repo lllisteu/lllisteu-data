@@ -1,7 +1,9 @@
-The Road to Van Eyck
-# uid            : 20121119195238
-# dt-created     : 2012-11-19 19:52:38 GMT
-# link           : http://www.boijmans.nl/en/7/calendar-exhibitions/calendaritem/883/the-road-to-van-eyck
-# event-dt-begin : 2012-10-13
-# event-dt-end   : 2013-02-10
-# event-location : Museum Boijmans Van Beuningen, Rotterdam
+---
+title: The Road to Van Eyck
+uid: '20121119195238'
+dt-created: 2012-11-19 19:52:38 GMT
+link: http://www.boijmans.nl/en/7/calendar-exhibitions/calendaritem/883/the-road-to-van-eyck
+event-dt-begin: '2012-10-13'
+event-dt-end: '2013-02-10'
+event-location: Museum Boijmans Van Beuningen, Rotterdam
+---

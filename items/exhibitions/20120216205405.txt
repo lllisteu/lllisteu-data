@@ -1,7 +1,9 @@
-Picasso and Modern British Art
-# uid            : 20120216205405
-# dt-created     : 2012-02-16 20:54:05 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-britain/exhibition/picasso-modern-british-art
-# event-dt-begin : 2012-02-15
-# event-dt-end   : 2012-07-15
-# event-location : Tate Britain, London
+---
+title: Picasso and Modern British Art
+uid: '20120216205405'
+dt-created: 2012-02-16 20:54:05 GMT
+link: http://www.tate.org.uk/whats-on/tate-britain/exhibition/picasso-modern-british-art
+event-dt-begin: '2012-02-15'
+event-dt-end: '2012-07-15'
+event-location: Tate Britain, London
+---

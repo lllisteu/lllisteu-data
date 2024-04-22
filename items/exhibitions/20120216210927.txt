@@ -1,7 +1,9 @@
-Chagall
-# uid            : 20120216210927
-# dt-created     : 2012-02-16 21:09:27 GMT
-# link           : http://www.museothyssen.org/microsites/exposiciones/2012/chagall/ficha_en.html#ancla
-# event-dt-begin : 2012-02-14
-# event-dt-end   : 2012-05-20
-# event-location : Museo Thyssen-Bornemisza, Madrid
+---
+title: Chagall
+uid: '20120216210927'
+dt-created: 2012-02-16 21:09:27 GMT
+link: http://www.museothyssen.org/microsites/exposiciones/2012/chagall/ficha_en.html#ancla
+event-dt-begin: '2012-02-14'
+event-dt-end: '2012-05-20'
+event-location: Museo Thyssen-Bornemisza, Madrid
+---

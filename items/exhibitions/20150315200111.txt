@@ -1,7 +1,9 @@
-Keith Haring – The Political Line
-# uid            : 20150315200111
-# dt-created     : 2015-03-15 20:01:11 GMT
-# link           : http://www.kunsthal.nl/en/exhibitions/keith-haring/
-# event-dt-begin : 2015-09-20
-# event-dt-end   : 2016-02-07
-# event-location : Kunsthal, Rotterdam
+---
+title: Keith Haring – The Political Line
+uid: '20150315200111'
+dt-created: 2015-03-15 20:01:11 GMT
+link: http://www.kunsthal.nl/en/exhibitions/keith-haring/
+event-dt-begin: '2015-09-20'
+event-dt-end: '2016-02-07'
+event-location: Kunsthal, Rotterdam
+---

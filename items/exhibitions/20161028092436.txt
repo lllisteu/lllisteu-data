@@ -1,7 +1,9 @@
-Maria Sibylla Merian
-# uid            : 20161028092436
-# dt-created     : 2016-10-28 09:24:36 GMT
-# link           : http://www.smb.museum/en/exhibitions/detail/durch-die-blume-gesehen-der-lange-schatten-der-maria-sibylla-merian.html
-# event-dt-begin : 2017-04-07
-# event-dt-end   : 2017-07-02
-# event-location : Kupferstichkabinett, Berlin
+---
+title: Maria Sibylla Merian
+uid: '20161028092436'
+dt-created: 2016-10-28 09:24:36 GMT
+link: http://www.smb.museum/en/exhibitions/detail/durch-die-blume-gesehen-der-lange-schatten-der-maria-sibylla-merian.html
+event-dt-begin: '2017-04-07'
+event-dt-end: '2017-07-02'
+event-location: Kupferstichkabinett, Berlin
+---

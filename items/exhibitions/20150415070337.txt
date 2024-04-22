@@ -1,7 +1,9 @@
-Barbara Hepworth – Sculpture for a modern world.
-# uid            : 20150415070337
-# dt-created     : 2015-04-15 07:03:37 GMT
-# link           : http://krollermuller.nl/en-barbara-hepworth
-# event-dt-begin : 2015-11-28
-# event-dt-end   : 2016-04-17
-# event-location : Kröller-Müller Museum, Otterlo
+---
+title: Barbara Hepworth – Sculpture for a modern world.
+uid: '20150415070337'
+dt-created: 2015-04-15 07:03:37 GMT
+link: http://krollermuller.nl/en-barbara-hepworth
+event-dt-begin: '2015-11-28'
+event-dt-end: '2016-04-17'
+event-location: Kröller-Müller Museum, Otterlo
+---

@@ -1,7 +1,9 @@
-Paul Klee
-# uid            : 20120514122656
-# dt-created     : 2012-05-14 12:26:56 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/paul-klee
-# event-dt-begin : 2013-10-16
-# event-dt-end   : 2014-03-09
-# event-location : Tate Modern, London
+---
+title: Paul Klee
+uid: '20120514122656'
+dt-created: 2012-05-14 12:26:56 GMT
+link: http://www.tate.org.uk/whats-on/tate-modern/exhibition/paul-klee
+event-dt-begin: '2013-10-16'
+event-dt-end: '2014-03-09'
+event-location: Tate Modern, London
+---

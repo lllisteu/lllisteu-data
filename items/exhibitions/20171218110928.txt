@@ -1,7 +1,9 @@
-Max Beckmann, figures in exile
-# uid            : 20171218110928
-# dt-created     : 2017-12-18 11:09:28 GMT
-# event-dt-begin : 2018-10-23
-# event-dt-end   : 2019-01-27
-# event-location : Museo Thyssen-Bornemisza, Madrid
-# link           : https://www.museothyssen.org/en/exposiciones/max-beckmann-figures-exile
+---
+title: Max Beckmann, figures in exile
+uid: '20171218110928'
+dt-created: 2017-12-18 11:09:28 GMT
+event-dt-begin: '2018-10-23'
+event-dt-end: '2019-01-27'
+event-location: Museo Thyssen-Bornemisza, Madrid
+link: https://www.museothyssen.org/en/exposiciones/max-beckmann-figures-exile
+---

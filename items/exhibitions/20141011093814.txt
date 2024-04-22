@@ -1,7 +1,9 @@
-Frank Auerbach
-# uid            : 20141011093814
-# dt-created     : 2014-10-11 09:38:14 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-britain/exhibition/frank-auerbach
-# event-dt-begin : 2015-10-09
-# event-dt-end   : 2016-03-13
-# event-location : Tate Britain, London
+---
+title: Frank Auerbach
+uid: '20141011093814'
+dt-created: 2014-10-11 09:38:14 GMT
+link: http://www.tate.org.uk/whats-on/tate-britain/exhibition/frank-auerbach
+event-dt-begin: '2015-10-09'
+event-dt-end: '2016-03-13'
+event-location: Tate Britain, London
+---

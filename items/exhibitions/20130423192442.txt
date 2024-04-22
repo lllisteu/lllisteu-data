@@ -1,7 +1,9 @@
-Velázquez. Late Portraits
-# uid            : 20130423192442
-# dt-created     : 2013-04-23 19:24:42 GMT
-# link           : http://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/velazquez-and-the-family-of-philip-iv/
-# event-dt-begin : 2013-10-08
-# event-dt-end   : 2014-02-09
-# event-location : Museo Nacional del Prado, Madrid
+---
+title: Velázquez. Late Portraits
+uid: '20130423192442'
+dt-created: 2013-04-23 19:24:42 GMT
+link: http://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/velazquez-and-the-family-of-philip-iv/
+event-dt-begin: '2013-10-08'
+event-dt-end: '2014-02-09'
+event-location: Museo Nacional del Prado, Madrid
+---

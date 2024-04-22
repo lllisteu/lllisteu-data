@@ -1,7 +1,9 @@
-Matisse – Doubles and Variations
-# uid            : 20120714131105
-# dt-created     : 2012-07-14 13:11:05 GMT
-# link           : http://www.smk.dk/en/explore-the-art/exhibitions/matisse-doubles-and-variations/
-# event-dt-begin : 2012-07-14
-# event-dt-end   : 2012-10-28
-# event-location : Statens Museum for Kunst, København
+---
+title: Matisse – Doubles and Variations
+uid: '20120714131105'
+dt-created: 2012-07-14 13:11:05 GMT
+link: http://www.smk.dk/en/explore-the-art/exhibitions/matisse-doubles-and-variations/
+event-dt-begin: '2012-07-14'
+event-dt-end: '2012-10-28'
+event-location: Statens Museum for Kunst, København
+---

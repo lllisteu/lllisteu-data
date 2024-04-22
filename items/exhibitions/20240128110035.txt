@@ -1,7 +1,9 @@
-Faraway Countries, Faraway Times
-# uid            : 20240128110035
-# dt-created     : 2024-01-28 11:00:35 GMT
-# event-dt-begin : 2024-03-15
-# event-dt-end   : 2024-07-07
-# event-location : Museum Folkwang, Essen
-# link           : https://www.museum-folkwang.de/en/exhibition/faraway-countries-faraway-times
+---
+title: Faraway Countries, Faraway Times
+uid: '20240128110035'
+dt-created: 2024-01-28 11:00:35 GMT
+event-dt-begin: '2024-03-15'
+event-dt-end: '2024-07-07'
+event-location: Museum Folkwang, Essen
+link: https://www.museum-folkwang.de/en/exhibition/faraway-countries-faraway-times
+---

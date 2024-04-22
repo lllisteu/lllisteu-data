@@ -1,7 +1,9 @@
-Modern Times
-# uid            : 20141024183708
-# dt-created     : 2014-10-24 18:37:08 GMT
-# link           : https://www.rijksmuseum.nl/en/modern-times
-# event-dt-begin : 2014-11-01
-# event-dt-end   : 2015-01-11
-# event-location : Rijksmuseum, Amsterdam
+---
+title: Modern Times
+uid: '20141024183708'
+dt-created: 2014-10-24 18:37:08 GMT
+link: https://www.rijksmuseum.nl/en/modern-times
+event-dt-begin: '2014-11-01'
+event-dt-end: '2015-01-11'
+event-location: Rijksmuseum, Amsterdam
+---

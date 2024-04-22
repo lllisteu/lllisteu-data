@@ -1,7 +1,9 @@
-Bruno Munari: My Futurist Past
-# uid            : 20120530210410
-# dt-created     : 2012-05-30 21:04:10 GMT
-# link           : http://www.estorickcollection.com/
-# event-dt-begin : 2012-09-19
-# event-dt-end   : 2012-12-23
-# event-location : Estorick Collection, London
+---
+title: 'Bruno Munari: My Futurist Past'
+uid: '20120530210410'
+dt-created: 2012-05-30 21:04:10 GMT
+link: http://www.estorickcollection.com/
+event-dt-begin: '2012-09-19'
+event-dt-end: '2012-12-23'
+event-location: Estorick Collection, London
+---

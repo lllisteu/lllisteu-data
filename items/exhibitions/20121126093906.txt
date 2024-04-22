@@ -1,7 +1,9 @@
-Antoine Watteau
-# uid            : 20121126093906
-# dt-created     : 2012-11-26 09:39:06 GMT
-# link           : http://www.bozar.be/activity.php?id=12710&selectiondate=2012-11-26
-# event-dt-begin : 2013-02-08
-# event-dt-end   : 2013-05-12
-# event-location : Palais des Beaux-Arts, Brussel
+---
+title: Antoine Watteau
+uid: '20121126093906'
+dt-created: 2012-11-26 09:39:06 GMT
+link: http://www.bozar.be/activity.php?id=12710&selectiondate=2012-11-26
+event-dt-begin: '2013-02-08'
+event-dt-end: '2013-05-12'
+event-location: Palais des Beaux-Arts, Brussel
+---

@@ -1,7 +1,9 @@
-Zurbarán
-# uid            : 20130927111631
-# dt-created     : 2013-09-27 11:16:31 GMT
-# link           : http://palazzodiamanti.it/1306
-# event-dt-begin : 2013-09-14
-# event-dt-end   : 2014-01-06
-# event-location : Palazzo dei Diamanti, Ferrara
+---
+title: Zurbarán
+uid: '20130927111631'
+dt-created: 2013-09-27 11:16:31 GMT
+link: http://palazzodiamanti.it/1306
+event-dt-begin: '2013-09-14'
+event-dt-end: '2014-01-06'
+event-location: Palazzo dei Diamanti, Ferrara
+---

@@ -1,7 +1,9 @@
-James Ensor – Maestro
-# uid            : 20231207200422
-# dt-created     : 2023-12-07 20:04:22 GMT
-# event-dt-begin : 2024-02-29
-# event-dt-end   : 2024-06-23
-# event-location : Palais des Beaux-Arts, Brussel
-# link           : https://www.bozar.be/en/calendar/james-ensor-maestro
+---
+title: James Ensor – Maestro
+uid: '20231207200422'
+dt-created: 2023-12-07 20:04:22 GMT
+event-dt-begin: '2024-02-29'
+event-dt-end: '2024-06-23'
+event-location: Palais des Beaux-Arts, Brussel
+link: https://www.bozar.be/en/calendar/james-ensor-maestro
+---

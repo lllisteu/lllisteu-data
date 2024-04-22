@@ -1,7 +1,9 @@
-Suze Robertson
-# uid            : 20221101095507
-# dt-created     : 2022-11-01 09:55:07 GMT
-# event-dt-begin : 2022-09-24
-# event-dt-end   : 2023-03-05
-# event-location : Museum Panorama Mesdag, Den Haag
-# link           : https://panorama-mesdag.nl/en/see-and-do/exhibitions/suze-robertson/
+---
+title: Suze Robertson
+uid: '20221101095507'
+dt-created: 2022-11-01 09:55:07 GMT
+event-dt-begin: '2022-09-24'
+event-dt-end: '2023-03-05'
+event-location: Museum Panorama Mesdag, Den Haag
+link: https://panorama-mesdag.nl/en/see-and-do/exhibitions/suze-robertson/
+---

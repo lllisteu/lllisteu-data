@@ -1,7 +1,9 @@
-Helmut Newton Legacy
-# uid            : 20221107132103
-# dt-created     : 2022-11-07 13:21:03 GMT
-# event-dt-begin : 2022-10-19
-# event-dt-end   : 2023-01-15
-# event-location : Kunstforum Wien
-# link           : https://www.kunstforumwien.at/en/exhibition/exhibitions/337/helmut-newton-legacy
+---
+title: Helmut Newton Legacy
+uid: '20221107132103'
+dt-created: 2022-11-07 13:21:03 GMT
+event-dt-begin: '2022-10-19'
+event-dt-end: '2023-01-15'
+event-location: Kunstforum Wien
+link: https://www.kunstforumwien.at/en/exhibition/exhibitions/337/helmut-newton-legacy
+---

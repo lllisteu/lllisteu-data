@@ -1,7 +1,9 @@
-Self-portraits
-# uid            : 20120411074717
-# dt-created     : 2012-04-11 07:47:17 GMT
-# link           : http://www.louisiana.dk/uk/Menu/Exhibitions/Upcoming+exhibitions+2012
-# event-dt-begin : 2012-09-14
-# event-dt-end   : 2013-01-13
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: Self-portraits
+uid: '20120411074717'
+dt-created: 2012-04-11 07:47:17 GMT
+link: http://www.louisiana.dk/uk/Menu/Exhibitions/Upcoming+exhibitions+2012
+event-dt-begin: '2012-09-14'
+event-dt-end: '2013-01-13'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

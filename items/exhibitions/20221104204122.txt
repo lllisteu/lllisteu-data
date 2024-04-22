@@ -1,7 +1,9 @@
-Castaway Modernism
-# uid            : 20221104204122
-# dt-created     : 2022-11-04 20:41:22 GMT
-# event-dt-begin : 2022-10-22 
-# event-dt-end   : 2023-02-19
-# event-location : Kunstmuseum Basel
-# link           : https://kunstmuseumbasel.ch/en/exhibitions/2022/castaway-modernism
+---
+title: Castaway Modernism
+uid: '20221104204122'
+dt-created: 2022-11-04 20:41:22 GMT
+event-dt-begin: '2022-10-22 '
+event-dt-end: '2023-02-19'
+event-location: Kunstmuseum Basel
+link: https://kunstmuseumbasel.ch/en/exhibitions/2022/castaway-modernism
+---

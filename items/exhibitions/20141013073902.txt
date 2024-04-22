@@ -1,7 +1,9 @@
-Gerhard Richter
-# uid            : 20141013073902
-# dt-created     : 2014-10-13 07:39:02 GMT
-# link           : http://www.mariangoodman.com/exhibitions/2014-10-14_gerhard-richter/
-# event-dt-begin : 2014-10-14
-# event-dt-end   : 2014-12-20
-# event-location : Marian Goodman Gallery, London
+---
+title: Gerhard Richter
+uid: '20141013073902'
+dt-created: 2014-10-13 07:39:02 GMT
+link: http://www.mariangoodman.com/exhibitions/2014-10-14_gerhard-richter/
+event-dt-begin: '2014-10-14'
+event-dt-end: '2014-12-20'
+event-location: Marian Goodman Gallery, London
+---

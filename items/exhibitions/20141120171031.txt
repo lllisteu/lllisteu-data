@@ -1,7 +1,9 @@
-Lyonel Feininger and Alfred Kubin
-# uid            : 20141120171031
-# dt-created     : 2014-11-20 17:10:31 GMT
-# link           : http://albertina.at/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1411462061008
-# event-dt-begin : 2015-09-04
-# event-dt-end   : 2016-01-10
-# event-location : Albertina, Wien
+---
+title: Lyonel Feininger and Alfred Kubin
+uid: '20141120171031'
+dt-created: 2014-11-20 17:10:31 GMT
+link: http://albertina.at/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1411462061008
+event-dt-begin: '2015-09-04'
+event-dt-end: '2016-01-10'
+event-location: Albertina, Wien
+---

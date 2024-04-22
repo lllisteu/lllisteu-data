@@ -1,7 +1,9 @@
-Käthe Kollwitz
-# uid            : 20231022101015
-# dt-created     : 2023-10-22 10:10:15 GMT
-# event-dt-begin : 2024-11-07
-# event-dt-end   : 2025-02-25
-# event-location : Statens Museum for Kunst, København
-# link           : https://www.smk.dk/en/exhibition/kathe-kollwitz/
+---
+title: Käthe Kollwitz
+uid: '20231022101015'
+dt-created: 2023-10-22 10:10:15 GMT
+event-dt-begin: '2024-11-07'
+event-dt-end: '2025-02-25'
+event-location: Statens Museum for Kunst, København
+link: https://www.smk.dk/en/exhibition/kathe-kollwitz/
+---

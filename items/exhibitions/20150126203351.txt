@@ -1,7 +1,9 @@
-Realsurreal
-# uid            : 20150126203351
-# dt-created     : 2015-01-26 20:33:51 GMT
-# link           : http://www.maxernstmuseum.lvr.de/de/ausstellungen/realsurreal/realsurreal_1.html
-# event-dt-begin : 2015-04-19
-# event-dt-end   : 2015-07-19
-# event-location : Max Ernst Museum, Brühl
+---
+title: Realsurreal
+uid: '20150126203351'
+dt-created: 2015-01-26 20:33:51 GMT
+link: http://www.maxernstmuseum.lvr.de/de/ausstellungen/realsurreal/realsurreal_1.html
+event-dt-begin: '2015-04-19'
+event-dt-end: '2015-07-19'
+event-location: Max Ernst Museum, Brühl
+---

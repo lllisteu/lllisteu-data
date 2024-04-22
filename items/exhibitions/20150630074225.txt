@@ -1,7 +1,9 @@
-Caillebotte, Painter and Gardener
-# uid            : 20150630074225
-# dt-created     : 2015-06-30 07:42:25 GMT
-# link           : http://www.mdig.fr/en/caillebotte-painter-and-gardener
-# event-dt-begin : 2016-03-25
-# event-dt-end   : 2016-07-03
-# event-location : Musée des impressionnismes, Giverny
+---
+title: Caillebotte, Painter and Gardener
+uid: '20150630074225'
+dt-created: 2015-06-30 07:42:25 GMT
+link: http://www.mdig.fr/en/caillebotte-painter-and-gardener
+event-dt-begin: '2016-03-25'
+event-dt-end: '2016-07-03'
+event-location: Musée des impressionnismes, Giverny
+---

@@ -1,7 +1,9 @@
-America! America! How real is real?
-# uid            : 20170503095437
-# dt-created     : 2017-05-03 09:54:37 GMT
-# link           : https://www.museum-frieder-burda.de/?id=22&L=0&tx_eventbase_exhibition%5Bexhibition%5D=117&tx_eventbase_exhibition%5Baction%5D=show&tx_eventbase_exhibition%5Bcontroller%5D=Exhibition
-# event-dt-begin : 2017-12-09
-# event-dt-end   : 2018-05-21
-# event-location : Museum Frieder Burda, Baden-Baden
+---
+title: America! America! How real is real?
+uid: '20170503095437'
+dt-created: 2017-05-03 09:54:37 GMT
+link: https://www.museum-frieder-burda.de/?id=22&L=0&tx_eventbase_exhibition%5Bexhibition%5D=117&tx_eventbase_exhibition%5Baction%5D=show&tx_eventbase_exhibition%5Bcontroller%5D=Exhibition
+event-dt-begin: '2017-12-09'
+event-dt-end: '2018-05-21'
+event-location: Museum Frieder Burda, Baden-Baden
+---

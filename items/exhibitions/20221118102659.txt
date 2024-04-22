@@ -1,7 +1,9 @@
-Rein Dool
-# uid            : 20221118102659
-# dt-created     : 2022-11-18 10:26:59 GMT
-# event-dt-begin : 2023-06-17
-# event-dt-end   : 2023-09-17
-# event-location : Fondation Custodia, Paris
-# link           : https://www.fondationcustodia.fr/
+---
+title: Rein Dool
+uid: '20221118102659'
+dt-created: 2022-11-18 10:26:59 GMT
+event-dt-begin: '2023-06-17'
+event-dt-end: '2023-09-17'
+event-location: Fondation Custodia, Paris
+link: https://www.fondationcustodia.fr/
+---

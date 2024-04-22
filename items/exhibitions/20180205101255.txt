@@ -1,7 +1,9 @@
-James Rosenquist
-# uid            : 20180205101255
-# dt-created     : 2018-02-05 10:12:55 GMT
-# event-dt-begin : 2018-04-14
-# event-dt-end   : 2018-08-19
-# event-location : ARoS, Århus
-# link           : https://www.aros.dk/
+---
+title: James Rosenquist
+uid: '20180205101255'
+dt-created: 2018-02-05 10:12:55 GMT
+event-dt-begin: '2018-04-14'
+event-dt-end: '2018-08-19'
+event-location: ARoS, Århus
+link: https://www.aros.dk/
+---

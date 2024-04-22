@@ -1,7 +1,9 @@
-Oskar Kokoschka
-# uid            : 20130117183910
-# dt-created     : 2013-01-17 18:39:10 GMT
-# link           : http://www.leopoldmuseum.org/de/ausstellungen/50/oskar-kokoschka-der-sensible-titan
-# event-dt-begin : 2013-10-04
-# event-dt-end   : 2014-01-27
-# event-location : Leopold Museum, Wien
+---
+title: Oskar Kokoschka
+uid: '20130117183910'
+dt-created: 2013-01-17 18:39:10 GMT
+link: http://www.leopoldmuseum.org/de/ausstellungen/50/oskar-kokoschka-der-sensible-titan
+event-dt-begin: '2013-10-04'
+event-dt-end: '2014-01-27'
+event-location: Leopold Museum, Wien
+---

@@ -1,7 +1,9 @@
-Wifredo Lam
-# uid            : 20160112085124
-# dt-created     : 2016-01-12 08:51:24 GMT
-# link           : http://www.museoreinasofia.es/en/exhibitions/wifredo-lam-0
-# event-dt-begin : 2016-04-05
-# event-dt-end   : 2016-08-15
-# event-location : Museo Nacional Centro de Arte Reina Sofía, Madrid
+---
+title: Wifredo Lam
+uid: '20160112085124'
+dt-created: 2016-01-12 08:51:24 GMT
+link: http://www.museoreinasofia.es/en/exhibitions/wifredo-lam-0
+event-dt-begin: '2016-04-05'
+event-dt-end: '2016-08-15'
+event-location: Museo Nacional Centro de Arte Reina Sofía, Madrid
+---

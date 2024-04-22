@@ -1,7 +1,9 @@
-The Young Dürer: Drawing the Figure
-# uid            : 20130222084601
-# dt-created     : 2013-02-22 08:46:01 GMT
-# link           : http://www.courtauld.ac.uk/gallery/exhibitions/2013/durer/
-# event-dt-begin : 2013-10-17
-# event-dt-end   : 2014-01-12
-# event-location : Courtauld Gallery, London 
+---
+title: 'The Young Dürer: Drawing the Figure'
+uid: '20130222084601'
+dt-created: 2013-02-22 08:46:01 GMT
+link: http://www.courtauld.ac.uk/gallery/exhibitions/2013/durer/
+event-dt-begin: '2013-10-17'
+event-dt-end: '2014-01-12'
+event-location: 'Courtauld Gallery, London '
+---

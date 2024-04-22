@@ -1,7 +1,9 @@
-Japonism
-# uid            : 20180212113410
-# dt-created     : 2018-02-12 11:34:10 GMT
-# event-dt-begin : 2018-10-10
-# event-dt-end   : 2019-01-20
-# event-location : Kunstforum Wien
-# link           : https://www.kunstforumwien.at/en/exhibition/kunstforum/259/japonismus
+---
+title: Japonism
+uid: '20180212113410'
+dt-created: 2018-02-12 11:34:10 GMT
+event-dt-begin: '2018-10-10'
+event-dt-end: '2019-01-20'
+event-location: Kunstforum Wien
+link: https://www.kunstforumwien.at/en/exhibition/kunstforum/259/japonismus
+---

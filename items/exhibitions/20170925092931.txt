@@ -1,7 +1,9 @@
-Egon Schiele
-# uid            : 20170925092931
-# dt-created     : 2017-09-25 09:29:31 GMT
-# event-dt-begin : 2018-05-24
-# event-dt-end   : 2018-09-23
-# event-location : Tate Liverpool
-# link           : http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/egon-schiele
+---
+title: Egon Schiele
+uid: '20170925092931'
+dt-created: 2017-09-25 09:29:31 GMT
+event-dt-begin: '2018-05-24'
+event-dt-end: '2018-09-23'
+event-location: Tate Liverpool
+link: http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/egon-schiele
+---

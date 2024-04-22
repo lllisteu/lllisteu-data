@@ -1,7 +1,9 @@
-Gerhard Richter. Neue Bilder
-# uid            : 20170424070855
-# dt-created     : 2017-04-24 07:08:55 GMT
-# link           : http://www.museum-ludwig.de/de/ausstellungen/gerhard-richter-neue-bilder.html
-# event-dt-begin : 2017-02-09
-# event-dt-end   : 2017-05-01
-# event-location : Museum Ludwig, Köln
+---
+title: Gerhard Richter. Neue Bilder
+uid: '20170424070855'
+dt-created: 2017-04-24 07:08:55 GMT
+link: http://www.museum-ludwig.de/de/ausstellungen/gerhard-richter-neue-bilder.html
+event-dt-begin: '2017-02-09'
+event-dt-end: '2017-05-01'
+event-location: Museum Ludwig, Köln
+---

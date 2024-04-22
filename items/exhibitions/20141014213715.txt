@@ -1,7 +1,9 @@
-Ein Goldenes Zeitalter
-# uid            : 20141014213715
-# dt-created     : 2014-10-14 21:37:15 GMT
-# link           : http://www.kunsthaus.ch/de/ausstellungen/aktuell/ein-goldenes-zeitalter/
-# event-dt-begin : 2015-08-28
-# event-dt-end   : 2016-01-10
-# event-location : Kunsthaus Zürich
+---
+title: Ein Goldenes Zeitalter
+uid: '20141014213715'
+dt-created: 2014-10-14 21:37:15 GMT
+link: http://www.kunsthaus.ch/de/ausstellungen/aktuell/ein-goldenes-zeitalter/
+event-dt-begin: '2015-08-28'
+event-dt-end: '2016-01-10'
+event-location: Kunsthaus Zürich
+---

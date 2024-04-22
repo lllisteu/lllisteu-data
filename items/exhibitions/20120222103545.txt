@@ -1,7 +1,9 @@
-Rudolf Steiner – Alchemy of the Everyday
-# uid            : 20120222103545
-# dt-created     : 2012-02-22 10:35:45 GMT
-# link           : http://www.design-museum.de/museum/ausstellungen/steiner/index.php
-# event-dt-begin : 2011-10-15
-# event-dt-end   : 2012-05-01
-# event-location : Vitra Design Museum, Weil am Rhein
+---
+title: Rudolf Steiner – Alchemy of the Everyday
+uid: '20120222103545'
+dt-created: 2012-02-22 10:35:45 GMT
+link: http://www.design-museum.de/museum/ausstellungen/steiner/index.php
+event-dt-begin: '2011-10-15'
+event-dt-end: '2012-05-01'
+event-location: Vitra Design Museum, Weil am Rhein
+---

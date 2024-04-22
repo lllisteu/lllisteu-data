@@ -1,7 +1,9 @@
-Sturm-Frauen
-# uid            : 20151014092250
-# dt-created     : 2015-10-14 09:22:50 GMT
-# link           : http://www.schirn.de/en/exhibitions/2015/sturm_frauen/
-# event-dt-begin : 2015-10-30
-# event-dt-end   : 2016-02-07
-# event-location : Schirn Kunsthalle, Frankfurt
+---
+title: Sturm-Frauen
+uid: '20151014092250'
+dt-created: 2015-10-14 09:22:50 GMT
+link: http://www.schirn.de/en/exhibitions/2015/sturm_frauen/
+event-dt-begin: '2015-10-30'
+event-dt-end: '2016-02-07'
+event-location: Schirn Kunsthalle, Frankfurt
+---

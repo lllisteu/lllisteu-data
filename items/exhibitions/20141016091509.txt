@@ -1,7 +1,9 @@
-Rodin: the Laboratory of Creation
-# uid            : 20141016091509
-# dt-created     : 2014-10-16 09:15:09 GMT
-# link           : http://www.musee-rodin.fr/en/exhibition/exposition/rodin-laboratory-creation
-# event-dt-begin : 2014-11-13
-# event-dt-end   : 2015-12-06
-# event-location : Musée Rodin, Paris
+---
+title: 'Rodin: the Laboratory of Creation'
+uid: '20141016091509'
+dt-created: 2014-10-16 09:15:09 GMT
+link: http://www.musee-rodin.fr/en/exhibition/exposition/rodin-laboratory-creation
+event-dt-begin: '2014-11-13'
+event-dt-end: '2015-12-06'
+event-location: Musée Rodin, Paris
+---

@@ -1,7 +1,9 @@
-Pierre Soulages – Le Noir
-# uid            : 20160111123959
-# dt-created     : 2016-01-11 12:39:59 GMT
-# link           : https://www.museum-folkwang.de/en/news/exhibitions/future-exhibitions/soulages.html
-# event-dt-begin : 2016-01-15
-# event-dt-end   : 2016-06-26
-# event-location : Museum Folkwang, Essen
+---
+title: Pierre Soulages – Le Noir
+uid: '20160111123959'
+dt-created: 2016-01-11 12:39:59 GMT
+link: https://www.museum-folkwang.de/en/news/exhibitions/future-exhibitions/soulages.html
+event-dt-begin: '2016-01-15'
+event-dt-end: '2016-06-26'
+event-location: Museum Folkwang, Essen
+---

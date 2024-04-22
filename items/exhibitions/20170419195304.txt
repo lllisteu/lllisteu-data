@@ -1,7 +1,9 @@
-Rineke Dijkstra
-# uid            : 20170419195304
-# dt-created     : 2017-04-19 19:53:04 GMT
-# link           : https://en.louisiana.dk/exhibition/rineke-dijkstra
-# event-dt-begin : 2017-09-21
-# event-dt-end   : 2017-12-30
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: Rineke Dijkstra
+uid: '20170419195304'
+dt-created: 2017-04-19 19:53:04 GMT
+link: https://en.louisiana.dk/exhibition/rineke-dijkstra
+event-dt-begin: '2017-09-21'
+event-dt-end: '2017-12-30'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

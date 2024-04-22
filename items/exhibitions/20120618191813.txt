@@ -1,7 +1,9 @@
-George Hendrik Breitner – Pioneer of Street Photography
-# uid            : 20120618191813
-# dt-created     : 2012-06-18 19:18:13 GMT
-# link           : http://www.kunsthal.nl/en-22-711-George-Hendrik-Breitner-.html
-# event-dt-begin : 2012-06-09
-# event-dt-end   : 2012-09-16
-# event-location : Kunsthal, Rotterdam
+---
+title: George Hendrik Breitner – Pioneer of Street Photography
+uid: '20120618191813'
+dt-created: 2012-06-18 19:18:13 GMT
+link: http://www.kunsthal.nl/en-22-711-George-Hendrik-Breitner-.html
+event-dt-begin: '2012-06-09'
+event-dt-end: '2012-09-16'
+event-location: Kunsthal, Rotterdam
+---

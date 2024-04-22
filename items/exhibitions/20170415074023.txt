@@ -1,7 +1,9 @@
-Written in Light – The First Photographers
-# uid            : 20170415074023
-# dt-created     : 2017-04-15 07:40:23 GMT
-# link           : http://www.modernamuseet.se/stockholm/en/exhibitions/written-in-light/
-# event-dt-begin : 2017-04-08
-# event-dt-end   : 2017-09-03
-# event-location : Moderna Museet, Stockholm
+---
+title: Written in Light – The First Photographers
+uid: '20170415074023'
+dt-created: 2017-04-15 07:40:23 GMT
+link: http://www.modernamuseet.se/stockholm/en/exhibitions/written-in-light/
+event-dt-begin: '2017-04-08'
+event-dt-end: '2017-09-03'
+event-location: Moderna Museet, Stockholm
+---

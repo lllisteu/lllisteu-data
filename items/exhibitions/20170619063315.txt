@@ -1,7 +1,9 @@
-Faces of China. Portrait Painting of the Ming and Qing Dynasty
-# uid            : 20170619063315
-# dt-created     : 2017-06-19 06:33:15 GMT
-# link           : http://www.smb.museum/en/exhibitions/detail/gesichter-chinas.html
-# event-dt-begin : 2017-10-12
-# event-dt-end   : 2018-01-07
-# event-location : Kulturforum, Berlin
+---
+title: Faces of China. Portrait Painting of the Ming and Qing Dynasty
+uid: '20170619063315'
+dt-created: 2017-06-19 06:33:15 GMT
+link: http://www.smb.museum/en/exhibitions/detail/gesichter-chinas.html
+event-dt-begin: '2017-10-12'
+event-dt-end: '2018-01-07'
+event-location: Kulturforum, Berlin
+---

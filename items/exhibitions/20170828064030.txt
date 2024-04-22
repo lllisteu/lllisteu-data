@@ -1,7 +1,9 @@
-Fernand Léger
-# uid            : 20170828064030
-# dt-created     : 2017-08-28 06:40:30 GMT
-# event-dt-begin : 2018-02-09
-# event-dt-end   : 2018-06-03
-# event-location : Palais des Beaux-Arts, Brussel
-# link           : http://www.bozar.be/en/activities/126681-fernand-leger
+---
+title: Fernand Léger
+uid: '20170828064030'
+dt-created: 2017-08-28 06:40:30 GMT
+event-dt-begin: '2018-02-09'
+event-dt-end: '2018-06-03'
+event-location: Palais des Beaux-Arts, Brussel
+link: http://www.bozar.be/en/activities/126681-fernand-leger
+---

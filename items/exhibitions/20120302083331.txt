@@ -1,7 +1,9 @@
-Gauguin and the voyage to the exotic
-# uid            : 20120302083331
-# dt-created     : 2012-03-02 08:33:31 GMT
-# link           : http://www.museothyssen.org/en/thyssen/exposiciones_proximas/89
-# event-dt-begin : 2012-10-09
-# event-dt-end   : 2013-01-13
-# event-location : Museo Thyssen-Bornemisza, Madrid
+---
+title: Gauguin and the voyage to the exotic
+uid: '20120302083331'
+dt-created: 2012-03-02 08:33:31 GMT
+link: http://www.museothyssen.org/en/thyssen/exposiciones_proximas/89
+event-dt-begin: '2012-10-09'
+event-dt-end: '2013-01-13'
+event-location: Museo Thyssen-Bornemisza, Madrid
+---

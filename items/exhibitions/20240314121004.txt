@@ -1,7 +1,9 @@
-Marina Abramović
-# uid            : 20240314121004
-# dt-created     : 2024-03-14 12:10:04 GMT
-# event-dt-begin : 2024-03-16
-# event-dt-end   : 2024-07-14
-# event-location : Stedelijk Museum, Amsterdam
-# link           : https://www.stedelijk.nl/en/exhibitions/marina-abramovic-en
+---
+title: Marina Abramović
+uid: '20240314121004'
+dt-created: 2024-03-14 12:10:04 GMT
+event-dt-begin: '2024-03-16'
+event-dt-end: '2024-07-14'
+event-location: Stedelijk Museum, Amsterdam
+link: https://www.stedelijk.nl/en/exhibitions/marina-abramovic-en
+---

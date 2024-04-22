@@ -1,7 +1,9 @@
-Julio González
-# uid            : 20170731060252
-# dt-created     : 2017-07-31 06:02:52 GMT
-# event-dt-begin : 2017-11-25
-# event-dt-end   : 2018-04-02
-# event-location : Gemeentemuseum, Den Haag
-# link           : https://www.gemeentemuseum.nl/en/exhibitions/julio-gonzalez
+---
+title: Julio González
+uid: '20170731060252'
+dt-created: 2017-07-31 06:02:52 GMT
+event-dt-begin: '2017-11-25'
+event-dt-end: '2018-04-02'
+event-location: Gemeentemuseum, Den Haag
+link: https://www.gemeentemuseum.nl/en/exhibitions/julio-gonzalez
+---

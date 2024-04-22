@@ -1,7 +1,9 @@
-Late Raphael
-# uid            : 20120216140701
-# dt-created     : 2012-02-16 14:07:01 GMT
-# link           : http://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/el-ultimo-rafael/
-# event-dt-begin : 2012-06-12
-# event-dt-end   : 2012-09-16
-# event-location : Museo Nacional del Prado, Madrid
+---
+title: Late Raphael
+uid: '20120216140701'
+dt-created: 2012-02-16 14:07:01 GMT
+link: http://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/el-ultimo-rafael/
+event-dt-begin: '2012-06-12'
+event-dt-end: '2012-09-16'
+event-location: Museo Nacional del Prado, Madrid
+---

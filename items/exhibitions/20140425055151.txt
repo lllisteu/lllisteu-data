@@ -1,7 +1,9 @@
-Garry Winogrand (1928-1984)
-# uid            : 20140425055151
-# dt-created     : 2014-04-25 05:51:51 GMT
-# link           : http://www.jeudepaume.org/index.php?page=article&idArt=2062&lieu=7
-# event-dt-begin : 2014-10-14
-# event-dt-end   : 2015-02-08
-# event-location : Jeu de Paume, Paris
+---
+title: Garry Winogrand (1928-1984)
+uid: '20140425055151'
+dt-created: 2014-04-25 05:51:51 GMT
+link: http://www.jeudepaume.org/index.php?page=article&idArt=2062&lieu=7
+event-dt-begin: '2014-10-14'
+event-dt-end: '2015-02-08'
+event-location: Jeu de Paume, Paris
+---

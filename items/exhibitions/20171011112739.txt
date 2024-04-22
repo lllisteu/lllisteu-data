@@ -1,7 +1,9 @@
-Niki de Saint Phalle
-# uid            : 20171011112739
-# dt-created     : 2017-10-11 11:27:39 GMT
-# event-dt-begin : 2017-10-04
-# event-dt-end   : 2018-01-14
-# event-location : Museo Ettore Fico, Torino
-# link           : http://www.museofico.it/en/mostre/niki-de-saint-phalle/
+---
+title: Niki de Saint Phalle
+uid: '20171011112739'
+dt-created: 2017-10-11 11:27:39 GMT
+event-dt-begin: '2017-10-04'
+event-dt-end: '2018-01-14'
+event-location: Museo Ettore Fico, Torino
+link: http://www.museofico.it/en/mostre/niki-de-saint-phalle/
+---

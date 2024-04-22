@@ -1,7 +1,9 @@
-Couples modernes
-# uid            : 20170814073119
-# dt-created     : 2017-08-14 07:31:19 GMT
-# event-dt-begin : 2018-04-28
-# event-dt-end   : 2018-08-20
-# event-location : Centre Pompidou, Metz
-# link           : http://www.centrepompidou-metz.fr/en/couples-modernes
+---
+title: Couples modernes
+uid: '20170814073119'
+dt-created: 2017-08-14 07:31:19 GMT
+event-dt-begin: '2018-04-28'
+event-dt-end: '2018-08-20'
+event-location: Centre Pompidou, Metz
+link: http://www.centrepompidou-metz.fr/en/couples-modernes
+---

@@ -1,7 +1,9 @@
-Klimt
-# uid            : 20140611053544
-# dt-created     : 2014-06-11 05:35:44 GMT
-# link           : http://www.klimtmilano.it/
-# event-dt-begin : 2014-03-12
-# event-dt-end   : 2014-07-13
-# event-location : Palazzo Reale, Milano
+---
+title: Klimt
+uid: '20140611053544'
+dt-created: 2014-06-11 05:35:44 GMT
+link: http://www.klimtmilano.it/
+event-dt-begin: '2014-03-12'
+event-dt-end: '2014-07-13'
+event-location: Palazzo Reale, Milano
+---

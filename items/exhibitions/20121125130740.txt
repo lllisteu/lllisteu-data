@@ -1,7 +1,9 @@
-Wien – Berlin: from Klimt till Grosz
-# uid            : 20121125130740
-# dt-created     : 2012-11-25 13:07:40 GMT
-# link           : http://www.berlinischegalerie.de/ausstellungen-berlin/vorschau/wien-berlin/
-# event-dt-begin : 2013-10-26
-# event-dt-end   : 2014-01-27
-# event-location : Berlinische Galerie, Berlin
+---
+title: 'Wien – Berlin: from Klimt till Grosz'
+uid: '20121125130740'
+dt-created: 2012-11-25 13:07:40 GMT
+link: http://www.berlinischegalerie.de/ausstellungen-berlin/vorschau/wien-berlin/
+event-dt-begin: '2013-10-26'
+event-dt-end: '2014-01-27'
+event-location: Berlinische Galerie, Berlin
+---

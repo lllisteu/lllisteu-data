@@ -1,7 +1,9 @@
-The Hidden Cézanne
-# uid            : 20170710065646
-# dt-created     : 2017-07-10 06:56:46 GMT
-# link           : https://kunstmuseumbasel.ch/en/exhibitions/2017/der-verborgene-cezanne
-# event-dt-begin : 2017-06-10
-# event-dt-end   : 2017-09-24
-# event-location : Kunstmuseum Basel
+---
+title: The Hidden Cézanne
+uid: '20170710065646'
+dt-created: 2017-07-10 06:56:46 GMT
+link: https://kunstmuseumbasel.ch/en/exhibitions/2017/der-verborgene-cezanne
+event-dt-begin: '2017-06-10'
+event-dt-end: '2017-09-24'
+event-location: Kunstmuseum Basel
+---

@@ -1,7 +1,9 @@
-André Derain 1904 - 1914. La décennie radicale
-# uid            : 20170828064654
-# dt-created     : 2017-08-28 06:46:54 GMT
-# event-dt-begin : 2017-10-04
-# event-dt-end   : 2018-01-29
-# event-location : Centre Pompidou, Paris
-# link           : https://www.centrepompidou.fr/cpv/ressource.action?param.id=FR_R-b98b2757-4780-4385-90f0-7f8545335069&param.idSource=FR_E-207775c4-6eea-46fb-8145-703614fa05ac
+---
+title: André Derain 1904 - 1914. La décennie radicale
+uid: '20170828064654'
+dt-created: 2017-08-28 06:46:54 GMT
+event-dt-begin: '2017-10-04'
+event-dt-end: '2018-01-29'
+event-location: Centre Pompidou, Paris
+link: https://www.centrepompidou.fr/cpv/ressource.action?param.id=FR_R-b98b2757-4780-4385-90f0-7f8545335069&param.idSource=FR_E-207775c4-6eea-46fb-8145-703614fa05ac
+---

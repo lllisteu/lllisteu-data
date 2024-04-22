@@ -1,7 +1,9 @@
-Rubens. Portraits princiers
-# uid            : 20170418121053
-# dt-created     : 2017-04-18 12:10:53 GMT
-# link           : http://museeduluxembourg.fr/expositions/rubens-portraits-princiers
-# event-dt-begin : 2017-10-04
-# event-dt-end   : 2018-01-14
-# event-location : Musée du Luxembourg, Paris
+---
+title: Rubens. Portraits princiers
+uid: '20170418121053'
+dt-created: 2017-04-18 12:10:53 GMT
+link: http://museeduluxembourg.fr/expositions/rubens-portraits-princiers
+event-dt-begin: '2017-10-04'
+event-dt-end: '2018-01-14'
+event-location: Musée du Luxembourg, Paris
+---

@@ -1,7 +1,9 @@
-Gerhard Richter. Hidden Gems
-# uid            : 20231215093306
-# dt-created     : 2023-12-15 09:33:06 GMT
-# event-dt-begin : 2024-09-05
-# event-dt-end   : 2025-02-02
-# event-location : Museum Kunstpalast, Düsseldorf
-# link           : https://www.kunstpalast.de/en/event/gerhard-richter-verborgene-schatze/
+---
+title: Gerhard Richter. Hidden Gems
+uid: '20231215093306'
+dt-created: 2023-12-15 09:33:06 GMT
+event-dt-begin: '2024-09-05'
+event-dt-end: '2025-02-02'
+event-location: Museum Kunstpalast, Düsseldorf
+link: https://www.kunstpalast.de/en/event/gerhard-richter-verborgene-schatze/
+---

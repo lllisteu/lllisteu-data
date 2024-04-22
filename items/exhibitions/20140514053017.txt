@@ -1,7 +1,9 @@
-Pablo Picasso – From Arcadian Bliss to Painted Exorcism
-# uid            : 20140514053017
-# dt-created     : 2014-05-14 05:30:17 GMT
-# link           : http://www.modernamuseet.se/en/Malmo/Exhibitions/2014/Pablo-Picasso/
-# event-dt-begin : 2014-06-06
-# event-dt-end   : 2014-08-24
-# event-location : Moderna Museet, Malmö
+---
+title: Pablo Picasso – From Arcadian Bliss to Painted Exorcism
+uid: '20140514053017'
+dt-created: 2014-05-14 05:30:17 GMT
+link: http://www.modernamuseet.se/en/Malmo/Exhibitions/2014/Pablo-Picasso/
+event-dt-begin: '2014-06-06'
+event-dt-end: '2014-08-24'
+event-location: Moderna Museet, Malmö
+---

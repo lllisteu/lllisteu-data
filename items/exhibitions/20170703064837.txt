@@ -1,7 +1,9 @@
-Van Gogh & Japan
-# uid            : 20170703064837
-# dt-created     : 2017-07-03 06:48:37 GMT
-# link           : https://www.vangoghmuseum.nl/en/whats-on/exhibitions/van-gogh-and-japan
-# event-dt-begin : 2018-03-23
-# event-dt-end   : 2018-06-24
-# event-location : Van Gogh Museum, Amsterdam
+---
+title: Van Gogh & Japan
+uid: '20170703064837'
+dt-created: 2017-07-03 06:48:37 GMT
+link: https://www.vangoghmuseum.nl/en/whats-on/exhibitions/van-gogh-and-japan
+event-dt-begin: '2018-03-23'
+event-dt-end: '2018-06-24'
+event-location: Van Gogh Museum, Amsterdam
+---

@@ -1,7 +1,9 @@
-Henri-Edmond Cross : peindre le bonheur
-# uid            : 20171120115014
-# dt-created     : 2017-11-20 11:50:14 GMT
-# event-dt-begin : 2018-07-27
-# event-dt-end   : 2018-11-04
-# event-location : Musée des impressionnismes, Giverny
-# link           : http://www.mdig.fr/fr/henri-edmond-cross-peindre-le-bonheur
+---
+title: 'Henri-Edmond Cross : peindre le bonheur'
+uid: '20171120115014'
+dt-created: 2017-11-20 11:50:14 GMT
+event-dt-begin: '2018-07-27'
+event-dt-end: '2018-11-04'
+event-location: Musée des impressionnismes, Giverny
+link: http://www.mdig.fr/fr/henri-edmond-cross-peindre-le-bonheur
+---

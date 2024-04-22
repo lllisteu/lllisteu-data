@@ -1,7 +1,9 @@
-Kirchner – The Berlin Years
-# uid            : 20161028092751
-# dt-created     : 2016-10-28 09:27:51 GMT
-# link           : http://www.kunsthaus.ch/en/exhibitions/coming-soon/kirchner/?redirect_url=title%3Dla
-# event-dt-begin : 2017-02-10
-# event-dt-end   : 2017-05-07
-# event-location : Kunsthaus Zürich
+---
+title: Kirchner – The Berlin Years
+uid: '20161028092751'
+dt-created: 2016-10-28 09:27:51 GMT
+link: http://www.kunsthaus.ch/en/exhibitions/coming-soon/kirchner/?redirect_url=title%3Dla
+event-dt-begin: '2017-02-10'
+event-dt-end: '2017-05-07'
+event-location: Kunsthaus Zürich
+---

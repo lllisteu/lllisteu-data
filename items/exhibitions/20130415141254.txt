@@ -1,7 +1,9 @@
-L’art en guerre. France, 1938–1947: From Picasso to Dubuffet
-# uid            : 20130415141254
-# dt-created     : 2013-04-15 14:12:54 GMT
-# link           : http://arteenguerra.guggenheim-bilbao.es/en/exhibitions/lart-en-guerre-france-1938-1947-from-picasso-to-dubuffet/
-# event-dt-begin : 2013-03-16
-# event-dt-end   : 2013-09-08
-# event-location : Museo Guggenheim, Bilbao
+---
+title: 'L’art en guerre. France, 1938–1947: From Picasso to Dubuffet'
+uid: '20130415141254'
+dt-created: 2013-04-15 14:12:54 GMT
+link: http://arteenguerra.guggenheim-bilbao.es/en/exhibitions/lart-en-guerre-france-1938-1947-from-picasso-to-dubuffet/
+event-dt-begin: '2013-03-16'
+event-dt-end: '2013-09-08'
+event-location: Museo Guggenheim, Bilbao
+---

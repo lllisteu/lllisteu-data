@@ -1,7 +1,9 @@
-Cy Twombly
-# uid            : 20150914072724
-# dt-created     : 2015-09-14 07:27:24 GMT
-# link           : http://www.kunstmuseumbasel.ch/de/ausstellungen/aktuell/cy-twombly/
-# event-dt-begin : 2015-09-12
-# event-dt-end   : 2016-03-13
-# event-location : Museum für Gegenwartskunst, Basel
+---
+title: Cy Twombly
+uid: '20150914072724'
+dt-created: 2015-09-14 07:27:24 GMT
+link: http://www.kunstmuseumbasel.ch/de/ausstellungen/aktuell/cy-twombly/
+event-dt-begin: '2015-09-12'
+event-dt-end: '2016-03-13'
+event-location: Museum für Gegenwartskunst, Basel
+---

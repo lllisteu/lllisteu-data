@@ -1,7 +1,9 @@
-Georg Baselitz
-# uid            : 20130813083508
-# dt-created     : 2013-08-13 08:35:08 GMT
-# link           : http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1372425741905
-# event-dt-begin : 2013-11-08
-# event-dt-end   : 2014-01-19
-# event-location : Albertina, Wien
+---
+title: Georg Baselitz
+uid: '20130813083508'
+dt-created: 2013-08-13 08:35:08 GMT
+link: http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1372425741905
+event-dt-begin: '2013-11-08'
+event-dt-end: '2014-01-19'
+event-location: Albertina, Wien
+---

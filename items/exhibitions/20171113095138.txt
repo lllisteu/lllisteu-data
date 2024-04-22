@@ -1,7 +1,9 @@
-Warhol. Mechanical Art
-# uid            : 20171113095138
-# dt-created     : 2017-11-13 09:51:38 GMT
-# event-dt-begin : 2018-05-31
-# event-dt-end   : 2018-09-16
-# event-location : Museo Picasso, Málaga
-# link           : http://www.museopicassomalaga.org/en/temporary-exhibitions/warhol-mechanical-art
+---
+title: Warhol. Mechanical Art
+uid: '20171113095138'
+dt-created: 2017-11-13 09:51:38 GMT
+event-dt-begin: '2018-05-31'
+event-dt-end: '2018-09-16'
+event-location: Museo Picasso, Málaga
+link: http://www.museopicassomalaga.org/en/temporary-exhibitions/warhol-mechanical-art
+---

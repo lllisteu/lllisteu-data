@@ -1,7 +1,9 @@
-Picasso. Blue and Rose
-# uid            : 20180115090455
-# dt-created     : 2018-01-15 09:04:55 GMT
-# event-dt-begin : 2018-09-18
-# event-dt-end   : 2019-01-06
-# event-location : Musée d'Orsay, Paris
-# link           : http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/picasso-47542.html?tx_ttnews%5BbackPid%5D=254&cHash=82de7113d6
+---
+title: Picasso. Blue and Rose
+uid: '20180115090455'
+dt-created: 2018-01-15 09:04:55 GMT
+event-dt-begin: '2018-09-18'
+event-dt-end: '2019-01-06'
+event-location: Musée d'Orsay, Paris
+link: http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/picasso-47542.html?tx_ttnews%5BbackPid%5D=254&cHash=82de7113d6
+---

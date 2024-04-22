@@ -1,7 +1,9 @@
-Icônes américaines
-# uid            : 20141013201354
-# dt-created     : 2014-10-13 20:13:54 GMT
-# link           : http://www.grandpalais.fr/fr/evenement/icones-americaines
-# event-dt-begin : 2015-04-08
-# event-dt-end   : 2015-06-22
-# event-location : Grand Palais, Paris
+---
+title: Icônes américaines
+uid: '20141013201354'
+dt-created: 2014-10-13 20:13:54 GMT
+link: http://www.grandpalais.fr/fr/evenement/icones-americaines
+event-dt-begin: '2015-04-08'
+event-dt-end: '2015-06-22'
+event-location: Grand Palais, Paris
+---

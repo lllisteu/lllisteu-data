@@ -1,7 +1,9 @@
-The World Goes Pop
-# uid            : 20141011092413
-# dt-created     : 2014-10-11 09:24:13 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/world-goes-pop
-# event-dt-begin : 2015-09-17
-# event-dt-end   : 2016-01-24
-# event-location : Tate Modern, London
+---
+title: The World Goes Pop
+uid: '20141011092413'
+dt-created: 2014-10-11 09:24:13 GMT
+link: http://www.tate.org.uk/whats-on/tate-modern/exhibition/world-goes-pop
+event-dt-begin: '2015-09-17'
+event-dt-end: '2016-01-24'
+event-location: Tate Modern, London
+---

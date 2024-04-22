@@ -1,7 +1,9 @@
-The Moon
-# uid            : 20180108105604
-# dt-created     : 2018-01-08 10:56:04 GMT
-# event-dt-begin : 2018-09-13
-# event-dt-end   : 2019-01-20
-# event-location : Louisiana Museum of Modern Art, Humlebæk
-# link           : https://en.louisiana.dk/exhibition/moon
+---
+title: The Moon
+uid: '20180108105604'
+dt-created: 2018-01-08 10:56:04 GMT
+event-dt-begin: '2018-09-13'
+event-dt-end: '2019-01-20'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+link: https://en.louisiana.dk/exhibition/moon
+---

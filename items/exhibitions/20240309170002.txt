@@ -1,7 +1,9 @@
-Hilma af Klint
-# uid            : 20240309170002
-# dt-created     : 2024-03-09 17:00:02 GMT
-# event-dt-begin : 2024-10-18
-# event-dt-end   : 2025-02-02
-# event-location : Museo Guggenheim, Bilbao
-# link           : https://www.guggenheim-bilbao.eus/exposiciones/hilma-af-klint
+---
+title: Hilma af Klint
+uid: '20240309170002'
+dt-created: 2024-03-09 17:00:02 GMT
+event-dt-begin: '2024-10-18'
+event-dt-end: '2025-02-02'
+event-location: Museo Guggenheim, Bilbao
+link: https://www.guggenheim-bilbao.eus/exposiciones/hilma-af-klint
+---

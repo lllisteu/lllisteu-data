@@ -1,7 +1,9 @@
-Edvard Munch – Angst/Anxiety
-# uid            : 20120316081507
-# dt-created     : 2012-03-16 08:15:07 GMT
-# link           : http://en.aros.dk/visit-aros/exhibitions/2012-(1)/edvard-munch-angst-anxiety/
-# event-dt-begin : 2012-10-06
-# event-dt-end   : 2013-02-17
-# event-location : ARoS, Århus
+---
+title: Edvard Munch – Angst/Anxiety
+uid: '20120316081507'
+dt-created: 2012-03-16 08:15:07 GMT
+link: http://en.aros.dk/visit-aros/exhibitions/2012-(1)/edvard-munch-angst-anxiety/
+event-dt-begin: '2012-10-06'
+event-dt-end: '2013-02-17'
+event-location: ARoS, Århus
+---

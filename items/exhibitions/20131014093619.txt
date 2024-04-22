@@ -1,7 +1,9 @@
-Building the Picture: Architecture in Italian Renaissance Painting
-# uid            : 20131014093619
-# dt-created     : 2013-10-14 09:36:19 GMT
-# link           : http://www.nationalgallery.org.uk/whats-on/exhibitions/building-the-picture
-# event-dt-begin : 2014-04-30
-# event-dt-end   : 2014-09-21
-# event-location : National Gallery, London
+---
+title: 'Building the Picture: Architecture in Italian Renaissance Painting'
+uid: '20131014093619'
+dt-created: 2013-10-14 09:36:19 GMT
+link: http://www.nationalgallery.org.uk/whats-on/exhibitions/building-the-picture
+event-dt-begin: '2014-04-30'
+event-dt-end: '2014-09-21'
+event-location: National Gallery, London
+---

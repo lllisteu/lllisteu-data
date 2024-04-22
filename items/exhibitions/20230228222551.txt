@@ -1,7 +1,9 @@
-Amedeo Modigliani. A painter and his dealer
-# uid            : 20230228222551
-# dt-created     : 2023-02-28 22:25:51 GMT
-# event-dt-begin : 2023-09-20
-# event-dt-end   : 2024-01-15
-# event-location : Musée de l'Orangerie, Paris
-# link           : https://www.musee-orangerie.fr/en/whats-on/exhibitions/amedeo-modigliani-painter-and-his-dealer
+---
+title: Amedeo Modigliani. A painter and his dealer
+uid: '20230228222551'
+dt-created: 2023-02-28 22:25:51 GMT
+event-dt-begin: '2023-09-20'
+event-dt-end: '2024-01-15'
+event-location: Musée de l'Orangerie, Paris
+link: https://www.musee-orangerie.fr/en/whats-on/exhibitions/amedeo-modigliani-painter-and-his-dealer
+---

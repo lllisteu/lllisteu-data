@@ -1,7 +1,9 @@
-Intrigue: James Ensor
-# uid            : 20151110110807
-# dt-created     : 2015-11-10 11:08:07 GMT
-# link           : https://www.royalacademy.org.uk/exhibition/james-ensor-luc-tuymans
-# event-dt-begin : 2016-10-29
-# event-dt-end   : 2017-01-29
-# event-location : Royal Academy of Arts, London
+---
+title: 'Intrigue: James Ensor'
+uid: '20151110110807'
+dt-created: 2015-11-10 11:08:07 GMT
+link: https://www.royalacademy.org.uk/exhibition/james-ensor-luc-tuymans
+event-dt-begin: '2016-10-29'
+event-dt-end: '2017-01-29'
+event-location: Royal Academy of Arts, London
+---

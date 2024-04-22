@@ -1,7 +1,9 @@
-Marc Chagall
-# uid            : 20240419205913
-# dt-created     : 2024-04-19 20:59:13 GMT
-# event-dt-begin : 2025-03-15
-# event-dt-end   : 2025-08-10
-# event-location : K20 Kunstsammlung NRW, Düsseldorf
-# link           : https://www.kunstsammlung.de/en/exhibitions/marc-chagall-en
+---
+title: Marc Chagall
+uid: '20240419205913'
+dt-created: 2024-04-19 20:59:13 GMT
+event-dt-begin: '2025-03-15'
+event-dt-end: '2025-08-10'
+event-location: K20 Kunstsammlung NRW, Düsseldorf
+link: https://www.kunstsammlung.de/en/exhibitions/marc-chagall-en
+---

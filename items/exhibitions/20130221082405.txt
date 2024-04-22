@@ -1,7 +1,9 @@
-Mexico – A Revolution in Art, 1910-1940
-# uid            : 20130221082405
-# dt-created     : 2013-02-21 08:24:05 GMT
-# link           : http://www.royalacademy.org.uk/exhibitions/mexico/
-# event-dt-begin : 2013-07-06
-# event-dt-end   : 2013-09-29
-# event-location : Royal Academy of Arts, London
+---
+title: Mexico – A Revolution in Art, 1910-1940
+uid: '20130221082405'
+dt-created: 2013-02-21 08:24:05 GMT
+link: http://www.royalacademy.org.uk/exhibitions/mexico/
+event-dt-begin: '2013-07-06'
+event-dt-end: '2013-09-29'
+event-location: Royal Academy of Arts, London
+---

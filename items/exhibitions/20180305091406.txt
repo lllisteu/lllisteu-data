@@ -1,7 +1,9 @@
-Pornocratès dans tous ses états
-# uid            : 20180305091406
-# dt-created     : 2018-03-05 09:14:06 GMT
-# event-dt-begin : 2018-03-24
-# event-dt-end   : 2018-05-13
-# event-location : Musée Félicien Rops, Namur
-# link           : https://www.museerops.be/pornocrates-dans-tous-ses-etats
+---
+title: Pornocratès dans tous ses états
+uid: '20180305091406'
+dt-created: 2018-03-05 09:14:06 GMT
+event-dt-begin: '2018-03-24'
+event-dt-end: '2018-05-13'
+event-location: Musée Félicien Rops, Namur
+link: https://www.museerops.be/pornocrates-dans-tous-ses-etats
+---

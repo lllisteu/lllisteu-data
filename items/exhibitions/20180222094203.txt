@@ -1,7 +1,9 @@
-Nazca
-# uid            : 20180222094203
-# dt-created     : 2018-02-22 09:42:03 GMT
-# event-dt-begin : 2018-05-10
-# event-dt-end   : 2018-09-16
-# event-location : Bundeskunsthalle, Bonn
-# link           : http://www.bundeskunsthalle.de/en/exhibitions/current-exhibitions.html
+---
+title: Nazca
+uid: '20180222094203'
+dt-created: 2018-02-22 09:42:03 GMT
+event-dt-begin: '2018-05-10'
+event-dt-end: '2018-09-16'
+event-location: Bundeskunsthalle, Bonn
+link: http://www.bundeskunsthalle.de/en/exhibitions/current-exhibitions.html
+---

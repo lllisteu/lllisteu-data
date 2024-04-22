@@ -1,7 +1,9 @@
-André Kertész - Mirroring Life
-# uid            : 20170703065659
-# dt-created     : 2017-07-03 06:56:59 GMT
-# link           : http://www.foam.org/museum/programme/andre-kertesz
-# event-dt-begin : 2017-09-15
-# event-dt-end   : 2017-12-06
-# event-location : Foam, Amsterdam
+---
+title: André Kertész - Mirroring Life
+uid: '20170703065659'
+dt-created: 2017-07-03 06:56:59 GMT
+link: http://www.foam.org/museum/programme/andre-kertesz
+event-dt-begin: '2017-09-15'
+event-dt-end: '2017-12-06'
+event-location: Foam, Amsterdam
+---

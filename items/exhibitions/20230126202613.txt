@@ -1,7 +1,9 @@
-Turner – Three Horizons
-# uid            : 20230126202613
-# dt-created     : 2023-01-26 20:26:13 GMT
-# event-dt-begin : 2023-10-28
-# event-dt-end   : 2024-03-10
-# event-location : Lenbachhaus, München
-# link           : https://www.lenbachhaus.de/en/visit/exhibitions/details/turner
+---
+title: Turner – Three Horizons
+uid: '20230126202613'
+dt-created: 2023-01-26 20:26:13 GMT
+event-dt-begin: '2023-10-28'
+event-dt-end: '2024-03-10'
+event-location: Lenbachhaus, München
+link: https://www.lenbachhaus.de/en/visit/exhibitions/details/turner
+---

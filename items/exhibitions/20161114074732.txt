@@ -1,7 +1,9 @@
-Into the Third Dimension
-# uid            : 20161114074732
-# dt-created     : 2016-11-14 07:47:32 GMT
-# link           : http://www.staedelmuseum.de/en/exhibitions/third-dimension
-# event-dt-begin : 2017-02-15
-# event-dt-end   : 2017-05-14
-# event-location : Städel Museum, Frankfurt
+---
+title: Into the Third Dimension
+uid: '20161114074732'
+dt-created: 2016-11-14 07:47:32 GMT
+link: http://www.staedelmuseum.de/en/exhibitions/third-dimension
+event-dt-begin: '2017-02-15'
+event-dt-end: '2017-05-14'
+event-location: Städel Museum, Frankfurt
+---

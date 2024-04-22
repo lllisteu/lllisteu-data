@@ -1,7 +1,9 @@
-Tintoretto
-# uid            : 20170529061623
-# dt-created     : 2017-05-29 06:16:23 GMT
-# link           : http://www.wallraf.museum/ausstellungen/vorschau/2017-10-06-tintoretto/
-# event-dt-begin : 2017-10-06
-# event-dt-end   : 2018-01-28
-# event-location : Wallraf–Richartz–Museum, Köln
+---
+title: Tintoretto
+uid: '20170529061623'
+dt-created: 2017-05-29 06:16:23 GMT
+link: http://www.wallraf.museum/ausstellungen/vorschau/2017-10-06-tintoretto/
+event-dt-begin: '2017-10-06'
+event-dt-end: '2018-01-28'
+event-location: Wallraf–Richartz–Museum, Köln
+---

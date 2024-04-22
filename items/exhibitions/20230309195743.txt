@@ -1,7 +1,9 @@
-Baroque in Florence
-# uid            : 20230309195743
-# dt-created     : 2023-03-09 19:57:43 GMT
-# event-dt-begin : 2023-04-26
-# event-dt-end   : 2023-07-21
-# event-location : Palais des Beaux-Arts, Brussel
-# link           : https://www.bozar.be/en/calendar/baroque-florence
+---
+title: Baroque in Florence
+uid: '20230309195743'
+dt-created: 2023-03-09 19:57:43 GMT
+event-dt-begin: '2023-04-26'
+event-dt-end: '2023-07-21'
+event-location: Palais des Beaux-Arts, Brussel
+link: https://www.bozar.be/en/calendar/baroque-florence
+---

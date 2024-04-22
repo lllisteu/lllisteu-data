@@ -1,7 +1,9 @@
-Eugène Delacroix
-# uid            : 20170601064514
-# dt-created     : 2017-06-01 06:45:14 GMT
-# link           : http://www.louvre.fr/expositions/eugene-delacroix-1798-1863
-# event-dt-begin : 2018-03-28
-# event-dt-end   : 2018-07-23
-# event-location : Musée du Louvre, Paris
+---
+title: Eugène Delacroix
+uid: '20170601064514'
+dt-created: 2017-06-01 06:45:14 GMT
+link: http://www.louvre.fr/expositions/eugene-delacroix-1798-1863
+event-dt-begin: '2018-03-28'
+event-dt-end: '2018-07-23'
+event-location: Musée du Louvre, Paris
+---

@@ -1,7 +1,9 @@
-French Painting 1820 – 1880
-# uid            : 20170626055739
-# dt-created     : 2017-06-26 05:57:39 GMT
-# link           : http://www.kunsthaus.ch/en/exhibitions/coming-soon/french-painting/
-# event-dt-begin : 2017-11-10
-# event-dt-end   : 2018-01-28
-# event-location : Kunsthaus Zürich
+---
+title: French Painting 1820 – 1880
+uid: '20170626055739'
+dt-created: 2017-06-26 05:57:39 GMT
+link: http://www.kunsthaus.ch/en/exhibitions/coming-soon/french-painting/
+event-dt-begin: '2017-11-10'
+event-dt-end: '2018-01-28'
+event-location: Kunsthaus Zürich
+---

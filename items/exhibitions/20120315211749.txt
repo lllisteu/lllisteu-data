@@ -1,7 +1,9 @@
-Murillo and Justino de Neve
-# uid            : 20120315211749
-# dt-created     : 2012-03-15 21:17:49 GMT
-# link           : http://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/murillo-y-justino-de-neve
-# event-dt-begin : 2012-06-26
-# event-dt-end   : 2012-09-30
-# event-location : Museo Nacional del Prado, Madrid
+---
+title: Murillo and Justino de Neve
+uid: '20120315211749'
+dt-created: 2012-03-15 21:17:49 GMT
+link: http://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/murillo-y-justino-de-neve
+event-dt-begin: '2012-06-26'
+event-dt-end: '2012-09-30'
+event-location: Museo Nacional del Prado, Madrid
+---

@@ -1,7 +1,9 @@
-Joseph Beuys
-# uid            : 20140427060807
-# dt-created     : 2014-04-27 06:08:07 GMT
-# link           : http://en.louisiana.dk/exhibition/joseph-beuys
-# event-dt-begin : 2014-03-07
-# event-dt-end   : 2014-06-09
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: Joseph Beuys
+uid: '20140427060807'
+dt-created: 2014-04-27 06:08:07 GMT
+link: http://en.louisiana.dk/exhibition/joseph-beuys
+event-dt-begin: '2014-03-07'
+event-dt-end: '2014-06-09'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

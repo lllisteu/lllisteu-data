@@ -1,7 +1,9 @@
-Irving Penn
-# uid            : 20120318121220
-# dt-created     : 2012-03-18 12:12:20 GMT
-# link           : http://www.modernamuseet.se/en/Malmo/Exhibitions/2012/Irving-Penn/
-# event-dt-begin : 2012-06-16
-# event-dt-end   : 2012-09-02
-# event-location : Moderna Museet, Malmö
+---
+title: Irving Penn
+uid: '20120318121220'
+dt-created: 2012-03-18 12:12:20 GMT
+link: http://www.modernamuseet.se/en/Malmo/Exhibitions/2012/Irving-Penn/
+event-dt-begin: '2012-06-16'
+event-dt-end: '2012-09-02'
+event-location: Moderna Museet, Malmö
+---

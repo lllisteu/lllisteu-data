@@ -1,7 +1,9 @@
-Into the Light: Photography and Abstract Art
-# uid            : 20170731062927
-# dt-created     : 2017-07-31 06:29:27 GMT
-# event-dt-begin : 2018-05-02
-# event-dt-end   : 2018-10-14
-# event-location : Tate Modern, London
-# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/light-photography-and-abstract-art
+---
+title: 'Into the Light: Photography and Abstract Art'
+uid: '20170731062927'
+dt-created: 2017-07-31 06:29:27 GMT
+event-dt-begin: '2018-05-02'
+event-dt-end: '2018-10-14'
+event-location: Tate Modern, London
+link: http://www.tate.org.uk/whats-on/tate-modern/exhibition/light-photography-and-abstract-art
+---

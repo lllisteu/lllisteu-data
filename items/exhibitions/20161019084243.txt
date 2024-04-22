@@ -1,7 +1,9 @@
-Rodin. L'exposition du centenaire
-# uid            : 20161019084243
-# dt-created     : 2016-10-19 08:42:43 GMT
-# link           : http://www.grandpalais.fr/fr/evenement/rodin-lexposition-du-centenaire
-# event-dt-begin : 2017-03-22
-# event-dt-end   : 2017-07-31
-# event-location : Grand Palais, Paris
+---
+title: Rodin. L'exposition du centenaire
+uid: '20161019084243'
+dt-created: 2016-10-19 08:42:43 GMT
+link: http://www.grandpalais.fr/fr/evenement/rodin-lexposition-du-centenaire
+event-dt-begin: '2017-03-22'
+event-dt-end: '2017-07-31'
+event-location: Grand Palais, Paris
+---

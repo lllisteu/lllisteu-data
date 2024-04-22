@@ -1,7 +1,9 @@
-Tony Oursler "Phantasmagoria"
-# uid            : 20131108085823
-# dt-created     : 2013-11-08 08:58:23 GMT
-# link           : http://www.mac-s.be/en/8/58/Tony-Oursler-Phantasmagoria
-# event-dt-begin : 2013-11-17
-# event-dt-end   : 2014-02-23
-# event-location : MAC's, Hornu
+---
+title: Tony Oursler "Phantasmagoria"
+uid: '20131108085823'
+dt-created: 2013-11-08 08:58:23 GMT
+link: http://www.mac-s.be/en/8/58/Tony-Oursler-Phantasmagoria
+event-dt-begin: '2013-11-17'
+event-dt-end: '2014-02-23'
+event-location: MAC's, Hornu
+---

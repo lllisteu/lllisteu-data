@@ -1,7 +1,9 @@
-Michaelina Wautier
-# uid            : 20171113100159
-# dt-created     : 2017-11-13 10:01:59 GMT
-# event-dt-begin : 2018-06-02
-# event-dt-end   : 2018-09-02
-# event-location : Museum aan de Stroom, Antwerpen
-# link           : http://www.mas.be/nl/activiteit/michaelina
+---
+title: Michaelina Wautier
+uid: '20171113100159'
+dt-created: 2017-11-13 10:01:59 GMT
+event-dt-begin: '2018-06-02'
+event-dt-end: '2018-09-02'
+event-location: Museum aan de Stroom, Antwerpen
+link: http://www.mas.be/nl/activiteit/michaelina
+---

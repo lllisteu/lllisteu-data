@@ -1,7 +1,9 @@
-Man Ray
-# uid            : 20180212113156
-# dt-created     : 2018-02-12 11:31:56 GMT
-# event-dt-begin : 2018-02-14
-# event-dt-end   : 2018-06-24
-# event-location : Kunstforum Wien
-# link           : https://www.kunstforumwien.at/de/ausstellungen/hauptausstellungen/247/man-ray
+---
+title: Man Ray
+uid: '20180212113156'
+dt-created: 2018-02-12 11:31:56 GMT
+event-dt-begin: '2018-02-14'
+event-dt-end: '2018-06-24'
+event-location: Kunstforum Wien
+link: https://www.kunstforumwien.at/de/ausstellungen/hauptausstellungen/247/man-ray
+---

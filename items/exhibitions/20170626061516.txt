@@ -1,7 +1,9 @@
-Joan Miró
-# uid            : 20170626061516
-# dt-created     : 2017-06-26 06:15:16 GMT
-# link           : http://www.maxernstmuseum.lvr.de/de/ausstellungen/vorschau/vorschau.html
-# event-dt-begin : 2017-09-03
-# event-dt-end   : 2018-01-28
-# event-location : Max Ernst Museum, Brühl
+---
+title: Joan Miró
+uid: '20170626061516'
+dt-created: 2017-06-26 06:15:16 GMT
+link: http://www.maxernstmuseum.lvr.de/de/ausstellungen/vorschau/vorschau.html
+event-dt-begin: '2017-09-03'
+event-dt-end: '2018-01-28'
+event-location: Max Ernst Museum, Brühl
+---

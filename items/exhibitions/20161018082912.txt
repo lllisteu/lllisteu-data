@@ -1,7 +1,9 @@
-Bart van der Leck: The patron and the house painter
-# uid            : 20161018082912
-# dt-created     : 2016-10-18 08:29:12 GMT
-# link           : http://krollermuller.nl/en/en-bart-van-der-leck-en-helene-kroller-muller
-# event-dt-begin : 2017-10-14
-# event-dt-end   : 2018-04-02
-# event-location : Kröller-Müller Museum, Otterlo
+---
+title: 'Bart van der Leck: The patron and the house painter'
+uid: '20161018082912'
+dt-created: 2016-10-18 08:29:12 GMT
+link: http://krollermuller.nl/en/en-bart-van-der-leck-en-helene-kroller-muller
+event-dt-begin: '2017-10-14'
+event-dt-end: '2018-04-02'
+event-location: Kröller-Müller Museum, Otterlo
+---

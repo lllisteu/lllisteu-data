@@ -1,7 +1,9 @@
-Mondrian and Cubism - Paris 1912-1914
-# uid            : 20140217095346
-# dt-created     : 2014-02-17 09:53:46 GMT
-# link           : http://www.gemeentemuseum.nl/en/exhibitions/mondrian-and-cubism-paris-1912-1914
-# event-dt-begin : 2014-01-15
-# event-dt-end   : 2014-05-11
-# event-location : Gemeentemuseum, Den Haag
+---
+title: Mondrian and Cubism - Paris 1912-1914
+uid: '20140217095346'
+dt-created: 2014-02-17 09:53:46 GMT
+link: http://www.gemeentemuseum.nl/en/exhibitions/mondrian-and-cubism-paris-1912-1914
+event-dt-begin: '2014-01-15'
+event-dt-end: '2014-05-11'
+event-location: Gemeentemuseum, Den Haag
+---

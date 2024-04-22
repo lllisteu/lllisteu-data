@@ -1,7 +1,9 @@
-Yo Picasso. Self-Portraits
-# uid            : 20130504091518
-# dt-created     : 2013-05-04 09:15:18 GMT
-# link           : http://www.bcn.cat/museupicasso/en/exhibitions/current.html
-# event-dt-begin : 2013-05-31
-# event-dt-end   : 2013-09-01
-# event-location : Museu Picasso, Barcelona
+---
+title: Yo Picasso. Self-Portraits
+uid: '20130504091518'
+dt-created: 2013-05-04 09:15:18 GMT
+link: http://www.bcn.cat/museupicasso/en/exhibitions/current.html
+event-dt-begin: '2013-05-31'
+event-dt-end: '2013-09-01'
+event-location: Museu Picasso, Barcelona
+---

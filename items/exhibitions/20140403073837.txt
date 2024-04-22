@@ -1,7 +1,9 @@
-Counterproof. An Art in Itself
-# uid            : 20140403073837
-# dt-created     : 2014-04-03 07:38:37 GMT
-# link           : http://www.wallraf.museum/en/exhibitions/now/2014-08-abklatsch/
-# event-dt-begin : 2014-08-29
-# event-dt-end   : 2014-11-23
-# event-location : Wallraf–Richartz–Museum, Köln
+---
+title: Counterproof. An Art in Itself
+uid: '20140403073837'
+dt-created: 2014-04-03 07:38:37 GMT
+link: http://www.wallraf.museum/en/exhibitions/now/2014-08-abklatsch/
+event-dt-begin: '2014-08-29'
+event-dt-end: '2014-11-23'
+event-location: Wallraf–Richartz–Museum, Köln
+---

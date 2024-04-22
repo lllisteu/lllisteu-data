@@ -1,7 +1,9 @@
-Lorna Simpson
-# uid            : 20121123133557
-# dt-created     : 2012-11-23 13:35:57 GMT
-# link           : http://www.jeudepaume.org/index.php?page=article&idArt=1836&lieu=7
-# event-dt-begin : 2013-05-28
-# event-dt-end   : 2013-09-01
-# event-location : Jeu de Paume, Paris
+---
+title: Lorna Simpson
+uid: '20121123133557'
+dt-created: 2012-11-23 13:35:57 GMT
+link: http://www.jeudepaume.org/index.php?page=article&idArt=1836&lieu=7
+event-dt-begin: '2013-05-28'
+event-dt-end: '2013-09-01'
+event-location: Jeu de Paume, Paris
+---

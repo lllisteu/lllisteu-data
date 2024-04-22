@@ -1,7 +1,9 @@
-Les archives du rêve, dessins du musée d'Orsay
-# uid            : 20140113112640
-# dt-created     : 2014-01-13 11:26:40 GMT
-# link           : http://www.musee-orangerie.fr/pages/page_id19486_u1l2.htm
-# event-dt-begin : 2014-03-26
-# event-dt-end   : 2014-06-30
-# event-location : Musée de l'Orangerie, Paris
+---
+title: Les archives du rêve, dessins du musée d'Orsay
+uid: '20140113112640'
+dt-created: 2014-01-13 11:26:40 GMT
+link: http://www.musee-orangerie.fr/pages/page_id19486_u1l2.htm
+event-dt-begin: '2014-03-26'
+event-dt-end: '2014-06-30'
+event-location: Musée de l'Orangerie, Paris
+---

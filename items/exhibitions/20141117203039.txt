@@ -1,7 +1,9 @@
-Terry Winters
-# uid            : 20141117203039
-# dt-created     : 2014-11-17 20:30:39 GMT
-# link           : http://en.louisiana.dk/exhibitions/upcoming
-# event-dt-begin : 2015-06-18
-# event-dt-end   : 2015-08-30
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: Terry Winters
+uid: '20141117203039'
+dt-created: 2014-11-17 20:30:39 GMT
+link: http://en.louisiana.dk/exhibitions/upcoming
+event-dt-begin: '2015-06-18'
+event-dt-end: '2015-08-30'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

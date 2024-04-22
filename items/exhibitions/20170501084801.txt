@@ -1,7 +1,9 @@
-Fernand Léger. Le Beau est partout
-# uid            : 20170501084801
-# dt-created     : 2017-05-01 08:48:01 GMT
-# link           : http://www.centrepompidou-metz.fr/fernand-l-ger-le-beau-est-partout
-# event-dt-begin : 2017-05-20
-# event-dt-end   : 2017-10-30
-# event-location : Centre Pompidou, Metz
+---
+title: Fernand Léger. Le Beau est partout
+uid: '20170501084801'
+dt-created: 2017-05-01 08:48:01 GMT
+link: http://www.centrepompidou-metz.fr/fernand-l-ger-le-beau-est-partout
+event-dt-begin: '2017-05-20'
+event-dt-end: '2017-10-30'
+event-location: Centre Pompidou, Metz
+---

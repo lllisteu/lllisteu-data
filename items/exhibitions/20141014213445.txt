@@ -1,7 +1,9 @@
-Monet, Gauguin, van Gogh… Inspiration Japan
-# uid            : 20141014213445
-# dt-created     : 2014-10-14 21:34:45 GMT
-# link           : http://www.kunsthaus.ch/de/ausstellungen/aktuell/inspiration-japan/
-# event-dt-begin : 2015-02-20
-# event-dt-end   : 2015-05-10
-# event-location : Kunsthaus Zürich
+---
+title: Monet, Gauguin, van Gogh… Inspiration Japan
+uid: '20141014213445'
+dt-created: 2014-10-14 21:34:45 GMT
+link: http://www.kunsthaus.ch/de/ausstellungen/aktuell/inspiration-japan/
+event-dt-begin: '2015-02-20'
+event-dt-end: '2015-05-10'
+event-location: Kunsthaus Zürich
+---

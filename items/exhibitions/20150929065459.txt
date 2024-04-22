@@ -1,7 +1,9 @@
-Georgia O’Keeffe
-# uid            : 20150929065459
-# dt-created     : 2015-09-29 06:54:59 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/georgia-okeeffe
-# event-dt-begin : 2016-07-06
-# event-dt-end   : 2016-10-30
-# event-location : Tate Modern, London
+---
+title: Georgia O’Keeffe
+uid: '20150929065459'
+dt-created: 2015-09-29 06:54:59 GMT
+link: http://www.tate.org.uk/whats-on/tate-modern/exhibition/georgia-okeeffe
+event-dt-begin: '2016-07-06'
+event-dt-end: '2016-10-30'
+event-location: Tate Modern, London
+---

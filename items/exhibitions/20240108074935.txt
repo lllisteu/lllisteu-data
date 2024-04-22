@@ -1,7 +1,9 @@
-Rembrandt – Hoogstraten: Colour and Illusion
-# uid            : 20240108074935
-# dt-created     : 2024-01-08 07:49:35 GMT
-# event-dt-begin : 2024-10-08
-# event-dt-end   : 2025-01-12
-# event-location : Kunsthistorisches Museum Wien
-# link           : https://www.khm.at/en/visit/exhibitions/rembrandt-hoogstraten/
+---
+title: 'Rembrandt – Hoogstraten: Colour and Illusion'
+uid: '20240108074935'
+dt-created: 2024-01-08 07:49:35 GMT
+event-dt-begin: '2024-10-08'
+event-dt-end: '2025-01-12'
+event-location: Kunsthistorisches Museum Wien
+link: https://www.khm.at/en/visit/exhibitions/rembrandt-hoogstraten/
+---

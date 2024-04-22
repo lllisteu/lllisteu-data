@@ -1,7 +1,9 @@
-Antoni Tàpies. From Object to Sculpture
-# uid            : 20130719062749
-# dt-created     : 2013-07-19 06:27:49 GMT
-# link           : http://www.guggenheim-bilbao.es/en/exhibitions/antoni-tapies-from-object-to-sculpture/
-# event-dt-begin : 2013-10-04
-# event-dt-end   : 2014-01-19
-# event-location : Museo Guggenheim, Bilbao
+---
+title: Antoni Tàpies. From Object to Sculpture
+uid: '20130719062749'
+dt-created: 2013-07-19 06:27:49 GMT
+link: http://www.guggenheim-bilbao.es/en/exhibitions/antoni-tapies-from-object-to-sculpture/
+event-dt-begin: '2013-10-04'
+event-dt-end: '2014-01-19'
+event-location: Museo Guggenheim, Bilbao
+---

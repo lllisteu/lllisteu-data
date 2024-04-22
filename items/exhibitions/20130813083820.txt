@@ -1,7 +1,9 @@
-Joan Miró
-# uid            : 20130813083820
-# dt-created     : 2013-08-13 08:38:20 GMT
-# link           : http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1372425742319
-# event-dt-begin : 2014-09-12
-# event-dt-end   : 2015-01-11
-# event-location : Albertina, Wien
+---
+title: Joan Miró
+uid: '20130813083820'
+dt-created: 2013-08-13 08:38:20 GMT
+link: http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1372425742319
+event-dt-begin: '2014-09-12'
+event-dt-end: '2015-01-11'
+event-location: Albertina, Wien
+---

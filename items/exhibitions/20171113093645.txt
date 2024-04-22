@@ -1,7 +1,9 @@
-The American Dream
-# uid            : 20171113093645
-# dt-created     : 2017-11-13 09:36:45 GMT
-# event-dt-begin : 2017-11-19
-# event-dt-end   : 2018-05-27
-# event-location : Drents Museum, Assen
-# link           : https://drentsmuseum.nl/nl/tentoonstellingen/american-dream
+---
+title: The American Dream
+uid: '20171113093645'
+dt-created: 2017-11-13 09:36:45 GMT
+event-dt-begin: '2017-11-19'
+event-dt-end: '2018-05-27'
+event-location: Drents Museum, Assen
+link: https://drentsmuseum.nl/nl/tentoonstellingen/american-dream
+---

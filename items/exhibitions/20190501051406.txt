@@ -1,7 +1,9 @@
-L'Allemagne romantique – Dessins des musées de Weimar
-# uid            : 20190501051406
-# dt-created     : 2019-05-01 05:14:06 GMT
-# event-dt-begin : 2019-05-22
-# event-dt-end   : 2019-09-01
-# event-location : Petit Palais, Paris
-# link           : http://www.petitpalais.paris.fr/expositions/l-allemagne-romantique
+---
+title: L'Allemagne romantique – Dessins des musées de Weimar
+uid: '20190501051406'
+dt-created: 2019-05-01 05:14:06 GMT
+event-dt-begin: '2019-05-22'
+event-dt-end: '2019-09-01'
+event-location: Petit Palais, Paris
+link: http://www.petitpalais.paris.fr/expositions/l-allemagne-romantique
+---

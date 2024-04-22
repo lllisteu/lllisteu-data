@@ -1,7 +1,9 @@
-David Hockney
-# uid            : 20141117202823
-# dt-created     : 2014-11-17 20:28:23 GMT
-# link           : http://en.louisiana.dk/exhibition/david-hockney
-# event-dt-begin : 2015-03-19
-# event-dt-end   : 2015-06-21
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: David Hockney
+uid: '20141117202823'
+dt-created: 2014-11-17 20:28:23 GMT
+link: http://en.louisiana.dk/exhibition/david-hockney
+event-dt-begin: '2015-03-19'
+event-dt-end: '2015-06-21'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

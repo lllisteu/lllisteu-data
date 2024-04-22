@@ -1,7 +1,9 @@
-Cézanne Portraits
-# uid            : 20170101204918
-# dt-created     : 2017-01-01 20:49:18 GMT
-# link           : http://www.npg.org.uk/whatson/exhibitions/2016/cezanne-portraits.php
-# event-dt-begin : 2017-10-26
-# event-dt-end   : 2018-02-11
-# event-location : National Portrait Gallery, London
+---
+title: Cézanne Portraits
+uid: '20170101204918'
+dt-created: 2017-01-01 20:49:18 GMT
+link: http://www.npg.org.uk/whatson/exhibitions/2016/cezanne-portraits.php
+event-dt-begin: '2017-10-26'
+event-dt-end: '2018-02-11'
+event-location: National Portrait Gallery, London
+---

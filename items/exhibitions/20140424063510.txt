@@ -1,7 +1,9 @@
-Barnett Newman
-# uid            : 20140424063510
-# dt-created     : 2014-04-24 06:35:10 GMT
-# link           : http://www.stedelijk.nl/en/exhibitions/63824
-# event-dt-begin : 2014-04-24
-# event-dt-end   : 2014-07-20
-# event-location : Stedelijk Museum, Amsterdam
+---
+title: Barnett Newman
+uid: '20140424063510'
+dt-created: 2014-04-24 06:35:10 GMT
+link: http://www.stedelijk.nl/en/exhibitions/63824
+event-dt-begin: '2014-04-24'
+event-dt-end: '2014-07-20'
+event-location: Stedelijk Museum, Amsterdam
+---

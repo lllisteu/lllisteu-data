@@ -1,7 +1,9 @@
-I Macchiaioli (1850-1877)
-# uid            : 20130104085449
-# dt-created     : 2013-01-04 08:54:49 GMT
-# link           : http://www.musee-orangerie.fr/pages/page_id19505_u1l2.htm
-# event-dt-begin : 2013-04-10
-# event-dt-end   : 2013-07-22
-# event-location : Musée de l'Orangerie, Paris
+---
+title: I Macchiaioli (1850-1877)
+uid: '20130104085449'
+dt-created: 2013-01-04 08:54:49 GMT
+link: http://www.musee-orangerie.fr/pages/page_id19505_u1l2.htm
+event-dt-begin: '2013-04-10'
+event-dt-end: '2013-07-22'
+event-location: Musée de l'Orangerie, Paris
+---

@@ -1,7 +1,9 @@
-Jean Jacques Lequeu
-# uid            : 20180129105827
-# dt-created     : 2018-01-29 10:58:27 GMT
-# event-dt-begin : 2018-12-11
-# event-dt-end   : 2019-03-17
-# event-location : Petit Palais, Paris
-# link           : http://www.petitpalais.paris.fr/expositions/jean-jacques-lequeu-1757-1826
+---
+title: Jean Jacques Lequeu
+uid: '20180129105827'
+dt-created: 2018-01-29 10:58:27 GMT
+event-dt-begin: '2018-12-11'
+event-dt-end: '2019-03-17'
+event-location: Petit Palais, Paris
+link: http://www.petitpalais.paris.fr/expositions/jean-jacques-lequeu-1757-1826
+---

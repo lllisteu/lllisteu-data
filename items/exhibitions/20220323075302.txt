@@ -1,7 +1,9 @@
-Cranach – Die Anfänge in Wien
-# uid         : 20220323075302
-# dt-created  : 2022-03-23 07:53:02 GMT
-# event-dt-begin : 2022-03-12
-# event-dt-end   : 2022-06-12
-# event-location : Sammlung Oskar Reinhart «Am Römerholz», Winterthur
-# link: https://www.roemerholz.ch/sor/de/home/ausstellungen/ausstellungen---aktuell/cranach-anfaenge-wien.html
+---
+title: Cranach – Die Anfänge in Wien
+uid: '20220323075302'
+dt-created: 2022-03-23 07:53:02 GMT
+event-dt-begin: '2022-03-12'
+event-dt-end: '2022-06-12'
+event-location: Sammlung Oskar Reinhart «Am Römerholz», Winterthur
+link: https://www.roemerholz.ch/sor/de/home/ausstellungen/ausstellungen---aktuell/cranach-anfaenge-wien.html
+---

@@ -1,7 +1,9 @@
-Never Ending Stories
-# uid            : 20171016105232
-# dt-created     : 2017-10-16 10:52:32 GMT
-# event-dt-begin : 2017-10-29
-# event-dt-end   : 2018-02-18
-# event-location : Kunstmuseum Wolfsburg
-# link           : https://www.kunstmuseum-wolfsburg.de/ausstellungen/never-ending-stories-der-loop-in-kunst-film-architektur-musik-literatur-und-kulturgeschichte/
+---
+title: Never Ending Stories
+uid: '20171016105232'
+dt-created: 2017-10-16 10:52:32 GMT
+event-dt-begin: '2017-10-29'
+event-dt-end: '2018-02-18'
+event-location: Kunstmuseum Wolfsburg
+link: https://www.kunstmuseum-wolfsburg.de/ausstellungen/never-ending-stories-der-loop-in-kunst-film-architektur-musik-literatur-und-kulturgeschichte/
+---

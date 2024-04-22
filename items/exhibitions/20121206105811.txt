@@ -1,7 +1,9 @@
-Hilma af Klint - A Pioneer of Abstraction
-# uid            : 20121206105811
-# dt-created     : 2012-12-06 10:58:11 GMT
-# link           : http://www.modernamuseet.se/en/Stockholm/Exhibitions/2013/Hilma-af-Klint/
-# event-dt-begin : 2013-02-16
-# event-dt-end   : 2013-05-26
-# event-location : Moderna Museet, Stockholm
+---
+title: Hilma af Klint - A Pioneer of Abstraction
+uid: '20121206105811'
+dt-created: 2012-12-06 10:58:11 GMT
+link: http://www.modernamuseet.se/en/Stockholm/Exhibitions/2013/Hilma-af-Klint/
+event-dt-begin: '2013-02-16'
+event-dt-end: '2013-05-26'
+event-location: Moderna Museet, Stockholm
+---

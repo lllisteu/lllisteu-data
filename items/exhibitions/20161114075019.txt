@@ -1,7 +1,9 @@
-Bonnard – Matisse
-# uid            : 20161114075019
-# dt-created     : 2016-11-14 07:50:19 GMT
-# link           : http://www.staedelmuseum.de/en/exhibitions/bonnard-matisse
-# event-dt-begin : 2017-09-13
-# event-dt-end   : 2018-01-14
-# event-location : Städel Museum, Frankfurt
+---
+title: Bonnard – Matisse
+uid: '20161114075019'
+dt-created: 2016-11-14 07:50:19 GMT
+link: http://www.staedelmuseum.de/en/exhibitions/bonnard-matisse
+event-dt-begin: '2017-09-13'
+event-dt-end: '2018-01-14'
+event-location: Städel Museum, Frankfurt
+---

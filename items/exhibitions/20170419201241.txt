@@ -1,7 +1,9 @@
-Marina Abramović
-# uid            : 20170419201241
-# dt-created     : 2017-04-19 20:12:41 GMT
-# link           : https://en.louisiana.dk/exhibition/marina-abramovi%C4%87
-# event-dt-begin : 2017-06-17
-# event-dt-end   : 2017-10-22
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: Marina Abramović
+uid: '20170419201241'
+dt-created: 2017-04-19 20:12:41 GMT
+link: https://en.louisiana.dk/exhibition/marina-abramovi%C4%87
+event-dt-begin: '2017-06-17'
+event-dt-end: '2017-10-22'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

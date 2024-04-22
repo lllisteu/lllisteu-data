@@ -1,7 +1,9 @@
-Joan Miró
-# uid            : 20160127092528
-# dt-created     : 2016-01-27 09:25:28 GMT
-# link           : http://www.schirn.de/en/exhibitions/2016/joan_miro/
-# event-dt-begin : 2016-02-26
-# event-dt-end   : 2016-06-12
-# event-location : Schirn Kunsthalle, Frankfurt
+---
+title: Joan Miró
+uid: '20160127092528'
+dt-created: 2016-01-27 09:25:28 GMT
+link: http://www.schirn.de/en/exhibitions/2016/joan_miro/
+event-dt-begin: '2016-02-26'
+event-dt-end: '2016-06-12'
+event-location: Schirn Kunsthalle, Frankfurt
+---

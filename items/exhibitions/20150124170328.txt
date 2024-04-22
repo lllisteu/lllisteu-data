@@ -1,7 +1,9 @@
-Van Gogh in the Borinage
-# uid            : 20150124170328
-# dt-created     : 2015-01-24 17:03:28 GMT
-# link           : http://www.mons2015.eu/en/van-gogh-borinage
-# event-dt-begin : 2015-01-25
-# event-dt-end   : 2015-05-17
-# event-location : Beaux-Arts Mons
+---
+title: Van Gogh in the Borinage
+uid: '20150124170328'
+dt-created: 2015-01-24 17:03:28 GMT
+link: http://www.mons2015.eu/en/van-gogh-borinage
+event-dt-begin: '2015-01-25'
+event-dt-end: '2015-05-17'
+event-location: Beaux-Arts Mons
+---

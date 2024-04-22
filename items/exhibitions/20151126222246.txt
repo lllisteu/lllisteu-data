@@ -1,7 +1,9 @@
-Jean Dubuffet – Metamorphoses Of Landscape
-# uid            : 20151126222246
-# dt-created     : 2015-11-26 22:22:46 GMT
-# link           : http://www.fondationbeyeler.ch/en/exhibitions/jean-dubuffet/introduction
-# event-dt-begin : 2016-01-31
-# event-dt-end   : 2016-05-08
-# event-location : Fondation Beyeler, Basel
+---
+title: Jean Dubuffet – Metamorphoses Of Landscape
+uid: '20151126222246'
+dt-created: 2015-11-26 22:22:46 GMT
+link: http://www.fondationbeyeler.ch/en/exhibitions/jean-dubuffet/introduction
+event-dt-begin: '2016-01-31'
+event-dt-end: '2016-05-08'
+event-location: Fondation Beyeler, Basel
+---

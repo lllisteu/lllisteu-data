@@ -1,7 +1,9 @@
-Kandinsky, Malevich, Mondrian
-# uid            : 20140405114910
-# dt-created     : 2014-04-05 11:49:10 GMT
-# link           : http://www.kunstsammlung.de/en/discover/exhibitions/kandinsky-malevich-mondrian.html
-# event-dt-begin : 2014-04-05
-# event-dt-end   : 2014-07-06
-# event-location : K20 Kunstsammlung NRW, Düsseldorf
+---
+title: Kandinsky, Malevich, Mondrian
+uid: '20140405114910'
+dt-created: 2014-04-05 11:49:10 GMT
+link: http://www.kunstsammlung.de/en/discover/exhibitions/kandinsky-malevich-mondrian.html
+event-dt-begin: '2014-04-05'
+event-dt-end: '2014-07-06'
+event-location: K20 Kunstsammlung NRW, Düsseldorf
+---

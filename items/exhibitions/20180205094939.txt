@@ -1,7 +1,9 @@
-Bernard van Orley
-# uid            : 20180205094939
-# dt-created     : 2018-02-05 09:49:39 GMT
-# event-dt-begin : 2019-02-20
-# event-dt-end   : 2019-05-26
-# event-location : Palais des Beaux-Arts, Brussel
-# link           : https://www.bozar.be/en/activities/133868-bernard-van-orley
+---
+title: Bernard van Orley
+uid: '20180205094939'
+dt-created: 2018-02-05 09:49:39 GMT
+event-dt-begin: '2019-02-20'
+event-dt-end: '2019-05-26'
+event-location: Palais des Beaux-Arts, Brussel
+link: https://www.bozar.be/en/activities/133868-bernard-van-orley
+---

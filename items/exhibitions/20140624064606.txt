@@ -1,7 +1,9 @@
-Emile Bernard
-# uid            : 20140624064606
-# dt-created     : 2014-06-24 06:46:06 GMT
-# link           : http://www.musee-orangerie.fr/pages/page_id20004_u1l2.htm
-# event-dt-begin : 2014-09-17
-# event-dt-end   : 2015-01-05
-# event-location : Musée de l'Orangerie, Paris
+---
+title: Emile Bernard
+uid: '20140624064606'
+dt-created: 2014-06-24 06:46:06 GMT
+link: http://www.musee-orangerie.fr/pages/page_id20004_u1l2.htm
+event-dt-begin: '2014-09-17'
+event-dt-end: '2015-01-05'
+event-location: Musée de l'Orangerie, Paris
+---

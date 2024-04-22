@@ -1,7 +1,9 @@
-Ingres
-# uid            : 20151004140155
-# dt-created     : 2015-10-04 14:01:55 GMT
-# link           : https://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/ingres
-# event-dt-begin : 2015-11-24
-# event-dt-end   : 2016-03-27
-# event-location : Museo Nacional del Prado, Madrid
+---
+title: Ingres
+uid: '20151004140155'
+dt-created: 2015-10-04 14:01:55 GMT
+link: https://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/ingres
+event-dt-begin: '2015-11-24'
+event-dt-end: '2016-03-27'
+event-location: Museo Nacional del Prado, Madrid
+---

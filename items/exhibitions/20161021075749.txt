@@ -1,7 +1,9 @@
-The Art of Clara Peeters
-# uid            : 20161021075749
-# dt-created     : 2016-10-21 07:57:49 GMT
-# link           : https://www.museodelprado.es/en/whats-on/exhibition/the-art-of-clara-peeters/e4628dea-9ffd-4632-85c9-449367e86959
-# event-dt-begin : 2016-10-25
-# event-dt-end   : 2017-02-19
-# event-location : Museo Nacional del Prado, Madrid
+---
+title: The Art of Clara Peeters
+uid: '20161021075749'
+dt-created: 2016-10-21 07:57:49 GMT
+link: https://www.museodelprado.es/en/whats-on/exhibition/the-art-of-clara-peeters/e4628dea-9ffd-4632-85c9-449367e86959
+event-dt-begin: '2016-10-25'
+event-dt-end: '2017-02-19'
+event-location: Museo Nacional del Prado, Madrid
+---

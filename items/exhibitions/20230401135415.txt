@@ -1,7 +1,9 @@
-Naive Realism – From Rousseau to Grandma Moses
-# uid            : 20230401135415
-# dt-created     : 2023-04-01 13:54:15 GMT
-# event-dt-begin : 2023-03-25
-# event-dt-end   : 2023-06-25
-# event-location : Museum More, Gorssel
-# link           : https://www.museummore.nl/en/tentoonstelling/naief-realisme-van-rousseau-tot-grandma-moses
+---
+title: Naive Realism – From Rousseau to Grandma Moses
+uid: '20230401135415'
+dt-created: 2023-04-01 13:54:15 GMT
+event-dt-begin: '2023-03-25'
+event-dt-end: '2023-06-25'
+event-location: Museum More, Gorssel
+link: https://www.museummore.nl/en/tentoonstelling/naief-realisme-van-rousseau-tot-grandma-moses
+---

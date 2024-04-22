@@ -1,7 +1,9 @@
-Himmel auf Erden, 20. + 21. Jahrhundert
-# uid            : 20130219140027
-# dt-created     : 2013-02-19 14:00:27 GMT
-# link           : http://sammlung.netgate1.net/Current_Presentations.html
-# event-dt-begin : 2013-04-14
-# event-dt-end   : 2013-09-01
-# event-location : Von der Heydt Museum, Wuppertal
+---
+title: Himmel auf Erden, 20. + 21. Jahrhundert
+uid: '20130219140027'
+dt-created: 2013-02-19 14:00:27 GMT
+link: http://sammlung.netgate1.net/Current_Presentations.html
+event-dt-begin: '2013-04-14'
+event-dt-end: '2013-09-01'
+event-location: Von der Heydt Museum, Wuppertal
+---

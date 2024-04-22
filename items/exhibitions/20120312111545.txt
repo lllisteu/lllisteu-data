@@ -1,7 +1,9 @@
-Miró! Poesia e luce
-# uid            : 20120312111545
-# dt-created     : 2012-03-12 11:15:45 GMT
-# link           : http://chiostrodelbramante.it/info/miro_poesia_e_luce/
-# event-dt-begin : 2012-03-16
-# event-dt-end   : 2012-08-23
-# event-location : Chiostro del Bramante, Roma
+---
+title: Miró! Poesia e luce
+uid: '20120312111545'
+dt-created: 2012-03-12 11:15:45 GMT
+link: http://chiostrodelbramante.it/info/miro_poesia_e_luce/
+event-dt-begin: '2012-03-16'
+event-dt-end: '2012-08-23'
+event-location: Chiostro del Bramante, Roma
+---

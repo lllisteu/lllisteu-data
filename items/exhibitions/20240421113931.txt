@@ -1,7 +1,9 @@
-The Allure of Rome: Maarten van Heemskerck Draws the City
-# uid            : 20240421113931
-# dt-created     : 2024-04-21 11:39:31 GMT
-# event-dt-begin : 2024-04-26
-# event-dt-end   : 2024-08-04
-# event-location : Kupferstichkabinett, Berlin
-# link           : https://www.smb.museum/en/exhibitions/detail/the-allure-of-rome/
+---
+title: 'The Allure of Rome: Maarten van Heemskerck Draws the City'
+uid: '20240421113931'
+dt-created: 2024-04-21 11:39:31 GMT
+event-dt-begin: '2024-04-26'
+event-dt-end: '2024-08-04'
+event-location: Kupferstichkabinett, Berlin
+link: https://www.smb.museum/en/exhibitions/detail/the-allure-of-rome/
+---

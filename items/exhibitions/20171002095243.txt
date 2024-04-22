@@ -1,7 +1,9 @@
-Corot
-# uid            : 20171002095243
-# dt-created     : 2017-10-02 09:52:43 GMT
-# event-dt-begin : 2018-02-08
-# event-dt-end   : 2018-07-08
-# event-location : Musée Marmottan Monet, Paris
-# link           : http://www.marmottan.fr/fr/Exposition_%C3%A0_venir-musee-2590
+---
+title: Corot
+uid: '20171002095243'
+dt-created: 2017-10-02 09:52:43 GMT
+event-dt-begin: '2018-02-08'
+event-dt-end: '2018-07-08'
+event-location: Musée Marmottan Monet, Paris
+link: http://www.marmottan.fr/fr/Exposition_%C3%A0_venir-musee-2590
+---

@@ -1,7 +1,9 @@
-Bosch Bruegel Rubens Rembrandt
-# uid            : 20120318135954
-# dt-created     : 2012-03-18 13:59:54 GMT
-# link           : http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1304426266799
-# event-dt-begin : 2013-03-14
-# event-dt-end   : 2013-06-30
-# event-location : Albertina, Wien
+---
+title: Bosch Bruegel Rubens Rembrandt
+uid: '20120318135954'
+dt-created: 2012-03-18 13:59:54 GMT
+link: http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1304426266799
+event-dt-begin: '2013-03-14'
+event-dt-end: '2013-06-30'
+event-location: Albertina, Wien
+---

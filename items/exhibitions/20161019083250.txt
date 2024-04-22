@@ -1,7 +1,9 @@
-Impressionists in London
-# uid            : 20161019083250
-# dt-created     : 2016-10-19 08:32:50 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-britain/exhibition/impressionists-london
-# event-dt-begin : 2017-11-02
-# event-dt-end   : 2018-05-07
-# event-location : Tate Britain, London
+---
+title: Impressionists in London
+uid: '20161019083250'
+dt-created: 2016-10-19 08:32:50 GMT
+link: http://www.tate.org.uk/whats-on/tate-britain/exhibition/impressionists-london
+event-dt-begin: '2017-11-02'
+event-dt-end: '2018-05-07'
+event-location: Tate Britain, London
+---

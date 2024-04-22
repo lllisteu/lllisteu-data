@@ -1,7 +1,9 @@
-David Hockney
-# uid            : 20170410105215
-# dt-created     : 2017-04-10 10:52:15 GMT
-# link           : https://www.centrepompidou.fr
-# event-dt-begin : 2017-06-21
-# event-dt-end   : 2017-10-23
-# event-location : Centre Pompidou, Paris
+---
+title: David Hockney
+uid: '20170410105215'
+dt-created: 2017-04-10 10:52:15 GMT
+link: https://www.centrepompidou.fr
+event-dt-begin: '2017-06-21'
+event-dt-end: '2017-10-23'
+event-location: Centre Pompidou, Paris
+---

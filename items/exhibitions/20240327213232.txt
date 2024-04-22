@@ -1,7 +1,9 @@
-Felice Casorati
-# uid            : 20240327213232
-# dt-created     : 2024-03-27 21:32:32 GMT
-# event-dt-begin : 2025-02-12
-# event-dt-end   : 2025-06-22
-# event-location : Palazzo Reale, Milano
-# link           : https://www.palazzorealemilano.it/en/mostre/casorati
+---
+title: Felice Casorati
+uid: '20240327213232'
+dt-created: 2024-03-27 21:32:32 GMT
+event-dt-begin: '2025-02-12'
+event-dt-end: '2025-06-22'
+event-location: Palazzo Reale, Milano
+link: https://www.palazzorealemilano.it/en/mostre/casorati
+---

@@ -1,7 +1,9 @@
-Maria Lassnig and Edvard Munch
-# uid            : 20240310124842
-# dt-created     : 2024-03-10 12:48:42 GMT
-# event-dt-begin : 2026-03-27
-# event-dt-end   : 2026-08-23
-# event-location : Hamburger Kunsthalle
-# link           : https://www.hamburger-kunsthalle.de/en/exhibitions/maria-lassnig-and-edvard-munch
+---
+title: Maria Lassnig and Edvard Munch
+uid: '20240310124842'
+dt-created: 2024-03-10 12:48:42 GMT
+event-dt-begin: '2026-03-27'
+event-dt-end: '2026-08-23'
+event-location: Hamburger Kunsthalle
+link: https://www.hamburger-kunsthalle.de/en/exhibitions/maria-lassnig-and-edvard-munch
+---

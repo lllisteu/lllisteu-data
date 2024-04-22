@@ -1,7 +1,9 @@
-Giorgio Morandi
-# uid            : 20121126093137
-# dt-created     : 2012-11-26 09:31:37 GMT
-# link           : http://www.bozar.be/activity.php?id=12714&
-# event-dt-begin : 2013-06-07
-# event-dt-end   : 2013-09-22
-# event-location : Palais des Beaux-Arts, Brussel
+---
+title: Giorgio Morandi
+uid: '20121126093137'
+dt-created: 2012-11-26 09:31:37 GMT
+link: http://www.bozar.be/activity.php?id=12714&
+event-dt-begin: '2013-06-07'
+event-dt-end: '2013-09-22'
+event-location: Palais des Beaux-Arts, Brussel
+---

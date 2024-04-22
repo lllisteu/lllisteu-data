@@ -1,7 +1,9 @@
-Hans Richter: The crossing of the century
-# uid            : 20130416074254
-# dt-created     : 2013-04-16 07:42:54 GMT
-# link           : http://www.centrepompidou-metz.fr/en/hans-richter-crossing-century
-# event-dt-begin : 2013-09-29
-# event-dt-end   : 2014-02-24
-# event-location : Centre Pompidou, Metz
+---
+title: 'Hans Richter: The crossing of the century'
+uid: '20130416074254'
+dt-created: 2013-04-16 07:42:54 GMT
+link: http://www.centrepompidou-metz.fr/en/hans-richter-crossing-century
+event-dt-begin: '2013-09-29'
+event-dt-end: '2014-02-24'
+event-location: Centre Pompidou, Metz
+---

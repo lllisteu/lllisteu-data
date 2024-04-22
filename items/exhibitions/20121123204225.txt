@@ -1,7 +1,9 @@
-Anish Kapoor
-# uid            : 20121123204225
-# dt-created     : 2012-11-23 20:42:25 GMT
-# link           : http://www.depont.nl/nc/en/exhibitions/program/release/pers/-e14b17d459/
-# event-dt-begin : 2012-10-13
-# event-dt-end   : 2013-01-27
-# event-location : Museum De Pont, Tilburg
+---
+title: Anish Kapoor
+uid: '20121123204225'
+dt-created: 2012-11-23 20:42:25 GMT
+link: http://www.depont.nl/nc/en/exhibitions/program/release/pers/-e14b17d459/
+event-dt-begin: '2012-10-13'
+event-dt-end: '2013-01-27'
+event-location: Museum De Pont, Tilburg
+---

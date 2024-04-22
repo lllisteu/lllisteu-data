@@ -1,7 +1,9 @@
-Die Brücke
-# uid            : 20170619062520
-# dt-created     : 2017-06-19 06:25:20 GMT
-# link           : https://www.museum-frieder-burda.de/index.php?id=22&L=0&tx_eventbase_exhibition%5Bexhibition%5D=118&tx_eventbase_exhibition%5Baction%5D=show&tx_eventbase_exhibition%5Bcontroller%5D=Exhibition&cHash=3a4f022e2ccaa74c698cecbe5baed6d5
-# event-dt-begin : 2018-11-10
-# event-dt-end   : 2019-03-24
-# event-location : Museum Frieder Burda, Baden-Baden
+---
+title: Die Brücke
+uid: '20170619062520'
+dt-created: 2017-06-19 06:25:20 GMT
+link: https://www.museum-frieder-burda.de/index.php?id=22&L=0&tx_eventbase_exhibition%5Bexhibition%5D=118&tx_eventbase_exhibition%5Baction%5D=show&tx_eventbase_exhibition%5Bcontroller%5D=Exhibition&cHash=3a4f022e2ccaa74c698cecbe5baed6d5
+event-dt-begin: '2018-11-10'
+event-dt-end: '2019-03-24'
+event-location: Museum Frieder Burda, Baden-Baden
+---

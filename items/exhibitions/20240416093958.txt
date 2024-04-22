@@ -1,7 +1,9 @@
-Heinz Berggruen, a dealer and his collection
-# uid            : 20240416093958
-# dt-created     : 2024-04-16 09:39:58 GMT
-# event-dt-begin : 2024-10-02
-# event-dt-end   : 2025-01-27
-# event-location : Musée de l'Orangerie, Paris
-# link           : https://www.musee-orangerie.fr/en/whats-on/exhibitions/heinz-berggruen-dealer-and-his-collection
+---
+title: Heinz Berggruen, a dealer and his collection
+uid: '20240416093958'
+dt-created: 2024-04-16 09:39:58 GMT
+event-dt-begin: '2024-10-02'
+event-dt-end: '2025-01-27'
+event-location: Musée de l'Orangerie, Paris
+link: https://www.musee-orangerie.fr/en/whats-on/exhibitions/heinz-berggruen-dealer-and-his-collection
+---

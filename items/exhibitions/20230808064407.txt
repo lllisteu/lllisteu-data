@@ -1,7 +1,9 @@
-Brueghel
-# uid            : 20230808064407
-# dt-created     : 2023-08-08 06:44:07 GMT
-# event-dt-begin : 2023-09-30
-# event-dt-end   : 2024-01-07
-# event-location : Noordbrabants Museum, 's Hertogenbosch
-# link           : https://www.hetnoordbrabantsmuseum.nl/bezoek/tentoonstellingen/brueghel/
+---
+title: Brueghel
+uid: '20230808064407'
+dt-created: 2023-08-08 06:44:07 GMT
+event-dt-begin: '2023-09-30'
+event-dt-end: '2024-01-07'
+event-location: Noordbrabants Museum, 's Hertogenbosch
+link: https://www.hetnoordbrabantsmuseum.nl/bezoek/tentoonstellingen/brueghel/
+---

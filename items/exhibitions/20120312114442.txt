@@ -1,7 +1,9 @@
-Francesco Guardi
-# uid            : 20120312114442
-# dt-created     : 2012-03-12 11:44:42 GMT
-# link           : http://correr.visitmuve.it/en/
-# event-dt-begin : 2012-09-29
-# event-dt-end   : 2013-02-17
-# event-location : Museo Correr, Venezia
+---
+title: Francesco Guardi
+uid: '20120312114442'
+dt-created: 2012-03-12 11:44:42 GMT
+link: http://correr.visitmuve.it/en/
+event-dt-begin: '2012-09-29'
+event-dt-end: '2013-02-17'
+event-location: Museo Correr, Venezia
+---

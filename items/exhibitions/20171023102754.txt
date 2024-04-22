@@ -1,7 +1,9 @@
-Anni Albers. Retrospektive
-# uid            : 20171023102754
-# dt-created     : 2017-10-23 10:27:54 GMT
-# event-dt-begin : 2018-06-09
-# event-dt-end   : 2018-09-09
-# event-location : K20 Kunstsammlung NRW, Düsseldorf
-# link           : https://www.kunstsammlung.de/entdecken/vorschau.html
+---
+title: Anni Albers. Retrospektive
+uid: '20171023102754'
+dt-created: 2017-10-23 10:27:54 GMT
+event-dt-begin: '2018-06-09'
+event-dt-end: '2018-09-09'
+event-location: K20 Kunstsammlung NRW, Düsseldorf
+link: https://www.kunstsammlung.de/entdecken/vorschau.html
+---

@@ -1,7 +1,9 @@
-Sean Scully. Géographies
-# uid            : 20231231104355
-# dt-created     : 2023-12-31 10:43:55 GMT
-# event-dt-begin : 2024-04-28
-# event-dt-end   : 2024-06-16
-# event-location : Ludwig Museum Koblenz
-# link           : https://ludwigmuseum.org/en/ausstellungen/sean-scully-geographies-2/
+---
+title: Sean Scully. Géographies
+uid: '20231231104355'
+dt-created: 2023-12-31 10:43:55 GMT
+event-dt-begin: '2024-04-28'
+event-dt-end: '2024-06-16'
+event-location: Ludwig Museum Koblenz
+link: https://ludwigmuseum.org/en/ausstellungen/sean-scully-geographies-2/
+---

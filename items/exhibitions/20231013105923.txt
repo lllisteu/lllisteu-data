@@ -1,7 +1,9 @@
-Modigliani: Modern Gazes
-# uid            : 20231013105923
-# dt-created     : 2023-10-13 10:59:23 GMT
-# event-dt-begin : 2024-04-27
-# event-dt-end   : 2024-08-18
-# event-location : Museum Barberini, Potsdam
-# link           : https://www.museum-barberini.de/en/ausstellungen/14108/modigliani-modern-gazes
+---
+title: 'Modigliani: Modern Gazes'
+uid: '20231013105923'
+dt-created: 2023-10-13 10:59:23 GMT
+event-dt-begin: '2024-04-27'
+event-dt-end: '2024-08-18'
+event-location: Museum Barberini, Potsdam
+link: https://www.museum-barberini.de/en/ausstellungen/14108/modigliani-modern-gazes
+---

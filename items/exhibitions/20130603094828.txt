@@ -1,7 +1,9 @@
-Vincent van Gogh / Antonin Artaud: The Man Suicided by Society
-# uid            : 20130603094828
-# dt-created     : 2013-06-03 09:48:28 GMT
-# link           : http://www.musee-orsay.fr/fr/evenements/expositions/au-musee-dorsay/presentation-detaillee/article/van-gogh-artaud-37162.html?tx_ttnews%5Btx_pids%5D=591&tx_ttnews%5Btt_cur%5D=37162&tx_ttnews%5BbackPid%5D=223&cHash=95607a57dd
-# event-dt-begin : 2014-03-11
-# event-dt-end   : 2014-07-06
-# event-location : Musée d'Orsay, Paris
+---
+title: 'Vincent van Gogh / Antonin Artaud: The Man Suicided by Society'
+uid: '20130603094828'
+dt-created: 2013-06-03 09:48:28 GMT
+link: http://www.musee-orsay.fr/fr/evenements/expositions/au-musee-dorsay/presentation-detaillee/article/van-gogh-artaud-37162.html?tx_ttnews%5Btx_pids%5D=591&tx_ttnews%5Btt_cur%5D=37162&tx_ttnews%5BbackPid%5D=223&cHash=95607a57dd
+event-dt-begin: '2014-03-11'
+event-dt-end: '2014-07-06'
+event-location: Musée d'Orsay, Paris
+---

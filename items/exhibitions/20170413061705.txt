@@ -1,7 +1,9 @@
-Max Beckmann
-# uid            : 20170413061705
-# dt-created     : 2017-04-13 06:17:05 GMT
-# link           : https://www.museum-barberini.com/en/exhibitions/
-# event-dt-begin : 2018-02-24
-# event-dt-end   : 2018-06-10
-# event-location : Museum Barberini, Potsdam
+---
+title: Max Beckmann
+uid: '20170413061705'
+dt-created: 2017-04-13 06:17:05 GMT
+link: https://www.museum-barberini.com/en/exhibitions/
+event-dt-begin: '2018-02-24'
+event-dt-end: '2018-06-10'
+event-location: Museum Barberini, Potsdam
+---

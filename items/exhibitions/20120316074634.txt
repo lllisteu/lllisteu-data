@@ -1,7 +1,9 @@
-Max Ernst
-# uid            : 20120316074634
-# dt-created     : 2012-03-16 07:46:34 GMT
-# link           : http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1313041137170
-# event-dt-begin : 2013-01-23
-# event-dt-end   : 2013-05-05
-# event-location : Albertina, Wien
+---
+title: Max Ernst
+uid: '20120316074634'
+dt-created: 2012-03-16 07:46:34 GMT
+link: http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1313041137170
+event-dt-begin: '2013-01-23'
+event-dt-end: '2013-05-05'
+event-location: Albertina, Wien
+---

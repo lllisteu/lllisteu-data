@@ -1,7 +1,9 @@
-Black & White. Von Dürer bis Elíasson
-# uid            : 20171002094906
-# dt-created     : 2017-10-02 09:49:06 GMT
-# event-dt-begin : 2018-03-22
-# event-dt-end   : 2018-07-15
-# event-location : Museum Kunstpalast, Düsseldorf
-# link           : http://www.smkp.de/ausstellungen/ausblick/black-white-von-duerer-bis-eliasson/
+---
+title: Black & White. Von Dürer bis Elíasson
+uid: '20171002094906'
+dt-created: 2017-10-02 09:49:06 GMT
+event-dt-begin: '2018-03-22'
+event-dt-end: '2018-07-15'
+event-location: Museum Kunstpalast, Düsseldorf
+link: http://www.smkp.de/ausstellungen/ausblick/black-white-von-duerer-bis-eliasson/
+---

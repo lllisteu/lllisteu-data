@@ -1,7 +1,9 @@
-Laure Albin Guillot (1879–1962), The Question of Classicism
-# uid            : 20121123134203
-# dt-created     : 2012-11-23 13:42:03 GMT
-# link           : http://www.jeudepaume.org/index.php?page=article&idArt=1821&lieu=7
-# event-dt-begin : 2013-02-26
-# event-dt-end   : 2013-05-12
-# event-location : Jeu de Paume, Paris
+---
+title: Laure Albin Guillot (1879–1962), The Question of Classicism
+uid: '20121123134203'
+dt-created: 2012-11-23 13:42:03 GMT
+link: http://www.jeudepaume.org/index.php?page=article&idArt=1821&lieu=7
+event-dt-begin: '2013-02-26'
+event-dt-end: '2013-05-12'
+event-location: Jeu de Paume, Paris
+---

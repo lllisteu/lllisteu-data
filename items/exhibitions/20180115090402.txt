@@ -1,7 +1,9 @@
-In colour: polychrome sculpture in France 1850-1910
-# uid            : 20180115090402
-# dt-created     : 2018-01-15 09:04:02 GMT
-# event-dt-begin : 2018-06-12
-# event-dt-end   : 2018-09-16
-# event-location : Musée d'Orsay, Paris
-# link           : http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/en-couleurs-47134.html?tx_ttnews%5BbackPid%5D=254&cHash=9bc77d5814
+---
+title: 'In colour: polychrome sculpture in France 1850-1910'
+uid: '20180115090402'
+dt-created: 2018-01-15 09:04:02 GMT
+event-dt-begin: '2018-06-12'
+event-dt-end: '2018-09-16'
+event-location: Musée d'Orsay, Paris
+link: http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/en-couleurs-47134.html?tx_ttnews%5BbackPid%5D=254&cHash=9bc77d5814
+---

@@ -1,7 +1,9 @@
-Cézanne – Metamorphosen
-# uid            : 20170415074647
-# dt-created     : 2017-04-15 07:46:47 GMT
-# link           : http://www.cezanne-in-karlsruhe.de
-# event-dt-begin : 2017-10-28
-# event-dt-end   : 2018-02-11
-# event-location : Staatliche Kunsthalle Karlsruhe
+---
+title: Cézanne – Metamorphosen
+uid: '20170415074647'
+dt-created: 2017-04-15 07:46:47 GMT
+link: http://www.cezanne-in-karlsruhe.de
+event-dt-begin: '2017-10-28'
+event-dt-end: '2018-02-11'
+event-location: Staatliche Kunsthalle Karlsruhe
+---

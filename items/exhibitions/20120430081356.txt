@@ -1,7 +1,9 @@
-Bauhaus: Art as Life
-# uid            : 20120430081356
-# dt-created     : 2012-04-30 08:13:56 GMT
-# link           : http://www.barbican.org.uk/artgallery/event-detail.asp?ID=12409
-# event-dt-begin : 2012-05-03
-# event-dt-end   : 2012-08-12
-# event-location : Barbican Art Gallery, London
+---
+title: 'Bauhaus: Art as Life'
+uid: '20120430081356'
+dt-created: 2012-04-30 08:13:56 GMT
+link: http://www.barbican.org.uk/artgallery/event-detail.asp?ID=12409
+event-dt-begin: '2012-05-03'
+event-dt-end: '2012-08-12'
+event-location: Barbican Art Gallery, London
+---

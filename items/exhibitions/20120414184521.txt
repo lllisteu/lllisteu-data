@@ -1,7 +1,9 @@
-Paul Klee
-# uid            : 20120414184521
-# dt-created     : 2012-04-14 18:45:21 GMT
-# link           : http://www.kunstsammlung.de/en/discover/exhibitions/100-x-paul-klee.html
-# event-dt-begin : 2012-09-29
-# event-dt-end   : 2013-04-21
-# event-location : K21 Kunstsammlung NRW, Düsseldorf
+---
+title: Paul Klee
+uid: '20120414184521'
+dt-created: 2012-04-14 18:45:21 GMT
+link: http://www.kunstsammlung.de/en/discover/exhibitions/100-x-paul-klee.html
+event-dt-begin: '2012-09-29'
+event-dt-end: '2013-04-21'
+event-location: K21 Kunstsammlung NRW, Düsseldorf
+---

@@ -1,7 +1,9 @@
-Man Ray. The Collection Renate and L. Fritz Gruber
-# uid            : 20121128112207
-# dt-created     : 2012-11-28 11:22:07 GMT
-# link           : http://www.museenkoeln.de/museum-ludwig/default.asp?s=4282
-# event-dt-begin : 2013-01-31
-# event-dt-end   : 2013-05-05
-# event-location : Museum Ludwig, Köln
+---
+title: Man Ray. The Collection Renate and L. Fritz Gruber
+uid: '20121128112207'
+dt-created: 2012-11-28 11:22:07 GMT
+link: http://www.museenkoeln.de/museum-ludwig/default.asp?s=4282
+event-dt-begin: '2013-01-31'
+event-dt-end: '2013-05-05'
+event-location: Museum Ludwig, Köln
+---

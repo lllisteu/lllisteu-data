@@ -1,7 +1,9 @@
-Paul Klee. Construction of Mystery
-# uid            : 20170512104245
-# dt-created     : 2017-05-12 10:42:45 GMT
-# link           : https://www.pinakothek.de/en/exhibitions/paul-klee-construction-of-mystery
-# event-dt-begin : 2018-03-01
-# event-dt-end   : 2018-06-10
-# event-location : Pinakothek der Moderne, München
+---
+title: Paul Klee. Construction of Mystery
+uid: '20170512104245'
+dt-created: 2017-05-12 10:42:45 GMT
+link: https://www.pinakothek.de/en/exhibitions/paul-klee-construction-of-mystery
+event-dt-begin: '2018-03-01'
+event-dt-end: '2018-06-10'
+event-location: Pinakothek der Moderne, München
+---

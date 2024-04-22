@@ -1,7 +1,9 @@
-Saloua Raouda Choucair
-# uid            : 20130325095218
-# dt-created     : 2013-03-25 09:52:18 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/saloua-raouda-choucair
-# event-dt-begin : 2013-04-17
-# event-dt-end   : 2013-10-20
-# event-location : Tate Modern, London
+---
+title: Saloua Raouda Choucair
+uid: '20130325095218'
+dt-created: 2013-03-25 09:52:18 GMT
+link: http://www.tate.org.uk/whats-on/tate-modern/exhibition/saloua-raouda-choucair
+event-dt-begin: '2013-04-17'
+event-dt-end: '2013-10-20'
+event-location: Tate Modern, London
+---

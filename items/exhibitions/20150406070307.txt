@@ -1,7 +1,9 @@
-Inventing Impressionism
-# uid            : 20150406070307
-# dt-created     : 2015-04-06 07:03:07 GMT
-# link           : http://www.nationalgallery.org.uk/impressionism
-# event-dt-begin : 2015-03-04
-# event-dt-end   : 2015-05-31
-# event-location : National Gallery, London
+---
+title: Inventing Impressionism
+uid: '20150406070307'
+dt-created: 2015-04-06 07:03:07 GMT
+link: http://www.nationalgallery.org.uk/impressionism
+event-dt-begin: '2015-03-04'
+event-dt-end: '2015-05-31'
+event-location: National Gallery, London
+---

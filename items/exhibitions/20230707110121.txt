@@ -1,7 +1,9 @@
-Outstanding! The Relief from Rodin to Taeuber-Arp
-# uid            : 20230707110121
-# dt-created     : 2023-07-07 11:01:21 GMT
-# event-dt-begin : 2023-10-13
-# event-dt-end   : 2024-02-25
-# event-location : Hamburger Kunsthalle
-# link           : https://www.hamburger-kunsthalle.de/en/exhibitions/outstanding
+---
+title: Outstanding! The Relief from Rodin to Taeuber-Arp
+uid: '20230707110121'
+dt-created: 2023-07-07 11:01:21 GMT
+event-dt-begin: '2023-10-13'
+event-dt-end: '2024-02-25'
+event-location: Hamburger Kunsthalle
+link: https://www.hamburger-kunsthalle.de/en/exhibitions/outstanding
+---

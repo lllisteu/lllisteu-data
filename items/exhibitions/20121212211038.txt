@@ -1,7 +1,9 @@
-Per Kirkeby - Samlingen/The Collection
-# uid            : 20121212211038
-# dt-created     : 2012-12-12 21:10:38 GMT
-# link           : http://www.aros.dk/om-aros/presse/2012/per-kirkeby-samlingenthe-collection/
-# event-dt-begin : 2012-12-15
-# event-dt-end   : 2013-04-01
-# event-location : ARoS, Århus
+---
+title: Per Kirkeby - Samlingen/The Collection
+uid: '20121212211038'
+dt-created: 2012-12-12 21:10:38 GMT
+link: http://www.aros.dk/om-aros/presse/2012/per-kirkeby-samlingenthe-collection/
+event-dt-begin: '2012-12-15'
+event-dt-end: '2013-04-01'
+event-location: ARoS, Århus
+---

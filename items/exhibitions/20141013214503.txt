@@ -1,7 +1,9 @@
-Roy Lichtenstein
-# uid            : 20141013214503
-# dt-created     : 2014-10-13 21:45:03 GMT
-# link           : http://www.gamtorino.it/lichtenstein/
-# event-dt-begin : 2014-09-27
-# event-dt-end   : 2015-01-25
-# event-location : GAM, Torino
+---
+title: Roy Lichtenstein
+uid: '20141013214503'
+dt-created: 2014-10-13 21:45:03 GMT
+link: http://www.gamtorino.it/lichtenstein/
+event-dt-begin: '2014-09-27'
+event-dt-end: '2015-01-25'
+event-location: GAM, Torino
+---

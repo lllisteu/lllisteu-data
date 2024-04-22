@@ -1,7 +1,9 @@
-Art Deco
-# uid            : 20170731055629
-# dt-created     : 2017-07-31 05:56:29 GMT
-# event-dt-begin : 2017-10-14
-# event-dt-end   : 2018-03-04
-# event-location : Gemeentemuseum, Den Haag
-# link           : https://www.gemeentemuseum.nl/en/exhibitions/art-deco
+---
+title: Art Deco
+uid: '20170731055629'
+dt-created: 2017-07-31 05:56:29 GMT
+event-dt-begin: '2017-10-14'
+event-dt-end: '2018-03-04'
+event-location: Gemeentemuseum, Den Haag
+link: https://www.gemeentemuseum.nl/en/exhibitions/art-deco
+---

@@ -1,7 +1,9 @@
-Michelangelo as Inspiration
-# uid            : 20141024065949
-# dt-created     : 2014-10-24 06:59:49 GMT
-# link           : http://www.bundeskunsthalle.de/en/exhibitions/current-exhibitions.html
-# event-dt-begin : 2015-02-06
-# event-dt-end   : 2015-05-25
-# event-location : Bundeskunsthalle, Bonn
+---
+title: Michelangelo as Inspiration
+uid: '20141024065949'
+dt-created: 2014-10-24 06:59:49 GMT
+link: http://www.bundeskunsthalle.de/en/exhibitions/current-exhibitions.html
+event-dt-begin: '2015-02-06'
+event-dt-end: '2015-05-25'
+event-location: Bundeskunsthalle, Bonn
+---

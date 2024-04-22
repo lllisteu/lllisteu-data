@@ -1,7 +1,9 @@
-Programmare l'arte. Olivetti e le Neoavanguardie cinetiche
-# uid            : 20121123094702
-# dt-created     : 2012-11-23 09:47:02 GMT
-# link           : http://museodelnovecento.org/le-mostre/51-exibitions-cat/exhibitions-over-time/267-programmare-l-arte-olivetti-e-le-neoavanguardie-cinetiche
-# event-dt-begin : 2012-11-09
-# event-dt-end   : 2013-03-03
-# event-location : Museo del Novecento, Milano
+---
+title: Programmare l'arte. Olivetti e le Neoavanguardie cinetiche
+uid: '20121123094702'
+dt-created: 2012-11-23 09:47:02 GMT
+link: http://museodelnovecento.org/le-mostre/51-exibitions-cat/exhibitions-over-time/267-programmare-l-arte-olivetti-e-le-neoavanguardie-cinetiche
+event-dt-begin: '2012-11-09'
+event-dt-end: '2013-03-03'
+event-location: Museo del Novecento, Milano
+---

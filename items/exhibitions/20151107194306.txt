@@ -1,7 +1,9 @@
-Turner
-# uid            : 20151107194306
-# dt-created     : 2015-11-07 19:43:06 GMT
-# link           : http://caumont-centredart.com/en/events/turner
-# event-dt-begin : 2016-05-04
-# event-dt-end   : 2016-09-18
-# event-location : Hôtel de Caumont, Aix-en-Provence
+---
+title: Turner
+uid: '20151107194306'
+dt-created: 2015-11-07 19:43:06 GMT
+link: http://caumont-centredart.com/en/events/turner
+event-dt-begin: '2016-05-04'
+event-dt-end: '2016-09-18'
+event-location: Hôtel de Caumont, Aix-en-Provence
+---

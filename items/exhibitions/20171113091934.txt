@@ -1,7 +1,9 @@
-Gabriele Münter
-# uid            : 20171113091934
-# dt-created     : 2017-11-13 09:19:34 GMT
-# event-dt-begin : 2018-05-03
-# event-dt-end   : 2018-08-19
-# event-location : Louisiana Museum of Modern Art, Humlebæk
-# link           : https://en.louisiana.dk/exhibition/gabriele-m%C3%BCnter
+---
+title: Gabriele Münter
+uid: '20171113091934'
+dt-created: 2017-11-13 09:19:34 GMT
+event-dt-begin: '2018-05-03'
+event-dt-end: '2018-08-19'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+link: https://en.louisiana.dk/exhibition/gabriele-m%C3%BCnter
+---

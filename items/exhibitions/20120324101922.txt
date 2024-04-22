@@ -1,7 +1,9 @@
-The Ecstasy of Colour – Munch, Matisse and the Expressionists
-# uid            : 20120324101922
-# dt-created     : 2012-03-24 10:19:22 GMT
-# link           : http://www.folkwang-im-farbenrausch.de/en/exhibition/exhibition.html
-# event-dt-begin : 2012-09-29
-# event-dt-end   : 2013-01-20
-# event-location : Museum Folkwang, Essen
+---
+title: The Ecstasy of Colour – Munch, Matisse and the Expressionists
+uid: '20120324101922'
+dt-created: 2012-03-24 10:19:22 GMT
+link: http://www.folkwang-im-farbenrausch.de/en/exhibition/exhibition.html
+event-dt-begin: '2012-09-29'
+event-dt-end: '2013-01-20'
+event-location: Museum Folkwang, Essen
+---

@@ -1,7 +1,9 @@
-Emil Nolde
-# uid            : 20120930094255
-# dt-created     : 2012-09-30 09:42:55 GMT
-# link           : http://www.museum-frieder-burda.de/Ausstellungen.9.0.html
-# event-dt-begin : 2013-06-15
-# event-dt-end   : 2013-10-13
-# event-location : Museum Frieder Burda, Baden-Baden
+---
+title: Emil Nolde
+uid: '20120930094255'
+dt-created: 2012-09-30 09:42:55 GMT
+link: http://www.museum-frieder-burda.de/Ausstellungen.9.0.html
+event-dt-begin: '2013-06-15'
+event-dt-end: '2013-10-13'
+event-location: Museum Frieder Burda, Baden-Baden
+---

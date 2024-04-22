@@ -1,7 +1,9 @@
-Tintoretto
-# uid            : 20171211115242
-# dt-created     : 2017-12-11 11:52:42 GMT
-# event-dt-begin : 2018-03-07
-# event-dt-end   : 2018-07-01
-# event-location : Musée du Luxembourg, Paris
-# link           : http://museeduluxembourg.fr/expositions/le-tintoret-naissance-dun-genie
+---
+title: Tintoretto
+uid: '20171211115242'
+dt-created: 2017-12-11 11:52:42 GMT
+event-dt-begin: '2018-03-07'
+event-dt-end: '2018-07-01'
+event-location: Musée du Luxembourg, Paris
+link: http://museeduluxembourg.fr/expositions/le-tintoret-naissance-dun-genie
+---

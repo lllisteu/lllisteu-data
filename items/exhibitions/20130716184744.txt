@@ -1,7 +1,9 @@
-An Expressionist Summer - Bonn 1913
-# uid            : 20130716184744
-# dt-created     : 2013-07-16 18:47:44 GMT
-# link           : http://www.kunstmuseum-bonn.de/nocache/en/ausstellungen/aktuell/info/ex/ein-expressionistischer-sommer-bonn-1913-1620/
-# event-dt-begin : 2013-06-27
-# event-dt-end   : 2013-09-29
-# event-location : Kunstmuseum Bonn
+---
+title: An Expressionist Summer - Bonn 1913
+uid: '20130716184744'
+dt-created: 2013-07-16 18:47:44 GMT
+link: http://www.kunstmuseum-bonn.de/nocache/en/ausstellungen/aktuell/info/ex/ein-expressionistischer-sommer-bonn-1913-1620/
+event-dt-begin: '2013-06-27'
+event-dt-end: '2013-09-29'
+event-location: Kunstmuseum Bonn
+---

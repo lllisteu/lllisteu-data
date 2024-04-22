@@ -1,7 +1,9 @@
-Adrian Paci. Lives In Transit
-# uid            : 20121125132328
-# dt-created     : 2012-11-25 13:23:28 GMT
-# link           : http://www.jeudepaume.org/index.php?page=article&idArt=1822&lieu=7
-# event-dt-begin : 2013-02-26
-# event-dt-end   : 2013-05-12
-# event-location : Jeu de Paume, Paris
+---
+title: Adrian Paci. Lives In Transit
+uid: '20121125132328'
+dt-created: 2012-11-25 13:23:28 GMT
+link: http://www.jeudepaume.org/index.php?page=article&idArt=1822&lieu=7
+event-dt-begin: '2013-02-26'
+event-dt-end: '2013-05-12'
+event-location: Jeu de Paume, Paris
+---

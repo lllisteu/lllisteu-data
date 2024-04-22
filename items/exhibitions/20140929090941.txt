@@ -1,7 +1,9 @@
-The Oasis of Matisse
-# uid            : 20140929090941
-# dt-created     : 2014-09-29 09:09:41 GMT
-# link           : http://www.stedelijk.nl/en/exhibitions/the-oasis-of-matisse
-# event-dt-begin : 2015-04-04
-# event-dt-end   : 2015-08-16
-# event-location : Stedelijk Museum, Amsterdam
+---
+title: The Oasis of Matisse
+uid: '20140929090941'
+dt-created: 2014-09-29 09:09:41 GMT
+link: http://www.stedelijk.nl/en/exhibitions/the-oasis-of-matisse
+event-dt-begin: '2015-04-04'
+event-dt-end: '2015-08-16'
+event-location: Stedelijk Museum, Amsterdam
+---

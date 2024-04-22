@@ -1,7 +1,9 @@
-Josef Albers. Sublime Optics
-# uid            : 20130922085842
-# dt-created     : 2013-09-22 08:58:42 GMT
-# link           : http://stelline.it/en/stelline-foundation/home/exhibitions/upcoming-exhibitions/josef-albers-spiritualita-e-rigore.html
-# event-dt-begin : 2013-09-26
-# event-dt-end   : 2014-01-06
-# event-location : Fondazione Stelline, Milano
+---
+title: Josef Albers. Sublime Optics
+uid: '20130922085842'
+dt-created: 2013-09-22 08:58:42 GMT
+link: http://stelline.it/en/stelline-foundation/home/exhibitions/upcoming-exhibitions/josef-albers-spiritualita-e-rigore.html
+event-dt-begin: '2013-09-26'
+event-dt-end: '2014-01-06'
+event-location: Fondazione Stelline, Milano
+---

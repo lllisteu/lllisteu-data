@@ -1,7 +1,9 @@
-Nolde und die Brücke
-# uid            : 20170622201716
-# dt-created     : 2017-06-22 20:17:16 GMT
-# link           : http://www.kunsthalle-kiel.de/de/ausstellungen/vorschau.html
-# event-dt-begin : 2017-11-18
-# event-dt-end   : 2018-04-02
-# event-location : Kunsthalle zu Kiel, Kiel
+---
+title: Nolde und die Brücke
+uid: '20170622201716'
+dt-created: 2017-06-22 20:17:16 GMT
+link: http://www.kunsthalle-kiel.de/de/ausstellungen/vorschau.html
+event-dt-begin: '2017-11-18'
+event-dt-end: '2018-04-02'
+event-location: Kunsthalle zu Kiel, Kiel
+---

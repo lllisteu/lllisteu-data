@@ -1,7 +1,9 @@
-Marie Laurencin
-# uid            : 20130105090911
-# dt-created     : 2013-01-05 09:09:11 GMT
-# link           : http://www.marmottan.fr/fr/exposition-exposition-2504
-# event-dt-begin : 2013-02-21
-# event-dt-end   : 2013-06-30
-# event-location : Musée Marmottan Monet, Paris
+---
+title: Marie Laurencin
+uid: '20130105090911'
+dt-created: 2013-01-05 09:09:11 GMT
+link: http://www.marmottan.fr/fr/exposition-exposition-2504
+event-dt-begin: '2013-02-21'
+event-dt-end: '2013-06-30'
+event-location: Musée Marmottan Monet, Paris
+---

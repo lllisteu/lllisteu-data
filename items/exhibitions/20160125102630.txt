@@ -1,7 +1,9 @@
-Friedrich Wilhelm Murnau
-# uid            : 20160125102630
-# dt-created     : 2016-01-25 10:26:30 GMT
-# link           : http://www.lenbachhaus.de/exhibitions/vorschau-2016/friedrich-wilhelm-murnau/?L=1
-# event-dt-begin : 2016-10-25
-# event-dt-end   : 2017-02-26
-# event-location : Lenbachhaus, München
+---
+title: Friedrich Wilhelm Murnau
+uid: '20160125102630'
+dt-created: 2016-01-25 10:26:30 GMT
+link: http://www.lenbachhaus.de/exhibitions/vorschau-2016/friedrich-wilhelm-murnau/?L=1
+event-dt-begin: '2016-10-25'
+event-dt-end: '2017-02-26'
+event-location: Lenbachhaus, München
+---

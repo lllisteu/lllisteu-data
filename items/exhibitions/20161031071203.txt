@@ -1,7 +1,9 @@
-America after the Fall: Painting in the 1930s
-# uid            : 20161031071203
-# dt-created     : 2016-10-31 07:12:03 GMT
-# link           : https://www.royalacademy.org.uk/exhibition/america-after-the-fall
-# event-dt-begin : 2017-02-25
-# event-dt-end   : 2017-06-04
-# event-location : Royal Academy of Arts, London
+---
+title: 'America after the Fall: Painting in the 1930s'
+uid: '20161031071203'
+dt-created: 2016-10-31 07:12:03 GMT
+link: https://www.royalacademy.org.uk/exhibition/america-after-the-fall
+event-dt-begin: '2017-02-25'
+event-dt-end: '2017-06-04'
+event-location: Royal Academy of Arts, London
+---

@@ -1,7 +1,9 @@
-Nicolas de Staël
-# uid            : 20231013105022
-# dt-created     : 2023-10-13 10:50:22 GMT
-# event-dt-begin : 2023-09-15
-# event-dt-end   : 2024-01-21
-# event-location : Musée d'Art Moderne de la Ville de Paris
-# link           : https://www.mam.paris.fr/fr/expositions/exposition-nicolas-de-stael
+---
+title: Nicolas de Staël
+uid: '20231013105022'
+dt-created: 2023-10-13 10:50:22 GMT
+event-dt-begin: '2023-09-15'
+event-dt-end: '2024-01-21'
+event-location: Musée d'Art Moderne de la Ville de Paris
+link: https://www.mam.paris.fr/fr/expositions/exposition-nicolas-de-stael
+---

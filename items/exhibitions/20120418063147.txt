@@ -1,7 +1,9 @@
-1917
-# uid            : 20120418063147
-# dt-created     : 2012-04-18 06:31:47 GMT
-# link           : http://www.centrepompidou-metz.fr/en/1917
-# event-dt-begin : 2012-05-26
-# event-dt-end   : 2012-09-24
-# event-location : Centre Pompidou, Metz
+---
+title: '1917'
+uid: '20120418063147'
+dt-created: 2012-04-18 06:31:47 GMT
+link: http://www.centrepompidou-metz.fr/en/1917
+event-dt-begin: '2012-05-26'
+event-dt-end: '2012-09-24'
+event-location: Centre Pompidou, Metz
+---

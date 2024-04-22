@@ -1,7 +1,9 @@
-Vija Celmins | Gerhard Richter: Double Vision
-# uid            : 20221101151533
-# dt-created     : 2022-11-01 15:15:33 GMT
-# event-dt-begin : 2023-05-12
-# event-dt-end   : 2023-08-27
-# event-location : Hamburger Kunsthalle
-# link           : https://www.hamburger-kunsthalle.de/en/exhibitions/vija-celmins-gerhard-richter-0
+---
+title: 'Vija Celmins | Gerhard Richter: Double Vision'
+uid: '20221101151533'
+dt-created: 2022-11-01 15:15:33 GMT
+event-dt-begin: '2023-05-12'
+event-dt-end: '2023-08-27'
+event-location: Hamburger Kunsthalle
+link: https://www.hamburger-kunsthalle.de/en/exhibitions/vija-celmins-gerhard-richter-0
+---

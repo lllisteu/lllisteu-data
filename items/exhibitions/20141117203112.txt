@@ -1,7 +1,9 @@
-Africa
-# uid            : 20141117203112
-# dt-created     : 2014-11-17 20:31:12 GMT
-# link           : http://en.louisiana.dk/exhibitions/upcoming
-# event-dt-begin : 2015-06-25
-# event-dt-end   : 2015-10-25
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: Africa
+uid: '20141117203112'
+dt-created: 2014-11-17 20:31:12 GMT
+link: http://en.louisiana.dk/exhibitions/upcoming
+event-dt-begin: '2015-06-25'
+event-dt-end: '2015-10-25'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

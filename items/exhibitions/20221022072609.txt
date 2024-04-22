@@ -1,7 +1,9 @@
-Hockney's Eye
-# uid            : 20221022072609
-# dt-created     : 2022-10-22 07:26:09 GMT
-# event-dt-begin : 2022-09-23
-# event-dt-end   : 2023-01-29
-# event-location : Teylers Museum, Haarlem
-# link           : https://www.teylersmuseum.nl/nl/bezoek-het-museum/wat-is-er-te-zien-en-te-doen/hockneys-eye
+---
+title: Hockney's Eye
+uid: '20221022072609'
+dt-created: 2022-10-22 07:26:09 GMT
+event-dt-begin: '2022-09-23'
+event-dt-end: '2023-01-29'
+event-location: Teylers Museum, Haarlem
+link: https://www.teylersmuseum.nl/nl/bezoek-het-museum/wat-is-er-te-zien-en-te-doen/hockneys-eye
+---

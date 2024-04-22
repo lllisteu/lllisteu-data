@@ -1,7 +1,9 @@
-E.W. Nay – Retrospektive
-# uid            : 20221018084354
-# dt-created     : 2022-10-18 08:43:54 GMT
-# event-dt-begin : 2023-03-24
-# event-dt-end   : 2023-08-06
-# event-location : Museum Küppersmühle, Duisburg
-# link           : https://museum-kueppersmuehle.de/ausstellung/e-w-nay-retrospektive/
+---
+title: E.W. Nay – Retrospektive
+uid: '20221018084354'
+dt-created: 2022-10-18 08:43:54 GMT
+event-dt-begin: '2023-03-24'
+event-dt-end: '2023-08-06'
+event-location: Museum Küppersmühle, Duisburg
+link: https://museum-kueppersmuehle.de/ausstellung/e-w-nay-retrospektive/
+---

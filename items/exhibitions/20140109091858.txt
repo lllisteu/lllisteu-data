@@ -1,7 +1,9 @@
-El Greco and Modern Painting
-# uid            : 20140109091858
-# dt-created     : 2014-01-09 09:18:58 GMT
-# link           : https://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/el-greco-y-la-pintura-moderna
-# event-dt-begin : 2014-06-24
-# event-dt-end   : 2014-10-05
-# event-location : Museo Nacional del Prado, Madrid
+---
+title: El Greco and Modern Painting
+uid: '20140109091858'
+dt-created: 2014-01-09 09:18:58 GMT
+link: https://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/el-greco-y-la-pintura-moderna
+event-dt-begin: '2014-06-24'
+event-dt-end: '2014-10-05'
+event-location: Museo Nacional del Prado, Madrid
+---

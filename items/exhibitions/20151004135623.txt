@@ -1,7 +1,9 @@
-Effigies amicorum. Portraits of Artists by Federico de Madrazo
-# uid            : 20151004135623
-# dt-created     : 2015-10-04 13:56:23 GMT
-# link           : https://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/emeffigies-amicorumem-retratos-de-artistas-por-federico-de-madrazo-1815-1894
-# event-dt-begin : 2015-09-22
-# event-dt-end   : 2016-01-10
-# event-location : Museo Nacional del Prado, Madrid
+---
+title: Effigies amicorum. Portraits of Artists by Federico de Madrazo
+uid: '20151004135623'
+dt-created: 2015-10-04 13:56:23 GMT
+link: https://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/emeffigies-amicorumem-retratos-de-artistas-por-federico-de-madrazo-1815-1894
+event-dt-begin: '2015-09-22'
+event-dt-end: '2016-01-10'
+event-location: Museo Nacional del Prado, Madrid
+---

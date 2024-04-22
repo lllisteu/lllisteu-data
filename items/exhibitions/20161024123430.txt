@@ -1,7 +1,9 @@
-Masterworks from the Budapest Museum of Fine Arts
-# uid            : 20161024123430
-# dt-created     : 2016-10-24 12:34:30 GMT
-# link           : http://www.museothyssen.org/en/thyssen/exposiciones_proximas/148
-# event-dt-begin : 2017-02-21
-# event-dt-end   : 2017-05-28
-# event-location : Museo Thyssen-Bornemisza, Madrid
+---
+title: Masterworks from the Budapest Museum of Fine Arts
+uid: '20161024123430'
+dt-created: 2016-10-24 12:34:30 GMT
+link: http://www.museothyssen.org/en/thyssen/exposiciones_proximas/148
+event-dt-begin: '2017-02-21'
+event-dt-end: '2017-05-28'
+event-location: Museo Thyssen-Bornemisza, Madrid
+---

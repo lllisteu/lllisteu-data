@@ -1,7 +1,9 @@
-Femme Fatale: Gaze–Power–Gender
-# uid            : 20221101151759
-# dt-created     : 2022-11-01 15:17:59 GMT
-# event-dt-begin : 2022-12-09
-# event-dt-end   : 2023-04-10
-# event-location : Hamburger Kunsthalle
-# link           : https://www.hamburger-kunsthalle.de/en/exhibitions/femme-fatale
+---
+title: 'Femme Fatale: Gaze–Power–Gender'
+uid: '20221101151759'
+dt-created: 2022-11-01 15:17:59 GMT
+event-dt-begin: '2022-12-09'
+event-dt-end: '2023-04-10'
+event-location: Hamburger Kunsthalle
+link: https://www.hamburger-kunsthalle.de/en/exhibitions/femme-fatale
+---

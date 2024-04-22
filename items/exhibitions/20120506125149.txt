@@ -1,7 +1,9 @@
-Emperor Maximilian I and the Art of His Time
-# uid            : 20120506125149
-# dt-created     : 2012-05-06 12:51:49 GMT
-# link           : http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1215680392292
-# event-dt-begin : 2012-09-14
-# event-dt-end   : 2013-01-06
-# event-location : Albertina, Wien
+---
+title: Emperor Maximilian I and the Art of His Time
+uid: '20120506125149'
+dt-created: 2012-05-06 12:51:49 GMT
+link: http://albertina.at:80/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119323&ausstellungen_id=1215680392292
+event-dt-begin: '2012-09-14'
+event-dt-end: '2013-01-06'
+event-location: Albertina, Wien
+---

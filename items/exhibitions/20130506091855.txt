@@ -1,7 +1,9 @@
-Henry van de Velde
-# uid            : 20130506091855
-# dt-created     : 2013-05-06 09:18:55 GMT
-# link           : http://www.kmkg-mrah.be/expositions/henry-van-de-velde
-# event-dt-begin : 2013-09-13
-# event-dt-end   : 2014-01-12
-# event-location : Jubelparkmuseum, Brussel
+---
+title: Henry van de Velde
+uid: '20130506091855'
+dt-created: 2013-05-06 09:18:55 GMT
+link: http://www.kmkg-mrah.be/expositions/henry-van-de-velde
+event-dt-begin: '2013-09-13'
+event-dt-end: '2014-01-12'
+event-location: Jubelparkmuseum, Brussel
+---

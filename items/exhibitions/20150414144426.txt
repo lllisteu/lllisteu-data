@@ -1,7 +1,9 @@
-György Kepes
-# uid            : 20150414144426
-# dt-created     : 2015-04-14 14:44:26 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-liverpool/exhibition-display/gyorgy-kepes
-# event-dt-begin : 2015-03-06
-# event-dt-end   : 2015-05-31
-# event-location : Tate Liverpool
+---
+title: György Kepes
+uid: '20150414144426'
+dt-created: 2015-04-14 14:44:26 GMT
+link: http://www.tate.org.uk/whats-on/tate-liverpool/exhibition-display/gyorgy-kepes
+event-dt-begin: '2015-03-06'
+event-dt-end: '2015-05-31'
+event-location: Tate Liverpool
+---

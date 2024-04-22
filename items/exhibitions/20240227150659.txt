@@ -1,7 +1,9 @@
-Reflections
-# uid            : 20240227150659
-# dt-created     : 2024-02-27 15:06:59 GMT
-# event-dt-begin : 2024-06-29
-# event-dt-end   : 2024-09-01
-# event-location : Ludwig Museum Koblenz
-# link           : https://ludwigmuseum.org/en/ausstellungen/insights-outsights-important-artistic-positions-from-the-collection-of-the-national-bank-essen/
+---
+title: Reflections
+uid: '20240227150659'
+dt-created: 2024-02-27 15:06:59 GMT
+event-dt-begin: '2024-06-29'
+event-dt-end: '2024-09-01'
+event-location: Ludwig Museum Koblenz
+link: https://ludwigmuseum.org/en/ausstellungen/insights-outsights-important-artistic-positions-from-the-collection-of-the-national-bank-essen/
+---

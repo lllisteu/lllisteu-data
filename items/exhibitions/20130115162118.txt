@@ -1,7 +1,9 @@
-Manet – Portraying Life
-# uid            : 20130115162118
-# dt-created     : 2013-01-15 16:21:18 GMT
-# link           : http://www.royalacademy.org.uk/exhibitions/manet/about-the-exhibition/
-# event-dt-begin : 2013-01-26
-# event-dt-end   : 2013-04-14
-# event-location : Royal Academy of Arts, London
+---
+title: Manet – Portraying Life
+uid: '20130115162118'
+dt-created: 2013-01-15 16:21:18 GMT
+link: http://www.royalacademy.org.uk/exhibitions/manet/about-the-exhibition/
+event-dt-begin: '2013-01-26'
+event-dt-end: '2013-04-14'
+event-location: Royal Academy of Arts, London
+---

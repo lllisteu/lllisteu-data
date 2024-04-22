@@ -1,7 +1,9 @@
-Karl Friedrich Schinkel
-# uid            : 20130108112351
-# dt-created     : 2013-01-08 11:23:51 GMT
-# link           : http://www.hypo-kunsthalle.de/newweb/eschinkel.html
-# event-dt-begin : 2013-02-01
-# event-dt-end   : 2013-05-12
-# event-location : Kunsthalle der Hypo-Kulturstiftung, München
+---
+title: Karl Friedrich Schinkel
+uid: '20130108112351'
+dt-created: 2013-01-08 11:23:51 GMT
+link: http://www.hypo-kunsthalle.de/newweb/eschinkel.html
+event-dt-begin: '2013-02-01'
+event-dt-end: '2013-05-12'
+event-location: Kunsthalle der Hypo-Kulturstiftung, München
+---

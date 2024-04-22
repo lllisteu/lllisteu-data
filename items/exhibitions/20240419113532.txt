@@ -1,7 +1,9 @@
-André Masson
-# uid            : 20240419113532
-# dt-created     : 2024-04-19 11:35:32 GMT
-# event-dt-begin : 2024-03-29
-# event-dt-end   : 2024-09-02
-# event-location : Centre Pompidou, Metz
-# link           : https://www.centrepompidou-metz.fr/en/programme/exposition/andre-masson
+---
+title: André Masson
+uid: '20240419113532'
+dt-created: 2024-04-19 11:35:32 GMT
+event-dt-begin: '2024-03-29'
+event-dt-end: '2024-09-02'
+event-location: Centre Pompidou, Metz
+link: https://www.centrepompidou-metz.fr/en/programme/exposition/andre-masson
+---

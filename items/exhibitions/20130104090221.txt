@@ -1,7 +1,9 @@
-Frida Kahlo / Diego Rivera – L'art en fusion
-# uid            : 20130104090221
-# dt-created     : 2013-01-04 09:02:21 GMT
-# link           : http://www.musee-orangerie.fr/pages/page_id19505_u1l2.htm
-# event-dt-begin : 2013-10-09
-# event-dt-end   : 2014-01-13
-# event-location : Musée de l'Orangerie, Paris
+---
+title: Frida Kahlo / Diego Rivera – L'art en fusion
+uid: '20130104090221'
+dt-created: 2013-01-04 09:02:21 GMT
+link: http://www.musee-orangerie.fr/pages/page_id19505_u1l2.htm
+event-dt-begin: '2013-10-09'
+event-dt-end: '2014-01-13'
+event-location: Musée de l'Orangerie, Paris
+---

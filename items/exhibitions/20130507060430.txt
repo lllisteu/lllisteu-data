@@ -1,7 +1,9 @@
-Jo Baer
-# uid            : 20130507060430
-# dt-created     : 2013-05-07 06:04:30 GMT
-# link           : http://www.museenkoeln.de/museum-ludwig/default.asp?s=4289
-# event-dt-begin : 2013-05-25
-# event-dt-end   : 2013-08-25
-# event-location : Museum Ludwig, Köln
+---
+title: Jo Baer
+uid: '20130507060430'
+dt-created: 2013-05-07 06:04:30 GMT
+link: http://www.museenkoeln.de/museum-ludwig/default.asp?s=4289
+event-dt-begin: '2013-05-25'
+event-dt-end: '2013-08-25'
+event-location: Museum Ludwig, Köln
+---

@@ -1,7 +1,9 @@
-True Colors
-# uid            : 20240421102838
-# dt-created     : 2024-04-21 10:28:38 GMT
-# event-dt-begin : 2024-06-01
-# event-dt-end   : 2024-09-29
-# event-location : Kunstmuseum Den Haag
-# link           : https://www.kunstmuseum.nl/en/exhibitions/true-colors
+---
+title: True Colors
+uid: '20240421102838'
+dt-created: 2024-04-21 10:28:38 GMT
+event-dt-begin: '2024-06-01'
+event-dt-end: '2024-09-29'
+event-location: Kunstmuseum Den Haag
+link: https://www.kunstmuseum.nl/en/exhibitions/true-colors
+---

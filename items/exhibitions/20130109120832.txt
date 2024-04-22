@@ -1,7 +1,9 @@
-Paul Klee's Angels
-# uid            : 20130109120832
-# dt-created     : 2013-01-09 12:08:32 GMT
-# link           : http://www.museum-folkwang.de/en/exhibitions/current-exhibtions/angels-klee.html
-# event-dt-begin : 2013-02-02
-# event-dt-end   : 2013-04-14
-# event-location : Museum Folkwang, Essen
+---
+title: Paul Klee's Angels
+uid: '20130109120832'
+dt-created: 2013-01-09 12:08:32 GMT
+link: http://www.museum-folkwang.de/en/exhibitions/current-exhibtions/angels-klee.html
+event-dt-begin: '2013-02-02'
+event-dt-end: '2013-04-14'
+event-location: Museum Folkwang, Essen
+---

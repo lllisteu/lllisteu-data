@@ -1,7 +1,9 @@
-Yoko Ono: Music of the Mind
-# uid            : 20240322131822
-# dt-created     : 2024-03-22 13:18:22 GMT
-# event-dt-begin : 2024-02-15
-# event-dt-end   : 2024-09-01
-# event-location : Tate Modern, London
-# link           : https://www.tate.org.uk/whats-on/tate-modern/yoko-ono
+---
+title: 'Yoko Ono: Music of the Mind'
+uid: '20240322131822'
+dt-created: 2024-03-22 13:18:22 GMT
+event-dt-begin: '2024-02-15'
+event-dt-end: '2024-09-01'
+event-location: Tate Modern, London
+link: https://www.tate.org.uk/whats-on/tate-modern/yoko-ono
+---

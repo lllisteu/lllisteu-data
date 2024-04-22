@@ -1,7 +1,9 @@
-Gabriele Münter
-# uid            : 20230617081522
-# dt-created     : 2023-06-17 08:15:22 GMT
-# event-dt-begin : 2023-10-20
-# event-dt-end   : 2024-02-18
-# event-location : Leopold Museum, Wien
-# link           : https://www.leopoldmuseum.org/en/exhibitions/138/gabriele-muenter
+---
+title: Gabriele Münter
+uid: '20230617081522'
+dt-created: 2023-06-17 08:15:22 GMT
+event-dt-begin: '2023-10-20'
+event-dt-end: '2024-02-18'
+event-location: Leopold Museum, Wien
+link: https://www.leopoldmuseum.org/en/exhibitions/138/gabriele-muenter
+---

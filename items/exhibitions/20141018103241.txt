@@ -1,7 +1,9 @@
-Alibis: Sigmar Polke. Retrospective
-# uid            : 20141018103241
-# dt-created     : 2014-10-18 10:32:41 GMT
-# link           : http://www.museum-ludwig.de/en/exhibitions/sigmar-polke.html
-# event-dt-begin : 2015-03-14
-# event-dt-end   : 2015-07-05
-# event-location : Museum Ludwig, Köln
+---
+title: 'Alibis: Sigmar Polke. Retrospective'
+uid: '20141018103241'
+dt-created: 2014-10-18 10:32:41 GMT
+link: http://www.museum-ludwig.de/en/exhibitions/sigmar-polke.html
+event-dt-begin: '2015-03-14'
+event-dt-end: '2015-07-05'
+event-location: Museum Ludwig, Köln
+---

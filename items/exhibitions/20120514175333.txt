@@ -1,7 +1,9 @@
-Otto Mueller
-# uid            : 20120514175333
-# dt-created     : 2012-05-14 17:53:33 GMT
-# link           : http://www.duisburg.de/micro2/lehmbruck_en/ausstellungen/wechselausstellungen/mueller.php
-# event-dt-begin : 2012-11-16
-# event-dt-end   : 2013-02-24
-# event-location : Lehmbruckmuseum, Duisburg
+---
+title: Otto Mueller
+uid: '20120514175333'
+dt-created: 2012-05-14 17:53:33 GMT
+link: http://www.duisburg.de/micro2/lehmbruck_en/ausstellungen/wechselausstellungen/mueller.php
+event-dt-begin: '2012-11-16'
+event-dt-end: '2013-02-24'
+event-location: Lehmbruckmuseum, Duisburg
+---

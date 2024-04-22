@@ -1,7 +1,9 @@
-The young Van Dyck
-# uid            : 20120315211507
-# dt-created     : 2012-03-15 21:15:07 GMT
-# link           : http://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/el-joven-van-dyck
-# event-dt-begin : 2012-11-20
-# event-dt-end   : 2013-03-31
-# event-location : Museo Nacional del Prado, Madrid
+---
+title: The young Van Dyck
+uid: '20120315211507'
+dt-created: 2012-03-15 21:15:07 GMT
+link: http://www.museodelprado.es/en/exhibitions/exhibitions/at-the-museum/el-joven-van-dyck
+event-dt-begin: '2012-11-20'
+event-dt-end: '2013-03-31'
+event-location: Museo Nacional del Prado, Madrid
+---

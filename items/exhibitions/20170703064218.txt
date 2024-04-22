@@ -1,7 +1,9 @@
-Araki.Tokyo
-# uid            : 20170703064218
-# dt-created     : 2017-07-03 06:42:18 GMT
-# link           : https://www.pinakothek.de/ausstellungen/araki-tokyo
-# event-dt-begin : 2017-10-27
-# event-dt-end   : 2018-03-04
-# event-location : Pinakothek der Moderne, München
+---
+title: Araki.Tokyo
+uid: '20170703064218'
+dt-created: 2017-07-03 06:42:18 GMT
+link: https://www.pinakothek.de/ausstellungen/araki-tokyo
+event-dt-begin: '2017-10-27'
+event-dt-end: '2018-03-04'
+event-location: Pinakothek der Moderne, München
+---

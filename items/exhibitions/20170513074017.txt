@@ -1,7 +1,9 @@
-Bacon, Freud, and the London painters
-# uid            : 20170513074017
-# dt-created     : 2017-05-13 07:40:17 GMT
-# link           : http://www.museopicassomalaga.org/exposiciones-temporales/bacon-freud-y-la-escuela-de-londres
-# event-dt-begin : 2017-04-26
-# event-dt-end   : 2017-09-17
-# event-location : Museo Picasso, Málaga
+---
+title: Bacon, Freud, and the London painters
+uid: '20170513074017'
+dt-created: 2017-05-13 07:40:17 GMT
+link: http://www.museopicassomalaga.org/exposiciones-temporales/bacon-freud-y-la-escuela-de-londres
+event-dt-begin: '2017-04-26'
+event-dt-end: '2017-09-17'
+event-location: Museo Picasso, Málaga
+---

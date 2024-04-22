@@ -1,7 +1,9 @@
-Jean Paul Riopelle - Parfums d'ateliers
-# uid            : 20231003084848
-# dt-created     : 2023-10-03 08:48:48 GMT
-# event-dt-begin : 2023-07-01
-# event-dt-end   : 2023-11-12
-# event-location : Fondation Maeght, Saint-Paul-de-Vence
-# link           : https://www.fondation-maeght.com/parfums-dateliers/
+---
+title: Jean Paul Riopelle - Parfums d'ateliers
+uid: '20231003084848'
+dt-created: 2023-10-03 08:48:48 GMT
+event-dt-begin: '2023-07-01'
+event-dt-end: '2023-11-12'
+event-location: Fondation Maeght, Saint-Paul-de-Vence
+link: https://www.fondation-maeght.com/parfums-dateliers/
+---

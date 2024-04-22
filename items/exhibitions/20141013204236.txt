@@ -1,7 +1,9 @@
-Impression, soleil levant
-# uid            : 20141013204236
-# dt-created     : 2014-10-13 20:42:36 GMT
-# link           : http://marmottan.fr/uk/current_exhibition-musee-2576
-# event-dt-begin : 2014-09-18
-# event-dt-end   : 2015-01-18
-# event-location : Musée Marmottan Monet, Paris
+---
+title: Impression, soleil levant
+uid: '20141013204236'
+dt-created: 2014-10-13 20:42:36 GMT
+link: http://marmottan.fr/uk/current_exhibition-musee-2576
+event-dt-begin: '2014-09-18'
+event-dt-end: '2015-01-18'
+event-location: Musée Marmottan Monet, Paris
+---

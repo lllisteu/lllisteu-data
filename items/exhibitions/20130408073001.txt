@@ -1,7 +1,9 @@
-Desire and sensuality in the Victorian era
-# uid            : 20130408073001
-# dt-created     : 2013-04-08 07:30:01 GMT
-# link           : http://www.musee-jacquemart-andre.com/en/events/desire-and-sensuality-victorian-era
-# event-dt-begin : 2013-09-13
-# event-dt-end   : 2014-01-20
-# event-location : Musée Jacquemart-André, Paris
+---
+title: Desire and sensuality in the Victorian era
+uid: '20130408073001'
+dt-created: 2013-04-08 07:30:01 GMT
+link: http://www.musee-jacquemart-andre.com/en/events/desire-and-sensuality-victorian-era
+event-dt-begin: '2013-09-13'
+event-dt-end: '2014-01-20'
+event-location: Musée Jacquemart-André, Paris
+---

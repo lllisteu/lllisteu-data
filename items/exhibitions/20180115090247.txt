@@ -1,7 +1,9 @@
-Wild Souls. Symbolism in the Baltic States
-# uid            : 20180115090247
-# dt-created     : 2018-01-15 09:02:47 GMT
-# event-dt-begin : 2018-04-10
-# event-dt-end   : 2018-07-15
-# event-location : Musée d'Orsay, Paris
-# link           : http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/ames-sauvages-46485.html?tx_ttnews%5BbackPid%5D=254&cHash=e585ede3dd
+---
+title: Wild Souls. Symbolism in the Baltic States
+uid: '20180115090247'
+dt-created: 2018-01-15 09:02:47 GMT
+event-dt-begin: '2018-04-10'
+event-dt-end: '2018-07-15'
+event-location: Musée d'Orsay, Paris
+link: http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/ames-sauvages-46485.html?tx_ttnews%5BbackPid%5D=254&cHash=e585ede3dd
+---

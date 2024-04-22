@@ -1,7 +1,9 @@
-Bruno Goller
-# uid            : 20240310133004
-# dt-created     : 2024-03-10 13:30:04 GMT
-# event-dt-begin : 2024-09-19
-# event-dt-end   : 2025-01-19
-# event-location : Kunstmuseum Bonn
-# link           : https://www.kunstmuseum-bonn.de/en/ausstellungen/bruno-goller/
+---
+title: Bruno Goller
+uid: '20240310133004'
+dt-created: 2024-03-10 13:30:04 GMT
+event-dt-begin: '2024-09-19'
+event-dt-end: '2025-01-19'
+event-location: Kunstmuseum Bonn
+link: https://www.kunstmuseum-bonn.de/en/ausstellungen/bruno-goller/
+---

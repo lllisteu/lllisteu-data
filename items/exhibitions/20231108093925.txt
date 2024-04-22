@@ -1,7 +1,9 @@
-Holbein and the Renaissance in the North
-# uid            : 20231108093925
-# dt-created     : 2023-11-08 09:39:25 GMT
-# event-dt-begin : 2023-11-02
-# event-dt-end   : 2024-02-18
-# event-location : Städel Museum, Frankfurt
-# link           : https://www.staedelmuseum.de/en/holbein
+---
+title: Holbein and the Renaissance in the North
+uid: '20231108093925'
+dt-created: 2023-11-08 09:39:25 GMT
+event-dt-begin: '2023-11-02'
+event-dt-end: '2024-02-18'
+event-location: Städel Museum, Frankfurt
+link: https://www.staedelmuseum.de/en/holbein
+---

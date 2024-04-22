@@ -1,7 +1,9 @@
-Florence Henri
-# uid            : 20141011091332
-# dt-created     : 2014-10-11 09:13:32 GMT
-# link           : http://www.jeudepaume.org/index.php?page=article&idArt=2235
-# event-dt-begin : 2015-02-24
-# event-dt-end   : 2015-05-17
-# event-location : Jeu de Paume, Paris
+---
+title: Florence Henri
+uid: '20141011091332'
+dt-created: 2014-10-11 09:13:32 GMT
+link: http://www.jeudepaume.org/index.php?page=article&idArt=2235
+event-dt-begin: '2015-02-24'
+event-dt-end: '2015-05-17'
+event-location: Jeu de Paume, Paris
+---

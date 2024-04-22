@@ -1,7 +1,9 @@
-COLORI
-# uid            : 20170418122505
-# dt-created     : 2017-04-18 12:25:05 GMT
-# link           : http://www.gamtorino.it/en/eventi-e-mostre/lemozione-dei-colori-nellarte
-# event-dt-begin : 2017-03-14
-# event-dt-end   : 2017-07-23
-# event-location : GAM & Castello di Rivoli, Torino
+---
+title: COLORI
+uid: '20170418122505'
+dt-created: 2017-04-18 12:25:05 GMT
+link: http://www.gamtorino.it/en/eventi-e-mostre/lemozione-dei-colori-nellarte
+event-dt-begin: '2017-03-14'
+event-dt-end: '2017-07-23'
+event-location: GAM & Castello di Rivoli, Torino
+---

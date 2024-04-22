@@ -1,7 +1,9 @@
-The Sun: Source of Light in Art
-# uid            : 20221223195306
-# dt-created     : 2022-12-23 19:53:06 GMT
-# event-dt-begin : 2023-02-25
-# event-dt-end   : 2023-06-11
-# event-location : Museum Barberini, Potsdam
-# link           : https://www.museum-barberini.de/en/ausstellungen/9493/the-sun-source-of-light-in-art
+---
+title: 'The Sun: Source of Light in Art'
+uid: '20221223195306'
+dt-created: 2022-12-23 19:53:06 GMT
+event-dt-begin: '2023-02-25'
+event-dt-end: '2023-06-11'
+event-location: Museum Barberini, Potsdam
+link: https://www.museum-barberini.de/en/ausstellungen/9493/the-sun-source-of-light-in-art
+---

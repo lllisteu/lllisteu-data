@@ -1,7 +1,9 @@
-Keith Haring – The Political Line
-# uid            : 20141014204542
-# dt-created     : 2014-10-14 20:45:42 GMT
-# link           : http://www.kunsthalle-muc.de/en/exhibitions/details/keith-haring/
-# event-dt-begin : 2015-05-01
-# event-dt-end   : 2015-08-30
-# event-location : Kunsthalle der Hypo-Kulturstiftung, München
+---
+title: Keith Haring – The Political Line
+uid: '20141014204542'
+dt-created: 2014-10-14 20:45:42 GMT
+link: http://www.kunsthalle-muc.de/en/exhibitions/details/keith-haring/
+event-dt-begin: '2015-05-01'
+event-dt-end: '2015-08-30'
+event-location: Kunsthalle der Hypo-Kulturstiftung, München
+---

@@ -1,7 +1,9 @@
-Emil Nolde
-# uid            : 20180312112325
-# dt-created     : 2018-03-12 11:23:25 GMT
-# event-dt-begin : 2018-11-17
-# event-dt-end   : 2019-03-03
-# event-location : Zentrum Paul Klee, Bern
-# link           : https://www.zpk.org/en/exhibitions/preview/emil-nolde-1612.html
+---
+title: Emil Nolde
+uid: '20180312112325'
+dt-created: 2018-03-12 11:23:25 GMT
+event-dt-begin: '2018-11-17'
+event-dt-end: '2019-03-03'
+event-location: Zentrum Paul Klee, Bern
+link: https://www.zpk.org/en/exhibitions/preview/emil-nolde-1612.html
+---

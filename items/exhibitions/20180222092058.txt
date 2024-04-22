@@ -1,7 +1,9 @@
-William Kentridge
-# uid            : 20180222092058
-# dt-created     : 2018-02-22 09:20:58 GMT
-# event-dt-begin : 2018-03-22
-# event-dt-end   : 2018-08-26
-# event-location : Liebieghaus, Frankfurt
-# link           : http://www.liebieghaus.de/en/exhibitions/william-kentridge
+---
+title: William Kentridge
+uid: '20180222092058'
+dt-created: 2018-02-22 09:20:58 GMT
+event-dt-begin: '2018-03-22'
+event-dt-end: '2018-08-26'
+event-location: Liebieghaus, Frankfurt
+link: http://www.liebieghaus.de/en/exhibitions/william-kentridge
+---

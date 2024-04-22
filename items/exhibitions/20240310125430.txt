@@ -1,7 +1,9 @@
-William Blake’s Universe
-# uid            : 20240310125430
-# dt-created     : 2024-03-10 12:54:30 GMT
-# event-dt-begin : 2024-06-14
-# event-dt-end   : 2024-09-08
-# event-location : Hamburger Kunsthalle
-# link           : https://www.hamburger-kunsthalle.de/en/exhibitions/william-blakes-universe
+---
+title: William Blake’s Universe
+uid: '20240310125430'
+dt-created: 2024-03-10 12:54:30 GMT
+event-dt-begin: '2024-06-14'
+event-dt-end: '2024-09-08'
+event-location: Hamburger Kunsthalle
+link: https://www.hamburger-kunsthalle.de/en/exhibitions/william-blakes-universe
+---

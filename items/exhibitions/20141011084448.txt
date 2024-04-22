@@ -1,7 +1,9 @@
-Giovanni Battista Moroni
-# uid            : 20141011084448
-# dt-created     : 2014-10-11 08:44:48 GMT
-# link           : http://www.royalacademy.org.uk/exhibition/giovanni-battista-moroni
-# event-dt-begin : 2014-10-25
-# event-dt-end   : 2015-01-25
-# event-location : Royal Academy of Arts, London
+---
+title: Giovanni Battista Moroni
+uid: '20141011084448'
+dt-created: 2014-10-11 08:44:48 GMT
+link: http://www.royalacademy.org.uk/exhibition/giovanni-battista-moroni
+event-dt-begin: '2014-10-25'
+event-dt-end: '2015-01-25'
+event-location: Royal Academy of Arts, London
+---

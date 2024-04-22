@@ -1,7 +1,9 @@
-Easy Virtue: Prostitution in French Art 1850-1910
-# uid            : 20160112083824
-# dt-created     : 2016-01-12 08:38:24 GMT
-# link           : http://www.vangoghmuseum.nl/en/whats-on/exhibitions/easy-virtue
-# event-dt-begin : 2016-02-19
-# event-dt-end   : 2016-06-19
-# event-location : Van Gogh Museum, Amsterdam
+---
+title: 'Easy Virtue: Prostitution in French Art 1850-1910'
+uid: '20160112083824'
+dt-created: 2016-01-12 08:38:24 GMT
+link: http://www.vangoghmuseum.nl/en/whats-on/exhibitions/easy-virtue
+event-dt-begin: '2016-02-19'
+event-dt-end: '2016-06-19'
+event-location: Van Gogh Museum, Amsterdam
+---

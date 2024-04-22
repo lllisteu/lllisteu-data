@@ -1,7 +1,9 @@
-Turner Monet Twombly – Later Paintings
-# uid            : 20120318121331
-# dt-created     : 2012-03-18 12:13:31 GMT
-# link           : http://www.staatsgalerie.de/ausstellung_e/tmt/
-# event-dt-begin : 2012-02-11
-# event-dt-end   : 2012-05-28
-# event-location : Staatsgalerie, Stuttgart
+---
+title: Turner Monet Twombly – Later Paintings
+uid: '20120318121331'
+dt-created: 2012-03-18 12:13:31 GMT
+link: http://www.staatsgalerie.de/ausstellung_e/tmt/
+event-dt-begin: '2012-02-11'
+event-dt-end: '2012-05-28'
+event-location: Staatsgalerie, Stuttgart
+---

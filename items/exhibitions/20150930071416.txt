@@ -1,7 +1,9 @@
-Albrecht Dürer and Lucas van Leyden
-# uid            : 20150930071416
-# dt-created     : 2015-09-30 07:14:16 GMT
-# link           : http://www.staatsgalerie.de/ausstellung_e/duerer_van_leyden/
-# event-dt-begin : 2015-11-15
-# event-dt-end   : 2016-02-14
-# event-location : Staatsgalerie Stuttgart
+---
+title: Albrecht Dürer and Lucas van Leyden
+uid: '20150930071416'
+dt-created: 2015-09-30 07:14:16 GMT
+link: http://www.staatsgalerie.de/ausstellung_e/duerer_van_leyden/
+event-dt-begin: '2015-11-15'
+event-dt-end: '2016-02-14'
+event-location: Staatsgalerie Stuttgart
+---

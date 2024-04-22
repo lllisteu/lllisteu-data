@@ -1,7 +1,9 @@
-Rineke Dijkstra: The Krazyhouse
-# uid            : 20141027190538
-# dt-created     : 2014-10-27 19:05:38 GMT
-# link           : http://www.guggenheim-bilbao.es/en/exhibitions/rineke-dijkstra-the-krazyhouse-4/
-# event-dt-begin : 2014-12-13
-# event-dt-end   : 2015-03-01
-# event-location : Guggenheim Museum, Bilbao
+---
+title: 'Rineke Dijkstra: The Krazyhouse'
+uid: '20141027190538'
+dt-created: 2014-10-27 19:05:38 GMT
+link: http://www.guggenheim-bilbao.es/en/exhibitions/rineke-dijkstra-the-krazyhouse-4/
+event-dt-begin: '2014-12-13'
+event-dt-end: '2015-03-01'
+event-location: Guggenheim Museum, Bilbao
+---

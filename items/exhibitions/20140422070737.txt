@@ -1,7 +1,9 @@
-El Lissitzky
-# uid            : 20140422070737
-# dt-created     : 2014-04-22 07:07:37 GMT
-# link           : http://museopicassomalaga.org/exposicion.cfm?id=116
-# event-dt-begin : 2014-06-23
-# event-dt-end   : 2014-09-24
-# event-location : Museo Picasso, Málaga
+---
+title: El Lissitzky
+uid: '20140422070737'
+dt-created: 2014-04-22 07:07:37 GMT
+link: http://museopicassomalaga.org/exposicion.cfm?id=116
+event-dt-begin: '2014-06-23'
+event-dt-end: '2014-09-24'
+event-location: Museo Picasso, Málaga
+---

@@ -1,7 +1,9 @@
-Francisco de Zurbarán
-# uid            : 20130110223033
-# dt-created     : 2013-01-10 22:30:33 GMT
-# link           : http://www.bozar.be/activity.php?id=13203&selectiondate=2013-01-10
-# event-dt-begin : 2014-01-29
-# event-dt-end   : 2014-05-25
-# event-location : Palais des Beaux-Arts, Brussel
+---
+title: Francisco de Zurbarán
+uid: '20130110223033'
+dt-created: 2013-01-10 22:30:33 GMT
+link: http://www.bozar.be/activity.php?id=13203&selectiondate=2013-01-10
+event-dt-begin: '2014-01-29'
+event-dt-end: '2014-05-25'
+event-location: Palais des Beaux-Arts, Brussel
+---

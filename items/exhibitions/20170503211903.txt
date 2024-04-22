@@ -1,7 +1,9 @@
-Willy Ronis
-# uid            : 20170503211903
-# dt-created     : 2017-05-03 21:19:03 GMT
-# link           : http://www.jeudepaume.org/index.php?page=article&idArt=2865
-# event-dt-begin : 2017-06-28
-# event-dt-end   : 2017-10-29
-# event-location : Château de Tours
+---
+title: Willy Ronis
+uid: '20170503211903'
+dt-created: 2017-05-03 21:19:03 GMT
+link: http://www.jeudepaume.org/index.php?page=article&idArt=2865
+event-dt-begin: '2017-06-28'
+event-dt-end: '2017-10-29'
+event-location: Château de Tours
+---

@@ -1,7 +1,9 @@
-Fragonard in love. Suitor and libertine
-# uid            : 20150915075413
-# dt-created     : 2015-09-15 07:54:13 GMT
-# link           : http://en.museeduluxembourg.fr/exhibitions/fragonard-love-suitor-and-libertine
-# event-dt-begin : 2015-09-16
-# event-dt-end   : 2016-01-24
-# event-location : Musée du Luxembourg, Paris
+---
+title: Fragonard in love. Suitor and libertine
+uid: '20150915075413'
+dt-created: 2015-09-15 07:54:13 GMT
+link: http://en.museeduluxembourg.fr/exhibitions/fragonard-love-suitor-and-libertine
+event-dt-begin: '2015-09-16'
+event-dt-end: '2016-01-24'
+event-location: Musée du Luxembourg, Paris
+---

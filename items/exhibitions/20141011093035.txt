@@ -1,7 +1,9 @@
-Agnes Martin
-# uid            : 20141011093035
-# dt-created     : 2014-10-11 09:30:35 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/agnes-martin
-# event-dt-begin : 2015-06-03
-# event-dt-end   : 2015-10-11
-# event-location : Tate Modern, London
+---
+title: Agnes Martin
+uid: '20141011093035'
+dt-created: 2014-10-11 09:30:35 GMT
+link: http://www.tate.org.uk/whats-on/tate-modern/exhibition/agnes-martin
+event-dt-begin: '2015-06-03'
+event-dt-end: '2015-10-11'
+event-location: Tate Modern, London
+---

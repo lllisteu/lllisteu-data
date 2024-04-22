@@ -1,7 +1,9 @@
-Van Gogh and Germany
-# uid            : 20170529064643
-# dt-created     : 2017-05-29 06:46:43 GMT
-# link           : http://www.staedelmuseum.de/en/exhibitions/van-gogh
-# event-dt-begin : 2019-10-30
-# event-dt-end   : 2020-02-16
-# event-location : Städel Museum, Frankfurt
+---
+title: Van Gogh and Germany
+uid: '20170529064643'
+dt-created: 2017-05-29 06:46:43 GMT
+link: http://www.staedelmuseum.de/en/exhibitions/van-gogh
+event-dt-begin: '2019-10-30'
+event-dt-end: '2020-02-16'
+event-location: Städel Museum, Frankfurt
+---

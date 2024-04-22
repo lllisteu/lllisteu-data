@@ -1,7 +1,9 @@
-Soviet Modernism 1955-1991
-# uid            : 20130109173250
-# dt-created     : 2013-01-09 17:32:50 GMT
-# link           : http://www.azw.at/event.php?event_id=1203&lang_id=en
-# event-dt-begin : 2012-11-08
-# event-dt-end   : 2013-02-25
-# event-location : Architekturzentrum Wien
+---
+title: Soviet Modernism 1955-1991
+uid: '20130109173250'
+dt-created: 2013-01-09 17:32:50 GMT
+link: http://www.azw.at/event.php?event_id=1203&lang_id=en
+event-dt-begin: '2012-11-08'
+event-dt-end: '2013-02-25'
+event-location: Architekturzentrum Wien
+---

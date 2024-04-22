@@ -1,7 +1,9 @@
-Georges Braque
-# uid            : 20140408065627
-# dt-created     : 2014-04-08 06:56:27 GMT
-# link           : http://www.guggenheim-bilbao.es/en/exhibitions/georges-braque-2/
-# event-dt-begin : 2014-06-13
-# event-dt-end   : 2014-09-21
-# event-location : Guggenheim Museum, Bilbao
+---
+title: Georges Braque
+uid: '20140408065627'
+dt-created: 2014-04-08 06:56:27 GMT
+link: http://www.guggenheim-bilbao.es/en/exhibitions/georges-braque-2/
+event-dt-begin: '2014-06-13'
+event-dt-end: '2014-09-21'
+event-location: Guggenheim Museum, Bilbao
+---

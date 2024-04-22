@@ -1,7 +1,9 @@
-Firelei Báez. Trust Memory Over History
-# uid            : 20240314122252
-# dt-created     : 2024-03-14 12:22:52 GMT
-# event-dt-begin : 2024-07-06
-# event-dt-end   : 2024-10-13
-# event-location : Kunstmuseum Wolfsburg
-# link           : https://www.kunstmuseum.de/en/exhibition/firelei-baez-trust-memory-over-history/
+---
+title: Firelei Báez. Trust Memory Over History
+uid: '20240314122252'
+dt-created: 2024-03-14 12:22:52 GMT
+event-dt-begin: '2024-07-06'
+event-dt-end: '2024-10-13'
+event-location: Kunstmuseum Wolfsburg
+link: https://www.kunstmuseum.de/en/exhibition/firelei-baez-trust-memory-over-history/
+---

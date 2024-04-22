@@ -1,7 +1,9 @@
-Yves Klein
-# uid            : 20160222150806
-# dt-created     : 2016-02-22 15:08:06 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/yves-klein
-# event-dt-begin : 2016-10-21
-# event-dt-end   : 2017-03-05
-# event-location : Tate Liverpool
+---
+title: Yves Klein
+uid: '20160222150806'
+dt-created: 2016-02-22 15:08:06 GMT
+link: http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/yves-klein
+event-dt-begin: '2016-10-21'
+event-dt-end: '2017-03-05'
+event-location: Tate Liverpool
+---

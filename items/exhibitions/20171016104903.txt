@@ -1,7 +1,9 @@
-Raoul Hausmann
-# uid            : 20171016104903
-# dt-created     : 2017-10-16 10:49:03 GMT
-# event-dt-begin : 2018-02-05
-# event-dt-end   : 2018-05-20
-# event-location : Jeu de Paume, Paris
-# link           : http://www.jeudepaume.org/index.php?page=article&idArt=2947
+---
+title: Raoul Hausmann
+uid: '20171016104903'
+dt-created: 2017-10-16 10:49:03 GMT
+event-dt-begin: '2018-02-05'
+event-dt-end: '2018-05-20'
+event-location: Jeu de Paume, Paris
+link: http://www.jeudepaume.org/index.php?page=article&idArt=2947
+---

@@ -1,7 +1,9 @@
-Edvard Munch: The Modern Eye
-# uid            : 20121030160536
-# dt-created     : 2012-10-30 16:05:36 GMT
-# link           : http://www.munch.museum.no/
-# event-dt-begin : 2012-10-31
-# event-dt-end   : 2013-02-17
-# event-location : Munch-museet, Oslo
+---
+title: 'Edvard Munch: The Modern Eye'
+uid: '20121030160536'
+dt-created: 2012-10-30 16:05:36 GMT
+link: http://www.munch.museum.no/
+event-dt-begin: '2012-10-31'
+event-dt-end: '2013-02-17'
+event-location: Munch-museet, Oslo
+---

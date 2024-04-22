@@ -1,7 +1,9 @@
-Shinkichi Tajiri: The Restless Wanderer
-# uid            : 20231208082650
-# dt-created     : 2023-12-08 08:26:50 GMT
-# event-dt-begin : 2023-12-02
-# event-dt-end   : 2024-05-12
-# event-location : Bonnefanten Museum, Maastricht
-# link           : https://www.bonnefanten.nl/en/exhibitions/shinkichi-tajiri
+---
+title: 'Shinkichi Tajiri: The Restless Wanderer'
+uid: '20231208082650'
+dt-created: 2023-12-08 08:26:50 GMT
+event-dt-begin: '2023-12-02'
+event-dt-end: '2024-05-12'
+event-location: Bonnefanten Museum, Maastricht
+link: https://www.bonnefanten.nl/en/exhibitions/shinkichi-tajiri
+---

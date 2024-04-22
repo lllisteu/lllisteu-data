@@ -1,7 +1,9 @@
-The Bride and the Bachelors
-# uid            : 20130219145048
-# dt-created     : 2013-02-19 14:50:48 GMT
-# link           : http://www.barbican.org.uk/artgallery/event-detail.asp?ID=14075
-# event-dt-begin : 2013-02-14
-# event-dt-end   : 2013-06-09
-# event-location : Barbican Art Gallery, London
+---
+title: The Bride and the Bachelors
+uid: '20130219145048'
+dt-created: 2013-02-19 14:50:48 GMT
+link: http://www.barbican.org.uk/artgallery/event-detail.asp?ID=14075
+event-dt-begin: '2013-02-14'
+event-dt-end: '2013-06-09'
+event-location: Barbican Art Gallery, London
+---

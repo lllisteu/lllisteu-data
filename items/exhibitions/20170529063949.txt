@@ -1,7 +1,9 @@
-Rubens
-# uid            : 20170529063949
-# dt-created     : 2017-05-29 06:39:49 GMT
-# link           : http://www.staedelmuseum.de/en/exhibitions/rubens
-# event-dt-begin : 2018-02-08
-# event-dt-end   : 2018-05-21
-# event-location : Städel Museum, Frankfurt
+---
+title: Rubens
+uid: '20170529063949'
+dt-created: 2017-05-29 06:39:49 GMT
+link: http://www.staedelmuseum.de/en/exhibitions/rubens
+event-dt-begin: '2018-02-08'
+event-dt-end: '2018-05-21'
+event-location: Städel Museum, Frankfurt
+---

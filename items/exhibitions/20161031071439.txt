@@ -1,7 +1,9 @@
-Jasper Johns
-# uid            : 20161031071439
-# dt-created     : 2016-10-31 07:14:39 GMT
-# link           : https://www.royalacademy.org.uk/exhibition/jasper-johns
-# event-dt-begin : 2017-09-23
-# event-dt-end   : 2017-12-10
-# event-location : Royal Academy of Arts, London
+---
+title: Jasper Johns
+uid: '20161031071439'
+dt-created: 2016-10-31 07:14:39 GMT
+link: https://www.royalacademy.org.uk/exhibition/jasper-johns
+event-dt-begin: '2017-09-23'
+event-dt-end: '2017-12-10'
+event-location: Royal Academy of Arts, London
+---

@@ -1,7 +1,9 @@
-Otto Piene. Licht
-# uid            : 20150113074714
-# dt-created     : 2015-01-13 07:47:14 GMT
-# link           : http://www.lwl.org/LWL/Kultur/museumkunstkultur/ausstellungen/ausstellungen_vorschau
-# event-dt-begin : 2015-06-13
-# event-dt-end   : 2015-09-20
-# event-location : LWL-Museum für Kunst und Kultur, Münster
+---
+title: Otto Piene. Licht
+uid: '20150113074714'
+dt-created: 2015-01-13 07:47:14 GMT
+link: http://www.lwl.org/LWL/Kultur/museumkunstkultur/ausstellungen/ausstellungen_vorschau
+event-dt-begin: '2015-06-13'
+event-dt-end: '2015-09-20'
+event-location: LWL-Museum für Kunst und Kultur, Münster
+---

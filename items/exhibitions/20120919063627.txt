@@ -1,7 +1,9 @@
-Dalí
-# uid            : 20120919063627
-# dt-created     : 2012-09-19 06:36:27 GMT
-# link           : http://www.centrepompidou.fr/en
-# event-dt-begin : 2012-11-21
-# event-dt-end   : 2013-03-25
-# event-location : Centre Pompidou, Paris
+---
+title: Dalí
+uid: '20120919063627'
+dt-created: 2012-09-19 06:36:27 GMT
+link: http://www.centrepompidou.fr/en
+event-dt-begin: '2012-11-21'
+event-dt-end: '2013-03-25'
+event-location: Centre Pompidou, Paris
+---

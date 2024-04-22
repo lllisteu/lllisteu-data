@@ -1,7 +1,9 @@
-Joseph Beuys – Anselm Kiefer
-# uid            : 20120619072853
-# dt-created     : 2012-06-19 07:28:53 GMT
-# link           : http://www.museum-kueppersmuehle.de/en/exhibitions/upcoming-exhibitions/
-# event-dt-begin : 2012-06-29
-# event-dt-end   : 2012-09-30
-# event-location : Museum Küppersmühle, Duisburg
+---
+title: Joseph Beuys – Anselm Kiefer
+uid: '20120619072853'
+dt-created: 2012-06-19 07:28:53 GMT
+link: http://www.museum-kueppersmuehle.de/en/exhibitions/upcoming-exhibitions/
+event-dt-begin: '2012-06-29'
+event-dt-end: '2012-09-30'
+event-location: Museum Küppersmühle, Duisburg
+---

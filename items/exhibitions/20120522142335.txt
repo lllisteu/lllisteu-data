@@ -1,7 +1,9 @@
-Alex Katz: Give Me Tomorrow
-# uid            : 20120522142335
-# dt-created     : 2012-05-22 14:23:35 GMT
-# link           : http://www.turnercontemporary.org/exhibitions/alex-katz
-# event-dt-begin : 2012-10-06
-# event-dt-end   : 2013-01-13
-# event-location : Turner Contemporary, Margate
+---
+title: 'Alex Katz: Give Me Tomorrow'
+uid: '20120522142335'
+dt-created: 2012-05-22 14:23:35 GMT
+link: http://www.turnercontemporary.org/exhibitions/alex-katz
+event-dt-begin: '2012-10-06'
+event-dt-end: '2013-01-13'
+event-location: Turner Contemporary, Margate
+---

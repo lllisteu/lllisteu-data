@@ -1,7 +1,9 @@
-Cy Twombly – Photographs 1951-2010
-# uid            : 20120310165714
-# dt-created     : 2012-03-10 16:57:14 GMT
-# link           : http://www.bozar.be/activity.php?id=11613&lng=en
-# event-dt-begin : 2012-02-01
-# event-dt-end   : 2012-04-29
-# event-location : Palais des Beaux-Arts, Brussel
+---
+title: Cy Twombly – Photographs 1951-2010
+uid: '20120310165714'
+dt-created: 2012-03-10 16:57:14 GMT
+link: http://www.bozar.be/activity.php?id=11613&lng=en
+event-dt-begin: '2012-02-01'
+event-dt-end: '2012-04-29'
+event-location: Palais des Beaux-Arts, Brussel
+---

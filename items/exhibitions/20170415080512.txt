@@ -1,7 +1,9 @@
-The Collection Hahnloser
-# uid            : 20170415080512
-# dt-created     : 2017-04-15 08:05:12 GMT
-# link           : http://www.kunstmuseumbern.ch/en/see/today/659-van-gogh-to-cezanne-bonnard-to-matisse-120.html
-# event-dt-begin : 2017-08-11
-# event-dt-end   : 2018-03-11
-# event-location : Kunstmuseum Bern
+---
+title: The Collection Hahnloser
+uid: '20170415080512'
+dt-created: 2017-04-15 08:05:12 GMT
+link: http://www.kunstmuseumbern.ch/en/see/today/659-van-gogh-to-cezanne-bonnard-to-matisse-120.html
+event-dt-begin: '2017-08-11'
+event-dt-end: '2018-03-11'
+event-location: Kunstmuseum Bern
+---

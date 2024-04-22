@@ -1,7 +1,9 @@
-Cindy Sherman – Untitled Horrors
-# uid            : 20140416063429
-# dt-created     : 2014-04-16 06:34:29 GMT
-# link           : http://www.kunsthaus.ch/sherman/
-# event-dt-begin : 2014-06-06
-# event-dt-end   : 2014-09-14
-# event-location : Kunsthaus Zürich
+---
+title: Cindy Sherman – Untitled Horrors
+uid: '20140416063429'
+dt-created: 2014-04-16 06:34:29 GMT
+link: http://www.kunsthaus.ch/sherman/
+event-dt-begin: '2014-06-06'
+event-dt-end: '2014-09-14'
+event-location: Kunsthaus Zürich
+---

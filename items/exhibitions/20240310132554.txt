@@ -1,7 +1,9 @@
-Matisse – The Red Studio
-# uid            : 20240310132554
-# dt-created     : 2024-03-10 13:25:54 GMT
-# event-dt-begin : 2024-05-04
-# event-dt-end   : 2024-09-09
-# event-location : Fondation Louis Vuitton, Paris
-# link           : https://www.fondationlouisvuitton.fr/en/events/matisse-the-red-studio
+---
+title: Matisse – The Red Studio
+uid: '20240310132554'
+dt-created: 2024-03-10 13:25:54 GMT
+event-dt-begin: '2024-05-04'
+event-dt-end: '2024-09-09'
+event-location: Fondation Louis Vuitton, Paris
+link: https://www.fondationlouisvuitton.fr/en/events/matisse-the-red-studio
+---

@@ -1,7 +1,9 @@
-Otto Freundlich
-# uid            : 20170710065246
-# dt-created     : 2017-07-10 06:52:46 GMT
-# link           : https://kunstmuseumbasel.ch/de/ausstellungen/2017/otto-freundlich
-# event-dt-begin : 2017-06-10
-# event-dt-end   : 2017-09-10
-# event-location : Kunstmuseum Basel
+---
+title: Otto Freundlich
+uid: '20170710065246'
+dt-created: 2017-07-10 06:52:46 GMT
+link: https://kunstmuseumbasel.ch/de/ausstellungen/2017/otto-freundlich
+event-dt-begin: '2017-06-10'
+event-dt-end: '2017-09-10'
+event-location: Kunstmuseum Basel
+---

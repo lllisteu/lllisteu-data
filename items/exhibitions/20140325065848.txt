@@ -1,7 +1,9 @@
-Lichtbilder
-# uid            : 20140325065848
-# dt-created     : 2014-03-25 06:58:48 GMT
-# link           : http://www.staedelmuseum.de/sm/index.php?StoryID=1924
-# event-dt-begin : 2014-07-09
-# event-dt-end   : 2014-10-05
-# event-location : Städel Museum, Frankfurt
+---
+title: Lichtbilder
+uid: '20140325065848'
+dt-created: 2014-03-25 06:58:48 GMT
+link: http://www.staedelmuseum.de/sm/index.php?StoryID=1924
+event-dt-begin: '2014-07-09'
+event-dt-end: '2014-10-05'
+event-location: Städel Museum, Frankfurt
+---

@@ -1,7 +1,9 @@
-Patrick Heron
-# uid            : 20170925092140
-# dt-created     : 2017-09-25 09:21:40 GMT
-# event-dt-begin : 2018-05-19
-# event-dt-end   : 2018-09-09
-# event-location : Tate St Ives
-# link           : http://www.tate.org.uk/whats-on/tate-st-ives/exhibition/patrick-heron
+---
+title: Patrick Heron
+uid: '20170925092140'
+dt-created: 2017-09-25 09:21:40 GMT
+event-dt-begin: '2018-05-19'
+event-dt-end: '2018-09-09'
+event-location: Tate St Ives
+link: http://www.tate.org.uk/whats-on/tate-st-ives/exhibition/patrick-heron
+---

@@ -1,7 +1,9 @@
-Andy Warhol
-# uid            : 20130922090257
-# dt-created     : 2013-09-22 09:02:57 GMT
-# link           : http://www.warholmilano.it/
-# event-dt-begin : 2013-10-24
-# event-dt-end   : 2014-03-09
-# event-location : Palazzo Reale, Milano
+---
+title: Andy Warhol
+uid: '20130922090257'
+dt-created: 2013-09-22 09:02:57 GMT
+link: http://www.warholmilano.it/
+event-dt-begin: '2013-10-24'
+event-dt-end: '2014-03-09'
+event-location: Palazzo Reale, Milano
+---

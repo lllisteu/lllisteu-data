@@ -1,7 +1,9 @@
-Marlene Dumas
-# uid            : 20150105082219
-# dt-created     : 2015-01-05 08:22:19 GMT
-# link           : http://www.fondationbeyeler.ch/en/Exhibitions/Preview
-# event-dt-begin : 2015-05-31
-# event-dt-end   : 2015-09-06
-# event-location : Fondation Beyeler, Basel
+---
+title: Marlene Dumas
+uid: '20150105082219'
+dt-created: 2015-01-05 08:22:19 GMT
+link: http://www.fondationbeyeler.ch/en/Exhibitions/Preview
+event-dt-begin: '2015-05-31'
+event-dt-end: '2015-09-06'
+event-location: Fondation Beyeler, Basel
+---

@@ -1,7 +1,9 @@
-Philip Haas: The Four Seasons
-# uid            : 20120526081227
-# dt-created     : 2012-05-26 08:12:27 GMT
-# link           : http://www.dulwichpicturegallery.org.uk/exhibitions/coming_soon/philip_haas_the_four_seasons.aspx
-# event-dt-begin : 2012-06-20
-# event-dt-end   : 2012-09-16
-# event-location : Dulwich Picture Gallery, London
+---
+title: 'Philip Haas: The Four Seasons'
+uid: '20120526081227'
+dt-created: 2012-05-26 08:12:27 GMT
+link: http://www.dulwichpicturegallery.org.uk/exhibitions/coming_soon/philip_haas_the_four_seasons.aspx
+event-dt-begin: '2012-06-20'
+event-dt-end: '2012-09-16'
+event-location: Dulwich Picture Gallery, London
+---

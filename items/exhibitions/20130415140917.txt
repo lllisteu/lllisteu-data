@@ -1,7 +1,9 @@
-Riotous Baroque: From Cattelan to Zurbarán
-# uid            : 20130415140917
-# dt-created     : 2013-04-15 14:09:17 GMT
-# link           : http://www.guggenheim-bilbao.es/en/exhibitions/riotous-baroque-from-cattelan-to-zurbaran/
-# event-dt-begin : 2013-06-14
-# event-dt-end   : 2013-10-06
-# event-location : Museo Guggenheim, Bilbao
+---
+title: 'Riotous Baroque: From Cattelan to Zurbarán'
+uid: '20130415140917'
+dt-created: 2013-04-15 14:09:17 GMT
+link: http://www.guggenheim-bilbao.es/en/exhibitions/riotous-baroque-from-cattelan-to-zurbaran/
+event-dt-begin: '2013-06-14'
+event-dt-end: '2013-10-06'
+event-location: Museo Guggenheim, Bilbao
+---

@@ -1,7 +1,9 @@
-Il Volto del ‘900 da Matisse a Bacon
-# uid            : 20130719064119
-# dt-created     : 2013-07-19 06:41:19 GMT
-# link           : http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_639232003.html
-# event-dt-begin : 2013-09-25
-# event-dt-end   : 2014-02-19
-# event-location : Palazzo Reale, Milano
+---
+title: Il Volto del ‘900 da Matisse a Bacon
+uid: '20130719064119'
+dt-created: 2013-07-19 06:41:19 GMT
+link: http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_639232003.html
+event-dt-begin: '2013-09-25'
+event-dt-end: '2014-02-19'
+event-location: Palazzo Reale, Milano
+---

@@ -1,7 +1,9 @@
-Anthony van Dyck
-# uid            : 20170512103834
-# dt-created     : 2017-05-12 10:38:34 GMT
-# link           : https://www.pinakothek.de/en/exhibitions/anthony-van-dyck-1599-1641
-# event-dt-begin : 2019-10-01
-# event-dt-end   : 2020-02-01
-# event-location : Alte Pinakothek, München
+---
+title: Anthony van Dyck
+uid: '20170512103834'
+dt-created: 2017-05-12 10:38:34 GMT
+link: https://www.pinakothek.de/en/exhibitions/anthony-van-dyck-1599-1641
+event-dt-begin: '2019-10-01'
+event-dt-end: '2020-02-01'
+event-location: Alte Pinakothek, München
+---

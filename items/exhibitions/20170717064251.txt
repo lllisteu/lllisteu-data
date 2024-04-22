@@ -1,7 +1,9 @@
-Patrick Angus
-# uid            : 20170717064251
-# dt-created     : 2017-07-17 06:42:51 GMT
-# event-dt-begin : 2017-12-02
-# event-dt-end   : 2018-04-08
-# event-location : Kunstmuseum Stuttgart
-# link           : http://www.kunstmuseum-stuttgart.de/index.php?site=Ausstellungen;Vorschau_Details&id=109
+---
+title: Patrick Angus
+uid: '20170717064251'
+dt-created: 2017-07-17 06:42:51 GMT
+event-dt-begin: '2017-12-02'
+event-dt-end: '2018-04-08'
+event-location: Kunstmuseum Stuttgart
+link: http://www.kunstmuseum-stuttgart.de/index.php?site=Ausstellungen;Vorschau_Details&id=109
+---

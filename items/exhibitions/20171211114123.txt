@@ -1,7 +1,9 @@
-Paul Kooiker
-# uid            : 20171211114123
-# dt-created     : 2017-12-11 11:41:23 GMT
-# event-dt-begin : 2018-06-29
-# event-dt-end   : 2018-10-07
-# event-location : Fotomuseum, Antwerpen
-# link           : https://www.fotomuseum.be/tentoonstellingen/paul-kooiker.html
+---
+title: Paul Kooiker
+uid: '20171211114123'
+dt-created: 2017-12-11 11:41:23 GMT
+event-dt-begin: '2018-06-29'
+event-dt-end: '2018-10-07'
+event-location: Fotomuseum, Antwerpen
+link: https://www.fotomuseum.be/tentoonstellingen/paul-kooiker.html
+---

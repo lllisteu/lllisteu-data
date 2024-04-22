@@ -1,7 +1,9 @@
-Gormley / Lehmbruck: Calling on the Body
-# uid            : 20221016073206
-# dt-created     : 2022-10-16 07:32:06 GMT
-# event-dt-begin : 2022-09-23
-# event-dt-end   : 2023-02-26
-# event-location : Lehmbruck Museum, Duisburg
-# link           : https://lehmbruckmuseum.de/exhibitions/current-exhibitions/gormley-lehmbruck-calling-on-the-body/
+---
+title: 'Gormley / Lehmbruck: Calling on the Body'
+uid: '20221016073206'
+dt-created: 2022-10-16 07:32:06 GMT
+event-dt-begin: '2022-09-23'
+event-dt-end: '2023-02-26'
+event-location: Lehmbruck Museum, Duisburg
+link: https://lehmbruckmuseum.de/exhibitions/current-exhibitions/gormley-lehmbruck-calling-on-the-body/
+---

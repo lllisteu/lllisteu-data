@@ -1,7 +1,9 @@
-Picasso. Sculptures
-# uid            : 20151001185652
-# dt-created     : 2015-10-01 18:56:52 GMT
-# link           : http://www.museepicassoparis.fr/en/picasso-sculptures/
-# event-dt-begin : 2016-03-08
-# event-dt-end   : 2016-08-28
-# event-location : Musée Picasso, Paris
+---
+title: Picasso. Sculptures
+uid: '20151001185652'
+dt-created: 2015-10-01 18:56:52 GMT
+link: http://www.museepicassoparis.fr/en/picasso-sculptures/
+event-dt-begin: '2016-03-08'
+event-dt-end: '2016-08-28'
+event-location: Musée Picasso, Paris
+---

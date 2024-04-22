@@ -1,7 +1,9 @@
-Vermeer
-# uid            : 20221228152620
-# dt-created     : 2022-12-28 15:26:20 GMT
-# event-dt-begin : 2023-02-10
-# event-dt-end   : 2023-06-04
-# event-location : Rijksmuseum, Amsterdam
-# link           : https://www.rijksmuseum.nl/nl/zien-en-doen/tentoonstellingen/vermeer
+---
+title: Vermeer
+uid: '20221228152620'
+dt-created: 2022-12-28 15:26:20 GMT
+event-dt-begin: '2023-02-10'
+event-dt-end: '2023-06-04'
+event-location: Rijksmuseum, Amsterdam
+link: https://www.rijksmuseum.nl/nl/zien-en-doen/tentoonstellingen/vermeer
+---

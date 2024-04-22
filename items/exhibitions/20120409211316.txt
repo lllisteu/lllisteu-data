@@ -1,7 +1,9 @@
-Helmut Newton
-# uid            : 20120409211316
-# dt-created     : 2012-04-09 21:13:16 GMT
-# link           : http://www.rmn.fr/helmut-newton
-# event-dt-begin : 2012-03-24
-# event-dt-end   : 2012-07-30
-# event-location : Grand Palais, Paris
+---
+title: Helmut Newton
+uid: '20120409211316'
+dt-created: 2012-04-09 21:13:16 GMT
+link: http://www.rmn.fr/helmut-newton
+event-dt-begin: '2012-03-24'
+event-dt-end: '2012-07-30'
+event-location: Grand Palais, Paris
+---

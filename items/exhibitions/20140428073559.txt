@@ -1,7 +1,9 @@
-Esprit Montmartre
-# uid            : 20140428073559
-# dt-created     : 2014-04-28 07:35:59 GMT
-# link           : http://www.schirn.de/en/ESPRIT_MONTMARTRE_EXHIBITION.html
-# event-dt-begin : 2014-02-07
-# event-dt-end   : 2014-06-01
-# event-location : Schirn Kunsthalle, Frankfurt
+---
+title: Esprit Montmartre
+uid: '20140428073559'
+dt-created: 2014-04-28 07:35:59 GMT
+link: http://www.schirn.de/en/ESPRIT_MONTMARTRE_EXHIBITION.html
+event-dt-begin: '2014-02-07'
+event-dt-end: '2014-06-01'
+event-location: Schirn Kunsthalle, Frankfurt
+---

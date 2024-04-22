@@ -1,7 +1,9 @@
-V.S. Gaitonde: Painting as Process, Painting as Life
-# uid            : 20141027190754
-# dt-created     : 2014-10-27 19:07:54 GMT
-# link           : http://www.guggenheim-venice.it/inglese/exhibitions/gaitonde/gaitonde.html
-# event-dt-begin : 2015-10-03
-# event-dt-end   : 2016-01-10
-# event-location : Peggy Guggenheim Collection, Venezia
+---
+title: 'V.S. Gaitonde: Painting as Process, Painting as Life'
+uid: '20141027190754'
+dt-created: 2014-10-27 19:07:54 GMT
+link: http://www.guggenheim-venice.it/inglese/exhibitions/gaitonde/gaitonde.html
+event-dt-begin: '2015-10-03'
+event-dt-end: '2016-01-10'
+event-location: Peggy Guggenheim Collection, Venezia
+---

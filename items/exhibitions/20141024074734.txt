@@ -1,7 +1,9 @@
-Canaletto
-# uid            : 20141024074734
-# dt-created     : 2014-10-24 07:47:34 GMT
-# link           : http://www.pinakothek.de/kalender/2014-10-17/42136/canaletto
-# event-dt-begin : 2014-10-17
-# event-dt-end   : 2015-01-18
-# event-location : Alte Pinakothek, München
+---
+title: Canaletto
+uid: '20141024074734'
+dt-created: 2014-10-24 07:47:34 GMT
+link: http://www.pinakothek.de/kalender/2014-10-17/42136/canaletto
+event-dt-begin: '2014-10-17'
+event-dt-end: '2015-01-18'
+event-location: Alte Pinakothek, München
+---

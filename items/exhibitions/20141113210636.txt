@@ -1,7 +1,9 @@
-Vivian Maier - Street Photographer
-# uid            : 20141113210636
-# dt-created     : 2014-11-13 21:06:36 GMT
-# link           : http://foam.org/visit-foam/calendar/2014-exhibitions/vivian-maier
-# event-dt-begin : 2014-11-07
-# event-dt-end   : 2015-01-28
-# event-location : Foam, Amsterdam
+---
+title: Vivian Maier - Street Photographer
+uid: '20141113210636'
+dt-created: 2014-11-13 21:06:36 GMT
+link: http://foam.org/visit-foam/calendar/2014-exhibitions/vivian-maier
+event-dt-begin: '2014-11-07'
+event-dt-end: '2015-01-28'
+event-location: Foam, Amsterdam
+---

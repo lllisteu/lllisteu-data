@@ -1,7 +1,9 @@
-Night Fever. Designing Club Culture 1960 – Today
-# uid            : 20180129111132
-# dt-created     : 2018-01-29 11:11:32 GMT
-# event-dt-begin : 2018-03-17
-# event-dt-end   : 2018-09-09
-# event-location : Vitra Design Museum, Weil am Rhein
-# link           : https://www.design-museum.de/de/ausstellungen/
+---
+title: Night Fever. Designing Club Culture 1960 – Today
+uid: '20180129111132'
+dt-created: 2018-01-29 11:11:32 GMT
+event-dt-begin: '2018-03-17'
+event-dt-end: '2018-09-09'
+event-location: Vitra Design Museum, Weil am Rhein
+link: https://www.design-museum.de/de/ausstellungen/
+---

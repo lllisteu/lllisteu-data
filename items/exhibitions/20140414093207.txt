@@ -1,7 +1,9 @@
-Niki de Saint Phalle
-# uid            : 20140414093207
-# dt-created     : 2014-04-14 09:32:07 GMT
-# link           : http://www.grandpalais.fr/fr/evenement/niki-de-saint-phalle
-# event-dt-begin : 2014-09-17
-# event-dt-end   : 2015-02-02
-# event-location : Grand Palais, Paris
+---
+title: Niki de Saint Phalle
+uid: '20140414093207'
+dt-created: 2014-04-14 09:32:07 GMT
+link: http://www.grandpalais.fr/fr/evenement/niki-de-saint-phalle
+event-dt-begin: '2014-09-17'
+event-dt-end: '2015-02-02'
+event-location: Grand Palais, Paris
+---

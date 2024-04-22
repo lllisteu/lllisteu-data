@@ -1,7 +1,9 @@
-Yayoi Kusama
-# uid            : 20141117203000
-# dt-created     : 2014-11-17 20:30:00 GMT
-# link           : http://en.louisiana.dk/exhibition/yayoi-kusama
-# event-dt-begin : 2015-09-17
-# event-dt-end   : 2016-01-24
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: Yayoi Kusama
+uid: '20141117203000'
+dt-created: 2014-11-17 20:30:00 GMT
+link: http://en.louisiana.dk/exhibition/yayoi-kusama
+event-dt-begin: '2015-09-17'
+event-dt-end: '2016-01-24'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

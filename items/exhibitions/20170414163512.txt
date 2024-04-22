@@ -1,7 +1,9 @@
-Derain, Balthus, Giacometti
-# uid            : 20170414163512
-# dt-created     : 2017-04-14 16:35:12 GMT
-# link           : http://www.mam.paris.fr/fr/expositions/exposition-derain-balthus-giacometti
-# event-dt-begin : 2017-06-02
-# event-dt-end   : 2017-10-29
-# event-location : Musée d'Art Moderne de la Ville de Paris
+---
+title: Derain, Balthus, Giacometti
+uid: '20170414163512'
+dt-created: 2017-04-14 16:35:12 GMT
+link: http://www.mam.paris.fr/fr/expositions/exposition-derain-balthus-giacometti
+event-dt-begin: '2017-06-02'
+event-dt-end: '2017-10-29'
+event-location: Musée d'Art Moderne de la Ville de Paris
+---

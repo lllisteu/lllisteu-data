@@ -1,7 +1,9 @@
-Excentric Modernism
-# uid            : 20170612065542
-# dt-created     : 2017-06-12 06:55:42 GMT
-# link           : https://www.kunstsammlung.de/en/discover/exhibition-preview.html
-# event-dt-begin : 2018-11-10
-# event-dt-end   : 2019-03-10
-# event-location : K20 Kunstsammlung NRW, Düsseldorf
+---
+title: Excentric Modernism
+uid: '20170612065542'
+dt-created: 2017-06-12 06:55:42 GMT
+link: https://www.kunstsammlung.de/en/discover/exhibition-preview.html
+event-dt-begin: '2018-11-10'
+event-dt-end: '2019-03-10'
+event-location: K20 Kunstsammlung NRW, Düsseldorf
+---

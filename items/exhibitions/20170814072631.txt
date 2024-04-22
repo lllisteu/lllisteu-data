@@ -1,7 +1,9 @@
-Degas, Danse, Dessin
-# uid            : 20170814072631
-# dt-created     : 2017-08-14 07:26:31 GMT
-# event-dt-begin : 2017-11-28
-# event-dt-end   : 2018-02-25
-# event-location : Musée d'Orsay, Paris
-# link           : http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/degas-danse-dessin-46519.html?tx_ttnews%5BbackPid%5D=254&cHash=5607894a8e
+---
+title: Degas, Danse, Dessin
+uid: '20170814072631'
+dt-created: 2017-08-14 07:26:31 GMT
+event-dt-begin: '2017-11-28'
+event-dt-end: '2018-02-25'
+event-location: Musée d'Orsay, Paris
+link: http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/degas-danse-dessin-46519.html?tx_ttnews%5BbackPid%5D=254&cHash=5607894a8e
+---

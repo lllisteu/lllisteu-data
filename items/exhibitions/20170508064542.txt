@@ -1,7 +1,9 @@
-Monet Collectionneur
-# uid            : 20170508064542
-# dt-created     : 2017-05-08 06:45:42 GMT
-# link           : http://www.marmottan.fr/uk/Exposition_%C3%A0_venir-musee-2590
-# event-dt-begin : 2017-09-14
-# event-dt-end   : 2018-01-14
-# event-location : Musée Marmottan Monet, Paris
+---
+title: Monet Collectionneur
+uid: '20170508064542'
+dt-created: 2017-05-08 06:45:42 GMT
+link: http://www.marmottan.fr/uk/Exposition_%C3%A0_venir-musee-2590
+event-dt-begin: '2017-09-14'
+event-dt-end: '2018-01-14'
+event-location: Musée Marmottan Monet, Paris
+---

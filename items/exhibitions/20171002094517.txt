@@ -1,7 +1,9 @@
-Victorian Giants: The Birth of Art Photography
-# uid            : 20171002094517
-# dt-created     : 2017-10-02 09:45:17 GMT
-# event-dt-begin : 2018-03-01
-# event-dt-end   : 2018-05-20
-# event-location : National Portrait Gallery, London
-# link           : http://www.npg.org.uk/whatson/exhibitions/2017/victorian-giants-the-birth-of-art-photography/
+---
+title: 'Victorian Giants: The Birth of Art Photography'
+uid: '20171002094517'
+dt-created: 2017-10-02 09:45:17 GMT
+event-dt-begin: '2018-03-01'
+event-dt-end: '2018-05-20'
+event-location: National Portrait Gallery, London
+link: http://www.npg.org.uk/whatson/exhibitions/2017/victorian-giants-the-birth-of-art-photography/
+---

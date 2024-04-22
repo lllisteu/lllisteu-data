@@ -1,7 +1,9 @@
-Gustav Klimt – In the sign of Hoffmann and the Secession
-# uid            : 20120312112019
-# dt-created     : 2012-03-12 11:20:19 GMT
-# link           : http://correr.visitmuve.it/en/mostre-en/mostre-in-corso-en/gustav-klimt-in-the-sign-of-hoffmann-and-the-secession/2012/02/7516/project/
-# event-dt-begin : 2012-03-24
-# event-dt-end   : 2012-07-08
-# event-location : Museo Correr, Venezia
+---
+title: Gustav Klimt – In the sign of Hoffmann and the Secession
+uid: '20120312112019'
+dt-created: 2012-03-12 11:20:19 GMT
+link: http://correr.visitmuve.it/en/mostre-en/mostre-in-corso-en/gustav-klimt-in-the-sign-of-hoffmann-and-the-secession/2012/02/7516/project/
+event-dt-begin: '2012-03-24'
+event-dt-end: '2012-07-08'
+event-location: Museo Correr, Venezia
+---

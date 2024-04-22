@@ -1,7 +1,9 @@
-Sarah Morris. All Systems Fail
-# uid            : 20240420083313
-# dt-created     : 2024-04-20 08:33:13 GMT
-# event-dt-begin : 2024-09-21
-# event-dt-end   : 2025-02-09
-# event-location : Kunstmuseum Stuttgart
-# link           : https://www.kunstmuseum-stuttgart.de/ausstellungen/sarah-morris
+---
+title: Sarah Morris. All Systems Fail
+uid: '20240420083313'
+dt-created: 2024-04-20 08:33:13 GMT
+event-dt-begin: '2024-09-21'
+event-dt-end: '2025-02-09'
+event-location: Kunstmuseum Stuttgart
+link: https://www.kunstmuseum-stuttgart.de/ausstellungen/sarah-morris
+---

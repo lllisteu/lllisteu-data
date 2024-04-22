@@ -1,7 +1,9 @@
-Heinrich Campendonk
-# uid            : 20131215141827
-# dt-created     : 2013-12-15 14:18:27 GMT
-# link           : http://www.glasmalerei-museum.de/DGML_DE/Ausst_Aktuell.htm
-# event-dt-begin : 2014-04-05
-# event-dt-end   : 2014-09-28
-# event-location : Deutsches Glasmalerei-Museum, Linnich
+---
+title: Heinrich Campendonk
+uid: '20131215141827'
+dt-created: 2013-12-15 14:18:27 GMT
+link: http://www.glasmalerei-museum.de/DGML_DE/Ausst_Aktuell.htm
+event-dt-begin: '2014-04-05'
+event-dt-end: '2014-09-28'
+event-location: Deutsches Glasmalerei-Museum, Linnich
+---

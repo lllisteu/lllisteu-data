@@ -1,7 +1,9 @@
-Beyond Klimt
-# uid            : 20180205094807
-# dt-created     : 2018-02-05 09:48:07 GMT
-# event-dt-begin : 2018-09-21
-# event-dt-end   : 2019-01-20
-# event-location : Palais des Beaux-Arts, Brussel
-# link           : https://www.bozar.be/en/activities/133869-beyond-klimt
+---
+title: Beyond Klimt
+uid: '20180205094807'
+dt-created: 2018-02-05 09:48:07 GMT
+event-dt-begin: '2018-09-21'
+event-dt-end: '2019-01-20'
+event-location: Palais des Beaux-Arts, Brussel
+link: https://www.bozar.be/en/activities/133869-beyond-klimt
+---

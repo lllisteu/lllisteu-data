@@ -1,7 +1,9 @@
-Mondrian Evolution
-# uid            : 20220429074559
-# dt-created     : 2022-04-29 07:45:59 GMT
-# event-dt-begin : 2022-06-05
-# event-dt-end   : 2022-10-09
-# event-location : Fondation Beyeler, Basel
-# link           : https://www.fondationbeyeler.ch/en/exhibitions/mondrian
+---
+title: Mondrian Evolution
+uid: '20220429074559'
+dt-created: 2022-04-29 07:45:59 GMT
+event-dt-begin: '2022-06-05'
+event-dt-end: '2022-10-09'
+event-location: Fondation Beyeler, Basel
+link: https://www.fondationbeyeler.ch/en/exhibitions/mondrian
+---

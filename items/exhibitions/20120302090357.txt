@@ -1,7 +1,9 @@
-Rembrandt & Co.
-# uid            : 20120302090357
-# dt-created     : 2012-03-02 09:03:57 GMT
-# link           : http://www.ngprague.cz/en/10/0/4044/sekce/rembrandt-co-stories-told-by-a-prosperous-age/
-# event-dt-begin : 2012-02-10
-# event-dt-end   : 2012-05-27
-# event-location : Sternberg Palace, Prague
+---
+title: Rembrandt & Co.
+uid: '20120302090357'
+dt-created: 2012-03-02 09:03:57 GMT
+link: http://www.ngprague.cz/en/10/0/4044/sekce/rembrandt-co-stories-told-by-a-prosperous-age/
+event-dt-begin: '2012-02-10'
+event-dt-end: '2012-05-27'
+event-location: Sternberg Palace, Prague
+---

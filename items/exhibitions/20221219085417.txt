@@ -1,7 +1,9 @@
-Swedish Ecstasy
-# uid            : 20221219085417
-# dt-created     : 2022-12-19 08:54:17 GMT
-# event-dt-begin : 2023-02-17
-# event-dt-end   : 2023-05-21
-# event-location : Palais des Beaux-Arts, Brussel
-# link           : https://www.bozar.be/en/calendar/swedish-ecstasy
+---
+title: Swedish Ecstasy
+uid: '20221219085417'
+dt-created: 2022-12-19 08:54:17 GMT
+event-dt-begin: '2023-02-17'
+event-dt-end: '2023-05-21'
+event-location: Palais des Beaux-Arts, Brussel
+link: https://www.bozar.be/en/calendar/swedish-ecstasy
+---

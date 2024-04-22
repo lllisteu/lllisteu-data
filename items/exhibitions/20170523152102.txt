@@ -1,7 +1,9 @@
-Arp: The Poetry of Forms
-# uid            : 20170523152102
-# dt-created     : 2017-05-23 15:21:02 GMT
-# link           : https://www.turnercontemporary.org/
-# event-dt-begin : 2017-10-12
-# event-dt-end   : 2018-01-14
-# event-location : Turner Contemporary, Margate
+---
+title: 'Arp: The Poetry of Forms'
+uid: '20170523152102'
+dt-created: 2017-05-23 15:21:02 GMT
+link: https://www.turnercontemporary.org/
+event-dt-begin: '2017-10-12'
+event-dt-end: '2018-01-14'
+event-location: Turner Contemporary, Margate
+---

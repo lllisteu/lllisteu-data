@@ -1,7 +1,9 @@
-Alfred Flechtheim. Modernism’s Art Dealer
-# uid            : 20170625092219
-# dt-created     : 2017-06-25 09:22:19 GMT
-# link           : http://www.georg-kolbe-museum.de/
-# event-dt-begin : 2017-05-21
-# event-dt-end   : 2017-09-17
-# event-location : Georg Kolbe Museum, Berlin
+---
+title: Alfred Flechtheim. Modernism’s Art Dealer
+uid: '20170625092219'
+dt-created: 2017-06-25 09:22:19 GMT
+link: http://www.georg-kolbe-museum.de/
+event-dt-begin: '2017-05-21'
+event-dt-end: '2017-09-17'
+event-location: Georg Kolbe Museum, Berlin
+---

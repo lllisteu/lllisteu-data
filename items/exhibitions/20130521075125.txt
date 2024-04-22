@@ -1,7 +1,9 @@
-Brasiliana – installations from 1960 to the present
-# uid            : 20130521075125
-# dt-created     : 2013-05-21 07:51:25 GMT
-# link           : http://www.schirn.de/en/Page2935.html
-# event-dt-begin : 2013-10-02
-# event-dt-end   : 2014-01-05
-# event-location : Schirn Kunsthalle, Frankfurt
+---
+title: Brasiliana – installations from 1960 to the present
+uid: '20130521075125'
+dt-created: 2013-05-21 07:51:25 GMT
+link: http://www.schirn.de/en/Page2935.html
+event-dt-begin: '2013-10-02'
+event-dt-end: '2014-01-05'
+event-location: Schirn Kunsthalle, Frankfurt
+---

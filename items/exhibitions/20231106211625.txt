@@ -1,7 +1,9 @@
-Van Gogh: Poets and Lovers
-# uid            : 20231106211625
-# dt-created     : 2023-11-06 21:16:25 GMT
-# event-dt-begin : 2024-09-14
-# event-dt-end   : 2025-01-19
-# event-location : National Gallery, London
-# link           : https://www.nationalgallery.org.uk/exhibitions/van-gogh-poets-and-lovers
+---
+title: 'Van Gogh: Poets and Lovers'
+uid: '20231106211625'
+dt-created: 2023-11-06 21:16:25 GMT
+event-dt-begin: '2024-09-14'
+event-dt-end: '2025-01-19'
+event-location: National Gallery, London
+link: https://www.nationalgallery.org.uk/exhibitions/van-gogh-poets-and-lovers
+---

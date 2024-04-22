@@ -1,7 +1,9 @@
-Jan Sluijters
-# uid            : 20180305092349
-# dt-created     : 2018-03-05 09:23:49 GMT
-# event-dt-begin : 2018-11-17
-# event-dt-end   : 2019-04-07
-# event-location : Noordbrabants Museum, 's Hertogenbosch
-# link           : http://www.hetnoordbrabantsmuseum.nl/bezoek/tentoonstellingen-activiteiten/tentoonstellingen/jan-sluijters/
+---
+title: Jan Sluijters
+uid: '20180305092349'
+dt-created: 2018-03-05 09:23:49 GMT
+event-dt-begin: '2018-11-17'
+event-dt-end: '2019-04-07'
+event-location: Noordbrabants Museum, 's Hertogenbosch
+link: http://www.hetnoordbrabantsmuseum.nl/bezoek/tentoonstellingen-activiteiten/tentoonstellingen/jan-sluijters/
+---

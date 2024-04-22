@@ -1,7 +1,9 @@
-Sean Scully
-# uid            : 20170821065641
-# dt-created     : 2017-08-21 06:56:41 GMT
-# event-dt-begin : 2018-04-21
-# event-dt-end   : 2018-08-26
-# event-location : Museum De Pont, Tilburg
-# link           : http://www.depont.nl/tentoonstellingen/nu-en-later/detail/pers/sean-scully/
+---
+title: Sean Scully
+uid: '20170821065641'
+dt-created: 2017-08-21 06:56:41 GMT
+event-dt-begin: '2018-04-21'
+event-dt-end: '2018-08-26'
+event-location: Museum De Pont, Tilburg
+link: http://www.depont.nl/tentoonstellingen/nu-en-later/detail/pers/sean-scully/
+---

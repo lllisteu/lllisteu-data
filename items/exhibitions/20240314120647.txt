@@ -1,7 +1,9 @@
-Stanley Brouwn
-# uid            : 20240314120647
-# dt-created     : 2024-03-14 12:06:47 GMT
-# event-dt-begin : 2024-06-01
-# event-dt-end   : 2024-09-01
-# event-location : Stedelijk Museum, Amsterdam
-# link           : https://www.stedelijk.nl/en/exhibitions/stanley-brouwn-en
+---
+title: Stanley Brouwn
+uid: '20240314120647'
+dt-created: 2024-03-14 12:06:47 GMT
+event-dt-begin: '2024-06-01'
+event-dt-end: '2024-09-01'
+event-location: Stedelijk Museum, Amsterdam
+link: https://www.stedelijk.nl/en/exhibitions/stanley-brouwn-en
+---

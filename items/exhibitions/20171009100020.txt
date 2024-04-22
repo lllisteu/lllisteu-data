@@ -1,7 +1,9 @@
-Dutch Masters from the Hermitage. Treasures of the Tsars
-# uid            : 20171009100020
-# dt-created     : 2017-10-09 10:00:20 GMT
-# event-dt-begin : 2017-10-07
-# event-dt-end   : 2018-05-27
-# event-location : Hermitage Amsterdam
-# link           : https://hermitage.nl/en/exhibitions/dutch-masters-hermitage/
+---
+title: Dutch Masters from the Hermitage. Treasures of the Tsars
+uid: '20171009100020'
+dt-created: 2017-10-09 10:00:20 GMT
+event-dt-begin: '2017-10-07'
+event-dt-end: '2018-05-27'
+event-location: Hermitage Amsterdam
+link: https://hermitage.nl/en/exhibitions/dutch-masters-hermitage/
+---

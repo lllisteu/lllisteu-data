@@ -1,7 +1,9 @@
-Alighiero Boetti: Game Plan
-# uid            : 20120216205126
-# dt-created     : 2012-02-16 20:51:26 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/alighiero-boetti-game-plan
-# event-dt-begin : 2012-02-28
-# event-dt-end   : 2012-05-27
-# event-location : Tate Modern, London
+---
+title: 'Alighiero Boetti: Game Plan'
+uid: '20120216205126'
+dt-created: 2012-02-16 20:51:26 GMT
+link: http://www.tate.org.uk/whats-on/tate-modern/exhibition/alighiero-boetti-game-plan
+event-dt-begin: '2012-02-28'
+event-dt-end: '2012-05-27'
+event-location: Tate Modern, London
+---

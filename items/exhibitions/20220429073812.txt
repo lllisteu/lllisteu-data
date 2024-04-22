@@ -1,7 +1,9 @@
-Faszination Licht
-# uid            : 20220429073812
-# dt-created     : 2022-04-29 07:38:12 GMT
-# event-dt-begin : 2021-10-31
-# event-dt-end   : 2022-08-07
-# event-location : Zentrum für Internationale Lichtkunst, Unna
-# link           : https://www.lichtkunst-unna.de/de/wechselausstellung
+---
+title: Faszination Licht
+uid: '20220429073812'
+dt-created: 2022-04-29 07:38:12 GMT
+event-dt-begin: '2021-10-31'
+event-dt-end: '2022-08-07'
+event-location: Zentrum für Internationale Lichtkunst, Unna
+link: https://www.lichtkunst-unna.de/de/wechselausstellung
+---

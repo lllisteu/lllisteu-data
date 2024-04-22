@@ -1,7 +1,9 @@
-The poetry of light – Venetian drawings from the National Gallery of Washington
-# uid            : 20141028141703
-# dt-created     : 2014-10-28 14:17:03 GMT
-# link           : http://correr.visitmuve.it/en/mostre-en/mostre-in-corso-en/venetian-drawings-ngwashington/2014/06/10721/the-exhibition-4/
-# event-dt-begin : 2014-12-06
-# event-dt-end   : 2015-03-15
-# event-location : Museo Correr, Venezia
+---
+title: The poetry of light – Venetian drawings from the National Gallery of Washington
+uid: '20141028141703'
+dt-created: 2014-10-28 14:17:03 GMT
+link: http://correr.visitmuve.it/en/mostre-en/mostre-in-corso-en/venetian-drawings-ngwashington/2014/06/10721/the-exhibition-4/
+event-dt-begin: '2014-12-06'
+event-dt-end: '2015-03-15'
+event-location: Museo Correr, Venezia
+---

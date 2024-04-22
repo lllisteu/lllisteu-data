@@ -1,7 +1,9 @@
-Helmut Newton. White Women / Sleepless Nights / Big Nudes
-# uid            : 20130222093730
-# dt-created     : 2013-02-22 09:37:30 GMT
-# link           : http://www.palazzoesposizioni.it/categorie/mostra-helmut-newton
-# event-dt-begin : 2013-03-06
-# event-dt-end   : 2013-07-21
-# event-location : Palazzo delle Esposizioni, Roma
+---
+title: Helmut Newton. White Women / Sleepless Nights / Big Nudes
+uid: '20130222093730'
+dt-created: 2013-02-22 09:37:30 GMT
+link: http://www.palazzoesposizioni.it/categorie/mostra-helmut-newton
+event-dt-begin: '2013-03-06'
+event-dt-end: '2013-07-21'
+event-location: Palazzo delle Esposizioni, Roma
+---

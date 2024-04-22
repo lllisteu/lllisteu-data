@@ -1,7 +1,9 @@
-Impressionism: The Art of Landscape
-# uid            : 20170122101654
-# dt-created     : 2017-01-22 10:16:54 GMT
-# link           : http://museum-barberini.com/en/exhibition-preview-impressionism/
-# event-dt-begin : 2017-01-23
-# event-dt-end   : 2017-05-28
-# event-location : Museum Barberini, Potsdam
+---
+title: 'Impressionism: The Art of Landscape'
+uid: '20170122101654'
+dt-created: 2017-01-22 10:16:54 GMT
+link: http://museum-barberini.com/en/exhibition-preview-impressionism/
+event-dt-begin: '2017-01-23'
+event-dt-end: '2017-05-28'
+event-location: Museum Barberini, Potsdam
+---

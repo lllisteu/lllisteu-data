@@ -1,7 +1,9 @@
-Les Impressionnistes à Londres
-# uid            : 20171009101154
-# dt-created     : 2017-10-09 10:11:54 GMT
-# event-dt-begin : 2018-06-21
-# event-dt-end   : 2018-10-14
-# event-location : Petit Palais, Paris
-# link           : http://www.petitpalais.paris.fr/expositions/les-impressionnistes-londres
+---
+title: Les Impressionnistes à Londres
+uid: '20171009101154'
+dt-created: 2017-10-09 10:11:54 GMT
+event-dt-begin: '2018-06-21'
+event-dt-end: '2018-10-14'
+event-location: Petit Palais, Paris
+link: http://www.petitpalais.paris.fr/expositions/les-impressionnistes-londres
+---

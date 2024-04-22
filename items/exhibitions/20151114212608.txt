@@ -1,7 +1,9 @@
-Splendour and Misery
-# uid            : 20151114212608
-# dt-created     : 2015-11-14 21:26:08 GMT
-# link           : http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/splendeurs-et-miseres-42671.html
-# event-dt-begin : 2015-09-22
-# event-dt-end   : 2016-01-17
-# event-location : Musée d'Orsay, Paris
+---
+title: Splendour and Misery
+uid: '20151114212608'
+dt-created: 2015-11-14 21:26:08 GMT
+link: http://www.musee-orsay.fr/en/events/exhibitions/in-the-musee-dorsay/exhibitions-in-the-musee-dorsay/article/splendeurs-et-miseres-42671.html
+event-dt-begin: '2015-09-22'
+event-dt-end: '2016-01-17'
+event-location: Musée d'Orsay, Paris
+---

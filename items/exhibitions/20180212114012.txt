@@ -1,7 +1,9 @@
-Art et Liberté
-# uid            : 20180212114012
-# dt-created     : 2018-02-12 11:40:12 GMT
-# event-dt-begin : 2018-04-28
-# event-dt-end   : 2018-08-12
-# event-location : Moderna Museet, Stockholm
-# link           : https://www.modernamuseet.se/stockholm/en/exhibitions/art-et-liberte/
+---
+title: Art et Liberté
+uid: '20180212114012'
+dt-created: 2018-02-12 11:40:12 GMT
+event-dt-begin: '2018-04-28'
+event-dt-end: '2018-08-12'
+event-location: Moderna Museet, Stockholm
+link: https://www.modernamuseet.se/stockholm/en/exhibitions/art-et-liberte/
+---

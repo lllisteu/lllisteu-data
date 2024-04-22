@@ -1,7 +1,9 @@
-Casablanca
-# uid            : 20231207180808
-# dt-created     : 2023-12-07 18:08:08 GMT
-# event-dt-begin : 2024-07-12
-# event-dt-end   : 2024-10-13
-# event-location : Schirn Kunsthalle, Frankfurt
-# link           : https://www.schirn.de/en/exhibitions/2024/casablanca/
+---
+title: Casablanca
+uid: '20231207180808'
+dt-created: 2023-12-07 18:08:08 GMT
+event-dt-begin: '2024-07-12'
+event-dt-end: '2024-10-13'
+event-location: Schirn Kunsthalle, Frankfurt
+link: https://www.schirn.de/en/exhibitions/2024/casablanca/
+---

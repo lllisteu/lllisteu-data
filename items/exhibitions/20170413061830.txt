@@ -1,7 +1,9 @@
-Behind the Mask: Artists in the DDR
-# uid            : 20170413061830
-# dt-created     : 2017-04-13 06:18:30 GMT
-# link           : https://www.museum-barberini.com/en/exhibitions/
-# event-dt-begin : 2017-10-28
-# event-dt-end   : 2018-02-04
-# event-location : Museum Barberini, Potsdam
+---
+title: 'Behind the Mask: Artists in the DDR'
+uid: '20170413061830'
+dt-created: 2017-04-13 06:18:30 GMT
+link: https://www.museum-barberini.com/en/exhibitions/
+event-dt-begin: '2017-10-28'
+event-dt-end: '2018-02-04'
+event-location: Museum Barberini, Potsdam
+---

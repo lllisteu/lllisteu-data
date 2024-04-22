@@ -1,7 +1,9 @@
-Pessoa
-# uid            : 20180312113544
-# dt-created     : 2018-03-12 11:35:44 GMT
-# event-dt-begin : 2018-02-07
-# event-dt-end   : 2018-05-07
-# event-location : Museo Nacional Centro de Arte Reina Sofía, Madrid
-# link           : http://www.museoreinasofia.es/en/exhibitions/pessoa
+---
+title: Pessoa
+uid: '20180312113544'
+dt-created: 2018-03-12 11:35:44 GMT
+event-dt-begin: '2018-02-07'
+event-dt-end: '2018-05-07'
+event-location: Museo Nacional Centro de Arte Reina Sofía, Madrid
+link: http://www.museoreinasofia.es/en/exhibitions/pessoa
+---

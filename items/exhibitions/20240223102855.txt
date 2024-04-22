@@ -1,7 +1,9 @@
-Monet and London: Views of the Thames
-# uid            : 20240223102855
-# dt-created     : 2024-02-23 10:28:55 GMT
-# event-dt-begin : 2024-09-27
-# event-dt-end   : 2025-01-19
-# event-location : The Courtauld Gallery, London
-# link           : https://courtauld.ac.uk/whats-on/exh-monet-and-london-views-of-the-thames/
+---
+title: 'Monet and London: Views of the Thames'
+uid: '20240223102855'
+dt-created: 2024-02-23 10:28:55 GMT
+event-dt-begin: '2024-09-27'
+event-dt-end: '2025-01-19'
+event-location: The Courtauld Gallery, London
+link: https://courtauld.ac.uk/whats-on/exh-monet-and-london-views-of-the-thames/
+---

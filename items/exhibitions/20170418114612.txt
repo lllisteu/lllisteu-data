@@ -1,7 +1,9 @@
-Raphael: The Drawings
-# uid            : 20170418114612
-# dt-created     : 2017-04-18 11:46:12 GMT
-# link           : http://www.ashmolean.org/exhibitions/raphael/
-# event-dt-begin : 2017-06-01
-# event-dt-end   : 2017-09-03
-# event-location : Ashmolean Museum, Oxford
+---
+title: 'Raphael: The Drawings'
+uid: '20170418114612'
+dt-created: 2017-04-18 11:46:12 GMT
+link: http://www.ashmolean.org/exhibitions/raphael/
+event-dt-begin: '2017-06-01'
+event-dt-end: '2017-09-03'
+event-location: Ashmolean Museum, Oxford
+---

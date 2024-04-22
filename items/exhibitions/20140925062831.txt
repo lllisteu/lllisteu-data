@@ -1,7 +1,9 @@
-Anarchy & Beauty: William Morris and His Legacy, 1860–1960
-# uid            : 20140925062831
-# dt-created     : 2014-09-25 06:28:31 GMT
-# link           : http://www.npg.org.uk/whatson/anarchy-beauty-william-morris-and-his-legacy-1860-1960/home.php
-# event-dt-begin : 2014-10-16
-# event-dt-end   : 2015-01-11
-# event-location : National Portrait Gallery, London
+---
+title: 'Anarchy & Beauty: William Morris and His Legacy, 1860–1960'
+uid: '20140925062831'
+dt-created: 2014-09-25 06:28:31 GMT
+link: http://www.npg.org.uk/whatson/anarchy-beauty-william-morris-and-his-legacy-1860-1960/home.php
+event-dt-begin: '2014-10-16'
+event-dt-end: '2015-01-11'
+event-location: National Portrait Gallery, London
+---

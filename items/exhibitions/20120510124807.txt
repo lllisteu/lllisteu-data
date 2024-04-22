@@ -1,7 +1,9 @@
-Roy Lichtenstein
-# uid            : 20120510124807
-# dt-created     : 2012-05-10 12:48:07 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/roy-lichtenstein
-# event-dt-begin : 2013-02-21
-# event-dt-end   : 2013-05-27
-# event-location : Tate Modern, London
+---
+title: Roy Lichtenstein
+uid: '20120510124807'
+dt-created: 2012-05-10 12:48:07 GMT
+link: http://www.tate.org.uk/whats-on/tate-modern/exhibition/roy-lichtenstein
+event-dt-begin: '2013-02-21'
+event-dt-end: '2013-05-27'
+event-location: Tate Modern, London
+---

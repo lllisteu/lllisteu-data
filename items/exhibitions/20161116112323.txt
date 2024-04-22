@@ -1,7 +1,9 @@
-Henry Moore. A European Impulse
-# uid            : 20161116112323
-# dt-created     : 2016-11-16 11:23:23 GMT
-# link           : http://www.lwl.org/LWL/Kultur/museumkunstkultur/ausstellungen/henry-moore/ausstellung/?lang=en
-# event-dt-begin : 2016-11-11
-# event-dt-end   : 2017-03-19
-# event-location : LWL-Museum für Kunst und Kultur, Münster
+---
+title: Henry Moore. A European Impulse
+uid: '20161116112323'
+dt-created: 2016-11-16 11:23:23 GMT
+link: http://www.lwl.org/LWL/Kultur/museumkunstkultur/ausstellungen/henry-moore/ausstellung/?lang=en
+event-dt-begin: '2016-11-11'
+event-dt-end: '2017-03-19'
+event-location: LWL-Museum für Kunst und Kultur, Münster
+---

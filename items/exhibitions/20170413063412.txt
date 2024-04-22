@@ -1,7 +1,9 @@
-Picasso Primitif
-# uid            : 20170413063412
-# dt-created     : 2017-04-13 06:34:12 GMT
-# link           : http://quaibranly.fr/en/exhibitions-and-events/at-the-museum/exhibitions/event-details/e/picasso-primitif-36915/
-# event-dt-begin : 2017-03-28
-# event-dt-end   : 2017-07-23
-# event-location : Musée du quai Branly, Paris
+---
+title: Picasso Primitif
+uid: '20170413063412'
+dt-created: 2017-04-13 06:34:12 GMT
+link: http://quaibranly.fr/en/exhibitions-and-events/at-the-museum/exhibitions/event-details/e/picasso-primitif-36915/
+event-dt-begin: '2017-03-28'
+event-dt-end: '2017-07-23'
+event-location: Musée du quai Branly, Paris
+---

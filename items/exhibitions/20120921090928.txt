@@ -1,7 +1,9 @@
-CO-MIX: Art Spiegelman
-# uid            : 20120921090928
-# dt-created     : 2012-09-21 09:09:28 GMT
-# link           : http://www.museenkoeln.de/museum-ludwig/default.asp?s=3940
-# event-dt-begin : 2012-09-22
-# event-dt-end   : 2013-01-06
-# event-location : Museum Ludwig, Köln
+---
+title: 'CO-MIX: Art Spiegelman'
+uid: '20120921090928'
+dt-created: 2012-09-21 09:09:28 GMT
+link: http://www.museenkoeln.de/museum-ludwig/default.asp?s=3940
+event-dt-begin: '2012-09-22'
+event-dt-end: '2013-01-06'
+event-location: Museum Ludwig, Köln
+---

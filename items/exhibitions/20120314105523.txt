@@ -1,7 +1,9 @@
-Tino Sehgal 2012
-# uid            : 20120314105523
-# dt-created     : 2012-03-14 10:55:23 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/unilever-series-tino-sehgal
-# event-dt-begin : 2012-07-24
-# event-dt-end   : 2012-10-28
-# event-location : Tate Modern, London
+---
+title: Tino Sehgal 2012
+uid: '20120314105523'
+dt-created: 2012-03-14 10:55:23 GMT
+link: http://www.tate.org.uk/whats-on/tate-modern/exhibition/unilever-series-tino-sehgal
+event-dt-begin: '2012-07-24'
+event-dt-end: '2012-10-28'
+event-location: Tate Modern, London
+---

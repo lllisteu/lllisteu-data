@@ -1,7 +1,9 @@
-The Twilight of the Pharaohs
-# uid            : 20120229214626
-# dt-created     : 2012-02-29 21:46:26 GMT
-# link           : http://www.musee-jacquemart-andre.com/en/events/twilight-pharaohs
-# event-dt-begin : 2012-03-23
-# event-dt-end   : 2012-07-23
-# event-location : Musée Jacquemart-André, Paris
+---
+title: The Twilight of the Pharaohs
+uid: '20120229214626'
+dt-created: 2012-02-29 21:46:26 GMT
+link: http://www.musee-jacquemart-andre.com/en/events/twilight-pharaohs
+event-dt-begin: '2012-03-23'
+event-dt-end: '2012-07-23'
+event-location: Musée Jacquemart-André, Paris
+---

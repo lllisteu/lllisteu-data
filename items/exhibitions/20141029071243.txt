@@ -1,7 +1,9 @@
-La rosa di fuoco – La Barcellona di Picasso e Gaudí
-# uid            : 20141029071243
-# dt-created     : 2014-10-29 07:12:43 GMT
-# link           : http://www.palazzodiamanti.it/895/index.php?id=1429
-# event-dt-begin : 2015-04-19
-# event-dt-end   : 2015-07-19
-# event-location : Palazzo dei Diamanti, Ferrara
+---
+title: La rosa di fuoco – La Barcellona di Picasso e Gaudí
+uid: '20141029071243'
+dt-created: 2014-10-29 07:12:43 GMT
+link: http://www.palazzodiamanti.it/895/index.php?id=1429
+event-dt-begin: '2015-04-19'
+event-dt-end: '2015-07-19'
+event-location: Palazzo dei Diamanti, Ferrara
+---

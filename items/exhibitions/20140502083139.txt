@@ -1,7 +1,9 @@
-Cézanne and the Modern
-# uid            : 20140502083139
-# dt-created     : 2014-05-02 08:31:39 GMT
-# link           : http://www.ashmolean.org/exhibitions/cezanne/
-# event-dt-begin : 2014-03-13
-# event-dt-end   : 2014-06-22
-# event-location : Ashmolean Museum, Oxford
+---
+title: Cézanne and the Modern
+uid: '20140502083139'
+dt-created: 2014-05-02 08:31:39 GMT
+link: http://www.ashmolean.org/exhibitions/cezanne/
+event-dt-begin: '2014-03-13'
+event-dt-end: '2014-06-22'
+event-location: Ashmolean Museum, Oxford
+---

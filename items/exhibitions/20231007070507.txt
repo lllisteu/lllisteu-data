@@ -1,7 +1,9 @@
-Berthe Morisot and the Art of the 18th Century
-# uid            : 20231007070507
-# dt-created     : 2023-10-07 07:05:07 GMT
-# event-dt-begin : 2023-10-18
-# event-dt-end   : 2024-03-03
-# event-location : Musée Marmottan Monet, Paris
-# link           : https://www.marmottan.fr/en/expositions/berthe-morisot-and-the-art-of-the-18th-century/
+---
+title: Berthe Morisot and the Art of the 18th Century
+uid: '20231007070507'
+dt-created: 2023-10-07 07:05:07 GMT
+event-dt-begin: '2023-10-18'
+event-dt-end: '2024-03-03'
+event-location: Musée Marmottan Monet, Paris
+link: https://www.marmottan.fr/en/expositions/berthe-morisot-and-the-art-of-the-18th-century/
+---

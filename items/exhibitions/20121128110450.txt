@@ -1,7 +1,9 @@
-Eugène Boudin
-# uid            : 20121128110450
-# dt-created     : 2012-11-28 11:04:50 GMT
-# link           : http://www.musee-jacquemart-andre.com/en/events/eugene-boudin
-# event-dt-begin : 2013-03-22
-# event-dt-end   : 2013-07-22
-# event-location : Musée Jacquemart-André, Paris
+---
+title: Eugène Boudin
+uid: '20121128110450'
+dt-created: 2012-11-28 11:04:50 GMT
+link: http://www.musee-jacquemart-andre.com/en/events/eugene-boudin
+event-dt-begin: '2013-03-22'
+event-dt-end: '2013-07-22'
+event-location: Musée Jacquemart-André, Paris
+---

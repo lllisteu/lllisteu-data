@@ -1,7 +1,9 @@
-Andreas Gursky
-# uid            : 20151006101237
-# dt-created     : 2015-10-06 10:12:37 GMT
-# link           : http://www.museum-frieder-burda.de/Aktuelle-Ausstellung.1095.0.html
-# event-dt-begin : 2015-10-03
-# event-dt-end   : 2016-01-24
-# event-location : Museum Frieder Burda, Baden-Baden
+---
+title: Andreas Gursky
+uid: '20151006101237'
+dt-created: 2015-10-06 10:12:37 GMT
+link: http://www.museum-frieder-burda.de/Aktuelle-Ausstellung.1095.0.html
+event-dt-begin: '2015-10-03'
+event-dt-end: '2016-01-24'
+event-location: Museum Frieder Burda, Baden-Baden
+---

@@ -1,7 +1,9 @@
-À la cour du Prince Genji
-# uid            : 20231111145623
-# dt-created     : 2023-11-11 14:56:23 GMT
-# event-dt-begin : 2023-11-22
-# event-dt-end   : 2024-03-25
-# event-location : Musée Guimet, Paris
-# link           : https://www.guimet.fr/event/prince-genji/
+---
+title: À la cour du Prince Genji
+uid: '20231111145623'
+dt-created: 2023-11-11 14:56:23 GMT
+event-dt-begin: '2023-11-22'
+event-dt-end: '2024-03-25'
+event-location: Musée Guimet, Paris
+link: https://www.guimet.fr/event/prince-genji/
+---

@@ -1,7 +1,9 @@
-Anni Albers: Touching Vision
-# uid            : 20170724090716
-# dt-created     : 2017-07-24 09:07:16 GMT
-# event-dt-begin : 2017-10-06
-# event-dt-end   : 2018-01-14
-# event-location : Museo Guggenheim, Bilbao
-# link           : https://www.guggenheim-bilbao.eus/en/exhibitions/anni-albers-touching-vision/
+---
+title: 'Anni Albers: Touching Vision'
+uid: '20170724090716'
+dt-created: 2017-07-24 09:07:16 GMT
+event-dt-begin: '2017-10-06'
+event-dt-end: '2018-01-14'
+event-location: Museo Guggenheim, Bilbao
+link: https://www.guggenheim-bilbao.eus/en/exhibitions/anni-albers-touching-vision/
+---

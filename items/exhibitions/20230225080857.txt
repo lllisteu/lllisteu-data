@@ -1,7 +1,9 @@
-Chagall, Matisse, Miró
-# uid            : 20230225080857
-# dt-created     : 2023-02-25 08:08:57 GMT
-# event-dt-begin : 2023-09-01
-# event-dt-end   : 2024-01-07
-# event-location : Museum Folkwang, Essen
-# link           : https://www.museum-folkwang.de/de/ausstellung/chagall-matisse-miro
+---
+title: Chagall, Matisse, Miró
+uid: '20230225080857'
+dt-created: 2023-02-25 08:08:57 GMT
+event-dt-begin: '2023-09-01'
+event-dt-end: '2024-01-07'
+event-location: Museum Folkwang, Essen
+link: https://www.museum-folkwang.de/de/ausstellung/chagall-matisse-miro
+---

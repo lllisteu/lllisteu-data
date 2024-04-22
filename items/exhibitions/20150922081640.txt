@@ -1,7 +1,9 @@
-John Baldessari
-# uid            : 20150922081640
-# dt-created     : 2015-09-22 08:16:40 GMT
-# link           : http://www.staedelmuseum.de/en/exhibitions/john-baldessari
-# event-dt-begin : 2015-11-05
-# event-dt-end   : 2016-01-24
-# event-location : Städel Museum, Frankfurt
+---
+title: John Baldessari
+uid: '20150922081640'
+dt-created: 2015-09-22 08:16:40 GMT
+link: http://www.staedelmuseum.de/en/exhibitions/john-baldessari
+event-dt-begin: '2015-11-05'
+event-dt-end: '2016-01-24'
+event-location: Städel Museum, Frankfurt
+---

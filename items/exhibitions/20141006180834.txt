@@ -1,7 +1,9 @@
-Sargent: Portraits of Artists and Friends
-# uid            : 20141006180834
-# dt-created     : 2014-10-06 18:08:34 GMT
-# link           : http://www.npg.org.uk/whatson/sargent/home.php
-# event-dt-begin : 2015-02-12
-# event-dt-end   : 2015-05-25
-# event-location : National Portrait Gallery, London
+---
+title: 'Sargent: Portraits of Artists and Friends'
+uid: '20141006180834'
+dt-created: 2014-10-06 18:08:34 GMT
+link: http://www.npg.org.uk/whatson/sargent/home.php
+event-dt-begin: '2015-02-12'
+event-dt-end: '2015-05-25'
+event-location: National Portrait Gallery, London
+---

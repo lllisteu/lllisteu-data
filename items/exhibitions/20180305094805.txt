@@ -1,7 +1,9 @@
-Hans Hartung
-# uid            : 20180305094805
-# dt-created     : 2018-03-05 09:48:05 GMT
-# event-dt-begin : 2018-05-24
-# event-dt-end   : 2018-08-19
-# event-location : Kunstmuseum Bonn
-# link           : http://www.kunstmuseum-bonn.de/nocache/ausstellungen/vorschau/info/ex/hans-hartung-3675/
+---
+title: Hans Hartung
+uid: '20180305094805'
+dt-created: 2018-03-05 09:48:05 GMT
+event-dt-begin: '2018-05-24'
+event-dt-end: '2018-08-19'
+event-location: Kunstmuseum Bonn
+link: http://www.kunstmuseum-bonn.de/nocache/ausstellungen/vorschau/info/ex/hans-hartung-3675/
+---

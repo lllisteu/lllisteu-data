@@ -1,7 +1,9 @@
-Franco Grignani
-# uid            : 20170413071348
-# dt-created     : 2017-04-13 07:13:48 GMT
-# link           : http://www.estorickcollection.com/exhibitions/franco-grignani-art-as-design-1950-1990
-# event-dt-begin : 2017-07-05
-# event-dt-end   : 2017-09-10
-# event-location : Estorick Collection, London
+---
+title: Franco Grignani
+uid: '20170413071348'
+dt-created: 2017-04-13 07:13:48 GMT
+link: http://www.estorickcollection.com/exhibitions/franco-grignani-art-as-design-1950-1990
+event-dt-begin: '2017-07-05'
+event-dt-end: '2017-09-10'
+event-location: Estorick Collection, London
+---

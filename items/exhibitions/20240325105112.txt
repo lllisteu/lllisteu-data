@@ -1,7 +1,9 @@
-Ragamala - Pictures for all the senses
-# uid            : 20240325105112
-# dt-created     : 2024-03-25 10:51:12 GMT
-# event-dt-begin : 2024-09-20
-# event-dt-end   : 2025-01-19
-# event-location : Museum Rietberg, Zürich
-# link           : https://rietberg.ch/en/exhibitions/ragamala
+---
+title: Ragamala - Pictures for all the senses
+uid: '20240325105112'
+dt-created: 2024-03-25 10:51:12 GMT
+event-dt-begin: '2024-09-20'
+event-dt-end: '2025-01-19'
+event-location: Museum Rietberg, Zürich
+link: https://rietberg.ch/en/exhibitions/ragamala
+---

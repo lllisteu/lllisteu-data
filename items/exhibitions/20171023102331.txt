@@ -1,7 +1,9 @@
-Hokusai
-# uid            : 20171023102331
-# dt-created     : 2017-10-23 10:23:31 GMT
-# event-dt-begin : 2017-10-12
-# event-dt-end   : 2018-01-14
-# event-location : Museo dell'Ara Pacis, Roma
-# link           : http://en.arapacis.it/mostre_ed_eventi/mostre/hokusai_sulle_orme_del_maestro
+---
+title: Hokusai
+uid: '20171023102331'
+dt-created: 2017-10-23 10:23:31 GMT
+event-dt-begin: '2017-10-12'
+event-dt-end: '2018-01-14'
+event-location: Museo dell'Ara Pacis, Roma
+link: http://en.arapacis.it/mostre_ed_eventi/mostre/hokusai_sulle_orme_del_maestro
+---

@@ -1,7 +1,9 @@
-Adolfo Wildt (1868-1931)
-# uid            : 20141223103514
-# dt-created     : 2014-12-23 10:35:14 GMT
-# link           : http://www.musee-orangerie.fr/pages/page_id20005_u1l2.htm
-# event-dt-begin : 2015-04-15
-# event-dt-end   : 2015-07-13
-# event-location : Musée de l'Orangerie, Paris
+---
+title: Adolfo Wildt (1868-1931)
+uid: '20141223103514'
+dt-created: 2014-12-23 10:35:14 GMT
+link: http://www.musee-orangerie.fr/pages/page_id20005_u1l2.htm
+event-dt-begin: '2015-04-15'
+event-dt-end: '2015-07-13'
+event-location: Musée de l'Orangerie, Paris
+---

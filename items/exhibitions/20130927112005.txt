@@ -1,7 +1,9 @@
-Matisse, la figura
-# uid            : 20130927112005
-# dt-created     : 2013-09-27 11:20:05 GMT
-# link           : http://www.palazzodiamanti.it/1318
-# event-dt-begin : 2014-02-22
-# event-dt-end   : 2014-06-15
-# event-location : Palazzo dei Diamanti, Ferrara
+---
+title: Matisse, la figura
+uid: '20130927112005'
+dt-created: 2013-09-27 11:20:05 GMT
+link: http://www.palazzodiamanti.it/1318
+event-dt-begin: '2014-02-22'
+event-dt-end: '2014-06-15'
+event-location: Palazzo dei Diamanti, Ferrara
+---

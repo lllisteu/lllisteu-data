@@ -1,7 +1,9 @@
-Sonia Delaunay-Terk. Art, design and fashion
-# uid            : 20161024123641
-# dt-created     : 2016-10-24 12:36:41 GMT
-# link           : https://www.museothyssen.org/exposiciones/sonia-delaunay-arte-diseno-moda
-# event-dt-begin : 2017-07-04
-# event-dt-end   : 2017-10-15
-# event-location : Museo Thyssen-Bornemisza, Madrid
+---
+title: Sonia Delaunay-Terk. Art, design and fashion
+uid: '20161024123641'
+dt-created: 2016-10-24 12:36:41 GMT
+link: https://www.museothyssen.org/exposiciones/sonia-delaunay-arte-diseno-moda
+event-dt-begin: '2017-07-04'
+event-dt-end: '2017-10-15'
+event-location: Museo Thyssen-Bornemisza, Madrid
+---

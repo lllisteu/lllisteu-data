@@ -1,7 +1,9 @@
-Théodore Géricault
-# uid            : 20130410063544
-# dt-created     : 2013-04-10 06:35:44 GMT
-# link           : http://www.schirn.de/en/Page2951.html
-# event-dt-begin : 2013-10-18
-# event-dt-end   : 2014-01-26
-# event-location : Schirn Kunsthalle, Frankfurt
+---
+title: Théodore Géricault
+uid: '20130410063544'
+dt-created: 2013-04-10 06:35:44 GMT
+link: http://www.schirn.de/en/Page2951.html
+event-dt-begin: '2013-10-18'
+event-dt-end: '2014-01-26'
+event-location: Schirn Kunsthalle, Frankfurt
+---

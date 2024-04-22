@@ -1,7 +1,9 @@
-Gabriele Münter
-# uid            : 20180305100146
-# dt-created     : 2018-03-05 10:01:46 GMT
-# event-dt-begin : 2018-09-15
-# event-dt-end   : 2019-01-13
-# event-location : Museum Ludwig, Köln
-# link           : http://www.museum-ludwig.de/
+---
+title: Gabriele Münter
+uid: '20180305100146'
+dt-created: 2018-03-05 10:01:46 GMT
+event-dt-begin: '2018-09-15'
+event-dt-end: '2019-01-13'
+event-location: Museum Ludwig, Köln
+link: http://www.museum-ludwig.de/
+---

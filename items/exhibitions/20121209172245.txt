@@ -1,7 +1,9 @@
-Eileen Gray
-# uid            : 20121209172245
-# dt-created     : 2012-12-09 17:22:45 GMT
-# link           : http://www.centrepompidou.fr/cpv/ressource.action?param.id=FR_R-18c51835e9fd47c1d213c6cc5336f774&param.idSource=FR_E-18c51835e9fd47c1d213c6cc5336f774&param.seance=seance&param.notReturn=notReturn
-# event-dt-begin : 2013-02-20
-# event-dt-end   : 2013-05-20
-# event-location : Centre Pompidou, Paris
+---
+title: Eileen Gray
+uid: '20121209172245'
+dt-created: 2012-12-09 17:22:45 GMT
+link: http://www.centrepompidou.fr/cpv/ressource.action?param.id=FR_R-18c51835e9fd47c1d213c6cc5336f774&param.idSource=FR_E-18c51835e9fd47c1d213c6cc5336f774&param.seance=seance&param.notReturn=notReturn
+event-dt-begin: '2013-02-20'
+event-dt-end: '2013-05-20'
+event-location: Centre Pompidou, Paris
+---

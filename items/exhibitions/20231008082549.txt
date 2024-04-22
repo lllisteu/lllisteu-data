@@ -1,7 +1,9 @@
-Robert Ryman. The Eye in Action
-# uid            : 20231008082549
-# dt-created     : 2023-10-08 08:25:49 GMT
-# event-dt-begin : 2024-03-06
-# event-dt-end   : 2024-07-01
-# event-location : Musée de l'Orangerie, Paris
-# link           : https://www.musee-orangerie.fr/en/whats-on/exhibitions/robert-ryman-eye-action
+---
+title: Robert Ryman. The Eye in Action
+uid: '20231008082549'
+dt-created: 2023-10-08 08:25:49 GMT
+event-dt-begin: '2024-03-06'
+event-dt-end: '2024-07-01'
+event-location: Musée de l'Orangerie, Paris
+link: https://www.musee-orangerie.fr/en/whats-on/exhibitions/robert-ryman-eye-action
+---

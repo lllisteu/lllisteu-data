@@ -1,7 +1,9 @@
-Henri Matisse: The Cut-Outs
-# uid            : 20130507061742
-# dt-created     : 2013-05-07 06:17:42 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/henri-matisse-cut-outs
-# event-dt-begin : 2014-04-17
-# event-dt-end   : 2014-09-07
-# event-location : Tate Modern, London
+---
+title: 'Henri Matisse: The Cut-Outs'
+uid: '20130507061742'
+dt-created: 2013-05-07 06:17:42 GMT
+link: http://www.tate.org.uk/whats-on/tate-modern/exhibition/henri-matisse-cut-outs
+event-dt-begin: '2014-04-17'
+event-dt-end: '2014-09-07'
+event-location: Tate Modern, London
+---

@@ -1,7 +1,9 @@
-Peter Doig
-# uid            : 20141117202920
-# dt-created     : 2014-11-17 20:29:20 GMT
-# link           : http://en.louisiana.dk/exhibition/peter-doig
-# event-dt-begin : 2015-04-17
-# event-dt-end   : 2015-08-16
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: Peter Doig
+uid: '20141117202920'
+dt-created: 2014-11-17 20:29:20 GMT
+link: http://en.louisiana.dk/exhibition/peter-doig
+event-dt-begin: '2015-04-17'
+event-dt-end: '2015-08-16'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

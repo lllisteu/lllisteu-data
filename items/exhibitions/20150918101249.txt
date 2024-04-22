@@ -1,7 +1,9 @@
-Jim Dine – About the Love of Printing
-# uid            : 20150918101249
-# dt-created     : 2015-09-18 10:12:49 GMT
-# link           : https://www.museum-folkwang.de/en/news/exhibitions/future-exhibitions/jim-dine.html
-# event-dt-begin : 2015-10-30
-# event-dt-end   : 2016-01-31
-# event-location : Museum Folkwang, Essen
+---
+title: Jim Dine – About the Love of Printing
+uid: '20150918101249'
+dt-created: 2015-09-18 10:12:49 GMT
+link: https://www.museum-folkwang.de/en/news/exhibitions/future-exhibitions/jim-dine.html
+event-dt-begin: '2015-10-30'
+event-dt-end: '2016-01-31'
+event-location: Museum Folkwang, Essen
+---

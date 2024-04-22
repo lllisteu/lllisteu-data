@@ -1,7 +1,9 @@
-Germaine Krull - Photographs
-# uid            : 20150412143844
-# dt-created     : 2015-04-12 14:38:44 GMT
-# link           : http://www.berlinerfestspiele.de/en/aktuell/festivals/gropiusbau/programm_mgb/mgb15_krull/ausstellung_krull/veranstaltungsdetail_mgb15_krull_117525.php
-# event-dt-begin : 2015-10-15
-# event-dt-end   : 2016-01-31
-# event-location : Martin-Gropius-Bau, Berlin
+---
+title: Germaine Krull - Photographs
+uid: '20150412143844'
+dt-created: 2015-04-12 14:38:44 GMT
+link: http://www.berlinerfestspiele.de/en/aktuell/festivals/gropiusbau/programm_mgb/mgb15_krull/ausstellung_krull/veranstaltungsdetail_mgb15_krull_117525.php
+event-dt-begin: '2015-10-15'
+event-dt-end: '2016-01-31'
+event-location: Martin-Gropius-Bau, Berlin
+---

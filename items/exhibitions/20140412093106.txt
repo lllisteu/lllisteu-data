@@ -1,7 +1,9 @@
-Rubens, Van Dyck, Jordaens
-# uid            : 20140412093106
-# dt-created     : 2014-04-12 09:31:06 GMT
-# link           : http://www.rijksmuseumtwenthe.nl/nl/agenda/2014/04/05/rubens-van-dyck-en-jordaens-de-vlaamse-barok
-# event-dt-begin : 2014-04-06
-# event-dt-end   : 2014-09-28
-# event-location : Rijksmuseum Twenthe, Enschede
+---
+title: Rubens, Van Dyck, Jordaens
+uid: '20140412093106'
+dt-created: 2014-04-12 09:31:06 GMT
+link: http://www.rijksmuseumtwenthe.nl/nl/agenda/2014/04/05/rubens-van-dyck-en-jordaens-de-vlaamse-barok
+event-dt-begin: '2014-04-06'
+event-dt-end: '2014-09-28'
+event-location: Rijksmuseum Twenthe, Enschede
+---

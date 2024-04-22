@@ -1,7 +1,9 @@
-Abraham Cruzvillegas
-# uid            : 20171106103952
-# dt-created     : 2017-11-06 10:39:52 GMT
-# event-dt-begin : 2018-02-16
-# event-dt-end   : 2018-03-25
-# event-location : Kunsthaus Zürich 
-# link           : http://www.kunsthaus.ch/en/exhibitions/coming-soon/abraham-cruzvillegas/
+---
+title: Abraham Cruzvillegas
+uid: '20171106103952'
+dt-created: 2017-11-06 10:39:52 GMT
+event-dt-begin: '2018-02-16'
+event-dt-end: '2018-03-25'
+event-location: 'Kunsthaus Zürich '
+link: http://www.kunsthaus.ch/en/exhibitions/coming-soon/abraham-cruzvillegas/
+---

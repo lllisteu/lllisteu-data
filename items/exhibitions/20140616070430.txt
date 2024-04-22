@@ -1,7 +1,9 @@
-Jeff Koons
-# uid            : 20140616070430
-# dt-created     : 2014-06-16 07:04:30 GMT
-# link           : http://www.centrepompidou.fr/cpv/agenda/expositions?agenda.dateCal=01-12-2014
-# event-dt-begin : 2014-11-26
-# event-dt-end   : 2015-04-27
-# event-location : Centre Pompidou, Paris
+---
+title: Jeff Koons
+uid: '20140616070430'
+dt-created: 2014-06-16 07:04:30 GMT
+link: http://www.centrepompidou.fr/cpv/agenda/expositions?agenda.dateCal=01-12-2014
+event-dt-begin: '2014-11-26'
+event-dt-end: '2015-04-27'
+event-location: Centre Pompidou, Paris
+---

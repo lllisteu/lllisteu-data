@@ -1,7 +1,9 @@
-Chagall: Modern Master
-# uid            : 20120510143456
-# dt-created     : 2012-05-10 14:34:56 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/chagall-modern-master
-# event-dt-begin : 2013-06-08
-# event-dt-end   : 2013-10-06
-# event-location : Tate Liverpool
+---
+title: 'Chagall: Modern Master'
+uid: '20120510143456'
+dt-created: 2012-05-10 14:34:56 GMT
+link: http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/chagall-modern-master
+event-dt-begin: '2013-06-08'
+event-dt-end: '2013-10-06'
+event-location: Tate Liverpool
+---

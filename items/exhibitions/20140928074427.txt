@@ -1,7 +1,9 @@
-Ludwig Goes Pop
-# uid            : 20140928074427
-# dt-created     : 2014-09-28 07:44:27 GMT
-# link           : http://mumok.at/de/events/ludwig-goes-pop
-# event-dt-begin : 2015-02-12
-# event-dt-end   : 2015-09-13
-# event-location : Mumok, Wien
+---
+title: Ludwig Goes Pop
+uid: '20140928074427'
+dt-created: 2014-09-28 07:44:27 GMT
+link: http://mumok.at/de/events/ludwig-goes-pop
+event-dt-begin: '2015-02-12'
+event-dt-end: '2015-09-13'
+event-location: Mumok, Wien
+---

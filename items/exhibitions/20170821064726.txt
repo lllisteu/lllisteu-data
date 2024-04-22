@@ -1,7 +1,9 @@
-The Hansen's Secret Garden
-# uid            : 20170821064726
-# dt-created     : 2017-08-21 06:47:26 GMT
-# event-dt-begin : 2017-09-15
-# event-dt-end   : 2018-01-22
-# event-location : Musée Jacquemart-André, Paris
-# link           : http://www.musee-jacquemart-andre.com/en/hansens-secret-garden
+---
+title: The Hansen's Secret Garden
+uid: '20170821064726'
+dt-created: 2017-08-21 06:47:26 GMT
+event-dt-begin: '2017-09-15'
+event-dt-end: '2018-01-22'
+event-location: Musée Jacquemart-André, Paris
+link: http://www.musee-jacquemart-andre.com/en/hansens-secret-garden
+---

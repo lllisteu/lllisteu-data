@@ -1,7 +1,9 @@
-Dalí / Duchamp
-# uid            : 20161031071612
-# dt-created     : 2016-10-31 07:16:12 GMT
-# link           : https://www.royalacademy.org.uk/exhibition/dali-duchamp
-# event-dt-begin : 2017-10-07
-# event-dt-end   : 2018-01-03
-# event-location : Royal Academy of Arts, London
+---
+title: Dalí / Duchamp
+uid: '20161031071612'
+dt-created: 2016-10-31 07:16:12 GMT
+link: https://www.royalacademy.org.uk/exhibition/dali-duchamp
+event-dt-begin: '2017-10-07'
+event-dt-end: '2018-01-03'
+event-location: Royal Academy of Arts, London
+---

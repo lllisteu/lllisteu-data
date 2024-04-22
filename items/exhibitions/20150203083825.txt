@@ -1,7 +1,9 @@
-The Frick Collection - Art Treasures from New York
-# uid            : 20150203083825
-# dt-created     : 2015-02-03 08:38:25 GMT
-# link           : http://www.mauritshuis.nl/en/discover/tentoonstellingen/the-frick-collection-art-treasures-from-new-york/
-# event-dt-begin : 2015-02-05
-# event-dt-end   : 2015-05-10
-# event-location : Mauritshuis, Den Haag
+---
+title: The Frick Collection - Art Treasures from New York
+uid: '20150203083825'
+dt-created: 2015-02-03 08:38:25 GMT
+link: http://www.mauritshuis.nl/en/discover/tentoonstellingen/the-frick-collection-art-treasures-from-new-york/
+event-dt-begin: '2015-02-05'
+event-dt-end: '2015-05-10'
+event-location: Mauritshuis, Den Haag
+---

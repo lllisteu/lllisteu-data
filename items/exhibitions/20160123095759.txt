@@ -1,7 +1,9 @@
-¡Dark!
-# uid            : 20160123095759
-# dt-created     : 2016-01-23 09:57:59 GMT
-# link           : http://www.lichtkunst-unna.de/en/exhibitions/dark.html
-# event-dt-begin : 2015-09-26
-# event-dt-end   : 2016-04-03
-# event-location : Zentrum für Internationale Lichtkunst, Unna
+---
+title: "¡Dark!"
+uid: '20160123095759'
+dt-created: 2016-01-23 09:57:59 GMT
+link: http://www.lichtkunst-unna.de/en/exhibitions/dark.html
+event-dt-begin: '2015-09-26'
+event-dt-end: '2016-04-03'
+event-location: Zentrum für Internationale Lichtkunst, Unna
+---

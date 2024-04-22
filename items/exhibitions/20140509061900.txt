@@ -1,7 +1,9 @@
-George Grosz. The Big Pastime
-# uid            : 20140509061900
-# dt-created     : 2014-05-09 06:19:00 GMT
-# link           : http://www.smkp.de/en/exhibitions/current/georges-grosz.html
-# event-dt-begin : 2014-04-18
-# event-dt-end   : 2014-08-17
-# event-location : Museum Kunstpalast, Düsseldorf
+---
+title: George Grosz. The Big Pastime
+uid: '20140509061900'
+dt-created: 2014-05-09 06:19:00 GMT
+link: http://www.smkp.de/en/exhibitions/current/georges-grosz.html
+event-dt-begin: '2014-04-18'
+event-dt-end: '2014-08-17'
+event-location: Museum Kunstpalast, Düsseldorf
+---

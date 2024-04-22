@@ -1,7 +1,9 @@
-Marc Chagall, sculptures
-# uid            : 20170501085538
-# dt-created     : 2017-05-01 08:55:38 GMT
-# link           : http://www.grandpalais.fr/en/event/marc-chagall-sculptures
-# event-dt-begin : 2017-05-27
-# event-dt-end   : 2017-08-28
-# event-location : Musée national Marc Chagall, Nice
+---
+title: Marc Chagall, sculptures
+uid: '20170501085538'
+dt-created: 2017-05-01 08:55:38 GMT
+link: http://www.grandpalais.fr/en/event/marc-chagall-sculptures
+event-dt-begin: '2017-05-27'
+event-dt-end: '2017-08-28'
+event-location: Musée national Marc Chagall, Nice
+---

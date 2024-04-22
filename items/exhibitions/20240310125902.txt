@@ -1,7 +1,9 @@
-Albert Oehlen – Computer Paintings
-# uid            : 20240310125902
-# dt-created     : 2024-03-10 12:59:02 GMT
-# event-dt-begin : 2024-09-13
-# event-dt-end   : 2025-02-02
-# event-location : Hamburger Kunsthalle
-# link           : https://www.hamburger-kunsthalle.de/en/exhibitions/albert-oehlen
+---
+title: Albert Oehlen – Computer Paintings
+uid: '20240310125902'
+dt-created: 2024-03-10 12:59:02 GMT
+event-dt-begin: '2024-09-13'
+event-dt-end: '2025-02-02'
+event-location: Hamburger Kunsthalle
+link: https://www.hamburger-kunsthalle.de/en/exhibitions/albert-oehlen
+---

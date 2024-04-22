@@ -1,7 +1,9 @@
-Marino Marini
-# uid            : 20130804180653
-# dt-created     : 2013-08-04 18:06:53 GMT
-# link           : http://www.museumdefundatie.nl/352-Expositie_Marino_Marini.html
-# event-dt-begin : 2013-09-29
-# event-dt-end   : 2014-03-16
-# event-location : Museum de Fundatie, Zwolle
+---
+title: Marino Marini
+uid: '20130804180653'
+dt-created: 2013-08-04 18:06:53 GMT
+link: http://www.museumdefundatie.nl/352-Expositie_Marino_Marini.html
+event-dt-begin: '2013-09-29'
+event-dt-end: '2014-03-16'
+event-location: Museum de Fundatie, Zwolle
+---

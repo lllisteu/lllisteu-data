@@ -1,7 +1,9 @@
-Transmitting Andy Warhol
-# uid            : 20140217101753
-# dt-created     : 2014-02-17 10:17:53 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/transmitting-andy-warhol
-# event-dt-begin : 2014-11-07
-# event-dt-end   : 2015-02-08
-# event-location : Tate Liverpool
+---
+title: Transmitting Andy Warhol
+uid: '20140217101753'
+dt-created: 2014-02-17 10:17:53 GMT
+link: http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/transmitting-andy-warhol
+event-dt-begin: '2014-11-07'
+event-dt-end: '2015-02-08'
+event-location: Tate Liverpool
+---

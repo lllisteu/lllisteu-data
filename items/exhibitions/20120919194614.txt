@@ -1,7 +1,9 @@
-Man Ray Portraits
-# uid            : 20120919194614
-# dt-created     : 2012-09-19 19:46:14 GMT
-# link           : http://www.npg.org.uk//whatson/man-ray-portraits/exhibition.php
-# event-dt-begin : 2013-02-07
-# event-dt-end   : 2013-05-27
-# event-location : National Portrait Gallery, London
+---
+title: Man Ray Portraits
+uid: '20120919194614'
+dt-created: 2012-09-19 19:46:14 GMT
+link: http://www.npg.org.uk//whatson/man-ray-portraits/exhibition.php
+event-dt-begin: '2013-02-07'
+event-dt-end: '2013-05-27'
+event-location: National Portrait Gallery, London
+---

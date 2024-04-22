@@ -1,7 +1,9 @@
-Gerhard Richter
-# uid            : 20170412103323
-# dt-created     : 2017-04-12 10:33:23 GMT
-# link           : http://www.ngprague.cz/en/exposition-detail/gerhard-richter-a-survey/
-# event-dt-begin : 2017-04-26
-# event-dt-end   : 2017-09-03
-# event-location : Palác Kinských, Praha
+---
+title: Gerhard Richter
+uid: '20170412103323'
+dt-created: 2017-04-12 10:33:23 GMT
+link: http://www.ngprague.cz/en/exposition-detail/gerhard-richter-a-survey/
+event-dt-begin: '2017-04-26'
+event-dt-end: '2017-09-03'
+event-location: Palác Kinských, Praha
+---

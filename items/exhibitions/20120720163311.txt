@@ -1,7 +1,9 @@
-The Colonial Eye. Early Portrait Photography in India
-# uid            : 20120720163311
-# dt-created     : 2012-07-20 16:33:11 GMT
-# link           : http://www.smb.museum/smb/kalender/details.php?lang=en&objID=22818
-# event-dt-begin : 2012-07-20
-# event-dt-end   : 2012-10-21
-# event-location : Museum für Fotografie, Berlin
+---
+title: The Colonial Eye. Early Portrait Photography in India
+uid: '20120720163311'
+dt-created: 2012-07-20 16:33:11 GMT
+link: http://www.smb.museum/smb/kalender/details.php?lang=en&objID=22818
+event-dt-begin: '2012-07-20'
+event-dt-end: '2012-10-21'
+event-location: Museum für Fotografie, Berlin
+---

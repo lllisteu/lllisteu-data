@@ -1,7 +1,9 @@
-Masterpieces of the Paris Salon from the Musée d’Orsay
-# uid            : 20170504212658
-# dt-created     : 2017-05-04 21:26:58 GMT
-# link           : http://www.kunsthalle-muc.de/en/exhibitions/preview/
-# event-dt-begin : 2017-09-22
-# event-dt-end   : 2018-01-28
-# event-location : Kunsthalle der Hypo-Kulturstiftung, München
+---
+title: Masterpieces of the Paris Salon from the Musée d’Orsay
+uid: '20170504212658'
+dt-created: 2017-05-04 21:26:58 GMT
+link: http://www.kunsthalle-muc.de/en/exhibitions/preview/
+event-dt-begin: '2017-09-22'
+event-dt-end: '2018-01-28'
+event-location: Kunsthalle der Hypo-Kulturstiftung, München
+---

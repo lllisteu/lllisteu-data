@@ -1,7 +1,9 @@
-Peter Doig – No Foreign Lands
-# uid            : 20130803132338
-# dt-created     : 2013-08-03 13:23:38 GMT
-# link           : http://www.nationalgalleries.org/whatson/exhibitions/peter-doig/
-# event-dt-begin : 2013-08-03
-# event-dt-end   : 2013-11-03
-# event-location : Scottish National Gallery, Edinburgh
+---
+title: Peter Doig – No Foreign Lands
+uid: '20130803132338'
+dt-created: 2013-08-03 13:23:38 GMT
+link: http://www.nationalgalleries.org/whatson/exhibitions/peter-doig/
+event-dt-begin: '2013-08-03'
+event-dt-end: '2013-11-03'
+event-location: Scottish National Gallery, Edinburgh
+---

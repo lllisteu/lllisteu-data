@@ -1,7 +1,9 @@
-Günter Fruhtrunk - Retrospektive 1952–1982
-# uid            : 20231107074051
-# dt-created     : 2023-11-07 07:40:51 GMT
-# event-dt-begin : 2023-11-16
-# event-dt-end   : 2024-03-10
-# event-location : Kunstmuseum Bonn
-# link           : https://www.kunstmuseum-bonn.de/en/ausstellungen/guenter-fruhtrunk/
+---
+title: Günter Fruhtrunk - Retrospektive 1952–1982
+uid: '20231107074051'
+dt-created: 2023-11-07 07:40:51 GMT
+event-dt-begin: '2023-11-16'
+event-dt-end: '2024-03-10'
+event-location: Kunstmuseum Bonn
+link: https://www.kunstmuseum-bonn.de/en/ausstellungen/guenter-fruhtrunk/
+---

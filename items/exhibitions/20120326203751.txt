@@ -1,7 +1,9 @@
-Documenta (13)
-# uid            : 20120326203751
-# dt-created     : 2012-03-26 20:37:51 GMT
-# link           : http://d13.documenta.de/
-# event-dt-begin : 2012-06-09
-# event-dt-end   : 2012-09-16
-# event-location : Kassel
+---
+title: Documenta (13)
+uid: '20120326203751'
+dt-created: 2012-03-26 20:37:51 GMT
+link: http://d13.documenta.de/
+event-dt-begin: '2012-06-09'
+event-dt-end: '2012-09-16'
+event-location: Kassel
+---

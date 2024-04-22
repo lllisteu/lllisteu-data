@@ -1,7 +1,9 @@
-Oskar Kokoschka – People and animals
-# uid            : 20121119195049
-# dt-created     : 2012-11-19 19:50:49 GMT
-# link           : http://www.boijmans.nl/en/7/calendar-exhibitions/calendaritem/1190/oskar-kokoschka-people-and-animals
-# event-dt-begin : 2013-09-21
-# event-dt-end   : 2014-01-19
-# event-location : Museum Boijmans Van Beuningen, Rotterdam
+---
+title: Oskar Kokoschka – People and animals
+uid: '20121119195049'
+dt-created: 2012-11-19 19:50:49 GMT
+link: http://www.boijmans.nl/en/7/calendar-exhibitions/calendaritem/1190/oskar-kokoschka-people-and-animals
+event-dt-begin: '2013-09-21'
+event-dt-end: '2014-01-19'
+event-location: Museum Boijmans Van Beuningen, Rotterdam
+---

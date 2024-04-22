@@ -1,7 +1,9 @@
-Helmut Newton - Work
-# uid            : 20030624123443
-# dt-created     : 2003-06-24 10:34:43 GMT
-# event-dt-begin : 2003-06-14
-# event-dt-end   : 2003-08-17
-# event-location : NRW-Forum Düsseldorf
-# link           : http://www.nrw-forum.de/
+---
+title: Helmut Newton - Work
+uid: '20030624123443'
+dt-created: 2003-06-24 10:34:43 GMT
+event-dt-begin: '2003-06-14'
+event-dt-end: '2003-08-17'
+event-location: NRW-Forum Düsseldorf
+link: http://www.nrw-forum.de/
+---

@@ -1,7 +1,9 @@
-Manzoni in Holland
-# uid            : 20171129113931
-# dt-created     : 2017-11-29 11:39:31 GMT
-# event-dt-begin : 2019-02-16
-# event-dt-end   : 2019-06-02
-# event-location : Stedelijk Museum Schiedam 
-# link           : https://www.stedelijkmuseumschiedam.nl/tentoonstelling/manzoni-in-holland/
+---
+title: Manzoni in Holland
+uid: '20171129113931'
+dt-created: 2017-11-29 11:39:31 GMT
+event-dt-begin: '2019-02-16'
+event-dt-end: '2019-06-02'
+event-location: 'Stedelijk Museum Schiedam '
+link: https://www.stedelijkmuseumschiedam.nl/tentoonstelling/manzoni-in-holland/
+---

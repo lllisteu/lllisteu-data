@@ -1,7 +1,9 @@
-San Francisco 1967
-# uid            : 20170601085307
-# dt-created     : 2017-06-01 08:53:07 GMT
-# link           : https://www.museum-folkwang.de/de/aktuelles/ausstellungen/ausblick/san-francisco-1967.html
-# event-dt-begin : 2017-06-09
-# event-dt-end   : 2017-09-03
-# event-location : Museum Folkwang, Essen
+---
+title: San Francisco 1967
+uid: '20170601085307'
+dt-created: 2017-06-01 08:53:07 GMT
+link: https://www.museum-folkwang.de/de/aktuelles/ausstellungen/ausblick/san-francisco-1967.html
+event-dt-begin: '2017-06-09'
+event-dt-end: '2017-09-03'
+event-location: Museum Folkwang, Essen
+---

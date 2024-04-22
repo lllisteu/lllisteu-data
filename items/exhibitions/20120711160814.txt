@@ -1,7 +1,9 @@
-Am Anfang. Anselm Kiefer. Werke aus dem Privatbesitz Hans Grothe
-# uid            : 20120711160814
-# dt-created     : 2012-07-11 16:08:14 GMT
-# link           : http://www.bundeskunsthalle.de/index.htm?ausstellungen/index.htm
-# event-dt-begin : 2012-06-20
-# event-dt-end   : 2012-09-16
-# event-location : Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn
+---
+title: Am Anfang. Anselm Kiefer. Werke aus dem Privatbesitz Hans Grothe
+uid: '20120711160814'
+dt-created: 2012-07-11 16:08:14 GMT
+link: http://www.bundeskunsthalle.de/index.htm?ausstellungen/index.htm
+event-dt-begin: '2012-06-20'
+event-dt-end: '2012-09-16'
+event-location: Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn
+---

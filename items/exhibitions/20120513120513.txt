@@ -1,7 +1,9 @@
-Mark Rothko
-# uid            : 20120513120513
-# dt-created     : 2012-05-13 12:05:13 GMT
-# link           : http://www.gemeentemuseum.nl/en/exhibitions/mark-rothko
-# event-dt-begin : 2014-09-20
-# event-dt-end   : 2015-03-01
-# event-location : Gemeentemuseum, Den Haag
+---
+title: Mark Rothko
+uid: '20120513120513'
+dt-created: 2012-05-13 12:05:13 GMT
+link: http://www.gemeentemuseum.nl/en/exhibitions/mark-rothko
+event-dt-begin: '2014-09-20'
+event-dt-end: '2015-03-01'
+event-location: Gemeentemuseum, Den Haag
+---

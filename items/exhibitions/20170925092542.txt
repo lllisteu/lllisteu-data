@@ -1,7 +1,9 @@
-Anni Albers
-# uid            : 20170925092542
-# dt-created     : 2017-09-25 09:25:42 GMT
-# event-dt-begin : 2018-10-11
-# event-dt-end   : 2019-01-27
-# event-location : Tate Modern, London
-# link           : http://www.tate.org.uk/whats-on/tate-modern/exhibition/anni-albers
+---
+title: Anni Albers
+uid: '20170925092542'
+dt-created: 2017-09-25 09:25:42 GMT
+event-dt-begin: '2018-10-11'
+event-dt-end: '2019-01-27'
+event-location: Tate Modern, London
+link: http://www.tate.org.uk/whats-on/tate-modern/exhibition/anni-albers
+---

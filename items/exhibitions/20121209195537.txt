@@ -1,7 +1,9 @@
-Albrecht Dürer. Seine Kunst im Kontext ihrer Zeit
-# uid            : 20121209195537
-# dt-created     : 2012-12-09 19:55:37 GMT
-# link           : http://www.staedelmuseum.de/sm/index.php?StoryID=1746
-# event-dt-begin : 2013-10-23
-# event-dt-end   : 2014-02-02
-# event-location : Städel Museum, Frankfurt
+---
+title: Albrecht Dürer. Seine Kunst im Kontext ihrer Zeit
+uid: '20121209195537'
+dt-created: 2012-12-09 19:55:37 GMT
+link: http://www.staedelmuseum.de/sm/index.php?StoryID=1746
+event-dt-begin: '2013-10-23'
+event-dt-end: '2014-02-02'
+event-location: Städel Museum, Frankfurt
+---

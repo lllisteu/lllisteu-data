@@ -1,7 +1,9 @@
-Lucio Fontana
-# uid            : 20140418055733
-# dt-created     : 2014-04-18 05:57:33 GMT
-# link           : http://mam.paris.fr/en/node/839
-# event-dt-begin : 2014-04-25
-# event-dt-end   : 2014-08-24
-# event-location : Musée d'Art Moderne de la Ville de Paris
+---
+title: Lucio Fontana
+uid: '20140418055733'
+dt-created: 2014-04-18 05:57:33 GMT
+link: http://mam.paris.fr/en/node/839
+event-dt-begin: '2014-04-25'
+event-dt-end: '2014-08-24'
+event-location: Musée d'Art Moderne de la Ville de Paris
+---

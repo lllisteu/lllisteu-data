@@ -1,7 +1,9 @@
-Richard Avedon: Relationships
-# uid            : 20240314121324
-# dt-created     : 2024-03-14 12:13:24 GMT
-# event-dt-begin : 2024-06-01
-# event-dt-end   : 2024-10-06
-# event-location : Kunsthal, Rotterdam
-# link           : https://www.kunsthal.nl/en/plan-your-visit/exhibitions/richard-avedon/
+---
+title: 'Richard Avedon: Relationships'
+uid: '20240314121324'
+dt-created: 2024-03-14 12:13:24 GMT
+event-dt-begin: '2024-06-01'
+event-dt-end: '2024-10-06'
+event-location: Kunsthal, Rotterdam
+link: https://www.kunsthal.nl/en/plan-your-visit/exhibitions/richard-avedon/
+---

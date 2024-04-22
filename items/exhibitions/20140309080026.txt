@@ -1,7 +1,9 @@
-Emil Nolde
-# uid            : 20140309080026
-# dt-created     : 2014-03-09 08:00:26 GMT
-# link           : http://en.louisiana.dk/exhibition/emil-nolde
-# event-dt-begin : 2014-07-04
-# event-dt-end   : 2014-10-19
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: Emil Nolde
+uid: '20140309080026'
+dt-created: 2014-03-09 08:00:26 GMT
+link: http://en.louisiana.dk/exhibition/emil-nolde
+event-dt-begin: '2014-07-04'
+event-dt-end: '2014-10-19'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

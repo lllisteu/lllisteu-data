@@ -1,7 +1,9 @@
-Hokusai: beyond the Great Wave
-# uid            : 20170505200652
-# dt-created     : 2017-05-05 20:06:52 GMT
-# link           : http://www.britishmuseum.org/whats_on/exhibitions/hokusai.aspx
-# event-dt-begin : 2017-05-25
-# event-dt-end   : 2017-08-13
-# event-location : British Museum, London
+---
+title: 'Hokusai: beyond the Great Wave'
+uid: '20170505200652'
+dt-created: 2017-05-05 20:06:52 GMT
+link: http://www.britishmuseum.org/whats_on/exhibitions/hokusai.aspx
+event-dt-begin: '2017-05-25'
+event-dt-end: '2017-08-13'
+event-location: British Museum, London
+---

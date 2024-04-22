@@ -1,7 +1,9 @@
-Giorgio Morandi
-# uid            : 20180212112829
-# dt-created     : 2018-02-12 11:28:29 GMT
-# event-dt-begin : 2018-02-24
-# event-dt-end   : 2018-06-10
-# event-location : Museum Belvédère, Heerenveen
-# link           : https://www.museumbelvedere.nl/
+---
+title: Giorgio Morandi
+uid: '20180212112829'
+dt-created: 2018-02-12 11:28:29 GMT
+event-dt-begin: '2018-02-24'
+event-dt-end: '2018-06-10'
+event-location: Museum Belvédère, Heerenveen
+link: https://www.museumbelvedere.nl/
+---

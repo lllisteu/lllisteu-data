@@ -1,7 +1,9 @@
-Niki de Saint Phalle
-# uid            : 20141005071409
-# dt-created     : 2014-10-05 07:14:09 GMT
-# link           : http://www.guggenheim-bilbao.es/en/exhibitions/niki-de-saint-phalle-3/
-# event-dt-begin : 2015-02-27
-# event-dt-end   : 2015-06-11
-# event-location : Guggenheim Museum, Bilbao
+---
+title: Niki de Saint Phalle
+uid: '20141005071409'
+dt-created: 2014-10-05 07:14:09 GMT
+link: http://www.guggenheim-bilbao.es/en/exhibitions/niki-de-saint-phalle-3/
+event-dt-begin: '2015-02-27'
+event-dt-end: '2015-06-11'
+event-location: Guggenheim Museum, Bilbao
+---

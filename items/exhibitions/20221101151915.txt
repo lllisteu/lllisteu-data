@@ -1,7 +1,9 @@
-Caspar David Friedrich
-# uid            : 20221101151915
-# dt-created     : 2022-11-01 15:19:15 GMT
-# event-dt-begin : 2023-12-15
-# event-dt-end   : 2024-04-01
-# event-location : Hamburger Kunsthalle
-# link           : https://www.hamburger-kunsthalle.de/en/exhibitions/caspar-david-friedrich-0
+---
+title: Caspar David Friedrich
+uid: '20221101151915'
+dt-created: 2022-11-01 15:19:15 GMT
+event-dt-begin: '2023-12-15'
+event-dt-end: '2024-04-01'
+event-location: Hamburger Kunsthalle
+link: https://www.hamburger-kunsthalle.de/en/exhibitions/caspar-david-friedrich-0
+---

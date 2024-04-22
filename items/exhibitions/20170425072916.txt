@@ -1,7 +1,9 @@
-From Watteau to David
-# uid            : 20170425072916
-# dt-created     : 2017-04-25 07:29:16 GMT
-# link           : http://www.petitpalais.paris.fr/en/expositions/watteau-david
-# event-dt-begin : 2017-03-21
-# event-dt-end   : 2017-07-09
-# event-location : Petit Palais, Paris
+---
+title: From Watteau to David
+uid: '20170425072916'
+dt-created: 2017-04-25 07:29:16 GMT
+link: http://www.petitpalais.paris.fr/en/expositions/watteau-david
+event-dt-begin: '2017-03-21'
+event-dt-end: '2017-07-09'
+event-location: Petit Palais, Paris
+---

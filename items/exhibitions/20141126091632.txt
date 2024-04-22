@@ -1,7 +1,9 @@
-Degas – Classicism and Experimentation
-# uid            : 20141126091632
-# dt-created     : 2014-11-26 09:16:32 GMT
-# link           : http://www.kunsthalle-karlsruhe.de/en/exhibitions/degas.html
-# event-dt-begin : 2014-11-08
-# event-dt-end   : 2015-02-01
-# event-location : Staatliche Kunsthalle Karlsruhe
+---
+title: Degas – Classicism and Experimentation
+uid: '20141126091632'
+dt-created: 2014-11-26 09:16:32 GMT
+link: http://www.kunsthalle-karlsruhe.de/en/exhibitions/degas.html
+event-dt-begin: '2014-11-08'
+event-dt-end: '2015-02-01'
+event-location: Staatliche Kunsthalle Karlsruhe
+---

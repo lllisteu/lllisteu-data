@@ -1,7 +1,9 @@
-Picasso. Artist and Model – Last Paintings
-# uid            : 20230203082243
-# dt-created     : 2023-02-03 08:22:43 GMT
-# event-dt-begin : 2023-02-19
-# event-dt-end   : 2023-05-01
-# event-location : Fondation Beyeler, Basel
-# link           : https://www.fondationbeyeler.ch/en/exhibitions/picasso
+---
+title: Picasso. Artist and Model – Last Paintings
+uid: '20230203082243'
+dt-created: 2023-02-03 08:22:43 GMT
+event-dt-begin: '2023-02-19'
+event-dt-end: '2023-05-01'
+event-location: Fondation Beyeler, Basel
+link: https://www.fondationbeyeler.ch/en/exhibitions/picasso
+---

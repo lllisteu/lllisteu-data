@@ -1,7 +1,9 @@
-Picasso 1932
-# uid            : 20170509121637
-# dt-created     : 2017-05-09 12:16:37 GMT
-# link           : http://www.museepicassoparis.fr/en/a_venir-2/
-# event-dt-begin : 2017-10-10
-# event-dt-end   : 2018-02-11
-# event-location : Musée Picasso, Paris
+---
+title: Picasso 1932
+uid: '20170509121637'
+dt-created: 2017-05-09 12:16:37 GMT
+link: http://www.museepicassoparis.fr/en/a_venir-2/
+event-dt-begin: '2017-10-10'
+event-dt-end: '2018-02-11'
+event-location: Musée Picasso, Paris
+---

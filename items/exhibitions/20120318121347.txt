@@ -1,7 +1,9 @@
-Turner Monet Twombly
-# uid            : 20120318121347
-# dt-created     : 2012-03-18 12:13:47 GMT
-# link           : http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/turner-monet-twombly
-# event-dt-begin : 2012-06-22
-# event-dt-end   : 2012-10-28
-# event-location : Tate Liverpool
+---
+title: Turner Monet Twombly
+uid: '20120318121347'
+dt-created: 2012-03-18 12:13:47 GMT
+link: http://www.tate.org.uk/whats-on/tate-liverpool/exhibition/turner-monet-twombly
+event-dt-begin: '2012-06-22'
+event-dt-end: '2012-10-28'
+event-location: Tate Liverpool
+---

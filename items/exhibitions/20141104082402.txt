@@ -1,7 +1,9 @@
-Paul Delvaux: a walk with love and death
-# uid            : 20141104082402
-# dt-created     : 2014-11-04 08:24:02 GMT
-# link           : http://www.museothyssen.org/en/thyssen/exposiciones_actuales/125
-# event-dt-begin : 2015-02-24
-# event-dt-end   : 2015-06-07
-# event-location : Museo Thyssen-Bornemisza, Madrid
+---
+title: 'Paul Delvaux: a walk with love and death'
+uid: '20141104082402'
+dt-created: 2014-11-04 08:24:02 GMT
+link: http://www.museothyssen.org/en/thyssen/exposiciones_actuales/125
+event-dt-begin: '2015-02-24'
+event-dt-end: '2015-06-07'
+event-location: Museo Thyssen-Bornemisza, Madrid
+---

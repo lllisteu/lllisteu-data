@@ -1,7 +1,9 @@
-Fernand Léger – Painting in Space
-# uid            : 20160412084151
-# dt-created     : 2016-04-12 08:41:51 GMT
-# link           : http://www.museum-ludwig.de/en/exhibitions/fernand-leger.html
-# event-dt-begin : 2016-04-09
-# event-dt-end   : 2016-07-03
-# event-location : Museum Ludwig, Köln
+---
+title: Fernand Léger – Painting in Space
+uid: '20160412084151'
+dt-created: 2016-04-12 08:41:51 GMT
+link: http://www.museum-ludwig.de/en/exhibitions/fernand-leger.html
+event-dt-begin: '2016-04-09'
+event-dt-end: '2016-07-03'
+event-location: Museum Ludwig, Köln
+---

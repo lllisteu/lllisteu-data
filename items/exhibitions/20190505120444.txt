@@ -1,6 +1,8 @@
-Kunst-Licht-Kunst
-# uid            : 20190505120444
-# dt-created     : 2019-05-05 12:04:44 GMT
-# event-dt-begin : 1966-09-25
-# event-dt-end   : 1966-12-04
-# event-location : Stedelijk Van Abbemuseum, Eindhoven
+---
+title: Kunst-Licht-Kunst
+uid: '20190505120444'
+dt-created: 2019-05-05 12:04:44 GMT
+event-dt-begin: '1966-09-25'
+event-dt-end: '1966-12-04'
+event-location: Stedelijk Van Abbemuseum, Eindhoven
+---

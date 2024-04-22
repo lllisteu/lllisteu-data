@@ -1,7 +1,9 @@
-Erwin Wurm
-# uid            : 20170612072430
-# dt-created     : 2017-06-12 07:24:30 GMT
-# link           : http://www.lehmbruckmuseum.de/?p=10076
-# event-dt-begin : 2017-07-07
-# event-dt-end   : 2017-10-29
-# event-location : Lehmbruck Museum, Duisburg
+---
+title: Erwin Wurm
+uid: '20170612072430'
+dt-created: 2017-06-12 07:24:30 GMT
+link: http://www.lehmbruckmuseum.de/?p=10076
+event-dt-begin: '2017-07-07'
+event-dt-end: '2017-10-29'
+event-location: Lehmbruck Museum, Duisburg
+---

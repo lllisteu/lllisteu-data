@@ -1,7 +1,9 @@
-Collections Privées
-# uid            : 20180129110223
-# dt-created     : 2018-01-29 11:02:23 GMT
-# event-dt-begin : 2018-09-13
-# event-dt-end   : 2019-02-10
-# event-location : Musée Marmottan Monet, Paris
-# link           : http://www.marmottan.fr/fr/Exposition_%C3%A0_venir-musee-2590
+---
+title: Collections Privées
+uid: '20180129110223'
+dt-created: 2018-01-29 11:02:23 GMT
+event-dt-begin: '2018-09-13'
+event-dt-end: '2019-02-10'
+event-location: Musée Marmottan Monet, Paris
+link: http://www.marmottan.fr/fr/Exposition_%C3%A0_venir-musee-2590
+---

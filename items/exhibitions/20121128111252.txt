@@ -1,7 +1,9 @@
-George Catlin: American Indian Portraits
-# uid            : 20121128111252
-# dt-created     : 2012-11-28 11:12:52 GMT
-# link           : http://www.npg.org.uk/whatson/george-catlin-american-indian-portraits/exhibition.php
-# event-dt-begin : 2013-03-07
-# event-dt-end   : 2013-06-23
-# event-location : National Portrait Gallery, London
+---
+title: 'George Catlin: American Indian Portraits'
+uid: '20121128111252'
+dt-created: 2012-11-28 11:12:52 GMT
+link: http://www.npg.org.uk/whatson/george-catlin-american-indian-portraits/exhibition.php
+event-dt-begin: '2013-03-07'
+event-dt-end: '2013-06-23'
+event-location: National Portrait Gallery, London
+---

@@ -1,7 +1,9 @@
-Vis-à-vis
-# uid            : 20131209113642
-# dt-created     : 2013-12-09 11:36:42 GMT
-# link           : http://www.staedelmuseum.de/sm/index.php?StoryID=1923
-# event-dt-begin : 2014-02-19
-# event-dt-end   : 2014-05-11
-# event-location : Städel Museum, Frankfurt
+---
+title: Vis-à-vis
+uid: '20131209113642'
+dt-created: 2013-12-09 11:36:42 GMT
+link: http://www.staedelmuseum.de/sm/index.php?StoryID=1923
+event-dt-begin: '2014-02-19'
+event-dt-end: '2014-05-11'
+event-location: Städel Museum, Frankfurt
+---

@@ -1,7 +1,9 @@
-Japan's Love for Impressionism
-# uid            : 20141024070228
-# dt-created     : 2014-10-24 07:02:28 GMT
-# link           : http://www.bundeskunsthalle.de/en/exhibitions/von-monet-bis-renoir.html
-# event-dt-begin : 2015-10-08
-# event-dt-end   : 2016-02-21
-# event-location : Bundeskunsthalle, Bonn
+---
+title: Japan's Love for Impressionism
+uid: '20141024070228'
+dt-created: 2014-10-24 07:02:28 GMT
+link: http://www.bundeskunsthalle.de/en/exhibitions/von-monet-bis-renoir.html
+event-dt-begin: '2015-10-08'
+event-dt-end: '2016-02-21'
+event-location: Bundeskunsthalle, Bonn
+---

@@ -1,7 +1,9 @@
-Chagall – Entre Guerre et Paix
-# uid            : 20130118153150
-# dt-created     : 2013-01-18 15:31:50 GMT
-# link           : http://www.museeduluxembourg.fr/en/expositions/p_exposition-18/
-# event-dt-begin : 2013-02-21
-# event-dt-end   : 2013-07-21
-# event-location : Musée du Luxembourg, Paris
+---
+title: Chagall – Entre Guerre et Paix
+uid: '20130118153150'
+dt-created: 2013-01-18 15:31:50 GMT
+link: http://www.museeduluxembourg.fr/en/expositions/p_exposition-18/
+event-dt-begin: '2013-02-21'
+event-dt-end: '2013-07-21'
+event-location: Musée du Luxembourg, Paris
+---

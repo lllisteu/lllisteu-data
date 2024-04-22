@@ -1,7 +1,9 @@
-Klee im Krieg
-# uid            : 20171113091552
-# dt-created     : 2017-11-13 09:15:52 GMT
-# event-dt-begin : 2017-12-06
-# event-dt-end   : 2018-06-03
-# event-location : Zentrum Paul Klee, Bern
-# link           : https://www.zpk.org/en/exhibitions/preview/klee-im-krieg-1563.html
+---
+title: Klee im Krieg
+uid: '20171113091552'
+dt-created: 2017-11-13 09:15:52 GMT
+event-dt-begin: '2017-12-06'
+event-dt-end: '2018-06-03'
+event-location: Zentrum Paul Klee, Bern
+link: https://www.zpk.org/en/exhibitions/preview/klee-im-krieg-1563.html
+---

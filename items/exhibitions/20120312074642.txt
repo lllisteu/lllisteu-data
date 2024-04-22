@@ -1,7 +1,9 @@
-Giacometti – The Playing Fields
-# uid            : 20120312074642
-# dt-created     : 2012-03-12 07:46:42 GMT
-# link           : http://www.hamburger-kunsthalle.de/index.php/Giacometti._The_Playing_Fields/articles/Giacometti._The_Playing_Fields.html
-# event-dt-begin : 2013-01-25
-# event-dt-end   : 2013-05-19
-# event-location : Hamburger Kunsthalle, Hamburg
+---
+title: Giacometti – The Playing Fields
+uid: '20120312074642'
+dt-created: 2012-03-12 07:46:42 GMT
+link: http://www.hamburger-kunsthalle.de/index.php/Giacometti._The_Playing_Fields/articles/Giacometti._The_Playing_Fields.html
+event-dt-begin: '2013-01-25'
+event-dt-end: '2013-05-19'
+event-location: Hamburger Kunsthalle, Hamburg
+---

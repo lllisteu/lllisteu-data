@@ -1,7 +1,9 @@
-Illusion
-# uid            : 20240310125253
-# dt-created     : 2024-03-10 12:52:53 GMT
-# event-dt-begin : 2024-12-06
-# event-dt-end   : 2025-04-06
-# event-location : Hamburger Kunsthalle
-# link           : https://www.hamburger-kunsthalle.de/en/exhibitions/illusion
+---
+title: Illusion
+uid: '20240310125253'
+dt-created: 2024-03-10 12:52:53 GMT
+event-dt-begin: '2024-12-06'
+event-dt-end: '2025-04-06'
+event-location: Hamburger Kunsthalle
+link: https://www.hamburger-kunsthalle.de/en/exhibitions/illusion
+---

@@ -1,7 +1,9 @@
-Drawing in the Lab
-# uid            : 20231013111312
-# dt-created     : 2023-10-13 11:13:12 GMT
-# event-dt-begin : 2023-11-10
-# event-dt-end   : 2024-02-18
-# event-location : Wallraf-Richartz-Museum, Köln
-# link           : https://www.wallraf.museum/en/exhibitions/preview/2023-11-10-zeichnung-im-labor/
+---
+title: Drawing in the Lab
+uid: '20231013111312'
+dt-created: 2023-10-13 11:13:12 GMT
+event-dt-begin: '2023-11-10'
+event-dt-end: '2024-02-18'
+event-location: Wallraf-Richartz-Museum, Köln
+link: https://www.wallraf.museum/en/exhibitions/preview/2023-11-10-zeichnung-im-labor/
+---

@@ -1,7 +1,9 @@
-Genesis Dada – 100 Years of Dada Zürich
-# uid            : 20151127122959
-# dt-created     : 2015-11-27 12:29:59 GMT
-# link           : http://arpmuseum.org/en/exhibitions/temporary-exhibitions/current.html
-# event-dt-begin : 2016-02-14
-# event-dt-end   : 2016-07-10
-# event-location : Arp Museum Bahnhof Rolandseck, Remagen
+---
+title: Genesis Dada – 100 Years of Dada Zürich
+uid: '20151127122959'
+dt-created: 2015-11-27 12:29:59 GMT
+link: http://arpmuseum.org/en/exhibitions/temporary-exhibitions/current.html
+event-dt-begin: '2016-02-14'
+event-dt-end: '2016-07-10'
+event-location: Arp Museum Bahnhof Rolandseck, Remagen
+---

@@ -1,7 +1,9 @@
-Matisse in the Studio
-# uid            : 20161031071334
-# dt-created     : 2016-10-31 07:13:34 GMT
-# link           : https://www.royalacademy.org.uk/exhibition/matisse-in-the-studio
-# event-dt-begin : 2017-08-05
-# event-dt-end   : 2017-11-12
-# event-location : Royal Academy of Arts, London
+---
+title: Matisse in the Studio
+uid: '20161031071334'
+dt-created: 2016-10-31 07:13:34 GMT
+link: https://www.royalacademy.org.uk/exhibition/matisse-in-the-studio
+event-dt-begin: '2017-08-05'
+event-dt-end: '2017-11-12'
+event-location: Royal Academy of Arts, London
+---

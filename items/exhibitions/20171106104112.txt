@@ -1,7 +1,9 @@
-Oskar Kokoschka: A Retrospective
-# uid            : 20171106104112
-# dt-created     : 2017-11-06 10:41:12 GMT
-# event-dt-begin : 2018-12-14
-# event-dt-end   : 2019-03-10
-# event-location : Kunsthaus Zürich
-# link           : http://www.kunsthaus.ch/en/exhibitions/coming-soon/oskar-kokoschka/
+---
+title: 'Oskar Kokoschka: A Retrospective'
+uid: '20171106104112'
+dt-created: 2017-11-06 10:41:12 GMT
+event-dt-begin: '2018-12-14'
+event-dt-end: '2019-03-10'
+event-location: Kunsthaus Zürich
+link: http://www.kunsthaus.ch/en/exhibitions/coming-soon/oskar-kokoschka/
+---

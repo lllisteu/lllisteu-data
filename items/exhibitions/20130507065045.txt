@@ -1,7 +1,9 @@
-Asger Jorn & Jackson Pollock – Revolutionary Roads
-# uid            : 20130507065045
-# dt-created     : 2013-05-07 06:50:45 GMT
-# link           : http://www.louisiana.dk/uk/Menu/Exhibitions/Jorn+%26+Pollock
-# event-dt-begin : 2013-11-15
-# event-dt-end   : 2014-02-23
-# event-location : Louisiana Museum of Modern Art, Humlebæk
+---
+title: Asger Jorn & Jackson Pollock – Revolutionary Roads
+uid: '20130507065045'
+dt-created: 2013-05-07 06:50:45 GMT
+link: http://www.louisiana.dk/uk/Menu/Exhibitions/Jorn+%26+Pollock
+event-dt-begin: '2013-11-15'
+event-dt-end: '2014-02-23'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+---

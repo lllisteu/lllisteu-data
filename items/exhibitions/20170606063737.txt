@@ -1,7 +1,9 @@
-Beyond Caravaggio
-# uid            : 20170606063737
-# dt-created     : 2017-06-06 06:37:37 GMT
-# link           : https://www.nationalgalleries.org/exhibition/beyond-caravaggio
-# event-dt-begin : 2017-06-17
-# event-dt-end   : 2017-09-24
-# event-location : Scottish National Gallery, Edinburgh
+---
+title: Beyond Caravaggio
+uid: '20170606063737'
+dt-created: 2017-06-06 06:37:37 GMT
+link: https://www.nationalgalleries.org/exhibition/beyond-caravaggio
+event-dt-begin: '2017-06-17'
+event-dt-end: '2017-09-24'
+event-location: Scottish National Gallery, Edinburgh
+---

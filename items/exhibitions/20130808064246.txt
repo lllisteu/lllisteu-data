@@ -1,7 +1,9 @@
-Serge Poliakoff – The Dream of Forms
-# uid            : 20130808064246
-# dt-created     : 2013-08-08 06:42:46 GMT
-# link           : http://www.mam.paris.fr/en/expositions/serge-poliakoff
-# event-dt-begin : 2013-10-18
-# event-dt-end   : 2014-02-23
-# event-location : Musée d'Art Moderne de la Ville de Paris
+---
+title: Serge Poliakoff – The Dream of Forms
+uid: '20130808064246'
+dt-created: 2013-08-08 06:42:46 GMT
+link: http://www.mam.paris.fr/en/expositions/serge-poliakoff
+event-dt-begin: '2013-10-18'
+event-dt-end: '2014-02-23'
+event-location: Musée d'Art Moderne de la Ville de Paris
+---

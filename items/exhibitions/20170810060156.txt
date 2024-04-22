@@ -1,7 +1,9 @@
-Sorolla and Fashion
-# uid            : 20170810060156
-# dt-created     : 2017-08-10 06:01:56 GMT
-# event-dt-begin : 2018-02-13
-# event-dt-end   : 2018-05-27
-# event-location : Museo Thyssen-Bornemisza, Madrid
-# link           : https://www.museothyssen.org/en/exposiciones/sorolla-and-fashion
+---
+title: Sorolla and Fashion
+uid: '20170810060156'
+dt-created: 2017-08-10 06:01:56 GMT
+event-dt-begin: '2018-02-13'
+event-dt-end: '2018-05-27'
+event-location: Museo Thyssen-Bornemisza, Madrid
+link: https://www.museothyssen.org/en/exposiciones/sorolla-and-fashion
+---

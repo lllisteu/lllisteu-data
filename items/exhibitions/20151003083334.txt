@@ -1,7 +1,9 @@
-Marthe Donas
-# uid            : 20151003083334
-# dt-created     : 2015-10-03 08:33:34 GMT
-# link           : http://mskgent.be/nl/tentoonstellingen/marthe-donas/marthe-donas-2016
-# event-dt-begin : 2016-03-05
-# event-dt-end   : 2016-06-05
-# event-location : Museum voor Schone Kunsten, Gent
+---
+title: Marthe Donas
+uid: '20151003083334'
+dt-created: 2015-10-03 08:33:34 GMT
+link: http://mskgent.be/nl/tentoonstellingen/marthe-donas/marthe-donas-2016
+event-dt-begin: '2016-03-05'
+event-dt-end: '2016-06-05'
+event-location: Museum voor Schone Kunsten, Gent
+---

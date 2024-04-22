@@ -1,7 +1,9 @@
-Sisley
-# uid            : 20161102152422
-# dt-created     : 2016-11-02 15:24:22 GMT
-# link           : http://www.caumont-centredart.com/fr/sisley-limpressionniste
-# event-dt-begin : 2017-06-10
-# event-dt-end   : 2017-10-15
-# event-location : Hôtel de Caumont, Aix-en-Provence
+---
+title: Sisley
+uid: '20161102152422'
+dt-created: 2016-11-02 15:24:22 GMT
+link: http://www.caumont-centredart.com/fr/sisley-limpressionniste
+event-dt-begin: '2017-06-10'
+event-dt-end: '2017-10-15'
+event-location: Hôtel de Caumont, Aix-en-Provence
+---

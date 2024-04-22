@@ -1,7 +1,9 @@
-Picasso Portraits
-# uid            : 20160413071416
-# dt-created     : 2016-04-13 07:14:16 GMT
-# link           : http://www.npg.org.uk/whatson/picasso-portraits/exhibition.php
-# event-dt-begin : 2016-10-06
-# event-dt-end   : 2017-02-05
-# event-location : National Portrait Gallery, London
+---
+title: Picasso Portraits
+uid: '20160413071416'
+dt-created: 2016-04-13 07:14:16 GMT
+link: http://www.npg.org.uk/whatson/picasso-portraits/exhibition.php
+event-dt-begin: '2016-10-06'
+event-dt-end: '2017-02-05'
+event-location: National Portrait Gallery, London
+---

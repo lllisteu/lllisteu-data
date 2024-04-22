@@ -1,7 +1,9 @@
-In the studio. The Artist photographed.
-# uid            : 20160518100641
-# dt-created     : 2016-05-18 10:06:41 GMT
-# link           : http://petitpalais.paris.fr/en/expositions/studio-artist-photographed-ingres-jeff-koons
-# event-dt-begin : 2016-04-05
-# event-dt-end   : 2016-07-17
-# event-location : Petit Palais, Paris
+---
+title: In the studio. The Artist photographed.
+uid: '20160518100641'
+dt-created: 2016-05-18 10:06:41 GMT
+link: http://petitpalais.paris.fr/en/expositions/studio-artist-photographed-ingres-jeff-koons
+event-dt-begin: '2016-04-05'
+event-dt-end: '2016-07-17'
+event-location: Petit Palais, Paris
+---

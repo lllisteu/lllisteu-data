@@ -1,7 +1,9 @@
-Jeff Koons. The Sculptor
-# uid            : 20120510103603
-# dt-created     : 2012-05-10 10:36:03 GMT
-# link           : http://liebieghaus.de/lh/index.php?StoryID=454&websiteLang=en
-# event-dt-begin : 2012-06-20
-# event-dt-end   : 2012-09-23
-# event-location : Liebieghaus, Frankfurt
+---
+title: Jeff Koons. The Sculptor
+uid: '20120510103603'
+dt-created: 2012-05-10 10:36:03 GMT
+link: http://liebieghaus.de/lh/index.php?StoryID=454&websiteLang=en
+event-dt-begin: '2012-06-20'
+event-dt-end: '2012-09-23'
+event-location: Liebieghaus, Frankfurt
+---

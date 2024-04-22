@@ -1,7 +1,9 @@
-Dario Fo a Milano
-# uid            : 20120318161156
-# dt-created     : 2012-03-18 16:11:56 GMT
-# link           : http://www.mostradariofo.it/
-# event-dt-begin : 2012-03-24
-# event-dt-end   : 2012-06-03
-# event-location : Palazzo Reale, Milano
+---
+title: Dario Fo a Milano
+uid: '20120318161156'
+dt-created: 2012-03-18 16:11:56 GMT
+link: http://www.mostradariofo.it/
+event-dt-begin: '2012-03-24'
+event-dt-end: '2012-06-03'
+event-location: Palazzo Reale, Milano
+---

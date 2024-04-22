@@ -1,7 +1,9 @@
-Colour Unleashed
-# uid            : 20150921095851
-# dt-created     : 2015-09-21 09:58:51 GMT
-# link           : http://www.gemeentemuseum.nl/en/exhibitions/colour-unleashed
-# event-dt-begin : 2015-10-03
-# event-dt-end   : 2016-01-03
-# event-location : Gemeentemuseum, Den Haag
+---
+title: Colour Unleashed
+uid: '20150921095851'
+dt-created: 2015-09-21 09:58:51 GMT
+link: http://www.gemeentemuseum.nl/en/exhibitions/colour-unleashed
+event-dt-begin: '2015-10-03'
+event-dt-end: '2016-01-03'
+event-location: Gemeentemuseum, Den Haag
+---

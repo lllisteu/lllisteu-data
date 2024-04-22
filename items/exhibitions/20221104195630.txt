@@ -1,7 +1,9 @@
-Chagall. World in Turmoil
-# uid            : 20221104195630
-# dt-created     : 2022-11-04 19:56:30 GMT
-# event-dt-begin : 2022-11-04
-# event-dt-end   : 2023-02-19
-# event-location : Schirn Kunsthalle, Frankfurt
-# link           : https://www.schirn.de/en/exhibitions/2022/marc_chagall/
+---
+title: Chagall. World in Turmoil
+uid: '20221104195630'
+dt-created: 2022-11-04 19:56:30 GMT
+event-dt-begin: '2022-11-04'
+event-dt-end: '2023-02-19'
+event-location: Schirn Kunsthalle, Frankfurt
+link: https://www.schirn.de/en/exhibitions/2022/marc_chagall/
+---

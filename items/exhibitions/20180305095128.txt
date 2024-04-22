@@ -1,7 +1,9 @@
-Fritz Klemm
-# uid            : 20180305095128
-# dt-created     : 2018-03-05 09:51:28 GMT
-# event-dt-begin : 2018-06-16
-# event-dt-end   : 2018-09-02
-# event-location : Museum de Fundatie, Zwolle
-# link           : https://www.museumdefundatie.nl/en/fritz-klemm/
+---
+title: Fritz Klemm
+uid: '20180305095128'
+dt-created: 2018-03-05 09:51:28 GMT
+event-dt-begin: '2018-06-16'
+event-dt-end: '2018-09-02'
+event-location: Museum de Fundatie, Zwolle
+link: https://www.museumdefundatie.nl/en/fritz-klemm/
+---

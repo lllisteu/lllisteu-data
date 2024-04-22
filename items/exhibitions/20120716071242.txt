@@ -1,7 +1,9 @@
-Dark Romanticism. From Goya to Max Ernst
-# uid            : 20120716071242
-# dt-created     : 2012-07-16 07:12:42 GMT
-# link           : http://www.staedelmuseum.de/sm/index.php?StoryID=1463&websiteLang=en
-# event-dt-begin : 2012-09-26
-# event-dt-end   : 2013-01-20
-# event-location : Städel Museum, Frankfurt
+---
+title: Dark Romanticism. From Goya to Max Ernst
+uid: '20120716071242'
+dt-created: 2012-07-16 07:12:42 GMT
+link: http://www.staedelmuseum.de/sm/index.php?StoryID=1463&websiteLang=en
+event-dt-begin: '2012-09-26'
+event-dt-end: '2013-01-20'
+event-location: Städel Museum, Frankfurt
+---

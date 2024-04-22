@@ -1,7 +1,9 @@
-Berenice Abbott – Photographs
-# uid            : 20120313103728
-# dt-created     : 2012-03-13 10:37:28 GMT
-# link           : http://www.jeudepaume.org/index.php?page=article&idArt=1614&lieu=7
-# event-dt-begin : 2012-02-21
-# event-dt-end   : 2012-04-29
-# event-location : Jeu de Paume, Paris
+---
+title: Berenice Abbott – Photographs
+uid: '20120313103728'
+dt-created: 2012-03-13 10:37:28 GMT
+link: http://www.jeudepaume.org/index.php?page=article&idArt=1614&lieu=7
+event-dt-begin: '2012-02-21'
+event-dt-end: '2012-04-29'
+event-location: Jeu de Paume, Paris
+---

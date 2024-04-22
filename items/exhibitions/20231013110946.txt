@@ -1,7 +1,9 @@
-Paris 1874: Revolution in Art
-# uid            : 20231013110946
-# dt-created     : 2023-10-13 11:09:46 GMT
-# event-dt-begin : 2024-03-15
-# event-dt-end   : 2024-07-28
-# event-location : Wallraf-Richartz-Museum, Köln
-# link           : https://www.wallraf.museum/en/exhibitions/preview/2024-03-15-paris-1874/information/
+---
+title: 'Paris 1874: Revolution in Art'
+uid: '20231013110946'
+dt-created: 2023-10-13 11:09:46 GMT
+event-dt-begin: '2024-03-15'
+event-dt-end: '2024-07-28'
+event-location: Wallraf-Richartz-Museum, Köln
+link: https://www.wallraf.museum/en/exhibitions/preview/2024-03-15-paris-1874/information/
+---
