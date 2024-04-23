@@ -5,5 +5,5 @@ dt-created: 2016-02-09 09:41:20 GMT
 link: http://www.mam.paris.fr/fr/expositions/exposition-albert-marquet-0
 event-dt-begin: '2016-03-25'
 event-dt-end: '2016-08-21'
-event-location: 'Musée d''Art Moderne de la Ville de Paris'
+event-location: Musée d'Art Moderne de la Ville de Paris
 ---

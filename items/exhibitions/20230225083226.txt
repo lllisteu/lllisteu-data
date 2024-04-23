@@ -4,6 +4,6 @@ uid: '20230225083226'
 dt-created: 2023-02-25 08:32:26 GMT
 event-dt-begin: '2023-05-12'
 event-dt-end: '2023-09-03'
-event-location: 'Van Gogh Museum, Amsterdam'
+event-location: Van Gogh Museum, Amsterdam
 link: https://www.vangoghmuseum.nl/en/visit/whats-on/exhibitions/van-gogh-in-auvers-sur-oise
 ---

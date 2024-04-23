@@ -5,5 +5,5 @@ dt-created: 2014-04-23 06:24:53 GMT
 link: http://www.courtauld.ac.uk/gallery/exhibitions/2014/Schiele/index.shtml
 event-dt-begin: '2014-10-23'
 event-dt-end: '2015-01-18'
-event-location: 'Courtauld Gallery, London'
+event-location: Courtauld Gallery, London
 ---
