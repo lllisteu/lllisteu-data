@@ -1,0 +1,9 @@
+---
+title: Céline Laguarde – Photographer
+uid: '20240423194333'
+dt-created: 2024-04-23 19:43:33 GMT
+event-dt-begin: '2024-09-24'
+event-dt-end: '2025-01-12'
+event-location: Musée d'Orsay, Paris
+link: https://www.musee-orsay.fr/en/whats-on/exhibitions/celine-laguarde-1873-1961-photographer
+---

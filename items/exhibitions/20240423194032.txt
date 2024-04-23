@@ -1,0 +1,9 @@
+---
+title: Harriet Backer – The music of color
+uid: '20240423194032'
+dt-created: 2024-04-23 19:40:32 GMT
+event-dt-begin: '2024-09-24'
+event-dt-end: '2025-01-12'
+event-location: Musée d'Orsay, Paris
+link: https://www.musee-orsay.fr/en/whats-on/exhibitions/harriet-backer-1845-1932-music-color
+---

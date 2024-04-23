@@ -1,0 +1,9 @@
+---
+title: Gustave Caillebotte – Painting men
+uid: '20240423194448'
+dt-created: 2024-04-23 19:44:48 GMT
+event-dt-begin: '2024-10-08'
+event-dt-end: '2025-01-19'
+event-location: Musée d'Orsay, Paris
+link: https://www.musee-orsay.fr/en/whats-on/exhibitions/gustave-caillebotte-painting-men
+---
