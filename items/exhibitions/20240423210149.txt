@@ -1,0 +1,9 @@
+---
+title: Masterpieces from the Borghese Gallery
+uid: '20240423210149'
+dt-created: 2024-04-23 21:01:49 GMT
+event-dt-begin: '2024-09-06'
+event-dt-end: '2025-01-05'
+event-location: Musée Jacquemart-André, Paris
+link: https://www.musee-jacquemart-andre.com/en/masterpieces-borghese-gallery
+---

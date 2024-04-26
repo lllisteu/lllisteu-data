@@ -1,0 +1,9 @@
+---
+title: Carol Rama
+uid: '20240424102904'
+dt-created: 2024-04-24 10:29:04 GMT
+event-dt-begin: '2024-10-11'
+event-dt-end: '2025-01-19'
+event-location: Schirn Kunsthalle, Frankfurt
+link: https://www.schirn.de/en/exhibitions/2024/carol_rama/
+---
