@@ -1,0 +1,9 @@
+---
+title: German Expressionism
+uid: '20240427220652'
+dt-created: 2024-04-27 22:06:52 GMT
+event-dt-begin: '2024-09-21'
+event-dt-end: '2025-03-09'
+event-location: Moderna Museet, Stockholm
+link: https://www.modernamuseet.se/stockholm/en/exhibitions/german-expressionism/
+---
