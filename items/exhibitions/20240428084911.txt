@@ -1,0 +1,9 @@
+---
+title: Le Trompe-l’œil
+uid: '20240428084911'
+dt-created: 2024-04-28 08:49:11 GMT
+event-dt-begin: '2024-10-17'
+event-dt-end: '2025-03-02'
+event-location: Musée Marmottan Monet, Paris
+link: https://www.marmottan.fr/expositions/le-trompe-loeil/
+---
