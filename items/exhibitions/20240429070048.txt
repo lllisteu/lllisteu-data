@@ -1,0 +1,9 @@
+---
+title: Bonnard and the North
+uid: '20240429070048'
+dt-created: 2024-04-29 07:00:48 GMT
+event-dt-begin: '2025-02-20'
+event-dt-end: '2025-05-18'
+event-location: Nationalmuseum, Stockholm
+link: https://www.nationalmuseum.se/en/exhibitions/upcoming-exhibitions/bonnard-and-the-north
+---

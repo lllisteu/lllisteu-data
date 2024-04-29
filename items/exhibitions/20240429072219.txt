@@ -1,0 +1,10 @@
+---
+title: Lucio Fontana
+uid: '20240429072219'
+dt-created: 2024-04-29 07:22:19 GMT
+event-dt-begin: '2024-10-08'
+event-dt-end: '2025-01-12'
+event-location: Von der Heydt-Museum, Wuppertal
+link: https://von-der-heydt-museum.de/ausstellungen/jahresprogramm-2024/
+todo: Link to EN page
+---

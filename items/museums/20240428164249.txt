@@ -1,0 +1,13 @@
+---
+title: Liebieghaus
+uid: '20240428164249'
+dt-created: 2024-04-28 16:42:49 GMT
+wikidata_id: Q1823966
+lat: 50.101944
+lon: 8.671667
+link: https://www.liebieghaus.de/
+isa:
+- museum
+tags:
+- art
+---
