@@ -1,0 +1,9 @@
+---
+title: Brasil! Brasil! – The Birth of Modernism
+uid: '20240503213115'
+dt-created: 2024-05-03 21:31:15 GMT
+event-dt-begin: '2025-01-28'
+event-dt-end: '2025-04-21'
+event-location: Royal Academy of Arts, London
+link: https://www.royalacademy.org.uk/exhibition/brasil-brasil
+---

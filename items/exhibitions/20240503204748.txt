@@ -1,0 +1,9 @@
+---
+title: My World
+uid: '20240503204748'
+dt-created: 2024-05-03 20:47:48 GMT
+event-dt-begin: '2024-09-17'
+event-dt-end: '2025-01-12'
+event-location: Singer Laren
+link: https://www.singerlaren.nl/en/agenda/1928/zaal-1-t-m-6/my-world
+---

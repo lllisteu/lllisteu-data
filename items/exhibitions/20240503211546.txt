@@ -1,0 +1,9 @@
+---
+title: Chaïm Soutine. Against the Tide
+uid: '20240503211546'
+dt-created: 2024-05-03 21:15:46 GMT
+event-dt-begin: '2024-08-16'
+event-dt-end: '2024-12-01'
+event-location: Kunstmuseum Bern
+link: https://www.kunstmuseumbern.ch/en/see/today/1201-chaim-soutine--120.html
+---

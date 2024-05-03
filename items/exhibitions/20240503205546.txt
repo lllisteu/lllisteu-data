@@ -1,0 +1,9 @@
+---
+title: Alberto Giacometti – Unveiled Surrealism
+uid: '20240503205546'
+dt-created: 2024-05-03 20:55:46 GMT
+event-dt-begin: '2024-09-01'
+event-dt-end: '2025-01-15'
+event-location: Max Ernst Museum, Brühl
+link: https://maxernstmuseum.lvr.de/
+---

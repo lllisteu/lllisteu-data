@@ -1,0 +1,9 @@
+---
+title: Brasil! Brasil! – The Birth of Modernism
+uid: '20240503212753'
+dt-created: 2024-05-03 21:27:53 GMT
+event-dt-begin: '2024-09-07'
+event-dt-end: '2025-01-05'
+event-location: Zentrum Paul Klee, Bern
+link: https://www.zpk.org/en/ausstellung/brasil-brasil
+---
