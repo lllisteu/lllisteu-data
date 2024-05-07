@@ -1,0 +1,9 @@
+---
+title: Fotogaga. Max Ernst and Photography
+uid: '20240507060526'
+dt-created: 2024-05-07 06:05:26 GMT
+event-dt-begin: '2024-10-18'
+event-dt-end: '2025-04-27'
+event-location: Museum für Fotografie, Berlin
+link: https://www.smb.museum/en/museums-institutions/museum-fuer-fotografie/exhibitions/detail/fotogaga-max-ernst-and-photography/
+---

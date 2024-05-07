@@ -5,5 +5,5 @@ dt-created: 2024-04-21 11:39:31 GMT
 event-dt-begin: '2024-04-26'
 event-dt-end: '2024-08-04'
 event-location: Kupferstichkabinett, Berlin
-link: https://www.smb.museum/en/exhibitions/detail/the-allure-of-rome/
+link: https://www.smb.museum/en/museums-institutions/kupferstichkabinett/exhibitions/detail/the-allure-of-rome/
 ---

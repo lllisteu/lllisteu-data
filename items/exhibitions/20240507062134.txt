@@ -1,0 +1,9 @@
+---
+title: 'Gerhard Richter: 100 Works for Berlin'
+uid: '20240507062134'
+dt-created: 2024-05-07 06:21:34 GMT
+event-dt-begin: '2023-04-01'
+event-dt-end: '2025-12-31'
+event-location: Neue Nationalgalerie, Berlin
+link: https://www.smb.museum/en/museums-institutions/neue-nationalgalerie/exhibitions/detail/gerhard-richter-100-works-for-berlin/
+---

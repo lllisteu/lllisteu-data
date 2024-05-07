@@ -1,0 +1,9 @@
+---
+title: Surréalisme
+uid: '20240506054352'
+dt-created: 2024-05-06 05:43:52 GMT
+event-dt-begin: '2024-09-04'
+event-dt-end: '2025-01-13'
+event-location: Centre Pompidou, Paris
+link: https://www.centrepompidou.fr/en/program/exhibitions
+---

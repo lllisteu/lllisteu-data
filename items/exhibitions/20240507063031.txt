@@ -1,0 +1,9 @@
+---
+title: 'Frans Hals: Master of the Fleeting Moment'
+uid: '20240507063031'
+dt-created: 2024-05-07 06:30:31 GMT
+event-dt-begin: '2024-07-12'
+event-dt-end: '2024-11-03'
+event-location: Gemäldegalerie, Berlin
+link: https://www.smb.museum/en/museums-institutions/gemaeldegalerie/exhibitions/detail/frans-hals/
+---

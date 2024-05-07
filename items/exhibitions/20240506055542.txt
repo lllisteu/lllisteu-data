@@ -1,0 +1,9 @@
+---
+title: Alison Knowles
+uid: '20240506055542'
+dt-created: 2024-05-06 05:55:42 GMT
+event-dt-begin: '2024-09-20'
+event-dt-end: '2025-01-26'
+event-location: Museum Wiesbaden
+link: https://museum-wiesbaden.de/alison-knowles
+---

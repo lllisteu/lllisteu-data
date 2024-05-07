@@ -1,0 +1,9 @@
+---
+title: Monet and the Impressionist Cityscape
+uid: '20240507060837'
+dt-created: 2024-05-07 06:08:37 GMT
+event-dt-begin: '2024-09-27'
+event-dt-end: '2025-01-26'
+event-location: Alte Nationalgalerie, Berlin
+link: https://www.smb.museum/en/museums-institutions/alte-nationalgalerie/exhibitions/detail/monet-and-the-impressionist-cityscape/
+---
