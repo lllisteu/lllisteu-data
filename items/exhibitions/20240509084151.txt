@@ -1,0 +1,9 @@
+---
+title: Aérosol - Une histoire du graffiti
+uid: '20240509084151'
+dt-created: 2024-05-09 08:41:51 GMT
+event-dt-begin: '2024-06-15'
+event-dt-end: '2024-09-22'
+event-location: Musée des beaux arts de Rennes
+link: https://mba.rennes.fr/fr/article/expo-aerosol/
+---

@@ -1,0 +1,9 @@
+---
+title: Schmalzigaug
+uid: '20240508054540'
+dt-created: 2024-05-08 05:45:40 GMT
+event-dt-begin: '2024-09-28'
+event-dt-end: '2025-01-12'
+event-location: Koninklijk Museum voor Schone Kunsten Antwerpen
+link: https://kmska.be/nl/schmalzigaug-het-prentenkabinet
+---
