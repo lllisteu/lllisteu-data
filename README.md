@@ -36,34 +36,36 @@ link: http://www.kunsthaus.ch/en/exhibitions/coming-soon/abraham-cruzvillegas/
 ---
 ```
 
-Next to the exhibition title, field names are mostly self explanatory:
+Field names are mostly self explanatory:
 
 Field|Description|Wikidata equivalent
 ---|---|---
-uid|Unique identifier|
-dt-created|Record creation date/time|
-event-dt-begin|Opening date of the exhibition|[P580](https://www.wikidata.org/wiki/Property:P580)
-event-dt-end|Closing date of the exhibition|[P582](https://www.wikidata.org/wiki/Property:P582)
-event-location|Exhibition venue (museum)|
-link|URL of exhibition webpage|
+title|exhibition title| |
+uid|unique identifier| |
+dt-created|record creation date/time| |
+event-dt-begin|opening date of the exhibition|[P1619](https://www.wikidata.org/wiki/Property:P1619)
+event-dt-end|closing date of the exhibition|[P3999](https://www.wikidata.org/wiki/Property:P3999)
+event-location|exhibition venue (museum)|[P276](https://www.wikidata.org/wiki/Property:P276)
+link|URL of exhibition webpage| |
 
 ### Museum data
 
 The set of museum data is still growing. Apart from museums, it includes some exhibition venues without a collection (_Kunsthalle_).
 
-Next to the museum name, field names are mostly self explanatory:
+Field names are mostly self explanatory:
 
 Field|Description|Wikidata equivalent
 ---|---|---
-uid|Unique identifier|
-dt-created|Record creation date/time|
+title|museum name| |
+uid|unique identifier| |
+dt-created|record creation date/time| |
 link|URL of museum webpage|[P856](https://www.wikidata.org/wiki/Property:P856)
-tags|Tags|
-wikidata_id|Corresponding [Wikidata](https://www.wikidata.org/) item|
-wikipedia|Corresponding [Wikipedia](https://en.wikipedia.org/) article|
-lat|[Latitude](https://en.wikipedia.org/wiki/Geographic_coordinate_system)|[P625](https://www.wikidata.org/wiki/Property:P625)
-lon|[Longitude](https://en.wikipedia.org/wiki/Geographic_coordinate_system)|[P625](https://www.wikidata.org/wiki/Property:P625)
-isa|Object class (usually _museum_)|
+tags|tags| |
+wikidata_id|corresponding [Wikidata](https://www.wikidata.org/) item| |
+wikipedia|corresponding [Wikipedia](https://en.wikipedia.org/) article| |
+lat|[latitude](https://en.wikipedia.org/wiki/Geographic_coordinate_system)|[P625](https://www.wikidata.org/wiki/Property:P625)
+lon|[longitude](https://en.wikipedia.org/wiki/Geographic_coordinate_system)|[P625](https://www.wikidata.org/wiki/Property:P625)
+isa|object class (usually _museum_)| |
 
 ## Resources
 
