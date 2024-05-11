@@ -1,0 +1,11 @@
+---
+title: Philip Vermeulen. Chasing The Dot
+uid: '20240511062835'
+dt-created: 2024-05-11 06:28:35 GMT
+event-dt-begin: '2024-06-28'
+event-dt-end: '2025-01-05'
+event-location: Rijksmuseum Twenthe, Enschede
+link: https://www.rijksmuseumtwenthe.nl/content/3623/nl/philip-vermeulen-chasing-the-dot
+related:
+- Q115796391
+---
