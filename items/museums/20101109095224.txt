@@ -2,13 +2,14 @@
 title: The National Gallery
 uid: '20101109095224'
 dt-created: 2010-11-09 08:52:24 GMT
-tags:
-- London
-- art
+wikidata_id: Q180788
 link: http://www.nationalgallery.org.uk/
-wikipedia: en:National Gallery
 lat: 51.5086
 lon: -0.1283
 isa:
 - museum
+tags:
+- London
+- art
+event-location: National Gallery, London
 ---

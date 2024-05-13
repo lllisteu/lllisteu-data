@@ -2,12 +2,13 @@
 title: Kröller-Müller Museum
 uid: '20090830123751'
 dt-created: 2009-08-30 10:37:51 GMT
-tags:
-- art
-link: http://www.kmm.nl/
 wikidata_id: Q1051928
+link: http://www.kmm.nl/
 lat: 52.095479
 lon: 5.816671
 isa:
 - museum
+tags:
+- art
+event-location: Kröller-Müller Museum, Otterlo
 ---

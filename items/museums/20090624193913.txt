@@ -2,13 +2,14 @@
 title: Museum Kurhaus Kleve
 uid: '20090624193913'
 dt-created: 2009-06-24 17:39:13 GMT
-tags:
-- art
-- Kleve
-link: http://www.museumkurhaus.de/
 wikidata_id: Q1954460
+link: http://www.museumkurhaus.de/
 lat: 51.795556
 lon: 6.125833
 isa:
 - museum
+tags:
+- art
+- Kleve
+event-location: Museum Kurhaus Kleve
 ---
