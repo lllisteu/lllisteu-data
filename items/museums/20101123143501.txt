@@ -2,13 +2,14 @@
 title: The Wallace Collection
 uid: '20101123143501'
 dt-created: 2010-11-23 13:35:01 GMT
-tags:
-- art
-- London
+wikidata_id: Q1327919
 link: http://www.wallacecollection.org/
-wikipedia: en:Wallace Collection
 lat: 51.5175
 lon: -0.153056
 isa:
 - museum
+tags:
+- art
+- London
+event-location: The Wallace Collection, London
 ---

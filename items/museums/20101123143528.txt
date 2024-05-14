@@ -2,13 +2,14 @@
 title: The Courtauld Gallery
 uid: '20101123143528'
 dt-created: 2010-11-23 13:35:28 GMT
-tags:
-- art
-- London
+wikidata_id: Q12110695
 link: http://www.courtauld.ac.uk/gallery/
-wikipedia: en:Courtauld Institute of Art
 lat: 51.510833
 lon: -0.117222
 isa:
 - museum
+tags:
+- art
+- London
+event-location: Courtauld Gallery, London
 ---
