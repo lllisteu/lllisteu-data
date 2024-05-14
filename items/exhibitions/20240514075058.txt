@@ -1,0 +1,9 @@
+---
+title: 'Sergio Strizzi: The Perfect Moment'
+uid: '20240514075058'
+dt-created: 2024-05-14 07:50:58 GMT
+event-dt-begin: '2024-05-15'
+event-dt-end: '2024-09-08'
+event-location: Estorick Collection, London
+link: https://www.estorickcollection.com/exhibitions/sergio-strizzi-the-perfect-moment
+---
