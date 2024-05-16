@@ -3,7 +3,7 @@ title: Linden-Museum
 uid: '20240505084120'
 dt-created: 2024-05-05 08:41:20 GMT
 wikidata_id: Q454416
-lat: 48.78260
-lon: 9.17014
 link: https://lindenmuseum.de/
+lat: 48.7826
+lon: 9.17014
 ---
