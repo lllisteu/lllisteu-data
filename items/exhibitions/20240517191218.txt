@@ -1,0 +1,9 @@
+---
+title: Gabriele Münter
+uid: '20240517191218'
+dt-created: 2024-05-17 19:12:18 GMT
+event-dt-begin: '2024-11-12'
+event-dt-end: '2025-02-09'
+event-location: Museo Thyssen-Bornemisza, Madrid
+link: https://www.museothyssen.org/en/exhibitions/gabriele-munter
+---
