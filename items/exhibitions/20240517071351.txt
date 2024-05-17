@@ -1,0 +1,9 @@
+---
+title: Electric Dreams
+uid: '20240517071351'
+dt-created: 2024-05-17 07:13:51 GMT
+event-dt-begin: '2024-11-28'
+event-dt-end: '2025-06-01'
+event-location: Tate Modern, London
+link: https://www.tate.org.uk/whats-on/tate-modern/electric-dreams
+---
