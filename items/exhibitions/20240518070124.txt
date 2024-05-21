@@ -1,0 +1,9 @@
+---
+title: 'Marina Apollonio: Beyond the Circle'
+uid: '20240518070124'
+dt-created: 2024-05-18 07:01:24 GMT
+event-dt-begin: '2024-10-12'
+event-dt-end: '2025-03-03'
+event-location: Peggy Guggenheim Collection, Venezia
+link: https://www.guggenheim-venice.it/en/whats-on/exhibitions/marina-apollonio-beyond-the-circle/
+---

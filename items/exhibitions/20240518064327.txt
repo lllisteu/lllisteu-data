@@ -1,0 +1,9 @@
+---
+title: Rachel Ruysch
+uid: '20240518064327'
+dt-created: 2024-05-18 06:43:27 GMT
+event-dt-begin: '2024-11-26'
+event-dt-end: '2025-03-16'
+event-location: Alte Pinakothek, München
+link: https://www.pinakothek.de/en/exhibition/nature-into-art
+---

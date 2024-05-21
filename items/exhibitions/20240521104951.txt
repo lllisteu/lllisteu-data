@@ -1,0 +1,9 @@
+---
+title: Camille Pissarro – Impressionist Imagery
+uid: '20240521104951'
+dt-created: 2024-05-21 10:49:51 GMT
+event-dt-begin: '2025-06-14'
+event-dt-end: '2025-09-28'
+event-location: Museum Barberini, Potsdam
+link: https://www.museum-barberini.de/en/ausstellungen/16988/camille-pissarro-impressionist-imagery
+---
