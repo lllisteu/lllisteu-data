@@ -2,13 +2,13 @@
 title: Pushkin Museum
 uid: '20191230150537'
 dt-created: 2019-12-30 15:05:37 GMT
-link: https://pushkinmuseum.art
-tags:
-- Moscow
-- art
 wikidata_id: Q4872
+link: https://pushkinmuseum.art
 lat: 55.74716
 lon: 37.60551
 isa:
 - museum
+tags:
+- Moscow
+- art
 ---

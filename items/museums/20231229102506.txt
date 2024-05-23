@@ -3,9 +3,9 @@ title: Musée Matisse
 uid: '20231229102506'
 dt-created: 2023-12-29 10:25:06 UTC
 wikidata_id: Q1563354
+link: https://www.musee-matisse-nice.org/
 lat: 43.7194
 lon: 7.27622
-link: https://www.musee-matisse-nice.org/
 isa:
 - museum
 tags:

@@ -2,13 +2,13 @@
 title: Scottish National Gallery of Modern Art
 uid: '20190507065552'
 dt-created: 2019-05-07 06:55:52 GMT
-link: https://www.nationalgalleries.org/
-tags:
-- Edinburgh
-- art
 wikidata_id: Q1889944
+link: https://www.nationalgalleries.org/
 lat: 55.95082
 lon: -3.22769
 isa:
 - museum
+tags:
+- Edinburgh
+- art
 ---

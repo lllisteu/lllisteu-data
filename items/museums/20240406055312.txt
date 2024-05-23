@@ -3,9 +3,9 @@ title: Museum MORE
 uid: '20240406055312'
 dt-created: 2024-04-06 05:53:12 GMT
 wikidata_id: Q23930568
+link: https://www.museummore.nl/
 lat: 52.199617
 lon: 6.200794
-link: https://www.museummore.nl/
 isa:
 - museum
 tags:

@@ -2,13 +2,13 @@
 title: Scottish National Gallery
 uid: '20190507065513'
 dt-created: 2019-05-07 06:55:13 GMT
-link: https://www.nationalgalleries.org/
-tags:
-- Edinburgh
-- art
 wikidata_id: Q942713
+link: https://www.nationalgalleries.org/
 lat: 55.9509
 lon: -3.1957
 isa:
 - museum
+tags:
+- Edinburgh
+- art
 ---

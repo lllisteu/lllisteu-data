@@ -2,13 +2,13 @@
 title: Palais des Beaux Arts de Lille
 uid: '20190528092949'
 dt-created: 2019-05-28 09:29:49 GMT
-link: https://pba.lille.fr
-tags:
-- Lille
-- art
 wikidata_id: Q2628596
+link: https://pba.lille.fr
 lat: 50.63044
 lon: 3.0629
 isa:
 - museum
+tags:
+- Lille
+- art
 ---

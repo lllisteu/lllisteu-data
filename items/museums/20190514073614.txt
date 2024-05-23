@@ -2,13 +2,13 @@
 title: Zentrum Paul Klee
 uid: '20190514073614'
 dt-created: 2019-05-14 07:36:14 GMT
-link: https://www.zpk.org/
-tags:
-- Bern
-- art
 wikidata_id: Q191189
+link: https://www.zpk.org/
 lat: 46.94892
 lon: 7.47435
 isa:
 - museum
+tags:
+- Bern
+- art
 ---

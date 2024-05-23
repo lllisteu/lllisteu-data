@@ -2,12 +2,12 @@
 title: Pergamonmuseum
 uid: '20141016150912'
 dt-created: 2014-10-16 15:09:12 GMT
-tags:
-- Berlin
-- art
-wikipedia: de:Pergamonmuseum
 lat: 52.521028
 lon: 13.396667
 isa:
 - museum
+tags:
+- Berlin
+- art
+wikipedia: de:Pergamonmuseum
 ---

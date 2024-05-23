@@ -2,13 +2,13 @@
 title: Museum Brandhorst
 uid: '20190507092754'
 dt-created: 2019-05-07 09:27:54 GMT
-link: http://www.museum-brandhorst.de/
-tags:
-- München
-- art
 wikidata_id: Q258597
+link: http://www.museum-brandhorst.de/
 lat: 48.14778
 lon: 11.57398
 isa:
 - museum
+tags:
+- München
+- art
 ---

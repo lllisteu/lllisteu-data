@@ -2,13 +2,13 @@
 title: Museum Folkwang
 uid: '20130317152208'
 dt-created: 2013-03-17 15:22:08 GMT
-tags:
-- Essen
-- art
 link: http://www.museum-folkwang.de/
-wikipedia: de:Museum Folkwang
 lat: 51.441667
 lon: 7.004167
 isa:
 - museum
+tags:
+- Essen
+- art
+wikipedia: de:Museum Folkwang
 ---

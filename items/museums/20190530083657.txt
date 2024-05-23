@@ -2,12 +2,12 @@
 title: Musée des beaux-arts de Quimper
 uid: '20190530083657'
 dt-created: 2019-05-30 08:36:57 GMT
-link: http://www.mbaq.fr/
-tags:
-- art
 wikidata_id: Q3330220
+link: http://www.mbaq.fr/
 lat: 47.99634
 lon: -4.10227
 isa:
 - museum
+tags:
+- art
 ---

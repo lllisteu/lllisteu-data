@@ -2,13 +2,13 @@
 title: Museo Novecento
 uid: '20210329123343'
 dt-created: 2021-03-29 12:33:43 GMT
-link: http://www.museonovecento.it/
-tags:
-- art
-- Firenze
 wikidata_id: Q38901928
+link: http://www.museonovecento.it/
 lat: 43.77287
 lon: 11.24925
 isa:
 - museum
+tags:
+- art
+- Firenze
 ---

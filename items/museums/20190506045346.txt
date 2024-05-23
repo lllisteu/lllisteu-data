@@ -2,13 +2,13 @@
 title: Musée Maillol
 uid: '20190506045346'
 dt-created: 2019-05-06 04:53:46 GMT
-link: https://www.museemaillol.com/
-tags:
-- Paris
-- art
 wikidata_id: Q946883
+link: https://www.museemaillol.com/
 lat: 48.8548
 lon: 2.3249
 isa:
 - museum
+tags:
+- Paris
+- art
 ---

@@ -2,12 +2,12 @@
 title: State Hermitage Museum
 uid: '20190516134648'
 dt-created: 2019-05-16 13:46:48 GMT
-tags:
-- Saint Petersburg
-- art
 wikidata_id: Q132783
 lat: 59.9408
 lon: 30.3148
 isa:
 - museum
+tags:
+- Saint Petersburg
+- art
 ---

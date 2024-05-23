@@ -2,13 +2,13 @@
 title: Ateneumin taidemuseo
 uid: '20190826141942'
 dt-created: 2019-08-26 14:19:42 GMT
-link: https://ateneum.fi/
-tags:
-- Helsinki
-- art
 wikidata_id: Q754507
+link: https://ateneum.fi/
 lat: 60.17001
 lon: 24.94404
 isa:
 - museum
+tags:
+- Helsinki
+- art
 ---

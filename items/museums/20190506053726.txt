@@ -2,13 +2,13 @@
 title: Fondation Custodia – Collection Frits Lugt
 uid: '20190506053726'
 dt-created: 2019-05-06 05:37:26 GMT
-link: https://www.fondationcustodia.fr/
-tags:
-- Paris
-- art
 wikidata_id: Q3075420
+link: https://www.fondationcustodia.fr/
 lat: 48.86134
 lon: 2.31931
 isa:
 - museum
+tags:
+- Paris
+- art
 ---

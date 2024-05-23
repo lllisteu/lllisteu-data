@@ -2,12 +2,12 @@
 title: Musée des beaux arts de Rennes
 uid: '20190603115540'
 dt-created: 2019-06-03 11:55:40 GMT
-link: https://mba.rennes.fr/
-tags:
-- art
 wikidata_id: Q3098373
+link: https://mba.rennes.fr/
 lat: 48.10959
 lon: -1.67496
 isa:
 - museum
+tags:
+- art
 ---

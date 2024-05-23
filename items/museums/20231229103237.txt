@@ -3,9 +3,9 @@ title: Musée d'art moderne et d'art contemporain
 uid: '20231229103237'
 dt-created: 2023-12-29 10:32:37 GMT
 wikidata_id: Q936859
+link: https://www.mamac-nice.org/
 lat: 43.70143
 lon: 7.2785
-link: https://www.mamac-nice.org/
 isa:
 - museum
 tags:

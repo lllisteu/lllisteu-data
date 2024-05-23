@@ -3,9 +3,9 @@ title: Von Der Heydt Museum
 uid: '20240113104119'
 dt-created: 2024-01-13 10:41:19 GMT
 wikidata_id: Q819504
+link: https://von-der-heydt-museum.de/
 lat: 51.25739
 lon: 7.14665
-link: https://von-der-heydt-museum.de/
 isa:
 - museum
 tags:

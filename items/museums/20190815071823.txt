@@ -2,13 +2,13 @@
 title: Kunstmuseum Den Haag
 uid: '20190815071823'
 dt-created: 2019-08-15 07:18:23 GMT
-link: https://www.kunstmuseum.nl/
-tags:
-- Den Haag
-- art
 wikidata_id: Q1499958
+link: https://www.kunstmuseum.nl/
 lat: 52.08935
 lon: 4.28057
 isa:
 - museum
+tags:
+- Den Haag
+- art
 ---

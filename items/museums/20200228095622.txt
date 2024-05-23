@@ -2,12 +2,12 @@
 title: Musée de Vernon
 uid: '20200228095622'
 dt-created: 2020-02-28 09:56:22 GMT
-link: http://www.vernon27.fr/la-ville/culture/musee/
-tags:
-- art
 wikidata_id: Q3329050
+link: http://www.vernon27.fr/la-ville/culture/musee/
 lat: 49.09494
 lon: 1.48503
 isa:
 - museum
+tags:
+- art
 ---

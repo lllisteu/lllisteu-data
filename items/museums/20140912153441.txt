@@ -2,13 +2,13 @@
 title: Musée d'Orsay
 uid: '20140912153441'
 dt-created: 2014-09-12 15:34:41 GMT
-tags:
-- Paris
-- art
-link: http://www.musee-orsay.fr/
 wikidata_id: Q23402
+link: http://www.musee-orsay.fr/
 lat: 48.86
 lon: 2.327
 isa:
 - museum
+tags:
+- Paris
+- art
 ---

@@ -3,13 +3,13 @@ title: Ludwig Museum Koblenz
 uid: '20231231103148'
 dt-created: 2023-12-31 10:31:48 GMT
 wikidata_id: Q18088925
+link: https://ludwigmuseum.org/
 lat: 50.36278
 lon: 7.60503
-link: https://ludwigmuseum.org/
-aka:
-- Ludwig Museum im Deutschherrenhaus
 isa:
 - museum
 tags:
 - art
+aka:
+- Ludwig Museum im Deutschherrenhaus
 ---

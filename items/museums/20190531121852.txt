@@ -2,13 +2,13 @@
 title: Veletržní Palác – Národní galerie Praha
 uid: '20190531121852'
 dt-created: 2019-05-31 12:18:52 GMT
-link: https://www.ngprague.cz/
-tags:
-- Praha
-- art
 wikidata_id: Q496259
+link: https://www.ngprague.cz/
 lat: 50.10118
 lon: 14.43235
 isa:
 - museum
+tags:
+- Praha
+- art
 ---

@@ -2,13 +2,13 @@
 title: National Portrait Gallery
 uid: '20120220195951'
 dt-created: 2012-02-20 19:59:51 GMT
-tags:
-- art
-- London
 link: http://www.npg.org.uk/
-wikipedia: en:National Portrait Gallery (London)
 lat: 51.509369
 lon: -0.127733
 isa:
 - museum
+tags:
+- art
+- London
+wikipedia: en:National Portrait Gallery (London)
 ---

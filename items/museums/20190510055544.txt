@@ -2,13 +2,13 @@
 title: Alte Pinakothek
 uid: '20190510055544'
 dt-created: 2019-05-10 05:55:44 GMT
-link: https://www.pinakothek.de/
-tags:
-- München
-- art
 wikidata_id: Q154568
+link: https://www.pinakothek.de/
 lat: 48.14827
 lon: 11.56998
 isa:
 - museum
+tags:
+- München
+- art
 ---

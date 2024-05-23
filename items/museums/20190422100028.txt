@@ -5,10 +5,10 @@ dt-created: 2019-04-22 10:00:28 GMT
 link: https://www.estorickcollection.com/
 lat: 51.54392
 lon: -0.10044
-wikipedia: en:Estorick Collection of Modern Italian Art
+isa:
+- museum
 tags:
 - art
 - London
-isa:
-- museum
+wikipedia: en:Estorick Collection of Modern Italian Art
 ---

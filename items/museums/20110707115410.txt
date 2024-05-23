@@ -3,9 +3,9 @@ title: Palazzo Altemps
 uid: '20110707115410'
 dt-created: 2011-07-07 09:54:10 GMT
 wikidata_id: Q1816007
+link: https://museonazionaleromano.beniculturali.it/palazzo-altemps/
 lat: 41.901051
 lon: 12.473131
-link: https://museonazionaleromano.beniculturali.it/palazzo-altemps/
 isa:
 - museum
 tags:

@@ -2,13 +2,13 @@
 title: Deichtorhallen
 uid: '20190807100905'
 dt-created: 2019-08-07 10:09:05 GMT
-link: https://www.deichtorhallen.de/
-tags:
-- Hamburg
-- art
 wikidata_id: Q1183156
+link: https://www.deichtorhallen.de/
 lat: 53.54728
 lon: 10.00676
 isa:
 - museum
+tags:
+- Hamburg
+- art
 ---

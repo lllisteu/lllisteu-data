@@ -2,13 +2,13 @@
 title: Musée Zadkine
 uid: '20190503062439'
 dt-created: 2019-05-03 06:24:39 GMT
-link: http://www.zadkine.paris.fr/
-tags:
-- Paris
-- art
 wikidata_id: Q2613771
+link: http://www.zadkine.paris.fr/
 lat: 48.8428
 lon: 2.3336
 isa:
 - museum
+tags:
+- Paris
+- art
 ---

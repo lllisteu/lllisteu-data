@@ -2,13 +2,13 @@
 title: Kunstpalast Düsseldorf
 uid: '20190518070539'
 dt-created: 2019-05-18 07:05:39 GMT
-link: https://www.kunstpalast.de/
-tags:
-- Düsseldorf
-- art
 wikidata_id: Q461277
+link: https://www.kunstpalast.de/
 lat: 51.23498
 lon: 6.77312
 isa:
 - museum
+tags:
+- Düsseldorf
+- art
 ---

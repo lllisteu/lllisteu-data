@@ -3,9 +3,9 @@ title: Musée Gustave Moreau
 uid: '20240128091423'
 dt-created: 2024-01-28 09:14:23 GMT
 wikidata_id: Q2296362
+link: https://musee-moreau.fr/
 lat: 48.8779
 lon: 2.33454
-link: https://musee-moreau.fr/
 isa:
 - museum
 tags:

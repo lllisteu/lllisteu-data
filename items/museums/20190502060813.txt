@@ -2,13 +2,13 @@
 title: Museum Frieder Burda
 uid: '20190502060813'
 dt-created: 2019-05-02 06:08:13 GMT
-link: https://www.museum-frieder-burda.de/
-tags:
-- Baden-Baden
-- art
 wikidata_id: Q1479961
+link: https://www.museum-frieder-burda.de/
 lat: 48.75797
 lon: 8.23777
 isa:
 - museum
+tags:
+- Baden-Baden
+- art
 ---

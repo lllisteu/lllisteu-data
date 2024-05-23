@@ -2,13 +2,13 @@
 title: Van Abbemuseum
 uid: '20190510100309'
 dt-created: 2019-05-10 10:03:09 GMT
-link: https://vanabbemuseum.nl/
-tags:
-- Eindhoven
-- art
 wikidata_id: Q1782422
+link: https://vanabbemuseum.nl/
 lat: 51.43451
 lon: 5.48198
 isa:
 - museum
+tags:
+- Eindhoven
+- art
 ---

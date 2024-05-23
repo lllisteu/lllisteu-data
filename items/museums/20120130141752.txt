@@ -2,13 +2,13 @@
 title: Museo Del Novecento
 uid: '20120130141752'
 dt-created: 2012-01-30 14:17:52 GMT
-tags:
-- Milano
-- art
-link: http://www.museodelnovecento.org/
 wikidata_id: Q261233
+link: http://www.museodelnovecento.org/
 lat: 45.463472
 lon: 9.189972
 isa:
 - museum
+tags:
+- Milano
+- art
 ---

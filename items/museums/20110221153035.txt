@@ -3,9 +3,9 @@ title: Centrale Montemartini
 uid: '20110221153035'
 dt-created: 2011-02-21 14:30:35 GMT
 wikidata_id: Q1054090
+link: https://www.centralemontemartini.org/
 lat: 41.86659
 lon: 12.47807
-link: https://www.centralemontemartini.org/
 isa:
 - museum
 tags:

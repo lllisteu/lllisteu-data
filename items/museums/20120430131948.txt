@@ -2,12 +2,12 @@
 title: Rubenshuis
 uid: '20120430131948'
 dt-created: 2012-04-30 13:19:48 GMT
-tags:
-- Antwerpen
-- art
 link: http://www.rubenshuis.be/
 lat: 51.217093
 lon: 4.409176
 isa:
 - museum
+tags:
+- Antwerpen
+- art
 ---

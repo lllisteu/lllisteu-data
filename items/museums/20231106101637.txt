@@ -3,9 +3,9 @@ title: Wallraf-Richartz-Museum
 uid: '20231106101637'
 dt-created: 2023-11-06 10:16:37 GMT
 wikidata_id: Q700959
+link: https://www.wallraf.museum/
 lat: 50.93733
 lon: 6.95846
-link: https://www.wallraf.museum/
 isa:
 - museum
 tags:

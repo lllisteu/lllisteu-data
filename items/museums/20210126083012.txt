@@ -2,13 +2,13 @@
 title: Klingspor-Museum Offenbach
 uid: '20210126083012'
 dt-created: 2021-01-26 08:30:12 GMT
-link: http://www.klingspor-museum.de/
-tags:
-- art
-- typography
 wikidata_id: Q315894
+link: http://www.klingspor-museum.de/
 lat: 50.10769
 lon: 8.7609
 isa:
 - museum
+tags:
+- art
+- typography
 ---

@@ -2,13 +2,13 @@
 title: Musée des Beaux-Arts de Bordeaux
 uid: '20190511090428'
 dt-created: 2019-05-11 09:04:28 GMT
-link: http://www.musba-bordeaux.fr/
-tags:
-- Bordeaux
-- art
 wikidata_id: Q954222
+link: http://www.musba-bordeaux.fr/
 lat: 44.83773
 lon: -0.58111
 isa:
 - museum
+tags:
+- Bordeaux
+- art
 ---

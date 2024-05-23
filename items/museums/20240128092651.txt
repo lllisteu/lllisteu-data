@@ -3,9 +3,9 @@ title: Musée Cernuschi
 uid: '20240128092651'
 dt-created: 2024-01-28 09:26:51 GMT
 wikidata_id: Q1667022
+link: https://www.cernuschi.paris.fr/
 lat: 48.87946
 lon: 2.31256
-link: https://www.cernuschi.paris.fr/
 isa:
 - museum
 tags:

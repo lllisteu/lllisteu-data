@@ -3,9 +3,9 @@ title: Galleria Borghese
 uid: '20110220152113'
 dt-created: 2011-02-20 14:21:13 GMT
 wikidata_id: Q841506
+link: https://galleriaborghese.beniculturali.it/
 lat: 41.91418
 lon: 12.49219
-link: https://galleriaborghese.beniculturali.it/
 isa:
 - museum
 tags:

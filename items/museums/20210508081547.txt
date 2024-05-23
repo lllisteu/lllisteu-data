@@ -2,13 +2,13 @@
 title: Musée de Grenoble
 uid: '20210508081547'
 dt-created: 2021-05-08 08:15:47 GMT
-link: http://www.museedegrenoble.fr/
-tags:
-- art
-- Grenoble
 wikidata_id: Q1952944
+link: http://www.museedegrenoble.fr/
 lat: 45.19496
 lon: 5.73228
 isa:
 - museum
+tags:
+- art
+- Grenoble
 ---

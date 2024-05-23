@@ -2,13 +2,13 @@
 title: Musée d'Art Moderne de la Ville de Paris
 uid: '20120220132946'
 dt-created: 2012-02-20 13:29:46 GMT
-tags:
-- art
-- Paris
-link: http://www.mam.paris.fr/
 wikidata_id: Q857276
+link: http://www.mam.paris.fr/
 lat: 48.864422
 lon: 2.297333
 isa:
 - museum
+tags:
+- art
+- Paris
 ---

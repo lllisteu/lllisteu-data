@@ -2,13 +2,13 @@
 title: Staatliches Museum Ägyptischer Kunst
 uid: '20190507092026'
 dt-created: 2019-05-07 09:20:26 GMT
-link: https://smaek.de/
-tags:
-- München
-- art
 wikidata_id: Q464872
+link: https://smaek.de/
 lat: 48.14698
 lon: 11.5683
 isa:
 - museum
+tags:
+- München
+- art
 ---

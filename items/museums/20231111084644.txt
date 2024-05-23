@@ -3,11 +3,11 @@ title: Fondation Louis Vuitton
 uid: '20231111084644'
 dt-created: 2023-11-11 08:46:44 GMT
 wikidata_id: Q3075489
+link: https://www.fondationlouisvuitton.fr/
 lat: 48.87664
 lon: 2.26341
 isa:
 - museum
-link: https://www.fondationlouisvuitton.fr/
 tags:
 - Paris
 - art

@@ -2,13 +2,13 @@
 title: Šternberský Palác – Národní galerie Praha
 uid: '20190531122539'
 dt-created: 2019-05-31 12:25:39 GMT
-link: https://www.ngprague.cz/
-tags:
-- Praha
-- art
 wikidata_id: Q1291597
+link: https://www.ngprague.cz/
 lat: 50.09056
 lon: 14.39637
 isa:
 - museum
+tags:
+- Praha
+- art
 ---

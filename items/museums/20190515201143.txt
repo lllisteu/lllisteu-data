@@ -2,13 +2,13 @@
 title: Ny Carlsberg Glyptotek
 uid: '20190515201143'
 dt-created: 2019-05-15 20:11:43 GMT
-link: https://www.glyptoteket.com/
-tags:
-- København
-- art
 wikidata_id: Q1140507
+link: https://www.glyptoteket.com/
 lat: 55.67259
 lon: 12.57204
 isa:
 - museum
+tags:
+- København
+- art
 ---

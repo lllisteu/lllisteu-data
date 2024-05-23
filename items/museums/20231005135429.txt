@@ -2,8 +2,8 @@
 title: Musée du Grand Siècle
 uid: '20231005135429'
 dt-created: 2023-10-05 13:54:29 GMT
-link: https://museedugrandsiecle.hauts-de-seine.fr/
 wikidata_id: Q64549730
+link: https://museedugrandsiecle.hauts-de-seine.fr/
 lat: 48.83953
 lon: 2.22036
 isa:

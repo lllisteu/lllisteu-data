@@ -2,13 +2,13 @@
 title: Musée du Luxembourg
 uid: '20141106215816'
 dt-created: 2014-11-06 21:58:16 GMT
-tags:
-- Paris
-- art
-link: http://en.museeduluxembourg.fr/
 wikidata_id: Q1411180
+link: http://en.museeduluxembourg.fr/
 lat: 48.8486
 lon: 2.334
 isa:
 - museum
+tags:
+- Paris
+- art
 ---
