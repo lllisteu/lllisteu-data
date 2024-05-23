@@ -1,0 +1,9 @@
+---
+title: Sheila Hicks
+uid: '20240523174311'
+dt-created: 2024-05-23 17:43:11 GMT
+event-dt-begin: '2024-10-13'
+event-dt-end: '2025-02-23'
+event-location: Josef Albers Museum Quadrat, Bottrop
+link: https://quadrat.bottrop.de/ausstellungen/
+---
