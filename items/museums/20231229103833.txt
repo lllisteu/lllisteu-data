@@ -1,5 +1,5 @@
 ---
-title: Musée national Fernand-Léger
+title: Musée national Fernand Léger
 uid: '20231229103833'
 dt-created: 2023-12-29 10:38:33 UTC
 wikidata_id: Q3330673
@@ -10,4 +10,5 @@ isa:
 - museum
 tags:
 - art
+event-location: Musée national Fernand Léger, Biot
 ---

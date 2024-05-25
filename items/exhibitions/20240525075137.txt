@@ -1,0 +1,9 @@
+---
+title: Léger and the New Realism
+uid: '20240525075137'
+dt-created: 2024-05-25 07:51:37 GMT
+event-dt-begin: '2024-06-15'
+event-dt-end: '2024-11-18'
+event-location: Musée national Fernand Léger, Biot
+link: https://musees-nationaux-alpesmaritimes.fr/fleger/en/agenda/evenement/leger-et-les-nouveaux-realismes
+---

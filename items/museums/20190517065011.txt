@@ -10,4 +10,5 @@ isa:
 - museum
 tags:
 - art
+event-location: Fondation Maeght, Saint-Paul-de-Vence
 ---

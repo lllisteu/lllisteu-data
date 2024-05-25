@@ -1,0 +1,9 @@
+---
+title: Bonnard-Matisse, a friendship
+uid: '20240525085756'
+dt-created: 2024-05-25 08:57:56 GMT
+event-dt-begin: '2024-06-29'
+event-dt-end: '2024-10-06'
+event-location: Fondation Maeght, Saint-Paul-de-Vence
+link: https://www.fondation-maeght.com/amities-bonnard-matisse/
+---
