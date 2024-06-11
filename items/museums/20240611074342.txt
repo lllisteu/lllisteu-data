@@ -1,0 +1,14 @@
+---
+title: Staatliche Kunsthalle Baden-Baden
+uid: '20240611074342'
+dt-created: 2024-06-11 07:43:42 GMT
+wikidata_id: Q1792405
+link: https://kunsthalle-baden-baden.de/
+lat: 48.75843
+lon: 8.23796
+isa:
+- museum
+tags:
+- Baden-Baden
+- art
+---

@@ -5,5 +5,5 @@ dt-created: 2024-05-10 21:41:50 GMT
 event-dt-begin: '2024-02-17'
 event-dt-end: '2024-09-01'
 event-location: Teylers Museum, Haarlem
-link: https://www.teylersmuseum.nl/en/visiting-the-museum/what-is-there-to-see-and-do/the-grand-illusion
+link: https://teylersmuseum.nl/en/what-s-on/the-grand-illusion
 ---
