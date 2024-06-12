@@ -1,0 +1,14 @@
+---
+title: Stadtmuseum Brandenburg an der Havel
+uid: '20240612080244'
+dt-created: 2024-06-12 08:02:44 GMT
+wikidata_id: Q27554246
+link: https://stadtmuseum.stadt-brandenburg.de/
+lat: 52.4125
+lon: 12.55393
+isa:
+- museum
+tags:
+- art
+event-location: Stadtmuseum Brandenburg an der Havel
+---

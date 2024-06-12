@@ -11,4 +11,5 @@ isa:
 tags:
 - Baden-Baden
 - art
+event-location: Staatliche Kunsthalle Baden-Baden
 ---

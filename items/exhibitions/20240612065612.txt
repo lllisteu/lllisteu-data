@@ -1,5 +1,5 @@
 ---
-title: Paul Goesch
+title: Ich werde berühmt! – Paul Goesch
 uid: '20240612065612'
 dt-created: 2024-06-12 06:56:12 GMT
 event-dt-begin: '2024-07-13'
