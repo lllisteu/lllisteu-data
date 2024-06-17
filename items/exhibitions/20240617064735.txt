@@ -1,0 +1,9 @@
+---
+title: Carpaccio, Bellini and the Early Renaissance in Venice
+uid: '20240617064735'
+dt-created: 2024-06-17 06:47:35 GMT
+event-dt-begin: '2024-11-15'
+event-dt-end: '2025-03-02'
+event-location: Staatsgalerie, Stuttgart
+link: https://www.staatsgalerie.de/en/exhibitions/preview/carpaccio-bellini-and-the-early-renaissance-venice
+---

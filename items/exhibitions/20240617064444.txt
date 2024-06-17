@@ -1,0 +1,9 @@
+---
+title: Fokus. Journals of the Avant-Garde
+uid: '20240617064444'
+dt-created: 2024-06-17 06:44:44 GMT
+event-dt-begin: '2024-10-19'
+event-dt-end: '2025-02-09'
+event-location: Zentrum Paul Klee, Bern
+link: https://www.zpk.org/en/exposition/journals-avant-garde
+---
