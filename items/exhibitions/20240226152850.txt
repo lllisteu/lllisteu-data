@@ -2,8 +2,8 @@
 title: Courage – Lehmbruck and the Avant-Garde
 uid: '20240226152850'
 dt-created: 2024-02-26 15:28:50 GMT
-event-dt-begin: '2024-06-15'
+event-dt-begin: '2024-06-16'
 event-dt-end: '2024-10-06'
 event-location: Lehmbruck Museum, Duisburg
-link: https://lehmbruckmuseum.de/exhibitions/exhibition-preview/40753-2/
+link: https://lehmbruckmuseum.de/exhibitions/current-exhibitions/40753-2/
 ---
