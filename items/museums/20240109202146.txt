@@ -10,4 +10,5 @@ isa:
 - museum
 tags:
 - art
+event-location: Kunsthalle Weishaupt, Ulm
 ---

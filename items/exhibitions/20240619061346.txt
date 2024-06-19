@@ -1,0 +1,9 @@
+---
+title: Wolfram Ullrich. Overcoming Gravity
+uid: '20240619061346'
+dt-created: 2024-06-19 06:13:46 GMT
+event-dt-begin: '2024-03-10'
+event-dt-end: '2024-09-29'
+event-location: Kunsthalle Weishaupt, Ulm
+link: http://kunsthalle-weishaupt.de/en/ausstellung/wolfram-ullrich-overcoming-gravity/
+---
