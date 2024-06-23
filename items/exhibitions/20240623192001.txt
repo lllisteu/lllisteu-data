@@ -1,0 +1,9 @@
+---
+title: Kandinsky
+uid: '20240623192001'
+dt-created: 2024-06-23 19:20:01 GMT
+event-dt-begin: '2024-06-19'
+event-dt-end: '2024-11-10'
+event-location: H’ART Museum, Amsterdam
+link: https://www.hartmuseum.nl/tentoonstellingen/kandinsky/
+---
