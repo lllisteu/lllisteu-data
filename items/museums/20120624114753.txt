@@ -1,0 +1,6 @@
+---
+title: Musée Delacroix
+uid: '20120624114753'
+dt-created: 2012-06-24 11:47:53 GMT
+link: http://musee-delacroix.fr/en/
+---
