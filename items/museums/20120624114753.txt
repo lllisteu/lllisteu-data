@@ -1,6 +1,15 @@
 ---
-title: Musée Delacroix
+title: Musée national Eugène Delacroix
 uid: '20120624114753'
 dt-created: 2012-06-24 11:47:53 GMT
-link: http://musee-delacroix.fr/en/
+wikidata_id: Q1782606
+link: https://www.musee-delacroix.fr/
+lat: 48.8546
+lon: 2.3354
+isa:
+- museum
+tags:
+- art
+- Paris
+event-location: Musée Delacroix, Paris
 ---
