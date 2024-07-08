@@ -1,0 +1,10 @@
+---
+title: David Hockney Normandism
+uid: '20240708141425'
+dt-created: 2024-07-08 14:14:25 GMT
+event-dt-begin: '2024-03-22'
+event-dt-end: '2024-09-22'
+event-location: Musée des Beaux-Arts de Rouen
+link: https://mbarouen.fr/en/expositions/david-hockney-normandism
+via: RM
+---
