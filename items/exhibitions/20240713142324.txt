@@ -1,0 +1,9 @@
+---
+title: Josef and Anni Albers
+uid: '20240713142324'
+dt-created: 2024-07-13 14:23:24 GMT
+event-dt-begin: '2024-04-10'
+event-dt-end: '2024-09-08'
+event-location: Villa Empain, Brussel
+link: https://villaempain.com/en/expo/josef-and-anni-albers/
+---
