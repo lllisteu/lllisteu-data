@@ -1,0 +1,9 @@
+---
+title: Hans/Jean Arp & Sophie Taeuber-Arp
+uid: '20240722071811'
+dt-created: 2024-07-22 07:18:11 GMT
+event-dt-begin: '2024-09-20'
+event-dt-end: '2025-01-19'
+event-location: Palais des Beaux-Arts, Brussel
+link: https://www.bozar.be/en/calendar/hansjean-arp-sophie-taeuber-arp-friends-lovers-partners
+---

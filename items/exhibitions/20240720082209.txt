@@ -1,0 +1,9 @@
+---
+title: Karl Blossfeldt
+uid: '20240720082209'
+dt-created: 2024-07-20 08:22:09 GMT
+event-dt-begin: '2024-09-06'
+event-dt-end: '2025-02-02'
+event-location: Photographische Sammlung/SK Stiftung Kultur, Köln
+link: https://photographie-sk-kultur.de/ausstellungen/detail/new668ce8f100433501573865-karl-blossfeldt-photographie-im-licht-der-kunst
+---
