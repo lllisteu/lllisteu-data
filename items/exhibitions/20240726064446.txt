@@ -1,0 +1,9 @@
+---
+title: 'Kandinsky’s Universe: Geometric Abstractions in the 20th Century'
+uid: '20240726064446'
+dt-created: 2024-07-26 06:44:46 GMT
+event-dt-begin: '2025-02-08'
+event-dt-end: '2025-05-10'
+event-location: Museum Barberini, Potsdam
+link: https://www.museum-barberini.de/en/ausstellungen/17400/kandinsky-s-universe-geometric-abstractions-in-the-20th-century
+---
