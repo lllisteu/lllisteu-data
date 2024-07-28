@@ -1,0 +1,9 @@
+---
+title: Marina Abramović
+uid: '20240728065742'
+dt-created: 2024-07-28 06:57:42 GMT
+event-dt-begin: '2024-10-25'
+event-dt-end: '2025-02-16'
+event-location: Kunsthaus Zürich
+link: https://www.kunsthaus.ch/besuch-planen/ausstellungen/marina-abramovic/
+---
