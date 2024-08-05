@@ -1,0 +1,9 @@
+---
+title: Caspar David Friedrich. Wo alles begann
+uid: '20240801164758'
+dt-created: 2024-08-01 16:47:58 GMT
+event-dt-begin: '2024-08-24'
+event-dt-end: '2025-01-05'
+event-location: Albertinum, Dresden
+link: https://albertinum.skd.museum/ausstellungen/caspar-david-friedrich-wo-alles-begann/
+---

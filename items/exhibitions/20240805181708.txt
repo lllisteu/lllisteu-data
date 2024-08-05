@@ -1,0 +1,9 @@
+---
+title: Drawing the Italian Renaissance
+uid: '20240805181708'
+dt-created: 2024-08-05 18:17:08 GMT
+event-dt-begin: '2024-11-01'
+event-dt-end: '2025-03-09'
+event-location: The King's Gallery, London
+link: https://www.rct.uk/collection/exhibitions/drawing-the-italian-renaissance/the-kings-gallery-buckingham-palace
+---
