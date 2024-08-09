@@ -1,0 +1,9 @@
+---
+title: Kahnweiler & Rupf
+uid: '20240809050146'
+dt-created: 2024-08-09 05:01:46 GMT
+event-dt-begin: '2024-11-22'
+event-dt-end: '2025-03-23'
+event-location: Kunstmuseum Bern
+link: https://www.kunstmuseumbern.ch/en/ausstellung/kahnweiler-rupf
+---
