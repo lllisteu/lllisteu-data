@@ -1,0 +1,9 @@
+---
+title: La Grâce et le silence - Philippe de Champaigne
+uid: '20240812074314'
+dt-created: 2024-08-12 07:43:14 GMT
+event-dt-begin: '2024-10-19'
+event-dt-end: '2025-01-12'
+event-location: Musée de Grenoble
+link: https://www.museedegrenoble.fr/3265-la-grace-et-le-silence.htm
+---
