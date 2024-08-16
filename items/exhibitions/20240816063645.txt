@@ -1,0 +1,9 @@
+---
+title: Masterpieces from the Langmatt Museum
+uid: '20240816063645'
+dt-created: 2024-08-16 06:36:45 GMT
+event-dt-begin: '2024-06-28'
+event-dt-end: '2024-11-03'
+event-location: Fondation de l'Hermitage, Lausanne
+link: https://fondation-hermitage.ch/en/home/expositions/a-venir/chefs-doeuvre-du-musee-langmatt/
+---

@@ -1,0 +1,9 @@
+---
+title: Akseli Gallen-Kallela
+uid: '20240816064050'
+dt-created: 2024-08-16 06:40:50 GMT
+event-dt-begin: '2024-09-27'
+event-dt-end: '2025-02-02'
+event-location: Belvedere, Wien
+link: https://www.belvedere.at/en/akseli-gallen-kallela
+---
