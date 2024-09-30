@@ -1,0 +1,9 @@
+---
+title: Henry Moore – for Duisburg
+uid: '20240930092228'
+dt-created: 2024-09-30 09:22:28 GMT
+event-dt-begin: '2024-11-08'
+event-dt-end: '2025-01-19'
+event-location: Lehmbruck Museum, Duisburg
+link: https://lehmbruckmuseum.de/exhibitions/exhibition-preview/42482-2/
+---

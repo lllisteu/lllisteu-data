@@ -1,0 +1,9 @@
+---
+title: Tracey Emin
+uid: '20240930083434'
+dt-created: 2024-09-30 08:34:34 GMT
+event-dt-begin: '2025-03-16'
+event-dt-end: '2025-07-20'
+event-location: Palazzo Strozzi, Firenze
+link: https://www.palazzostrozzi.org/en/archivio/exhibitions/tracey-emin/
+---

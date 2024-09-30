@@ -1,0 +1,9 @@
+---
+title: Angelico
+uid: '20240930083735'
+dt-created: 2024-09-30 08:37:35 GMT
+event-dt-begin: '2025-09-26'
+event-dt-end: '2026-01-25'
+event-location: Palazzo Strozzi, Firenze
+link: https://www.palazzostrozzi.org/en/archivio/exhibitions/angelico/
+---

@@ -1,0 +1,9 @@
+---
+title: Helen Frankenthaler
+uid: '20240930083846'
+dt-created: 2024-09-30 08:38:46 GMT
+event-dt-begin: '2024-09-27'
+event-dt-end: '2025-01-26'
+event-location: Palazzo Strozzi, Firenze
+link: https://www.palazzostrozzi.org/en/archivio/exhibitions/helen-frankenthaler/
+---
