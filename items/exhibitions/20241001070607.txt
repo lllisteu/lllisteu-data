@@ -1,0 +1,9 @@
+---
+title: Mike Kelley – Ghost and Spirit
+uid: '20241001070607'
+dt-created: 2024-10-01 07:06:07 GMT
+event-dt-begin: '2024-10-03'
+event-dt-end: '2025-03-09'
+event-location: Tate Modern, London
+link: https://www.tate.org.uk/whats-on/tate-modern/mike-kelley-ghost-and-spirit
+---

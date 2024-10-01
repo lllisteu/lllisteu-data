@@ -1,0 +1,9 @@
+---
+title: Marcel Proust and the Arts
+uid: '20241001071647'
+dt-created: 2024-10-01 07:16:47 GMT
+event-dt-begin: '2025-03-04'
+event-dt-end: '2025-06-08'
+event-location: Museo Thyssen-Bornemisza, Madrid
+link: https://www.museothyssen.org/en/exhibitions/marcel-proust-and-arts
+---

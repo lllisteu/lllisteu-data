@@ -1,0 +1,9 @@
+---
+title: Global Pictorialism
+uid: '20241001070419'
+dt-created: 2024-10-01 07:04:19 GMT
+event-dt-begin: '2025-12-04'
+event-dt-end: '2026-05-25'
+event-location: Tate Modern, London
+link: https://www.tate.org.uk/whats-on/tate-modern/global-pictorialism
+---

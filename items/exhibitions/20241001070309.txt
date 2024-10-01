@@ -1,0 +1,9 @@
+---
+title: Turner and Constable
+uid: '20241001070309'
+dt-created: 2024-10-01 07:03:09 GMT
+event-dt-begin: '2025-11-27'
+event-dt-end: '2026-04-12'
+event-location: Tate Britain, London
+link: https://www.tate.org.uk/whats-on/tate-britain/turner-and-constable
+---
