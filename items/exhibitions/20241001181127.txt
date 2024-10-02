@@ -1,0 +1,9 @@
+---
+title: Alexej von Jawlensky
+uid: '20241001181127'
+dt-created: 2024-10-01 18:11:27 GMT
+event-dt-begin: '2025-01-30'
+event-dt-end: '2025-06-01'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+link: https://louisiana.dk/en/exhibition/alexej-von-jawlensky/
+---

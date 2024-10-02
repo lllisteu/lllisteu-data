@@ -1,0 +1,9 @@
+---
+title: But Live Here? No thanks
+uid: '20241001181927'
+dt-created: 2024-10-01 18:19:27 GMT
+event-dt-begin: '2024-10-15'
+event-dt-end: '2025-03-02'
+event-location: Lenbachhaus, München
+link: https://www.lenbachhaus.de/en/program/exhibitions/details/aber-hier-leben-nein-danke-surrealismus-antifaschismus
+---

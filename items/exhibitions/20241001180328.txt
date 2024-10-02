@@ -1,0 +1,9 @@
+---
+title: Rush of Colour
+uid: '20241001180328'
+dt-created: 2024-10-01 18:03:28 GMT
+event-dt-begin: '2024-11-27'
+event-dt-end: '2025-03-30'
+event-location: Museum Kunstpalast, Düsseldorf
+link: https://www.kunstpalast.de/en/event/rush-of-colour/
+---

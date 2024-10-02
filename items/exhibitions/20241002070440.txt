@@ -1,0 +1,9 @@
+---
+title: Medardo Rosso
+uid: '20241002070440'
+dt-created: 2024-10-02 07:04:40 GMT
+event-dt-begin: '2025-03-29'
+event-dt-end: '2025-08-10'
+event-location: Kunstmuseum Basel
+link: https://kunstmuseumbasel.ch/
+---

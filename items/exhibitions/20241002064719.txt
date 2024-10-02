@@ -1,0 +1,9 @@
+---
+title: 'Francis Bacon: Human Presence'
+uid: '20241002064719'
+dt-created: 2024-10-02 06:47:19 GMT
+event-dt-begin: '2024-10-10'
+event-dt-end: '2025-01-19'
+event-location: National Portrait Gallery, London
+link: https://www.npg.org.uk/whatson/exhibitions/2024/francis-bacon-portraits
+---

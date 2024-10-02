@@ -1,0 +1,9 @@
+---
+title: Concepts of the All-Over
+uid: '20241002063925'
+dt-created: 2024-10-02 06:39:25 GMT
+event-dt-begin: '2024-10-03'
+event-dt-end: '2025-04-13'
+event-location: Haus Konstruktiv, Zürich
+link: https://hauskonstruktiv.ch/en/exhibitions/concepts-of-the-all-over
+---
