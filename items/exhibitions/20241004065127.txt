@@ -1,0 +1,9 @@
+---
+title: Maurice de Vlaminck – Modern Art Rebel
+uid: '20241004065127'
+dt-created: 2024-10-04 06:51:27 GMT
+event-dt-begin: '2025-02-16'
+event-dt-end: '2025-05-18'
+event-location: Von der Heydt-Museum, Wuppertal
+link: https://en.von-der-heydt-museum.de/exhibitions/maurice-de-vlaminck/
+---

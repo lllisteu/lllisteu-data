@@ -1,0 +1,9 @@
+---
+title: Goya to Impressionism
+uid: '20241002115902'
+dt-created: 2024-10-02 11:59:02 GMT
+event-dt-begin: '2025-02-14'
+event-dt-end: '2025-05-26'
+event-location: The Courtauld Gallery, London
+link: https://courtauld.ac.uk/whats-on/exh-goya-to-impressionism-masterpieces-from-the-oskar-reinhart-collection/
+---

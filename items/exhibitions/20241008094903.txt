@@ -1,0 +1,9 @@
+---
+title: Marianne von Werefkin
+uid: '20241008094903'
+dt-created: 2024-10-08 09:49:03 GMT
+event-dt-begin: '2024-10-05'
+event-dt-end: '2025-03-16'
+event-location: Museum de Fundatie, Zwolle
+link: https://www.museumdefundatie.nl/en/marianne-von-werefkin/
+---
