@@ -3,7 +3,7 @@ title: Tarsila do Amaral
 uid: '20240428090003'
 dt-created: 2024-04-28 09:00:03 GMT
 event-dt-begin: '2024-10-09'
-event-dt-end: '2025-02-05'
+event-dt-end: '2025-02-02'
 event-location: Musée du Luxembourg, Paris
 link: https://museeduluxembourg.fr/en/agenda/evenement/tarsila-do-amaral
 ---
