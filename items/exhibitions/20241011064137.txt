@@ -1,0 +1,9 @@
+---
+title: Francis Bacon
+uid: '20241011064137'
+dt-created: 2024-10-11 06:41:37 GMT
+event-dt-begin: '2025-02-14'
+event-dt-end: '2025-06-08'
+event-location: Fondation Pierre Gianadda, Martigny
+link: https://www.gianadda.ch/
+---

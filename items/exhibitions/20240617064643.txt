@@ -2,7 +2,7 @@
 title: New Vision, New Objectivity and Bauhaus
 uid: '20240617064643'
 dt-created: 2024-06-17 06:46:43 GMT
-event-dt-begin: '2024-10-11'
+event-dt-begin: '2024-10-12'
 event-dt-end: '2025-02-23'
 event-location: Staatsgalerie, Stuttgart
 link: https://www.staatsgalerie.de/en/exhibitions/preview/new-vision-new-objectivity-and-bauhaus
