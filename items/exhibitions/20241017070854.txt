@@ -1,0 +1,9 @@
+---
+title: Michaël Borremans - A Confrontation at the Zoo
+uid: '20241017070854'
+dt-created: 2024-10-17 07:08:54 GMT
+event-dt-begin: '2024-11-30'
+event-dt-end: '2025-03-23'
+event-location: Museum Voorlinden, Wassenaar
+link: https://www.voorlinden.nl/exhibition/michael-borremans/?lang=en
+---
