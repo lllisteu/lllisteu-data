@@ -5,5 +5,5 @@ dt-created: 2024-04-23 19:43:33 GMT
 event-dt-begin: '2024-09-24'
 event-dt-end: '2025-01-12'
 event-location: Musée d'Orsay, Paris
-link: https://www.musee-orsay.fr/en/whats-on/exhibitions/celine-laguarde-1873-1961-photographer
+link: https://www.musee-orsay.fr/fr/agenda/expositions/celine-laguarde-1873-1961-photographe
 ---

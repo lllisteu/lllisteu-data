@@ -1,0 +1,9 @@
+---
+title: Peter Halley in Spain
+uid: '20241017071444'
+dt-created: 2024-10-17 07:14:44 GMT
+event-dt-begin: '2024-10-19'
+event-dt-end: '2025-01-19'
+event-location: Museo Thyssen-Bornemisza, Madrid
+link: https://www.museothyssen.org/en/exhibitions/peter-halley-spain
+---
