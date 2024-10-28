@@ -1,0 +1,9 @@
+---
+title: Trésors du Petit Palais de Genève
+uid: '20241028085327'
+dt-created: 2024-10-28 08:53:27 GMT
+event-dt-begin: '2025-01-24'
+event-dt-end: '2025-06-01'
+event-location: Fondation de l'Hermitage, Lausanne
+link: https://fondation-hermitage.ch/en/home/expositions/next/tresors-du-petit-palais-de-geneve/
+---

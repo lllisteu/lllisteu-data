@@ -1,0 +1,9 @@
+---
+title: Suzanne Valadon
+uid: '20241028091613'
+dt-created: 2024-10-28 09:16:13 GMT
+event-dt-begin: '2025-01-15'
+event-dt-end: '2025-05-26'
+event-location: Centre Pompidou, Paris
+link: https://www.centrepompidou.fr/
+---
