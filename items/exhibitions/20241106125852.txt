@@ -1,0 +1,9 @@
+---
+title: 'Jackson Pollock : Les Premières Années'
+uid: '20241106125852'
+dt-created: 2024-11-06 12:58:52 GMT
+event-dt-begin: '2024-10-15'
+event-dt-end: '2025-01-19'
+event-location: Musée Picasso, Paris
+link: https://www.museepicassoparis.fr/en/jackson-pollock-les-premieres-annees-1934-1947
+---

@@ -1,0 +1,9 @@
+---
+title: Rineke Dijkstra. Still — Moving
+uid: '20241106130124'
+dt-created: 2024-11-06 13:01:24 GMT
+event-dt-begin: '2024-11-08'
+event-dt-end: '2025-02-10'
+event-location: Berlinische Galerie, Berlin
+link: https://berlinischegalerie.de/
+---

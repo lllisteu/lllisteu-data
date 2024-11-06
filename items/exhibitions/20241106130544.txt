@@ -1,0 +1,9 @@
+---
+title: Rineke Dijkstra – Beach Portraits
+uid: '20241106130544'
+dt-created: 2024-11-06 13:05:44 GMT
+event-dt-begin: '2024-12-13'
+event-dt-end: '2025-05-18'
+event-location: Städel Museum, Frankfurt
+link: https://www.staedelmuseum.de/en/rineke-dijkstra
+---

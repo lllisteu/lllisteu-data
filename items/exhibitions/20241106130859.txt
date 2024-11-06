@@ -1,0 +1,9 @@
+---
+title: Ribera – Shadows and Light
+uid: '20241106130859'
+dt-created: 2024-11-06 13:08:59 GMT
+event-dt-begin: '2024-11-05'
+event-dt-end: '2025-02-23'
+event-location: Petit Palais, Paris
+link: https://www.petitpalais.paris.fr/en/expositions/ribera
+---

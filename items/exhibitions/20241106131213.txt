@@ -1,0 +1,9 @@
+---
+title: Medardo Rosso – Inventing Modern Sculpture
+uid: '20241106131213'
+dt-created: 2024-11-06 13:12:13 GMT
+event-dt-begin: '2024-10-18'
+event-dt-end: '2025-02-23'
+event-location: Mumok, Wien
+link: https://www.mumok.at/en/exhibitions/medardo-rosso
+---
