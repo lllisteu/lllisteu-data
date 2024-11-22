@@ -3,7 +3,7 @@ title: 'Forbidden Territories: 100 Years of Surreal Landscapes'
 uid: '20240727071058'
 dt-created: 2024-07-27 07:10:58 GMT
 event-dt-begin: '2024-11-23'
-event-dt-end: '2025-04-27'
+event-dt-end: '2025-04-21'
 event-location: The Hepworth Wakefield
 link: https://hepworthwakefield.org/whats-on/forbidden-territories-100-years-of-surreal-landscapes/
 ---
