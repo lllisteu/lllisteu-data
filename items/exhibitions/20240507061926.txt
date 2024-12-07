@@ -3,7 +3,7 @@ title: 'Nan Goldin: This Will Not End Well'
 uid: '20240507061926'
 dt-created: 2024-05-07 06:19:26 GMT
 event-dt-begin: '2024-11-23'
-event-dt-end: '2025-02-23'
+event-dt-end: '2025-04-06'
 event-location: Neue Nationalgalerie, Berlin
 link: https://www.smb.museum/en/museums-institutions/neue-nationalgalerie/exhibitions/detail/nan-goldin/
 ---

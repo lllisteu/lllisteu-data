@@ -1,0 +1,9 @@
+---
+title: 'Breaking Lines: The World Wide Poetry Network'
+uid: '20241207100354'
+dt-created: 2024-12-07 10:03:54 GMT
+event-dt-begin: '2025-01-15'
+event-dt-end: '2025-05-11'
+event-location: Estorick Collection, London
+link: https://www.estorickcollection.com/exhibitions/breaking-lines-the-world-wide-poetry-network
+---
