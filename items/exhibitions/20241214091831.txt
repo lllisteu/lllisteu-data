@@ -1,0 +1,9 @@
+---
+title: The Key to Dreams
+uid: '20241214091831'
+dt-created: 2024-12-14 09:18:31 GMT
+event-dt-begin: '2025-02-16'
+event-dt-end: '2025-05-04'
+event-location: Fondation Beyeler, Basel
+link: https://www.fondationbeyeler.ch/en/exhibitions/the-key-to-dreams
+---

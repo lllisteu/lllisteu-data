@@ -1,0 +1,9 @@
+---
+title: Vija Celmins
+uid: '20241214092230'
+dt-created: 2024-12-14 09:22:30 GMT
+event-dt-begin: '2025-06-15'
+event-dt-end: '2025-09-21'
+event-location: Fondation Beyeler, Basel
+link: https://www.fondationbeyeler.ch/en/exhibitions/vija-celmins
+---

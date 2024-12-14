@@ -1,0 +1,9 @@
+---
+title: Wilhelm Lehmbruck – The Final Years
+uid: '20241214094907'
+dt-created: 2024-12-14 09:49:07 GMT
+event-dt-begin: '2025-10-24'
+event-dt-end: '2026-01-18'
+event-location: Kunsthaus Zürich
+link: https://www.kunsthaus.ch/en/besuch-planen/ausstellungen/wilhelm-lehmbruck-yves-netzhammer/
+---

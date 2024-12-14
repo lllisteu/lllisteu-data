@@ -1,0 +1,9 @@
+---
+title: Yayoi Kusama
+uid: '20241214091531'
+dt-created: 2024-12-14 09:15:31 GMT
+event-dt-begin: '2025-10-12'
+event-dt-end: '2026-01-25'
+event-location: Fondation Beyeler, Basel
+link: https://www.fondationbeyeler.ch/en/exhibitions/yayoi-kusama
+---
