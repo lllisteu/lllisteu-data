@@ -1,0 +1,9 @@
+---
+title: Picasso, Miró, Léger – The Many Voices of Modernism
+uid: '20241216082827'
+dt-created: 2024-12-16 08:28:27 GMT
+event-dt-begin: '2025-04-05'
+event-dt-end: '2025-09-28'
+event-location: ARoS, Århus
+link: https://www.aros.dk/en/art/upcoming-exhibitions/picasso-mir%C3%B3-l%C3%A9ger-modernismens-mange-stemmer/
+---

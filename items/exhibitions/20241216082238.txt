@@ -1,0 +1,9 @@
+---
+title: Alexander Tovborg – Divine Comedy
+uid: '20241216082238'
+dt-created: 2024-12-16 08:22:38 GMT
+event-dt-begin: '2025-05-24'
+event-dt-end: '2026-01-04'
+event-location: ARoS, Århus
+link: https://www.aros.dk/en/art/upcoming-exhibitions/alexander-tovborg-divine-comedy/
+---

@@ -1,0 +1,9 @@
+---
+title: Anni Albers – Constructing Textiles
+uid: '20241215092802'
+dt-created: 2024-12-15 09:28:02 GMT
+event-dt-begin: '2025-11-07'
+event-dt-end: '2026-02-22'
+event-location: Zentrum Paul Klee, Bern
+link: https://www.zpk.org/en/ausstellung/anni-albers
+---
