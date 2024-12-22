@@ -1,0 +1,9 @@
+---
+title: Basquiat - on paper
+uid: '20241222193407'
+dt-created: 2024-12-22 19:34:07 GMT
+event-dt-begin: '2026-01-29'
+event-dt-end: '2026-05-17'
+event-location: Louisiana Museum of Modern Art, Humlebæk
+link: https://louisiana.dk/en/exhibition/basquiat-on-paper/
+---

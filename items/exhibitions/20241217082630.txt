@@ -1,0 +1,9 @@
+---
+title: 'Arcimboldo, Bassano, Bruegel: Nature''s Time'
+uid: '20241217082630'
+dt-created: 2024-12-17 08:26:30 GMT
+event-dt-begin: '2025-03-11'
+event-dt-end: '2025-06-29'
+event-location: Kunsthistorisches Museum Wien
+link: https://www.khm.at/en/visit/exhibitions/arcimboldo-bassano-bruegel/
+---

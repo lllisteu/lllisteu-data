@@ -1,0 +1,9 @@
+---
+title: Suzanne Perlman
+uid: '20241222191907'
+dt-created: 2024-12-22 19:19:07 GMT
+event-dt-begin: '2026-02-10'
+event-dt-end: '2026-06-28'
+event-location: Singer Laren
+link: https://www.singerlaren.nl/en/agenda/1906/nardinc-galerij-en-zaal-11/suzanne-perlman
+---

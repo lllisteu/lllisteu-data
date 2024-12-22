@@ -1,0 +1,9 @@
+---
+title: Henri Martin & Henri Le Sidaner
+uid: '20241222191641'
+dt-created: 2024-12-22 19:16:41 GMT
+event-dt-begin: '2025-01-22'
+event-dt-end: '2025-05-11'
+event-location: Singer Laren
+link: https://www.singerlaren.nl/en/agenda/1944/22-januari-t-m-11-mei-2025/henri-martin-henri-le-sidaner
+---

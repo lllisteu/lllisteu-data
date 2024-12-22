@@ -1,0 +1,9 @@
+---
+title: Auguste Herbin
+uid: '20241220091820'
+dt-created: 2024-12-20 09:18:20 GMT
+event-dt-begin: '2025-06-03'
+event-dt-end: '2025-10-19'
+event-location: Lenbachhaus, München
+link: https://www.lenbachhaus.de/en/program/exhibitions/details/herbin-new672cd5b5705ce382018739
+---
