@@ -1,0 +1,9 @@
+---
+title: Wolfgang Tillmans. Weltraum
+uid: '20241223090046'
+dt-created: 2024-12-23 09:00:46 GMT
+event-dt-begin: '2025-03-08'
+event-dt-end: '2025-06-29'
+event-location: Albertinum, Dresden
+link: https://albertinum.skd.museum/ausstellungen/wolfgang-tillmans/
+---

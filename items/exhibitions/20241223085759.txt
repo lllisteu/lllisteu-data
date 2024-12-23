@@ -1,0 +1,9 @@
+---
+title: 20 Jahre Gerhard Richter Archiv
+uid: '20241223085759'
+dt-created: 2024-12-23 08:57:59 GMT
+event-dt-begin: '2025-12-13'
+event-dt-end: '2026-03-15'
+event-location: Albertinum, Dresden
+link: https://gerhard-richter-archiv.skd.museum/ausstellungen/20-jahre-gerhard-richter-archiv-werke-materialien-kuriosa/
+---
