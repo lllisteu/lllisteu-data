@@ -1,0 +1,9 @@
+---
+title: 'Siena: The Rise of Painting'
+uid: '20241224152356'
+dt-created: 2024-12-24 15:23:56 GMT
+event-dt-begin: '2025-03-08'
+event-dt-end: '2025-06-22'
+event-location: National Gallery, London
+link: https://www.nationalgallery.org.uk/exhibitions/siena-the-rise-of-painting
+---
