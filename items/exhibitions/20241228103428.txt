@@ -1,0 +1,9 @@
+---
+title: Magritte. La Ligne de vie
+uid: '20241228103428'
+dt-created: 2024-12-28 10:34:28 GMT
+event-dt-begin: '2025-11-15'
+event-dt-end: '2026-02-22'
+event-location: Koninklijk Museum voor Schone Kunsten Antwerpen
+link: https://kmska.be/en/magritte-la-ligne-de-vie
+---

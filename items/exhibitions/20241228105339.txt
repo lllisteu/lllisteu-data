@@ -1,0 +1,9 @@
+---
+title: Fernsehgalerie Gerry Schum
+uid: '20241228105339'
+dt-created: 2024-12-28 10:53:39 GMT
+event-dt-begin: '2024-11-19'
+event-dt-end: '2025-03-23'
+event-location: Kröller-Müller Museum, Otterlo
+link: https://krollermuller.nl/en/fernsehgalerie-gerry-schum
+---
