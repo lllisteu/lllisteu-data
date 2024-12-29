@@ -1,0 +1,9 @@
+---
+title: Christian Krohg – The People of the North
+uid: '20241229091818'
+dt-created: 2024-12-29 09:18:18 GMT
+event-dt-begin: '2025-03-25'
+event-dt-end: '2025-07-27'
+event-location: Musée d'Orsay, Paris
+link: https://www.musee-orsay.fr/en/whats-on/exhibitions/christian-krohg-1852-1925-people-north
+---

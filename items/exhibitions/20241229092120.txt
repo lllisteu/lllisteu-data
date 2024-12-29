@@ -1,0 +1,9 @@
+---
+title: Paul Troubetzkoy – The Prince Sculptor
+uid: '20241229092120'
+dt-created: 2024-12-29 09:21:20 GMT
+event-dt-begin: '2025-09-30'
+event-dt-end: '2026-01-11'
+event-location: Musée d'Orsay, Paris
+link: https://www.musee-orsay.fr/en/whats-on/exhibitions/paul-troubetzkoy-prince-sculptor
+---

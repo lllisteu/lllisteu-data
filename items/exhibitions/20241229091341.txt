@@ -1,0 +1,9 @@
+---
+title: Art is in the street
+uid: '20241229091341'
+dt-created: 2024-12-29 09:13:41 GMT
+event-dt-begin: '2025-03-18'
+event-dt-end: '2025-07-06'
+event-location: Musée d'Orsay, Paris
+link: https://www.musee-orsay.fr/en/whats-on/exhibitions/art-street
+---
