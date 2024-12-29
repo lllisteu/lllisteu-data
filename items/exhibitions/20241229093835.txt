@@ -1,0 +1,9 @@
+---
+title: 'New Paris: from Monet to Morisot'
+uid: '20241229093835'
+dt-created: 2024-12-29 09:38:35 GMT
+event-dt-begin: '2025-02-15'
+event-dt-end: '2025-06-08'
+event-location: Kunstmuseum Den Haag
+link: https://www.kunstmuseum.nl/en/exhibitions/new-paris-monet-morisot
+---
