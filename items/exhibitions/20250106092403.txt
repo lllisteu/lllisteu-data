@@ -1,0 +1,9 @@
+---
+title: Cézanne, Monet, Renoir
+uid: '20250106092403'
+dt-created: 2025-01-06 09:24:03 GMT
+event-dt-begin: '2025-09-25'
+event-dt-end: '2026-02-08'
+event-location: Belvedere, Wien
+link: https://www.belvedere.at/en/cezanne-monet-renoir
+---
