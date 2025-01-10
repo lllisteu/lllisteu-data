@@ -1,0 +1,9 @@
+---
+title: Out of focus
+uid: '20250110143227'
+dt-created: 2025-01-10 14:32:27 GMT
+event-dt-begin: '2025-04-30'
+event-dt-end: '2025-08-18'
+event-location: Musée de l'Orangerie, Paris
+link: https://www.musee-orangerie.fr/en/whats-on/exhibitions/out-focus-another-vision-art-1945-nowadays
+---

@@ -1,0 +1,9 @@
+---
+title: Berthe Weill – Art dealer of the Parisian Avant-garde
+uid: '20250110143511'
+dt-created: 2025-01-10 14:35:11 GMT
+event-dt-begin: '2025-10-08'
+event-dt-end: '2026-01-26'
+event-location: Musée de l'Orangerie, Paris
+link: https://www.musee-orangerie.fr/en/whats-on/exhibitions/berthe-weill-art-dealer-parisian-avant-garde
+---
