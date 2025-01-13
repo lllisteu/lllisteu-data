@@ -1,0 +1,9 @@
+---
+title: 'Hélène Delprat – Listen: it''s the eclipse'
+uid: '20250113082649'
+dt-created: 2025-01-13 08:26:49 GMT
+event-dt-begin: '2025-03-22'
+event-dt-end: '2025-06-09'
+event-location: Fondation Maeght, Saint-Paul-de-Vence
+link: https://www.fondation-maeght.com/helene-delprat-listen-its-the-eclipse/
+---
