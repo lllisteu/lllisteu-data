@@ -1,0 +1,9 @@
+---
+title: Radical Harmony – Neo-Impressionism
+uid: '20250114075032'
+dt-created: 2025-01-14 07:50:32 GMT
+event-dt-begin: '2025-09-13'
+event-dt-end: '2026-02-08'
+event-location: National Gallery, London
+link: https://www.nationalgallery.org.uk/exhibitions/neo-impressionism
+---
