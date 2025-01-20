@@ -1,0 +1,9 @@
+---
+title: David Hockney 25
+uid: '20250120133724'
+dt-created: 2025-01-20 13:37:24 GMT
+event-dt-begin: '2025-04-09'
+event-dt-end: '2025-09-01'
+event-location: Fondation Louis Vuitton, Paris
+link: https://www.fondationlouisvuitton.fr/en/events/david-hockney-25
+---
